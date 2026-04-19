@@ -221,13 +221,17 @@ def main() -> None:
             ep = episodes[args.number - 1]
             if not ep["text"].exists():
                 sys.exit(f"No transcript at {ep['text']} — run 'transcribe' first.")
-            raw = ep["text"].read_text(encoding="utf-8")
-            cleaned = denoise(raw)
-            saved = len(raw) - len(cleaned)
-            print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
-            postprocessed = ep["text"].with_name(ep["text"].stem + ".postprocessed.txt")
-            postprocessed.write_text(cleaned, encoding="utf-8")
-            print(f"{ep['slug']}: postprocessed written to {postprocessed}")
+            denoised = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
+            if denoised.exists():
+                cleaned = denoised.read_text(encoding="utf-8")
+                print(f"{ep['slug']}: using existing denoised transcript at {denoised}")
+            else:
+                raw = ep["text"].read_text(encoding="utf-8")
+                cleaned = strip_fillers_rendered(denoise(raw))
+                saved = len(raw) - len(cleaned)
+                print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
+                denoised.write_text(cleaned, encoding="utf-8")
+                print(f"{ep['slug']}: denoised written to {denoised}")
             print(f"{ep['slug']}: extracting...")
             result = extract(cleaned, podcast, backend=args.model)
             out = ep["text"].with_name(ep["text"].stem + ".extracted.txt")
