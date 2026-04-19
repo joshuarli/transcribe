@@ -139,8 +139,69 @@ def _normalize_percentages(text: str) -> str:
     return _PERCENT_RE.sub(r"\1%", text)
 
 
-_PHONE_RE = re.compile(r"\d{3}[.-]\d{3}[.-]\d{4}|\b\d{10}\b|\b\d{3}-\d{7}\b")
-_PHONE_REPEAT_RE = re.compile(r"[.,]?\s*[Tt]hat(?:'s| is)\s+(?:\d{3}[.-]\d{3}[.-]\d{4}|\d{10}|\d{3}-\d{7})[,.]?")
+_MEASUREMENT_RE = re.compile(
+    r"\b(?:tablespoons?|teaspoons?|ounces?|pounds?|grams?|milliliters?|liters?|kilograms?)\b",
+    re.IGNORECASE,
+)
+_MEASUREMENT_ABBREV = {
+    "tablespoon": "tbsp",
+    "tablespoons": "tbsp",
+    "teaspoon": "tsp",
+    "teaspoons": "tsp",
+    "ounce": "oz",
+    "ounces": "oz",
+    "pound": "lb",
+    "pounds": "lb",
+    "gram": "g",
+    "grams": "g",
+    "milliliter": "ml",
+    "milliliters": "ml",
+    "liter": "L",
+    "liters": "L",
+    "kilogram": "kg",
+    "kilograms": "kg",
+}
+
+
+def _normalize_measurements(text: str) -> str:
+    return _MEASUREMENT_RE.sub(lambda m: _MEASUREMENT_ABBREV[m.group(0).lower()], text)
+
+
+# 3+ space-separated single letters → collapse ("f n y c" → "fnyc")
+_LETTER_SEQ_RE = re.compile(r"\b[a-zA-Z](?:\s+[a-zA-Z]){2,}\b")
+_SPOKEN_DOT_RE = re.compile(r"\b(\w+)\s+dot\s+(\w+)\b", re.IGNORECASE)
+
+
+def _normalize_urls(text: str) -> str:
+    text = _LETTER_SEQ_RE.sub(lambda m: m.group(0).replace(" ", ""), text)
+    prev = None
+    while prev != text:
+        prev = text
+        text = _SPOKEN_DOT_RE.sub(r"\1.\2", text)
+    return text
+
+
+_REPEAT_PUNCT_RE = re.compile(r"([.!?])\1+")
+
+
+def _normalize_punctuation(text: str) -> str:
+    return _REPEAT_PUNCT_RE.sub(r"\1", text)
+
+
+_PAIN_RE = re.compile(r"\bpain in the (?:butt|ass)\b", re.IGNORECASE)
+_SOME_OF_THEM_RE = re.compile(r"\bsome of (?:them|those|these|it)\b", re.IGNORECASE)
+
+
+def _normalize_phrases(text: str) -> str:
+    text = _PAIN_RE.sub("pain", text)
+    text = _SOME_OF_THEM_RE.sub("some", text)
+    return text
+
+
+# Matches XXX-XXX-XXXX, XXXXXXXXXX, XXXXXX-XXXX (fused area code), etc.
+_PHONE_RE = re.compile(r"\b\d{3}[.-]?\d{3}[.-]?\d{4}\b")
+# also matches fused (718497-2128) and no-separator (7184972128) formats
+_PHONE_REPEAT_RE = re.compile(r"[.,]?\s*[Tt]hat(?:'s| is)\s+\d{3}[.-]?\d{3}[.-]?\d{4}[,.]?")
 
 
 def _strip_phones(para: str) -> str:
@@ -160,30 +221,65 @@ _WMEAN_TAG_RE = re.compile(r",\s*(?:you\s+know\s+)?what\s+I\s+mean\?\s*", re.IGN
 # Parenthetical filler phrases — stripped with surrounding comma/space consumed.
 # "you know" lookbehind guards against "do/if you know" (semantic uses).
 _YOU_KNOW_RE = re.compile(r",?\s*(?<!\bdo )(?<!\bif )\byou know\b\s*,?", re.IGNORECASE)
-_I_MEAN_RE = re.compile(r"^,?\s*I mean\b,\s*|,\s*I mean\b,\s*", re.IGNORECASE)
-_BY_THE_WAY_RE = re.compile(r",\s*by the way\s*,\s*", re.IGNORECASE)
-# Only strip "basically/essentially" when clearly parenthetical (comma-fenced or sentence-opening).
-_BASICALLY_START_RE = re.compile(r"^,?\s*\b(?:basically|essentially)\b,?\s*", re.IGNORECASE)
+# At sentence start: strip "I mean" whether comma-followed or space-followed,
+# but NOT when followed by "it" (semantic: "I mean it when I say...").
+_I_MEAN_RE = re.compile(r"^,?\s*I mean\b(?:,\s*|\s+(?!it\b))|,\s*I mean\b,\s*", re.IGNORECASE)
+_BY_THE_WAY_RE = re.compile(r"^by the way\b,?\s*|,\s*by the way\s*,\s*", re.IGNORECASE)
+# "you see" as parenthetical — only stripped when comma-fenced or at end of clause
+_YOU_SEE_RE = re.compile(r",\s*you see\b,?\s*|\byou see\s*,\s*", re.IGNORECASE)
+# Sentence-opening discourse fillers — stripped in a loop to handle stacked openers ("So like...").
+# "like" and "so" only stripped at sentence start; mid-sentence they carry meaning.
+_OPENER_FILLER_START_RE = re.compile(
+    r"^,?\s*\b(?:basically|essentially|like|so|yeah|anyway|well|now|listen|look)\b,?\s*",
+    re.IGNORECASE,
+)
+# "nice" only stripped as opener when comma-fenced (avoids "nice recipe" being gutted).
+_NICE_OPENER_RE = re.compile(r"^nice\s*,\s*", re.IGNORECASE)
+# "Let me just say/tell you" — sentence start and parenthetical mid-sentence.
+_LET_ME_JUST_RE = re.compile(
+    r"^let me just (?:tell you|say)\b,?\s*|,\s*let me just (?:tell you|say)\b,?\s*", re.IGNORECASE
+)
+# "very, very" / "very very" → "very"
+_VERY_VERY_RE = re.compile(r"\bvery,?\s+very\b", re.IGNORECASE)
+# "basically/essentially" also stripped as mid-sentence parenthetical when comma-fenced.
 _BASICALLY_MID_RE = re.compile(r",\s*\b(?:basically|essentially)\b,?\s*", re.IGNORECASE)
+# Sentence-start "The X is" → "X is" (strips the definite article from set phrases).
+_OPENING_THE_RE = re.compile(r"^the\s+(problem|thing|issue)\s+is\b,?\s*", re.IGNORECASE)
+# "I think" as a hedge — strip when followed by a clause, not "about/of" (semantic).
+_I_THINK_RE = re.compile(r"\bI think,?\s+(?!about\b|of\b|so\b)", re.IGNORECASE)
 # Trailing hedge — strip before end-of-clause punctuation or end of string.
 _OR_SOMETHING_RE = re.compile(r"\bor something(?:\s+like\s+that)?\b(?=\s*[.,!?]|\s*$)", re.IGNORECASE)
 
 _DISFLUENCY_RE = re.compile(r"\s*(?<![a-zA-Z-])(uh+|um+|ah+|mm+|hmm+|eh|er)(?![a-zA-Z-])\s*,?", re.IGNORECASE)
 # stutter dedup: consecutive identical tokens (supports contractions like we'll, he's)
 _STUTTER_RE = re.compile(r"\b((?:\w|')+)\s+\1\b", re.IGNORECASE)
+# contraction false-start: "it's a it's" → "it's"; "it's it" at end of clause → "it's"
+_ITS_STUTTER_RE = re.compile(r"\bit's\s+\w+\s+it's\b", re.IGNORECASE)
+_ITS_IT_RE = re.compile(r"\bit's\s+it\b(?=\s*[.,!?]|\s*$)", re.IGNORECASE)
 
 # sentence splitting: break on .!? followed by whitespace + uppercase/digit/quote
 _SENTENCE_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z\d"])')
 
 _FILLER_SENTENCE_RE = re.compile(
     r"^(?:yeah|yep|yup|okay|ok|right|alright|sure|exactly|absolutely|"
-    r"totally|mm+|hmm+|ah+|oh+|uh-?huh|mm-?hmm|got\s+it|gotcha|"
+    r"totally|nice|great|anyway|said|mm+|hmm+|ah+|oh+|uh-?huh|mm-?hmm|got\s+it|gotcha|"
+    r"what\s+do\s+you\s+think|"
     r"etc\.?|and\s+so\s+on\.?|blah(?:[\s-]+blah(?:[\s-]+blah)?)?\.?|"
-    r"you\s+know\s+what\s+I\s+mean|what\s+I\s+mean)[.!?]?$",
+    r"cooking\s+issues|"
+    r"you\s+know\s+what\s+I\s+mean|what\s+I\s+mean|I\s+think)[.!?]?$",
     re.IGNORECASE,
 )
 # sentences about the show's call-in line — logistical noise, not content
 _CALL_IN_SENTENCE_RE = re.compile(r"\bcall[- ]?in\b", re.IGNORECASE)
+# show intro / bumper sentences at the sentence level
+_INTRO_SENTENCE_RE = re.compile(
+    r"\bwelcome\s+(?:back\s+)?to\b"
+    r"|\bhost\s+of\b|\bhosted\s+by\b"
+    r"|\bheritage\s+radio\b"
+    r"|\bcoming\s+to\s+you\s+live\b"
+    r"|\bthank\s+our\s+sponsors\b",
+    re.IGNORECASE,
+)
 # known broadcast-transition fragments — anchored to full sentence
 _CONNECTOR_FRAGMENT_RE = re.compile(
     r"^(?:and\s+so|but\s+then|and\s+then|or\s+so|"
@@ -197,11 +293,24 @@ def _clean_sentence(text: str) -> str:
     # tag questions → sentence break
     p = _RIGHT_TAG_RE.sub(".", text)
     p = _WMEAN_TAG_RE.sub(".", p)
-    # parenthetical fillers
+    # contraction false-start stutters
+    p = _ITS_STUTTER_RE.sub("it's", p)
+    p = _ITS_IT_RE.sub("it's", p)
+    # parenthetical / hedge fillers
     p = _YOU_KNOW_RE.sub(" ", p)
+    p = _YOU_SEE_RE.sub(" ", p)
     p = _I_MEAN_RE.sub(" ", p)
     p = _BY_THE_WAY_RE.sub(" ", p)
-    p = _BASICALLY_START_RE.sub("", p)
+    p = _LET_ME_JUST_RE.sub(" ", p)
+    p = _I_THINK_RE.sub("", p)
+    p = _VERY_VERY_RE.sub("very", p)
+    # sentence-opening fillers — loop handles stacked openers ("So like basically...")
+    prev = None
+    while prev != p:
+        prev = p
+        p = _OPENER_FILLER_START_RE.sub("", p)
+    p = _NICE_OPENER_RE.sub("", p)
+    p = _OPENING_THE_RE.sub(lambda m: m.group(1).capitalize() + " is ", p)
     p = _BASICALLY_MID_RE.sub(" ", p)
     # trailing hedge
     p = _OR_SOMETHING_RE.sub("", p)
@@ -215,11 +324,27 @@ def _clean_sentence(text: str) -> str:
     p = re.sub(r" {2,}", " ", p)
     p = re.sub(r" ([.,!?])", r"\1", p)
     p = p.strip()
+    if not re.search(r"\w", p):
+        return ""
     # re-capitalize only when the sentence originally opened with a capital letter
     # (filler was stripped from the front), not when it was always lowercase
-    if p and p[0].islower() and text[0].isupper():
+    if p[0].islower() and text[0].isupper():
         p = p[0].upper() + p[1:]
     return p
+
+
+# Parakeet produces very long run-on sentences; a single noise phrase inside one
+# shouldn't delete real content. Above this word count, excise the match inline
+# instead of dropping the whole sentence.
+_INLINE_EXCISE_THRESHOLD = 25
+
+
+def _excise_noise(s: str) -> str:
+    """Remove noise phrase matches from s in-place; return '' if nothing substantial remains."""
+    s = _CALL_IN_SENTENCE_RE.sub("", s)
+    s = _INTRO_SENTENCE_RE.sub("", s)
+    s = re.sub(r" {2,}", " ", s).strip()
+    return s if len(s.split()) >= 4 else ""
 
 
 def strip_fillers(text: str) -> str:
@@ -227,13 +352,24 @@ def strip_fillers(text: str) -> str:
     kept = []
     for s in _SENTENCE_RE.split(text):
         s = _clean_sentence(s)
-        if not s or _FILLER_SENTENCE_RE.match(s) or _CALL_IN_SENTENCE_RE.search(s) or _CONNECTOR_FRAGMENT_RE.match(s):
+        if not s or _FILLER_SENTENCE_RE.match(s) or _CONNECTOR_FRAGMENT_RE.match(s):
             continue
+        if _CALL_IN_SENTENCE_RE.search(s) or _INTRO_SENTENCE_RE.search(s):
+            if len(s.split()) > _INLINE_EXCISE_THRESHOLD:
+                s = _excise_noise(s)
+                if not s:
+                    continue
+            else:
+                continue
         kept.append(s)
     result = normalize_numbers(" ".join(kept))
     result = _normalize_fractions(result)
     result = _normalize_temperatures(result)
-    return _normalize_percentages(result)
+    result = _normalize_percentages(result)
+    result = _normalize_measurements(result)
+    result = _normalize_urls(result)
+    result = _normalize_phrases(result)
+    return _normalize_punctuation(result)
 
 
 def strip_fillers_rendered(text: str) -> str:

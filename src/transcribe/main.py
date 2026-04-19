@@ -98,7 +98,7 @@ def main() -> None:
     _add_render_args(p)
 
     p = sub.add_parser("denoise", help="Clean a rendered transcript with heuristic filters")
-    p.add_argument("number", type=int)
+    p.add_argument("number", type=int, nargs="?", help="Episode number (omit to process all)")
     p.add_argument(
         "--transcriber",
         choices=BACKENDS,
@@ -192,18 +192,27 @@ def main() -> None:
                 speakers_path=podcast.speakers_path,
             )
         case "denoise":
-            if not 1 <= args.number <= len(episodes):
-                sys.exit(f"Episode {args.number} not found.")
-            ep = episodes[args.number - 1]
-            if not ep["text"].exists():
-                sys.exit(f"No transcript at {ep['text']} — run 'transcribe' first.")
-            raw = ep["text"].read_text(encoding="utf-8")
-            result = strip_fillers_rendered(denoise(raw))
-            out = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
-            out.write_text(result, encoding="utf-8")
-            saved = len(raw) - len(result)
-            print(f"{ep['slug']}: {len(raw)} → {len(result)} chars ({saved / len(raw):.0%} removed)")
-            print(f"{ep['slug']}: written to {out}")
+            targets = []
+            if args.number is not None:
+                if not 1 <= args.number <= len(episodes):
+                    sys.exit(f"Episode {args.number} not found.")
+                targets = [episodes[args.number - 1]]
+            else:
+                targets = [ep for ep in episodes if ep["text"].exists()]
+                if not targets:
+                    sys.exit("No transcripts found — run 'transcribe' first.")
+            for ep in targets:
+                if not ep["text"].exists():
+                    print(f"{ep['slug']}: no transcript, skipping")
+                    continue
+                raw = ep["text"].read_text(encoding="utf-8")
+                result = strip_fillers_rendered(denoise(raw))
+                out = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
+                out.write_text(result, encoding="utf-8")
+                saved = len(raw) - len(result)
+                print(
+                    f"{ep['slug']}: {len(raw)} → {len(result)} chars ({saved / len(raw):.0%} removed), written to {out}"
+                )
         case "extract":
             if not 1 <= args.number <= len(episodes):
                 sys.exit(f"Episode {args.number} not found.")
