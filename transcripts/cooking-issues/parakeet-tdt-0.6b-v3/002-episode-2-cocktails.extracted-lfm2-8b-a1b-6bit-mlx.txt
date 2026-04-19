@@ -1,0 +1,24 @@
+```markdown
+### Techniques & Equipment  
+- **Vacuum Marination**: Use immersion circulator to maintain precise low-temperature vacuum curing (63–64°C for 1–1.5 hours) for optimal flavor infusion without over-drying.  
+- **Ziplock Bagging with Water Displacement**: Vacuum-seal meat in Ziploc bags by submerging to eliminate air, enabling even curing; recommended for pork belly overnight.  
+- **Sous Vide Cooking**: Precise low-temperature water bath (63–64°C) for tender, moist results—ideal for large cuts like pork belly.  
+- **Low-Temperature Roasting in Rotary Evaporator (Roto-Vap)**: Hypothetical method to gently evaporate moisture at controlled temps (below boiling) to concentrate flavors without scorching sugar or fruit purees.  
+
+### Equipment Highlights  
+- **Immersion Circulator**: Critical for consistent low-temperature vacuum curing and precise temperature control; preferred over open flames to prevent scorching.  
+- **Roto-Vap (Low-Pressure Evaporation)**: Theoretical use for removing water from sugar/fruit mixtures at low temps to achieve gels or syrups without thermal degradation.  
+- **Traditional Butcher Tools (Metal Shears, Heavy-Duty Bags)**: Essential for slicing thick game meats like beaver tails and lion, preserving texture.  
+
+### Ingredient Roles & Considerations  
+- **Cured Meats (Pork Blade, Beef Blade)**: Used with brine or dry rub; vacuum curing enhances penetration and flavor without over-drying.  
+- **Mana (Beef Dripping, Honeydew-Based)**: Wild-sourced sweet sap with nuts or bourbon; prone to burning due to high sugar concentration—requires precise temp control.  
+- **Game Meats (Lion, Beaver, Raccoon)**: Tough, older cuts benefit from sous vide or vacuum curing to tenderize; flavor derived from slow cooking and fat breakdown.  
+
+### Caller Q&A Summary  
+**Mike**: Curing large pork cuts with vacuum machine—should use 63–64°C for 1–1.5 hours to avoid over-drying and ensure even cure.  
+**Nastasha**: Curing skinless chicken breast—63°C for 45–60 minutes in vacuum bag; avoid over-brining to preserve juiciness; Ziplock bagging with water displacement preferred.  
+**Jason**: Cooking 20-lb lobster—steam for 8 minutes, then cut and season; shell thickness prevents overcooking; avoid long boiling to retain texture.  
+**Kitchen Girl (Mana Candy)**: Making mana candy—burning at 180°F due to high sugar concentration; solution: use induction burner for precise temp control and low-temp roto-vap evaporation.  
+**Michael Asconis (Pastry Chef)**: Sous vide sous vide cocktail prep—pre-batch cocktails require precise water weight after mixing; use immersion circulator for consistent results; yak milk cheese and Tibetan tea planned.  
+```

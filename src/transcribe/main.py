@@ -6,7 +6,7 @@ import sys
 
 from transcribe.denoise import denoise, strip_fillers_rendered
 from transcribe.episode import make_episode
-from transcribe.extract import extract
+from transcribe.extract import extract, model_slug
 from transcribe.feed import load_episodes
 from transcribe.pipeline import (
     PARAGRAPH_GAP_S,
@@ -112,12 +112,6 @@ def main() -> None:
         choices=BACKENDS,
         default=BACKENDS[0],
         help=f"Which transcription backend's output to read (default: {BACKENDS[0]})",
-    )
-    p.add_argument(
-        "--model",
-        choices=["llama", "haiku"],
-        default="llama",
-        help="LLM backend to use for extraction (default: llama)",
     )
 
     p = sub.add_parser("diarize", help="Diarize an already-transcribed episode")
@@ -233,8 +227,8 @@ def main() -> None:
                 denoised.write_text(cleaned, encoding="utf-8")
                 print(f"{ep['slug']}: denoised written to {denoised}")
             print(f"{ep['slug']}: extracting...")
-            result = extract(cleaned, podcast, backend=args.model)
-            out = ep["text"].with_name(ep["text"].stem + ".extracted.txt")
+            result = extract(cleaned, podcast)
+            out = ep["text"].with_name(ep["text"].stem + f".extracted-{model_slug()}.txt")
             out.write_text(result, encoding="utf-8")
             print(f"{ep['slug']}: written to {out}")
         case "diarize":

@@ -194,8 +194,7 @@ _SOME_OF_THEM_RE = re.compile(r"\bsome of (?:them|those|these|it)\b", re.IGNOREC
 
 def _normalize_phrases(text: str) -> str:
     text = _PAIN_RE.sub("pain", text)
-    text = _SOME_OF_THEM_RE.sub("some", text)
-    return text
+    return _SOME_OF_THEM_RE.sub("some", text)
 
 
 # Matches XXX-XXX-XXXX, XXXXXXXXXX, XXXXXX-XXXX (fused area code), etc.

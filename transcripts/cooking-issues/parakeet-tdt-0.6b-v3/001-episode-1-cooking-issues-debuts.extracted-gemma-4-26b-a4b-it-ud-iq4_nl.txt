@@ -1,0 +1,59 @@
+# Rotary Evaporators (Rotovaps)
+* **Function:** Distillation equipment used to perform distillations at very low temperatures to capture pure, clean flavors.
+* **Flavor Applications:**
+    * **Chocolate:** Can distill cocoa flavor without the bitterness (bitterness does not distill).
+    * **Peppers (e.g., Habanero):** Can isolate floral aromas without the heat/spice.
+    * **Herbs:** Captures extremely fresh, impossible-to-replicate aromas.
+* **Tradeoffs:**
+    * **Cost:** Very expensive (thousands of dollars).
+    * **Legal/Regulatory:** In the US, using them to make alcohol is illegal without a distiller's license; chefs often restrict use to non-alcoholic applications to protect liquor licenses.
+    * **Logistics:** Requires significant space and training.
+* **Recommended Brand:** Buchi (high-end/professional quality).
+
+# French Fry Technique
+* **Goal:** Crispy, crunchy exterior; non-greasy; potato flavor/texture inside; stays delicious when cold.
+* **The "Improved" Method:**
+    1. **Blanching:** Cook potatoes in boiling salted water to kill enzymes and season the interior.
+    2. **Enzyme Soak:** Soak in **Pectinase** (a natural enzyme) for a few hours. 
+        * *Functional Role:* Breaks down pectin on the exterior, allowing surface starch to swell quickly for a superior crust. This eliminates the need for a separate dehydration/drying step.
+    3. **Frying:** Double-fry the potatoes.
+
+# Dry Ice Usage
+* **Question:** What are the benefits of chilling a drink over dry ice?
+* **Answer:** 
+    * **Properties:** Solid $CO_2$; easier to obtain and store than liquid nitrogen.
+    * **Technique for Pitchers:** Add a few rocks of dry ice to a narrow pitcher of pre-batched, diluted drink. Stir after 10–15 minutes.
+    * **Benefits:** Provides long-lasting cooling and light carbonation.
+* **Pitfalls & Safety:**
+    * **Carbonation:** It will carbonate the drink; do not use for drinks where bubbles are undesirable.
+    * **Physical Hazards:** Avoid using small chips (can burn the tongue). Use gloves to prevent cold burns. Wear safety glasses when chipping ice to avoid eye injury.
+    * **Explosion Risk:** Never seal dry ice in a closed container (e.g., a soda bottle); the pressure buildup will cause an explosion.
+    * **Environment:** Do not use large amounts in a small, enclosed living area due to $CO_2$ buildup.
+
+# Vacuum Sealing & Sous Vide
+* **Equipment:**
+    * **Induction Units:** Highly efficient; heats pans via an oscillating magnetic field rather than conduction.
+    * **Minipax MVS 31:** A high-quality chamber vacuum sealer with a good chamber-to-machine size ratio.
+    * **Sous Vide Circulator:** Highly recommended over "immersion heaters" (like Sous Vide Supreme) because it provides a stirred bath, ensuring temperature consistency.
+* **Vacuum Pressure Recommendations:**
+    * **Preservation/Texture Modification:** Use maximum vacuum to remove all oxygen and prevent oxidation/warmed-over flavor in leftovers.
+    * **Fish & Poultry:** Use **low vacuum**. 
+        * *Reasoning:* High vacuum crushes delicate proteins, pushing water out and resulting in a grainy, fibrous, or "brick-like" texture when cooked.
+        * *Tip:* Bag fish with oil or liquid to prevent the vacuum from crushing the portions.
+* **Question:** How does vacuum sealing affect leftovers?
+* **Answer:** It extends shelf life by preventing oxidation. It is particularly effective for portioning meat from bulk buys and preserving fruit (like blueberries) without ice.
+
+# Meat Cooking Techniques
+* **Question:** How do you cook a brisket so it is "melting in your mouth"?
+* **Answer:** Brisket is a tough cut with high connective tissue.
+    * **Technique:** "Low and slow" cooking (essentially a braise). 
+    * **Mechanism:** You must cook it long enough for the collagen to convert into gelatin, which re-moistens the meat. If cooked too quickly or at too high a temperature, it will remain tough.
+* **Question:** Why does tenderloin become fibrous and mushy?
+* **Answer:** Tenderloin has very little connective tissue.
+    * **Technique:** Cook at the low end of the temperature scale.
+    * **Parameters:** Approximately 44–50°C (111–122°F) for about 45 minutes, followed by a sear.
+    * **Mechanism:** Because there is little collagen to break down, cooking it too long or too hot results in an unpleasant, fibrous texture.
+
+# Strong Opinions
+* **"Molecular Gastronomy":** Dave strongly opposes this term. He considers it meaningless, unappetizing sounding, and a marketing gimmick. He argues that modern cooking technology should be used to enhance flavor, not as a "silly gimmick" or to create unnecessary foams.
+* **Culinary Philosophy:** Technology (like centrifuges or rotovaps) is just a tool. The goal should always be the marriage of technique and flavor.

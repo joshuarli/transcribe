@@ -28,8 +28,8 @@ COHERE_MODEL = "CohereLabs/cohere-transcribe-03-2026"
 COHERE_MLX_MODEL = "mlx-community/cohere-transcribe-03-2026-mlx-8bit"
 
 BACKENDS = [
-    "whisper-large-v3-mlx",
     "parakeet-tdt-0.6b-v3",
+    "whisper-large-v3-mlx",
     "cohere-transcribe-03-2026",
     "cohere-transcribe-03-2026-mlx",
 ]

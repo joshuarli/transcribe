@@ -1,0 +1,411 @@
+[0:00] Hi, I'm Josh Spiegel, host of the podcast Lunatic in the newsroom it's news like you've never heard before we'll talk about things like a possible ban on recreational pot Americans giving up on dressing like civilized human beings and a call for fraternities to be outlawed.
+
+[0:30] If you enjoy wild overthinking Lunatic in the newsroom is for you it's funny informative and emotionally unstable lunatic in the newsroom listen today today's program has been brought to you by fairway market like no other market a New York City institution that sells the best local national and international artisan foods for prices that can't beat for more information visit fairway Market.com.
+
+[0:44] You are listening to Heritage Radio network broadcasting live from Bushwick Brooklyn.
+
+[0:57] If you like this program visit heritage radio network.org for thousands more cooking issues your courses too cooking Issues Hello and welcome to Cooking issues this is Dave Arnold your host of Kicking is coming to you live
+
+[1:39] Live.
+
+[1:40] The back of Roberta's pizzeria in where is it Jack?
+
+[1:43] Uh it's this place called Bushwick. Bushwick, that Nastasia hates..
+
+[1:48] Uh yeah who won that was Elliot Papanau right?
+
+[1:56] That was Ellie Papanow's shirt went yester thanks buddy nice nice uh well joined as usual with uh Nastasha the hammer Lopez uh Jack and Joe in the engineering booth.
+
+[2:10] Hey guys it's beautiful day out yeah uh which Nastasha hates another it's not that she hates the weather I hate the way people like the weather yeah yeah no I think you guys are getting a little bit of an insight here a little bit of an insight and special guest in the studio today with us Ariel Johnson who is a uh now what what's your you're at UC Davis you're in the Enology department but you s you s studying right now bitters, correct?
+
+[2:28] Yeah that's one of the things I's I do analytical chemistry and flavor chemistry on bitters and other things right and you are a uh a not a professional or semi professional I mean uh it dovetails with your profession but you also privately are a uh a flavor chemical collector true or false very true.
+
+[2:50] Yeah and so uh like how big's your collection now at this point a flavor chemical yeah like in the lab uh or just that you have around you have access to probably a thousand we uh Stas and I visited uh place call David Micha's which is a flavor house down uh in uh outside of Philadia and what's what factory was it right near it was right near some factory it was making Nabisco whole dang place smell like Oreos true or false until you get in anyway
+
+[3:35] And they make some amazing vanilla they're like I thought I knew something about vanilla and I talked to other vanilla guy and then I realized that you know I had not yet been born in other words like I had less I had less knowledge about vanilla than an infant has about uh the world uh as they're born uh so anyway so that we saw their flavor uh stuff it's pretty amazing amazing stuff any any personal favorites right now favorite aroma compounds yeah the you like unusual ones like don't give me any don't give me hexanal or any crap like that give me some no hexanazylane Yeah yeah okay um I quite like rotundone that's uh the impact compound for black pepper wait what's the name of it rotundone rotundone like rotund yeah yeah it's uh it's a 15 carbon sesquiterpine it's also in uh Syra wines yeah yeah I like you know I love the word well first of everyone knows terpene's a great word but sesqui.
+
+[4:01] Add sesqui to anything one and a half it's a great you know it's like we need to we need to have like sesqui centennials more often right totally sesqui centennials are are the are the bomb back when I was a kid they actually were having sesqui centennials for things like uh well when is the s yeah civil war no that's right now actually sesqui centennial right 150 was 150 plus ses.
+
+[4:17] Yeah that was right sesqui Centennial coming up was com came up on the thing when I was a kid it must have been some other war.
+
+[4:23] Nah whatever and uh big thank you out to Coe Miles who's not only a supporter of our radio network is this true or false Jack?
+
+[4:30] Oh yeah he is and not only an incredibly uh like interesting guy I met at the Sous vide class uh sous vide low temperature class I will not reveal his history
+
+[4:38] for fear.
+
+[4:43] But also now an incredibly generous, uh incredius giver of the five volume modernist cuisine uh set.
+
+[4:48] Yeah, I'm gonna give him one of these. I mean it was awes... and and now I never ever again will be able to make the excuse I don't own the books so I can't tell you what they said right I vow Yeah I guess you gotta read them all now I I vow never to say that again.
+
+[5:03] Uh very, very actual and real heartfelt thanks thank you very much uh I believe he he lives in the Houston area, right Houston anyway, I think so.
+
+[5:12] Um.
+
+[5:19] And by the way again, he's involed in NASA a little bit I'm so excited this uh summer we're uh or you know late semi-related NASA anyway this summer, uh Stas are you going down with us when we do the m uh the mango tasting?
+
+[5:34] We's gonna do the mango tasting again this year Harold McGee and I maybe Andy Ricker the chef from Pak, uh good friend of ours and we're gonna go last year Harold McGee two years ago Harold McGee and I went to the fair which is the world's biggest collection of mangoes at least the United States' uh biggest collection of mangoes and unlike a lot of other mango collections throught like for instance famous mango collections in in uh India uh or mango collections in uh Southeast Asia the Florida one is very interesting because South Date it's like south of Miami where it's like the very tip where you can actually grow almost anything you can almost not quite I mean you can but not out in the open.
+
+[6:03] Anyways they specialize in having everything so like all varieties of mango and uh the people out there who are their names Norris Liedman Richard Campbell I believe are the two lead people out there
+
+[6:13] Uh and they are mango nuts and jackfru nuts.. Last time we were uh rained out kind of and also uh or it just this was a big uh it was a big mess. It was a big mess the visit. But we're gonna go again uh and when I go down there I'm taking the kids to Cape Canaveral.
+
+[6:28] You like that because you know Dak's obsessed with rockets now.
+
+[6:31] Yeah he w yeah, he's like I wanna become some sort of a scientist astronaut but we'll see we'll see. You can do it if you want we'll see. Okay.
+
+[6:38] Uh another oh by the way, Ariel, tell them about the special uh the special uh chromatograph thing you have the special chromatograph thing yeah.
+
+[6:58] The Franken G C Yeah okay so we have a uh a gas chromatograph mass spectrometer which you use for analyzing the volatiles responsible for aroma in a mixture or sample but uh we have one with a switch and a cold that lets us basically remix all the volates from a sample or take a few out and have uh like an omission mixture and then see how that changes the aroma.
+
+[7:07] Yeah it's pretty badass right yeah yeah it's the only one in the world yeah and so we built it who who paid for it? Like in other words what research what rese had mone for it?
+
+[7:18] Um I think honestly, we built from spare parts. Really? Yeah so this is one of the rare instances where you get to do something cool in a scientific context and don't need to get big industry to pay for it yeah we might have had a little bit of National Science foundation or um Jastro Shields which is like a UC Davis-bas envirant button Jastro Shields yeah it's like some endowed thing. Is that like a like a space robot? What? No I think it's um sorry Jasper
+
+[7:45] But yeah, I mean basically it's an old an older G C that we replaced with a newer model so we um maybe spent like a thous two thous on parts and then put it together.
+
+[7:55] Nice and uh and I you weren using that piece of equipment I don't think, but Ariel is the person who's doing the uh the G C work um on the Searsol showing that the torch taste that we all had thought was uh you know a product of incomplete combustion was act is actually more likely caused by um secondary combustion products from the high temperature of the torch, true yeah that's what it looks like that's what it looks like and uh also did some uh some uh you know work for us on what happens to lime juice over time as it ages, correct yeah and you want to give us the quick the quick spin down on the findings there?
+
+[8:12] I was looking like rather than finding any specific oxidation products over the course of like four to twenty hours we're actually seeing like an overall reduction in volatiles right so you think it's and then Harold McGee uh you know it's always been uh saying that i think changes like this could uh often just be the reduction of stuff that's covering other stuff up rather than the creation of new crap yeah yeah definitely, that's totally possible.
+
+[8:44] Yeah you like Can you imagine like paraphrasing McGee with the words crap interspers every other word like for those of you that know him like he doesn't talk that way. That's very stately yeah yeah he doesn' he's not like crap on this cra unl unless he's imiting me in which case in which case he does he does a pretty imitation of mean I thinking you never heard him do it he does my jer my jersey sometimes. Oh yeah yeah yeah
+
+[9:14] Anyways uh okay let's do some questions before we get into some other craziness like I had a re uh one more craziness. I had a really bad dream about mashed potatoes last night. Oh Hor yeah it was horrible. Like well, so it was one of these situations where you're cooking dinner right and you let somebody else do something at your house for dinner, you know? This is a dream, don't worry people, this didn't happen and uh somehow they they were mashing purple potatoes I don'm not how the hell that happened in my house because you know usu they don't they're no they don't mash so well. But any whate so like i whatever they were mashing the potatoes.
+
+[9:56] And then I looked potatoes right before they were gonna go out because I was seeing whether or cream and you know I have my thoughts about both and uh it was simultaneously lumpy and gloppy and I was like what the what the what have you done to the mashed potatoes. And they're like when I put it in the food processor I was like What I was like I you know I own both a ricer and a food meal I own both I own several of each.
+
+[10:15] I was like, oh my God I woke up in a swe. I was like, I woke up and the mashed potatoes hadn't been destroyed that way that's but isn't that horrible?
+
+[10:21] That's awful.. It's horrible. Uh but it reminds me of a very interesting recipe that uh Nils, Noran used where he used with a little excess liquid in a vita prep and blend them until every single starch granule is completely ruptured and it formed kind of a gluey like potato gloop and it was actually good which is a class, anothing McGee uh harps on and I do as well, of taking something that is normally a flaw and pushing it so hard it becomes a benefit again.
+
+[10:50] Yeah. Yeah. Yeah.
+
+[10:52] Okay, enough enough of my craving. Maybe listeners should send us their food nightmares too if they have any. Yeah. Yeah, listence if you have any food nightmares, and I don't mean actual food nightmares like you know you incinerated the chicken, although I also appreciate those stories, Jeff.
+
+[11:05] You answer this questions.
+
+[11:06] I answer I try to prevent you from incinerating them and then tell you why they're incinerated but uh yeah if you have any actual like food nightmares like that, it's like similar to the one where like you're trying to run away from someone and your feet turn to rubber you know what that is it's your feet are asleep. Okay, in the real life you're in bed your legs have gone asleep and then so your legs actually can't move properly when you're asleep and your body somehow senses this and turns your legs to rubber.
+
+[11:30] Yeah yeah that's my theory.
+
+[11:41] But born born by the fact that I've woken up I have horrible circula what the h this not about this okay okay sorry okay uh we have a question in uh we have a late name for the uh we have a late name for the uh Sears all they wanted to name it Salah hammer after use after you stats 'Ca you know looks like a hammer function of salamander and would be your favorite weapon of choice.. So Nastasha appreciates it but as you know we've already.. Okay. Ryan Santos writes in here's a t here's a c here's a typical cooking issues question. Uh I wrote in last week about whether it was worth spending four hundred dollars to get all uh to get a 20 milliliter centrifuge uh and I I said no. I said I don't so you know no I wouldn't say so. Uh you mentioned the cheaper uh champion model but uh mentioned I could get into the three liter range for about a thous. So far internet digging hasn't found me a model uh with three liters for that price can you follow up on that comment with some suggestions for that price quantity thanks Ryan Santos. W
+
+[12:32] I don't know whether these guys are all tapped out or not but look, the trick is this um the company that I buy my centrifuges uh the manufacturer of my centrifuges is out of business because it's out of business you can get fairly good prices on ones that are of semi-recent origin uh less than a decade old right and some of them haven't seen a lot of use.
+
+[12:46] And the advanta is because they were somewhat in the day there are lots of parts available the company I use is Juan which is a French company.
+
+[12:54] Uh Juan was bought by Thermo right which is a large manufactur of all kinds of scific equipment uh which is I guess it's a division of thermofischer right or Thermofissure.
+
+[13:25] Yeah and so anyway so Thermo bought those guys and then discontinued the Juan brand right um so most people when they're buying new centrifuges most of the chefs I know they're going, they're buying headaches is what they're buying uh I don't know why I guess they have a good price point or they know or like you know one buys one and then the other buys one but I know Tony uh Caneliaro has a headache and Wiley both have headaches uh fairly small footprint and but but for a non-refrigerated one I think you're looking at like seven and for you know uh fully tricked out one you're probably looking closer to eight to ten grand with buckets and everything like that.
+
+[13:38] Swing bucket you want to go swinging bucket um we can get into that much later about why you would choose a swing bucket or a fixed uh angle centrifuge if anyone actually cares about it I could talk for a long time about which one you'd prefer but anyway uh
+
+[13:50] I in the kitchen most likely you want a uh swinging bucket just because the fixed angle rotors unless you have like a very special fixed angle rotor have very narrow throats on the on the uh on the containers that are in them and it's very hard to get the product out even though technically they pellet a lot faster than a uh than a swinging bucket does okay whatever again.
+
+[14:01] Um I don't buy uh the used ones from Juan can be very cheap.
+
+[14:11] Uh now I used to buy them for a couple hundred bucks. I've talked about them enough there's not that many out there so you know if ten people listen to me, then all of a sudden the price jumps and the availabilities go go down. That said there's a company called Ozark biomedical and they're somewhere in the Ozarks, God help me I think they're in Arkansas somewhere.
+
+[14:33] I think so yeah. And uh Ozark Biomedical specializes in uh used and uh like fixing centrifuges and one of the ones they carry is Juan they often have reconditioned units and they can run between twelve hundred and twenty five hundred or three thous in that range with buckets and like a 90 day warranty, which is probably good enough most stuff's gonna break within that period if it's gonna break.
+
+[14:46] They'll also make sure that your uh buckets are sterilized for you so you don't have to go on like Bleachrabies.com and get rid of everything out of it they make sure that your buckets aren'dinged up so that you're not gonna have any like immediate fatigue fractures and a poorly handled bucket and they make sure that the rotors are good.
+
+[15:05] I mean the hazards these these centrifuges that rotate at these speeds aren they're not like ultrafuges or super speeds where
+
+[15:20] You actually have a possibility of of um what would you call it breaching the wall of the centrifuge should there be a rotor failure, right? So you know, once you get into the much larger, um much faster models, the the the energy contained is so great that you can throw even a large piece of equipment across and through a lab, you know, and there are plenty of pictures on the internet's uh uh internets of uh rotor failures uh in ultra centrifuges.
+
+[15:59] Now these units, as long as you get a newer unit that has the safety interlock so you can't run it well you can, but I'making to my run it with the lid open um, you know, you're probably not in a life or limb-death situation that said you don't want to have a rotor failure and when you buy used you don't know whether some knucklehead like threw the buckets around, you don't know whether or not they cracked it, you don't know whether they cleaned it with a uh a detergent that is uh deleterious to aluminum which is what these buckets are made out of you don't know whether it's but sustain an impact you don't anything like this. So you sometimes I'll take a chance and I'll look at it and you know I'll make a judgment but I've been using centrifuges for a bunch of years and I had a bunch of people who had been using centrifuges for years look at my centrifuges before I started running them when I knew nothing about centrifuges.
+
+[16:31] If you go with Ozark biomedical you won't be paying that much compar you'lling like probably a third to less of what you would buy for the equivalent new model and it's kind of guaranteed to work out of the box and they're also very friendly and will walk you through the parts of it if you have problems with it and they carry motors and boards and buckets and all the replacement parts
+
+[17:16] Hope that was that help yes yeah that's okay because new ones are expensive I mean look uh look I just had someone yesterday, hey Dave where can I buy a new centerfuge I's like you best why is it that we've been doing this for so long and we're still buying scrippity scrappities off the internet's off kilter do you remember that like our new what's our New Year's resolution styles you remember no duct tape right no no duct tape on the box I'm still a fan of duct tape the product but our our box of crap that we show up with will not be duct taped together anymore we're making the move to new bankers boxes whenever we're moving stuff around by ourselves for no reason and having other people move it well I don't I wouldn'd go that far.
+
+[17:23] Come on please putting on the red stuff I told you it's like it's Joe you over there?
+
+[17:30] I'm here, I'm here. You know how like you know when you're a musician and you say every year you're like man next year someone else is gonna carry my bass rig. You know what I'm saying Yeah get a van driver and all that yeah people are gonna carry our crap in and out of the gigs that ever happen?
+
+[17:43] No. Of course not yeah no it never happens you always end up carrying your own crap you know what? Forty two still carrying my own crap I kinda like I kinda like being able to do it.
+
+[17:54] Kind of keeps you not being a uh uh whatever anyway whatever.
+
+[17:57] Uh so I have like a lot of years of carrying my own crap to go. That's what I just got from that. That'some yeah you know you know what like plenty of people I don't know or just you know don't follow the route where you you know make it a priority to have people carry carry your crap for you.
+
+[18:15] Like uh you know we always dreamed but never made it a priority look where we are anyway uh Chad Drezen writes in uh about this thing
+
+[18:20] What the heck is this thing uh and he uh points to a link on uh smokerama.com awesome website name, right? That is a pretty epic website name Yeah yeah. You know what they make Stars any idea what they make? Aerial anything?
+
+[18:57] Is it is it food or marijuana Wow uh good idea they should get into that business but uh they are pressure smoker manufacturers pressure smoker which I've never used a pressure smoker but they're like you can make you can make a barbecue um barbecue ribs they're not from around here so they don't sound like that you can make a barbecue rib in like an hour like an hour flat I don't really know that that's the case you can make a soft rib with a smoked flavor in an hour oh is this the thing where it cooks the hamburger in like twel seconds yeah yeah yeah yeah is it like a pressure fryer no well I mean uh presumably they they generate the smoke under press like the entire system is sealed under pressure and then I guess they must use a compressor to evacuate evacuate the excess smoke I have no idea I didn't have chance to look that up because it just came to me this morning but uh we but rest assured we will check it out people are interested in smoking in every dang environ people are like can I smoke in my vacuum machine can I smoke in my can I smoke in my cloth dryer can I smoke you know everyone wants to smoke in everything true or false?
+
+[19:26] Very true yeah smoke uh anyway by smokerama the folks who make large pressure smokers and then in parents are pressure smokers any good again uh Chad I have no idea I have no idea anyway uh okay so the thing the the the title of it you ready for this instant burger
+
+[19:37] Wow..
+
+[19:41] You like that?
+
+[19:42] Yeah.
+
+[19:44] I wish we had invented something with that man. Oh serio. Instant Burger. Okay. So uh it cooks uh precisely measured burgers and by that they mean you're supposed to scoop it in like with a with a scooper delicious yeah uh and you're not allowed to put salt on the burger beforehand for reasons that will become apparent but you can put in onions and bell peppers but if you do that you're not making a hamburger.
+
+[20:05] Listen to me people do not put onions and bell peppers in s raw inside of your hamburger. I think it's a horrible idea what do you think says I think onions are raw?
+
+[20:13] I like a big thing of raw onion on top of my burger if you put it inside the burger it'll just get like boiled.
+
+[20:19] Yeah right yeah that's not tasty. There you go see take it from the scientists uh no offense if that's the way you make your burgers no offense.
+
+[20:26] It's uh uh Stas is like you offend everyone then say no offense. It doesn't help but it does it does. People rarely get offended. Uh okay so uh it cooks uh precisely measured burgers in 25 seconds without getting. Now it's not str strictly speaking true. It the the burgers get hot. What they mean is there's no a lot of not a lot of excess heat pumped into the kitchen. Okay.
+
+[20:44] Uh it draws an awful lot of current. I think their manual says thirty amps although at uh uh 30, maybe it's like 20. I don't know I gotta look it up. It runs off a regular one ten line so it do I don't know of any one ten applian says that takes 30, so it's probably more like 15 or 20. Anyway.
+
+[20:56] Is this just an electric chair for burgers yes it is. Uh it claimers simultaneously inside and out and only cooks them to well done by design there's a microprocessor that determines when it's done I suppose by measuring the current load. How does this work Love the show more questions for me to follow Chad Drazen from 50 licks LLC.
+
+[21:17] Another good name fifty licks, although oh no we're not gonna get into the Tootsie roll center of Tootsie Pop. We already talked about that on the air. I used to work at an ice cream shop called JPLicks. Really? Yeah.
+
+[21:24] Jamaica Plane with licks. Was it any good yeah it was really good. Oh good good shout up. Okay so uh yes this is in fact an electric chair for hamburgers and it works on a uh so there's direct resistance heating right so there's there's different ways you can heat things okay so one is by heating the air near something this is how you know uh ovens work uh radiant heating by generating large amounts of uh IR that's how uh you know infrared broilers work, French lamps work the sears, uh by uh conduction what we uh those things are all conduction in one way.
+
+[21:54] Well radiation's not but the other one the regular air oven actually is conduction mixed with convection but I'm not gonna get into it.
+
+[22:26] But one way you can generate uh the microwaves right where you're actually uh causing friction by vibrating the molecules on the inside of a uh on the inside of the food that's an internal cooking technique another you can do it is to strap electrodes to something and pass a large amount of current through it use the object itself as a resistor and then uh use the resistance of the food itself to heat the food right and that's the that's the principle of uh ohmic direct ohmic you know ohm the unit of resistance heating resistance heating now uh a lot of this has been tried in f and actually uh did I ever talk in the air stops about the electric chair for lobsters maybe.
+
+[23:11] Well, there's this company in England that tried to make it uh uh an electric chair for lobsters to shock lobsters to instantly kind of stun slash kill them before you boil them and it's two wet plates and you pull the wet plates down and it's conductive and it and it like fries the lobster but you need a very doesn't fry it it it it zorches its uh its uh nervous system but you have to use a pretty, I mean I was using I tested it with kind of bad results because the carapace got bent in a weird way I used regular uh you know uh 60 hertz um wall socket uh 112 110 voltage uh with mixed results uh I didn't think it was any more humane and didn make the lobster any more delicious than just cooking it and left scorch marks on the carapace but um anyway so this is a technique that was it was touted as a humane way to dispatch lobsters and I didn'd have good luck.
+
+[23:41] But uh that said electostunning is a huge field uh in both large value fish like tuna uh things like this and waveform and uh the way the current is applied is extremely important in terms of how uh effective it is but that that that aside uh yeah this is an electric chair so what they do is is you you you have two conductive plates you you set the thickness of the plate with a spacer on the inside you smash the thing down it squishes the burger flat right and uh and this is why you don't use salt because presumably it changes the uh conductivity of the meat and they like a specific fat content they say it's for uh juiciness but I'm sure it's also to get a specific conductivity through the meat you push it down and from what I can gather on their on the kind of literally some of the patents around
+
+[24:06] It just passes a large electric current through it. I don't it's probably measuring yeah how much uh load the burger is providing uh at the beginning versus the end, therefore judging doneness based I guess on I don't know whet they're measuring denaturation or water loss or whatever, but it's like and done and it literally heats the burger by zapping it with the electric current.
+
+[24:30] That's an interesting idea. Yeah and the old models used to have a rare and a well done knob and they've removed it because it turns out that the they don't want you to actually mess with it and it's it's in other words the people who wanted rare burgers weren't buying the instant burger it's the people that you know didn't want to think about things that were buying the instant burger to the extent that here's what the here's their bullet points of how awesome they are. Ready?
+
+[24:54] No cooking oils needed, but you do need a hamburger that's uh you know, 3% fat.
+
+[24:58] Yeah, whatever. Anyway whate it's like one of those things no extra cooking oil is the guess what they what they mean. I mean I prefer a burger with more fat. Like that's one thing I don't like about the Whole Foods hamburger meat is that they're like it's 93% lean. Yeah definitely. And horrible. Yeah. Yeah uh no offense Whole foods. Uh normally no hood or venting needed because it's not on very all very long, right?
+
+[25:19] Here's my favorite. No cooking skills needed. Sweet.
+
+[25:23] Don't you want your hamburger stars made by someone with no cooking skills.
+
+[25:27] Don't worry, we make it in a way that it doesn't they give it crap or not really it could be a machine pushing the button here in July uh and cooks out calorie laden fat but retains the delicious natural juices. That's just hocum. That's just crap
+
+[25:43] Yeah, I don'll that I don't buy that cooks out the calorie-laden fat anyway. So I thought that was really uh an interesting an interesting thing. Uh resistive hamburger cooker.
+
+[25:55] Apparently it will also cook uh chicken breasts as long as you anything you can squish flat between the two plates and get good conduction all the way through you can cook and it cooks it very very quickly. I'm anxious to try one uh at some point to see whether I like although if you smash a burger flat and cook the bejesus out of it I don't how you cook it.
+
+[26:08] What does it do to the outside do you know?
+
+[26:13] It looked brown on the website but it's you know it's hard to say and I don't really know how much this thing costs I mean like I like I'm a fan of a bunch of different burgers if you're gonna have a thin smash burger it needs to have plenty mucho grease and then basically what you're saying is I like the flavor of a beef crust wallowing in grease with hamburger fixings on it and maybe like a little bit of meat in the middle that's you know still like kind of meat right is this true or false am I wrong? Yeah and if you like a thicker burger it means you actually want some sort of like you know the the texture of like a lot of yeah whatever.
+
+[26:41] Uh I mean I see both I see both sides but uh Nick Solaris you know hamburger guru he likes a smash burger I think as as well does uh Josh Zarski I think believes a smash burger fan modernist cuisine not so much they like the they like the big poofy open the like parallel string of meat parallel string of meat burger yeah okay okay but should we take a break Jack?
+
+[26:53] I can't see the I can't see the clock behind the giant modernist cuisine volume.
+
+[27:00] Okay we're gonna take a break come back cooking issues.......
+
+[27:18] Hi, I'm Steve Jenkins from Fairway markets. You know there's no more telling aspect, no more revealing virtue of a group of people having evolved in a lovely way than how they feed themselves how they entertain how they put food on the table what they put on the table. Heritage Radio network provides the clearest evidence that there's hope for us yet heritage Radio is like Fairway Market and that we both care deeply about what you're having for dinner tonight heritage Radio Network is not just about food though every time I tune in I learn something about things other than food too architecture, design, stuff like that from where I stand I still say if you can't eat it what's the point for more information please visit fairway market.com did you know Heritageradio network.org is a member supported nonprofit organization if you like what you're listening to go to our website and click that donate button become a member and get special discounts invites VIP treatment t shirts and more support us in our mission to bring you the freshest food content in the nation and welcome back welcome back cooking issues by the way uh Mark Ladner, good friend of ours, Mark Ladner, is doing for the Heritage radio network on April twenty seventh.
+
+[28:35] When that's like a week and a half
+
+[28:47] Week and a half. It's doing an Abruzzi style Italian barbecue on Saturday, April twenty-seventh between six and nine. Uh, where's it gonna be, Stas, you know? Is it gonna be here?
+
+[28:57] Not sure. Not sure anyway, Joe, you know where it is?
+
+[29:00] I uh I'm gonna have to do some research, but I'll get back to you. Uh, but the beer's by Harpoon uh and the music is by Herbert Spiffling splifflington splifflington.
+
+[29:44] I wonder whether he enjoys uh some of the herbal medicine no comment on that one uh and you can go to uh Italian BBQ dot eventbrite dot com to buy your tickets for sixty five dollars and you know what's worth the ticket price alone people is uh if you go look at the image they have for it it's it's this it's not Mark's whole face it's just the special Ladner glasses special ladner glasses Stas, what are your thoughts on the special ladner glasses you got getting a shake of the head uh getting a shake off picture is shaking off the Ladner glasses comment yeah anyway okay uh by the way you still time to call in your questions two seven one eight four nine seven two one two eight that's 7497 2128 got a question in on soda bottles uh Jeff Kanoff at Jeff 2486 on the Twitter says any safety issue with reusing old soda bottles multiple times for the carbonation system that you outlined.
+
+[29:56] What we're talking about is when I carbonate things I use uh soda bottles usually t I use 20 ouncers for test batches I use one liters at the bar, one and a half and two liters for events where you know you're gonna pour a lot out uh soda bottles are made of uh P-ET uh right P-E-TE PE maybe one of those things one of those uh one of those things and uh you know I use them multiple, multiple, multiple multiple multiple multiple, multiple, multiple times
+
+[30:25] Uh and is there a safety issue?
+
+[30:27] Uh not that I'm aware. I mean, I don't believe that they have similar issues to uh PVC where you get um not PVC, um Lexan related things where you get you cook it in the dishwasher and you get uh deter like detergents plus it plus heat equals the release of nasty chemicals. I don't.
+
+[31:00] I think they're fairly neutral I never put them in the dishwasher I just do uh hot water soap rinses and let them dry out uh and I've I'mot aware of any safety iss the reas I think a lot of times people don's reuse it is kind of bacterial reasons but you know we're putting carbonated stuff in them and alcoholic stuff and we're washing them very thoroughly in between and all the time in between they're they're you know they're either dry or they're in a fridge with alcoholic beverage that are carbonated which are v very bacteriostatic in terms you could get yeasts but they're not pathenogens so they're not gonna cause problems uh not health problems anyway.
+
+[31:16] And so yeah I'd say from that standpoint it's safe you want to make sure that you use uh I mean you could tell when they start to kind of go south on you and certain newer bottles have uh like outer layers I think that are laminated on for for you know, um gas barrier properties uh but I'm not aware of any safety issues.
+
+[31:33] If you use bottles that are not intended for carbonation they can explode.
+
+[31:40] so for instance, if you uh use Fiji water with the goofy square bottles that that made the millions of dollars that goofy square bottle but if you use the Fiji water with the with the goofy square bottle and you carbonate uh it can explode.
+
+[31:55] I remember once so I'm this kind of guy where um where I ask once, I ask twice and then I just scream around and break and like break crap. Is this true or false does?
+
+[32:02] Three times a lady though. Three times well that's why that's why I only ever once got the lady I only ever asked three times, you know, found my wife, got married done, right? No, but normally it's like I'm like Where's the bottle?
+
+[32:11] No response.
+
+[32:13] Where's the bottle no response.
+
+[32:16] And then just grab the Fiji bottle which is there and I filled it full of coarse coffee and I was carbonating it with nitrous to get the nitrous fe you know the the the nitrous oxide which gives a creamy feel and brings body back to coffee withouting the that kind of uh that prickly sensation that you get out of carbon dioxide and boom it blows up and sprees coffee in like in you know, like poof, all around the room.
+
+[32:34] So like I had a line painted across me of coffee and there was a line all around the room uh in this tiny this is before we were in the trash room styles for a while I was housed in a closet i in the amphitheater and uh so the entire closet in the amphitheater had uh this is back at the French culinary, had like a line of coffee around it that lasted years they could never get that thing off.
+
+[32:53] May they repainted it over it eventually.
+
+[33:01] So the answer is is that they also if you heat uh bottles with very hot stuff like if you're trying to do um like a j let's say you were trying to a gelan fluid gel, you need to carbonate it when it's very hot.
+
+[33:13] Aside from the problem that it's hard to get carbonation in things when they're hot because uh the hotter it is the less the CO2 wants to go in there uh those bottles start loser losing their structural integrity
+
+[33:24] somewhere probably in the 70s or eighties Celsius, 80s nights in that range they lose their structural integrity and they can start to balloon out on you which could be a safety issue because if it explodes when it's it's spraying hot crap everywhere it's doing more than ruining your jacket.
+
+[33:38] But other than that I'd say pretty safe.
+
+[33:40] You heard anything Ariel on items I haven I haven't heard any mishaps.
+
+[33:43] Yeah yeah don't mean like chemical safety anything? I don't so but uh you want to make sure they's good gas barriers over the long haul. So you don't store a carbonated beverage in it and think that it's going to remain carbonated in perpetuity right another problem uh with plastics in general now uh these plastic bottles are designed not to do it too much.
+
+[34:17] I mean they're s they're chosen not to do this but like the plastics can um do what's called scalp flavors so especially if you have oil-based flavors that are in there or anything that has kind of a hydrophobic component on it that that can absorb into the plastic then the plasticell which then gets transferred to your next batch and also it can it can remove enough flavor from things it's called scalping, flavor scalping that you uh alter the flavor of your product by the absorption.
+
+[34:37] And like you get this especially in sodas you'll notice when like low quality sodas with high levels of suspended oils in them grape uh um orange you'll see the bottles are actually discolored which is why and also things like root beers tend to leave aromas in the bottle that are hard to get out which is why when I'm carbonating, I prefer to buy seltzer bottles because they come neutral
+
+[34:51] Yeah, just for what it's worth, which is probably nothing. Uh okay.
+
+[34:55] Uh next question in.
+
+[34:59] From Winehacker on liquid Nitrogen and from hello Dave Nastasha Jack, and Joe.. They he didn'n'd know you were going to be here. That's okay.
+
+[35:17] Yeah okay uh love the show almost through all the back episodes now that uh I have that out of the way I have a couple of questions I sent Nastasha an email a couple of weeks ago with some questions about the general use of LN in a bartime environ she seems to have ignored it which is fine well wine hacker your name is wine hacker. So my email recognizes you as spam because you decided to name yourself wine hacker so I found it buried in 900 other spam emails.
+
+[35:33] Wow. Wow. See, this is why we call her the hammer it's like now you know wine hacker you're getting you're getting a little taste just got school you well now it seems this is very instructive I want people to get a little taste of what it's like uh when she's not on the air like that's like a little little like pe like peek through the veil of what it can be like anyway uh wine hacker moderated the comments with she seems to have ignored it which is fine I often ignore myself too which is very good like self deprecation.
+
+[36:01] Since we are closer to the date of our event I also have some questions about Vermouth sorry to have so many questions at once uh uh I hope you can uh feel free to to uh break the answer into parts so I don't whatever I'm just gonna do it ready? They do it the winery where I work is a union wine company in the Willamette Valley, Oregon you familiar with those people, Ariel? I've heard of them yeah? Good things uh yeah yeah I've I Never tried this stuff, but I've heard of them. All right. Uh. We'll be having an event in a couple of weeks. The theme is uh speakeasy. Go ahead and make fun of us for uh being so original, i.e. not original.
+
+[36:30] I can't uh sat out of the energy. Uh I only have a certain amount of energy. Do you have energy to make fun of speakeasies? She's all tapped out she's still tapped out with the anger for being called out on air that she has no more uh you know anger to make fun of us like what you should be happy that I'm tapped out for the day for the whole day well I don't know about that you'll be you'll you know you'll get a diet Dr.
+
+[36:45] Pepper no, Dr. Pepper, I drink the whate. Don'll get me started okay uh once she gets some caffeine after the show she'll get her anger back don't um we're gonna move things around in the cellar set up a bar, rent some furniture and other era appropriate props to fit the theme uh when I began to think about drinks we might serve in addition to our wines i immediately thought about a podcast a couple of weeks ago and decided to make our own vermouth we will probably try to keep things fairly simple and offer two drinks manhattan and Martini are probably front runners they're delicious uh partially since uh they both use vermouth uh though I will need to make a red and a white vermouth.
+
+[37:09] Uh anyway one thing I'm thinking about using is liquid nitrogen uh so what like let's do the um let's do the vermouth section first he's about to go into liquid nitrogen but then we go back to vermouth in terms of vermouth we started looking uh at commercial examples trying to find a couple of benchmarks we looked at four examples Carpano Antica, Dol and Rosso, Dolan Blank, Blanc blank, blank, uh Dolan Blanc and uh in bue an Oregon made product.
+
+[37:26] The Carpano stood out above everything else though we like some of the herbal aromatics of the Dolanroso. The Dolan blanc was very nice though seemingly
+
+[37:51] The other three. The M View had very interesting aromatics probably using pine fur or something similar are there any other commercial examples you suggest we look at uh currently I think we will try to make a sweeter red and a drier white. Uh well before I get into the other things that you write uh yeah I would look at um martelletti..
+
+[38:11] So martelletti is uh you know I had it first maybe three three years ago, three four years ago it started coming into New York as far as I can tell and uh it's very good uh completely different um mouthfeel thinner mouthfeel and different kind of aromatic setup from uh Carpano uh and not played out yet which is good. You know what I mean like it's it's like people know about it, but not a ton of people know about it so you can still be kind of the first kid on your block to have it as far as I know. It's good.
+
+[38:37] Uh you know y uh made by the Carpano people uh Punta Messes you know, try that out. Uh and then on the white side I guess classic, you know, you should try Noi Prat, but you know, I I don't use it much. I actually use Dolan quite a lot for my for my white I like the Dolan uh blanc and the there's Dolan dry. I actually and I like the their sweeter one better, the blanc I tend to tend to use it more than I do the dry but not for martinis. Do you know what I mean yeah. Although bear in mind that uh the sweet vermouth that usually put in Manhattan's is made from white wine. Oh yeah, he mentions it it mentioned. Or sweet red vermouth is different from well no it's red and white only because of the coloring they add, not because it's red and white wine. Burr is the only one I think that I know of that's made is the only aperitif wine that actually starts from a red.
+
+[39:21] Really? But there's a dull and sweet that I think is This Dol and Sweet White or the Dolan Sweet. There's as far as I know, there's the Rosso, the sweet white, yeah, and the the dry. But I think the sweet White's closer to a regular sweet vermouth. Yeah, I like it actually. I like that product anyway um uh other thing I would look I would go beyond strictly speaking vermous and I would go into other uh aperitif wines like uh for instance, Coki, americano. That's a good one. Uh, or if you want something a little on the kind of more mainstream I guess Lille. Or like Bonalcoinquino yeah all that stuff's good so like you know go and and by the way good websites for the uh well I'll go into what you say so here's a s here's a summary this is wine hacker here's a summary of what I think I know about the manufacturing vermouth base wine is nearly always white sometimes very neutral sometimes an aromatic variety muscat for example sometimes it is purpose purposefully aged and oxidized sometimes not. I'll add also that they often use a wine where they purposely stop fermentation by redoping it uh by doping with alcohol before they right yeah yeah like port. Yes I mean not the same as port, but it's. Right.. Yeah okay. Uh Wormwood, uh chichona bark and gentian are the major sources bittering can be yeah uh right true uh botanicals are extracted in alcohol dilute alcohol wine or fortified wine sometimes uh times vary from hours to months true or cooking too yeah cooking yeah well yeah it's right yeah like heat right heat right sure yeah uh sometimes extractions are distilled or steam distilled of course that would just be adding a distilled stuff is that true adding essen oils if you distillation sure that's fancy way of saying that sure yeah I mean his the it could be her a wine hacker sounds like a guy though I think it's guy yeah uh
+
+[40:51] Caramel can be added for coloring.
+
+[40:52] Uh juice or sugar can also be used it depends on the uh standard of identity right what kinds of juices can be added I think so.
+
+[41:04] Yeah I think you have to add grape sugar andor cane sugar right no other yeah I'd have to look at it um total sugar is around 4% for dry and between 10 and fifteen for sweet uh final wine must be at least 75% wine the other 25 consisting of sugar alcohol and water anything else that anything else uh missing there?
+
+[41:17] No I mean that sounds about right... By the way remember vermouth it is an acidic ingredient so a lot of times and sugar. So people add things are like Manhattan doesn't really have any sugar or um or acid I'm like you're wrong no that's that's BS, yeah it's wrong. Yeah uh okay uh I'm looking at a wine range of herbs and flavors I'm having trouble with color right now there are three herbs I've found for coloring red sandalwood onato seed and rosebuds however I think I need something more the color is not uh a dark enough red it's a bit too much like an orange colored rose I don't want to use more sandalwood because it gives woody flavor hell yes it does sandalwood? Hell yeah uh anatos to orange.
+
+[42:05] I may have to cheating add a few percent red wine or perhaps uh find the sandwood extracts any suggestions are appreciated can you buy cochineal here I'm not sure I mean would you want something that red that's hardcore well I mean I would focus on the flavor more than the color yeah I mean because the reds are usually actually more brown. They'side brownie orange.. Yeah so burnt number. Yeah right so like you know caramel classic old school caramel color. Yeah, yeah but if you can buy cochineal that's mean like it's pretty badd. I don't it is there an FDA against that are we okay? Is that grassier
+
+[42:24] I don't know.. you know Coach Neal crus up aka crus up bugs. I said bugs. Uh yeah, you know, or you could also, I mean if you wanted to you could use an anthocyanin that's red at the at the at those pHs, but they're not stable so unless you're not gonna use it right away you know they's not time stable, they're not heat stable, and they's light stable um you know that that's been my experience with them anyway uh any suggestions are appreciated. Okay. Also how may one sponsor your radio show Joe any ideas on that one?
+
+[42:52] That would be send an email to info at heritageRadio network..org and also um the abruzi barbecue is going to be at the Heritage Warehouse which is right around the corner from uh Roberta's so that's my info yeah but go ahead and get it get yourself a uh your hands on the uh martelletti and try that and try those other ones and try coke americano we use a boatload of coqui americano at the bar delicious yeah I love Coke yeah cokie is good stuff and an awesome name Coke Coke americano um and go to these websites go to vermouth101 which is run by uh Martin Duderoff uh you know a good fellow uh interesting site that points you to a lot of things and I don't own it but uh you know I know Jared Brown and uh Anastasia Miller and they wrote a book called The Mixolini Guide to Vermouth and other uh Paratis.
+
+[43:44] And uh I haven's the book but I know them personally and so you should go take a look uh take a look at that it's available on the Amazon and at Kindle so you do not even have to wait for it to show up at your door uh in case because Amazon only had a couple copies as as of this morning um
+
+[43:55] But anything else uh about uh vermouth that you learned from your study of bitters Ariel? Well not so much from the bitters but um in the like V and E section of the UC Davis library there's a bunch of copies of uh Maynard Amory's like wine production and technology and that has a pretty good section on vermouth..
+
+[44:36] when is that from there's editions dating back to like the 50s and 60s like through the eighties it's not public rec you know there's none of its public record can you google book that thing I'd have to look into it's give the title one more time yeah um well Maynard amory I think it's wine technology and production but um I could email you an actual like library entry sounds good but I mean like or uh there might be uh um I know there's a lot of like community colleges around there that teach winemaking so they could have library stuff but I mean he's he's at a winery I'm sure he's like so anyway uh the other thing is uh I'm thinking about using liquid nitrogen to chill the glasses and maybe for nitro modeling. I read your primer on liquid nitrogen and we have two uh large two hundred and fifty liter deweries around the w uh doers around the winery so uh doer is what you hold liquid nitrogen in actually anything you put that stuff's in is a doer. But usually when we say doer we mean the bigers. They store the nitrogen under pressure roughly I think 20 pounds of uh PSI depending on what size doer you have the larger two forties uh and I don't know 250s.
+
+[45:05] We have two forties. They you know they store at a slightly higher pressure but anyway that's what it is so I will make a phase separator as you show by the way so the phase separator is uh it's just a muffler it's like a sintered brass muffler that you put on the end of a tube and it lets you take stuff off of the liquid nitrogen tank otherwise it sprays everywhere be aware that on the largers on the two
+
+[45:24] 40s that I've used they don't come out as smoothly as they come out of the 180s and the one sixties uh and you can get a little bit of a choo choo train chug a chug a chug of resonance on some of those things and I think it has to do with the pressure it comes out of uh so you might be able to adjust the length of the uh extract tube to pull it out of to stop it but we were having resonance issues on uh on a 240 when we had it and it was like it was like chugging like a choo choo train. We've still got the Ln out and it's not as violent as trying to take it out at pressure but it wasn't uh as efficient as it was out of the 180s and the 160s just a little no to bending anyway um okay uh I know okay my c my questions are about uh safety in a bar type environment I know how to work safely in a cellar but not at a bar.
+
+[45:57] Uh you still use do you stilly use AirPots to hold the liquinitrogen or you do you suggest purchasing an insulated flask. Do you remove the internal dip tube from the Airs airPods are the coffee things uh or can this be used to dispense the uh ln seems like the air pod is not really a closed system but I'm unsure if removed how do you safely dispen uh dispense the Ln? Uh does not seem like an AirPot pours very safely any other tips? Okay here's here's what I'm gonna say about this.
+
+[46:34] We don't I do I don't use AirPods anymore I used to use AirPots uh the coffee ones with the lids on top uh and I used to try to use the little uh dispensing unit they aren't sealed however the plastic in them can seize up you can get condensation and then I've never had one get in a situation that's unsafe you can always see that they're venting off but I've gotten it where they no longer dispense properly and it's true those ones with the pore tops are very difficult to get to to close at the bar
+
+[46:57] We use caraf like thermal uh coffee crafts and camping thermoses. We buy them from REI because they have a guarantee and I walked up to the dude at the counter at REI I'm like, this sucker's got a guarantee. He said, yes. I was like, I'm putting liquid nitrogen in it. This thing has a guarantee. Yes. I was like, so when it breaks, I can bring it back to you? Yes. I was like okay.
+
+[47:26] So uh sweet right so anyway so I have the liquid nitrogen and uh what we do is we own one at the bar five liter uh five liter doer like legit doer and then we empty uh we we fill the five liter doer for service bring it back behind the bar and then use that to fill the thermoses you don't get that much loss out of a thermos and in a bar situation you're using it so fast and so much that it you don't get that much of an advantage out of capping it because remember when it you're not using it you get a layer of nitrogen vapor above it that provides some insulation and so you're not getting a huge amount of loss because it's got a very thin uh you know it's got a very small narrow opening at the top and uh those things pour quite well as opposed the airs which have all that weird nonsense in between the pore spout and you because you're not meant to pour out of them you're meant to push a button and have it dispense.
+
+[47:57] So I would move away from the push button dispensers and move towards coffee thermoses like this however throw away anything that allows you to seal it let me speak to you again let me say this one more time throw away don't just like unless you take it to your house or something like this do not ever put yourself in in a situation where anyone under any circumstances for any reason can make a mistake and screw a sealing lid onto a thermos.
+
+[48:40] I need that I need you to I need you to listen to me on this one this is uh what caused uh the poor German uh cook in uh in one Germany, uh to you know, years ago to almost die and to lose, I believe he lost like one hand all of one hand, almost all the rest of his hand and I believe one of his legs and he had to be put in a medical medically induced coma because he brought to his girlfriend's house liquid nitrogen in a sealed thermos never never make it even a remote possibility that that could ever happen right no you're making a bomb when you do that yeah yeah but you know but the thing is is that I'm run into this too and the older I get the more I you know realize this especially when I'm working with other people is that uh there's a difference between knowing how to not make something unsafe yourself and guaranteeing that no one else can make it unsafe right and you want to guarantee that nobody out there can seal up that uh that container.
+
+[49:28] Also I think you know, in light of what happened to the poor person in uh in England, I think whene liquid nitrogen into a bar, you need to do a lot of safety training. And that safety training is one you know, telling people about the eyes your eyes, keeping away from the customer explaining ways in which it you know, showing how it can be safe showing how things that they think maybe are unsafe like getting a little bit on your skin is not unsafe uh with at the same time reinforc
+
+[49:55] All the horrible things that can happen. So, you know, making sure they understand how vitally important it is that liquid nitrogen never in no cryogen ever be served, including ever be served to a customer in its native state it's very easy to know that all your liquid nitrogen is gone out of your drink before you serve it if it's smoking it's it's no good to serve to your to your customer. I mean it's uh you know hammer that stuff home uh hammer home that keep keep the cryogens away from the customer not just in service but you know, throw the extra extra liquid nitrogen down and behind you. You know um be careful.
+
+[50:28] Let people know that it's real let people know that people have gotten hurt when rules haven's been followed let them know uh you know let them know read read to them the stories of that of that poor girl who had her stomach removed.
+
+[50:56] Read to them the stories about the German who who you know almost killed himself you know follow basic safety rules never let them pour it above their heads never you know, you know make sure that they don'tation where they can pour it into their pockets or get it caught inside of their clothing just like you know, reinforce um, you know read the primer read other people's primers reinforce safety like that the most important thing you can do when you're training new people is to engender in them a healthy respect for the bad things that can happen um I mean it just it just it bears repeating and a lot of times people think you know uh it's a gimmick you shouldn't bring in lots of things are dangerous.
+
+[51:11] We're just trained to know they're dangerous we know knives are dangerous we know deep friars are dangerous you don'tily understand how or why li liquid nitrogen is uh is dangerous. Um, also if you're dealing small quantities in a bar, you don't need to get that much into asphyxiation but you need to make sure a lot of people still they'll bring large amounts of liquid nitrogen into elevators they'll they'll carry them up stairwells they'll do all sorts of like awful awful things with liquid nitrogen that most of the time won'll get you killed but then there's that time when it will you know?
+
+[51:45] Uh so just look into it. Is that is that what do you think? Is that good?
+
+[51:50] Good? Yeah yeah yeah.
+
+[51:51] Uh okay so uh interesting question in got a really interesting one what time is it?
+
+[51:56] Ah I'm hosting so I gotta I got a a good question here and hopefully I can finish it.
+
+[52:06] Mark writes in he was wrote about nanoparticles before uh do you know anything about nanoparticles by the way I don't know anything but I it was broughty the safety of nanoparticles by by Mark recently I mean there are some concerns because they can like breach certain barriers but they're like too large to be dealt with the way that like regular sized particles are by the immune system..
+
+[52:19] Yeah, but but it's like but the the mess up thing is is that our ability to produce different ones is outstripped our our our testing of the well crazy gotta jump in we've got a few great shows on nanoparticles if you search our archives uh Katie Keefer on straight no chaser has done quite a few episodes.
+
+[52:37] Does she enjoy the nanoparticle? I don't the nanopartical fan yeah fan or faux fan or foe. I think you know fan of the
+
+[52:45] Hmm. No, so anyway, thanks for fueling my question this is Mark Reding Thanks for Fielding my question on nanoparticles.
+
+[53:04] I now have a question that's a bit more technical I like that it's more technical than nanoparticles uh I've been working on making Vietnamese rice noodles using the basic recipe in Charles Fan's book also available on epicurious dot com Charles fan the uh the chef at slanted uh slanted door in uh right that's the name of his restaurant right in in uh yeah in the ferry building in San Francisco yeah San Francisco um I've made some delicious batches for snacking and staff meal but they are too short and stick to each other too much to actually serve.
+
+[53:11] After experimenting for a few days I think that the doughine but the potato ricer that I'm using back to potato ricers and by the way this like after I had the nightmare I read about this how awful is that uh isn's strong enough tool for a harder dough like this and uh doesn't make it look pretty do you have any suggestions about hacking a potato ricer to get more force or a different kind of tool that could do the same thing or any general advice about making this kind of noodle thanks Mark.
+
+[53:47] Okay so first of all to get an idea what this looks like uh I went to uh Andrea Nguyen's website uh Vietworldkitchen.com uh to look she reviewed uh fans' recipe and also had a video of doing it she also has what looks like a really cool cookbook that I don't have called Asian tofu that I now think I need to buy because you know I all of my tofu stuff comes from like the million years old shirt leaf uh you know book on tofu and miso. School book of Miso, yeah I told I called that guy one day right really yeah he picked up the phone I was like can you make can you make tofu from edamami he' That's a horrible waste of human resources in life. I'm like oh my God, sorry. But uh anyway so I'm I'm anxious to uh eventually what I'm gonna when I'm allowed to buy books again when I move my apartment I'm gonna be allowed to buy books again and I'm gonna I'll buy that book okay um anyway she has a video of it and the dough is indeed stiff.
+
+[54:35] Uh look I think all of these noodles and many noodle tricks in general and also Dragon's beard uh and all this are really just exercises in uh in in water control right so like adding a little bit more water can make a huge change in the reality of your dough and so I would say that you could probably look the way that these doughs are made is that the way this dough is made for those of you don't know what the heck we're talking about is you take rice uh ground rice in this case uh and you and you soak it sometimes up to four days to let it ferment a little bit and on the blog they let you they show you different things you then pour off some of the soaking water and then uh add fresh water cook it right now you're cooking out a good portion of the starch right that's providing the structure for the dough so when you're using when you have uh a doug that doesn't have its own natural glutens right like rice one of the ways to get structure into it is to cook a portion of the starch before you make the noodles and that gives some structure so that it's not just breaking apart and turning into nothing. That's allowing you to form noodles right um another way to do it that you see on if you look on the on the web to make rice noodles is people will pour a thin layer crepe style into a steamer uh with a lot of oil. In fact I saw a really cool video on it um
+
+[55:52] And see if I can find uh the name of the person that I looked it up uh on on uh eat now cry Later how to make fresh rice noodles uh and she paints she paints oil and builds them up layer by layer in a steamer and then and then peels them apart afterwards so that you don't have to peel off each one individually and that's pretty cool so that's one way but this other technique is the way also you make dumpling wrappers a lot is you pre cook some and also shoe pastry you pre-cook some of it to get structure although shoe pastry is different because well you're retarding the gluten because you have a lot of fat and uh egg in it but then you pre cook it to give it structure whatever so um back to where I was so the the point is is that then you're pre-cooking it and then you're uh he adds tapioca back but some people don't they add more rice but tapioca's gonna give it a springier texture you control the water level of it then you extrude it into boiling water and you form the noodle uh so you want to be very careful to have enough water I would add more water so you can get out of a potato ricer or I would move to a higher tech a higher force style situation.
+
+[56:24] So Kitchen aid now makes a pasta extruding attachment that actually apparently works it's a hundred and fifty dollars I used to have their pasta making attachment for the meat grinder and it was a little bit less than useless.
+
+[56:48] I don't know if you've ever used that one. It yeah it's useless I mean like the reason it's useless it's it's worse than nothing because it makes you think you can do something and it's just horrible but apparently the new one new one works but there is a style of noodle in the south of India uh that they make with rice and they actually use a really bizarre method where they fully cook
+
+[57:10] Dumpling dough they make the dough they do the soaking, they grind it wet, make a dough, cook it in a pan, then form it, then boil the dumplings, then take the hot dumplings and extrude them through an extruder, through extruder. But uh they make uh noodle presses for that that you can get at um Indian stores um call it Savai Savai press I don't don't it but I think Savai press. But really interesting stuff there and I hadn't known about that but one thing I did know about is they make something and I's it called a chocoly press with those are the fried uh Indian fried like doll uh noodles doll and flour rice I think rice or whatever flour noodles that you extrude through an extruder and fry and they look like uh like a screw like a cookie press but like brass and long. And those things would work for this because they have screw pressure in it so you can screw the sucker down and extrude it out.
+
+[58:10] So I would do that I would A try to make uh a looser dough and I would B try to use one of these screw things that you can get at a at an Indian uh and like an Indian shop. Now that said uh reading about this I went ape loony right and started doing and I my entire morning was shot because I was I was looking looking stuff up and I'll give you a couple things.
+
+[58:26] There's a guy and this is how you find you look up uh my notes are holy crap what you look up is um making rice noodles chonking China okay and there's a Google, there's a YouTube and here's what this guy does. You guys familiar with Ubleck? Ublek? Yeah they like cornstarch water
+
+[58:46] Yeah, yeah yeah yeah. So like a non Newtonian fluid is a fluid that doesn't uh where where the where you know the the um the viscosity of it changes markedly depending on whether or not it's being agitated, right non-Newtonian fluid. So you know a lot of things are what's call shear thinning So the harder you stir them the uh and the more force you apply to them the more liquid they get which makes sense because you know, the things that form a mat, you hit them hard enough and the strands align and all of a sudden becomes easier to shear through them shear thin. Well there are things that the harder you work them the more uh difficult they are an ooblek is one of them an ooblek is made out of cornstarch and water and you can go online and see these guys uh there's a th there's a a video called uh you know people running on a pool of ooblek and it's yeah it's awesome people running across like literally running across it like walking on water and then stopping and sinking into it and it's like chest deep. It's like quick.
+
+[59:40] Yeah it's strong yeah, it's good um but this guy this guy in uh tronking China and I've no idea he made some form of ooblek noodle noodle thing.
+
+[59:48] So he has what amounts to just a strainer that he's holding in his hand, right? And he scoops out of a bucket that appear to be a solid, scoops them up, throws them into the strainer and then at the bottom where there's no force on them, they're strain' out like a liquid and he does a bunch of times until it looks like it's what he wants it and then he holds the ooblek over the water into boiling water and makes noodles that he then cooks for a couple of second, scoops out
+
+[1:00:11] And then throws them in your thing, I was like, oh that's so cool. Right? Yeah. That my hence my notes. No leak holy crap. Holy crap.
+
+[1:01:03] Uh and you know, further on this, I kept and then I was like I got back on the noodle thing and I was looking at you know, Chef Tom out in California who's uh with the what currently is the the International culinary Center out there in uh near San Jose uh you know, he did a video on hand pulled noodles and I went to go look because I got I don't know I somehow I got back on a hand pulled noodles every once in a while I get back I've never gotten good at it by the way but I've noticed there's two varieties of the hand pulled noodles so most of the times w like when it's attempted in English speaking uh posts on the internet the hand pulled noodle style is one where the first step is to completely destroy completely obliterate the gluten structure by overneating the hell out of it right and if you want to know about this by the way it's anothering I do yourself a favor if you're at all interested in how uh wheat scientists measure dough and you don't have access to like the expensive books and you don't you know try to like go on Google books and read all of Hosney's stuff by like pasting and cutting between all of uh the different books like you know serial science and all that go go look at http www dot wheatflowerbook dot org and wheatflourbook dot org has all of the things of how wheat is rated by uh cereal chemists when it comes in and how things are done.
+
+[1:01:29] And for instance they say a sample of wheat is considered infested if it contains and this is this is strikes me as very odd, ready a sample of wheat is infested if it contains one two or more live weevils
+
+[1:01:47] Right?
+
+[1:01:48] Two, one live weevil and one other live insect inju injurious to stored grain, right? Or three, two or more live insects who are injurious to stored grain other than live weevils. That's dumb any two insects they don't care.
+
+[1:02:03] They don't care.
+
+[1:02:06] They're like it can be two weevils or a weevil and another insect or two insects. What's the sample size for the like per kilo or I don't know.
+
+[1:02:13] Is is a weevil maybe maybe a weevil's not an insect maybe it's technically something else. I don't know maybe.
+
+[1:02:19] It's not an insect I mean I know it's a it's a bug arthropod yeah uh yeah it's a bug yeah it's a bug but maybe it's actually like an insect from a technical standpoint and so that's why they have eight legs or something they should but one thing would have been sufficient. Any combination of two or more live insect or weeviloid things it it counes infested. Here's definition of light smutty wheat.
+
+[1:02:40] Wheat in a 250 gram portion that has an unmistakable odor of smut or which contains smut balls, portions of smut balls or spores of smut in excess of a quantity equal to five smut balls but not in excess of quantity equal to thirty smut balls of average size is light smutty wheat.
+
+[1:02:54] I think average size smut ball is gonna be my next band name right right check this out check this out here's one more for you from this awesome, awesome book at the end of the book there are standards from the Americ associes of serial chemists of recipes with which to test flowers. So like when they're like they have like the standard sugar snap uh sh sugar snap cookie. They have ginger or whatever. They have like the standard and they also have something called
+
+[1:03:21] The Asian noodle Texture Test and it literally is like you you line up cooked noodles and they have a plastic tooth that pushes down into it right and a sample of five noodle strands are randomly selected into cut into seven centimeter pieces the five noodle pieces are laid side by side on the TA.XT2 texture Analyzer instrument platform. A two byte compression test is performed using a special plastic tooth compression is performed to 70% of noodle thickness and then released and then redone again and it's like literally they have an Asian noodle texture test this this document is and and why it's important noodle texture is an important quality characteristic oh really I I had no concept.
+
+[1:04:01] This book is available for free people.
+
+[1:04:09] This is free like this is like this is what um I'm being told that I have to leave hold second before I before I before I uh leave so go check out the wheat uh wheat flowerbook dot org uh and I found that because I had to look up you know they have like one of the one of the tests they use is they make a they make a disc of dough and they inflate a bubble into it to see how it extends right it's called anveolograph, like alveola in your lungs yeah and so I read that in the uh in uh Paula Paula Fagoni's book how uh baking works exploring the fundamentals of baking science which I hear is really good but I don't own a hard copy of another one that I need to go buy a copy of uh anywho so the the the end of the story is uh that I was looking up uh I've
+
+[1:04:44] As usual it all ends up back in hand pulled noodles and I was noticing that the because hand pulled noodles are are interesting because you have they have to pull. They have to have extraordinarily long extension, right without snapping. So you think very low, low gluten or you know, a weak gluten flower so that they won't snap back, right? Right yeah so it seems to me that there's two main uh ways that it's done so if you look at like the ones that are done in English they put things typically in a mixer and they just destroy the gluten, obliterate it, wipe out the same way that you do for beaten biscuits which is something that I can make properly right gluten is just obliterated by overmixing.
+
+[1:05:18] Then you have the ones and those ones when you're looking at them hand pulling the noodles they pull slowly and but you know quick you know, not slowly, but like kind of evenly and they just pull it across and you can see that the noodles like almost want to pull themselves uh in into noodle shape, right?
+
+[1:05:34] And then you look at the ones with no speaking that are done most of the time in Asia uh where it's just some guy on the street doing it and those guys have an entirely different technique. Like the end section of their kneading, right first they do the tearing and ripping and destroying it and you can tell that they're they're putting water in, they're doing water control. Same way as soba, let's uh like proper soba manufacture all about water control well back to water control. And you can see them when they get the texture right but then their final kneading process is a stretching alight where there actually looks like they's aligning and after they start doing that they never again go cross or rotate. They're always just you know, just
+
+[1:06:12] Pro torsion and stretch back, torsion stretch, and then cut off little pieces, and they's going in the same and those guys, right? Those guys when they're pulling the noodles it's like slap a rap da rap da nap slap that and they're right and they're slapping the noodle around which means that that sucker must have more structure now the ones that I've to learn from have always been the Western style ones and those are premised on the fact that there's no internal structure one way or the other. They just beat the crap out of them and I've always found that most of those noodles don't have a lot of bite.
+
+[1:06:55] My question is to everyone out there who's tried it is there a fundamental and qualitative difference between the slap a wrap dap and the beat the hell out of hand pulled noodles I have no idea cooking issues thanks for listening to this program on heritage radio network dot org you can find all of our archived programs on our website or as podcasts in the iTunes store by searching heritage radio network you can like us on Facebook and follow us on Twitter at heritage underscore radio you can email us questions at any time at info at heritage radio network dot org heritage radio network is a nonprofit organization to donate and become visit our website today thanks for listening
+
+[1:07:43] Yeah.

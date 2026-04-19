@@ -2,6 +2,7 @@
 
 import threading
 import time
+from collections.abc import Generator
 from pathlib import Path
 from typing import Any
 
@@ -81,6 +82,34 @@ def post_json(url: str, body: object) -> Any:  # noqa: ANN401
     if resp.status != 200:
         raise urllib3.exceptions.HTTPError(f"HTTP {resp.status}: {resp.data.decode(errors='replace')}")
     return json.loads(resp.data)
+
+
+def stream_post_json(url: str, body: object) -> Generator[str]:
+    """POST JSON body with stream=True, yield text deltas from SSE response."""
+    import json
+
+    data = json.dumps({**body, "stream": True} if isinstance(body, dict) else body).encode()  # type: ignore[operator]
+    resp = _pool.request("POST", url, body=data, headers={"Content-Type": "application/json"}, preload_content=False)
+    if resp.status != 200:
+        raise urllib3.exceptions.HTTPError(f"HTTP {resp.status}: {resp.read().decode(errors='replace')}")
+    try:
+        buf = b""
+        for chunk in resp.stream(_CHUNK):
+            buf += chunk
+            while b"\n" in buf:
+                line, buf = buf.split(b"\n", 1)
+                line = line.strip()
+                if not line.startswith(b"data:"):
+                    continue
+                payload = line[5:].strip()
+                if payload == b"[DONE]":
+                    return
+                event = json.loads(payload)
+                delta = event.get("choices", [{}])[0].get("delta", {}).get("content") or ""
+                if delta:
+                    yield delta
+    finally:
+        resp.drain_conn()
 
 
 def _sleep(seconds: int, cancel: threading.Event | None) -> None:

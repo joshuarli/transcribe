@@ -1,0 +1,29 @@
+```markdown
+### Techniques & Equipment  
+- **Rotovap (rotary evaporator):** Used for precise distillation at low temperatures to isolate pure flavors from botanicals; ideal for making clean, aromatic distillates from ingredients like citrus peels or herbs, though expensive (~$20,000+).  
+- **Sous vide (via MVS 31 vacuum sealer + immersion circulator):** Low-temperature cooking method where vacuum-sealed food is submerged in a temperature-controlled water bath; enables consistent, tender results—especially effective for proteins like brisket when cooked low and slow (50–55°C for 6–12 hours).  
+- **Vacuum packing (Mips 31 or similar):** Extends shelf life by removing oxygen; prevents oxidation and freezer burn, ideal for leftovers and pre-portioned meals; vacuum chambers with high vacuum (up to 98%) optimize preservation.  
+- **Double frying:** Traditional Belgian technique for fries involving blanching to deactivate enzymes, followed by frying twice to achieve crispy exterior and fluffy interior—best done with minimal pre-drying to avoid sogginess.  
+
+### Key Culinary Insights  
+- **Brisket cooking:** Tenderloin becomes fibrous and mushy under low temperature because it lacks connective tissue; requires high heat (52–55°C) for long durations to break down collagen into gelatin, mimicking braising.  
+- **Dry ice chilling:** Effective for rapid, clean cooling of drinks—use 2–3 small chunks in a sealed bottle, stir after 10–15 minutes; creates natural carbonation and misty effect, ideal for summer cocktails.  
+- **Chilling drinks with dry ice:** Best done in a narrow pitcher with 2–3 chunks; avoid sealed bottles to prevent explosive pressure buildup; adds subtle carbonation and visual drama without risking injury if handled carefully.  
+- **Dry ice in food prep:** Not recommended for direct contact with delicate ingredients due to extreme cold; best used for chilling large batches (e.g., cocktails, soups) where rapid, even cooling is needed.  
+
+### Caller Questions & Answers  
+**Q:** What’s the best way to chill a drink with dry ice without explosion risk?  
+**A:** Use 2–3 small chunks in a narrow pitcher, not a sealed bottle. Stir after 10–15 minutes; this allows controlled sublimation, natural carbonation, and safe dilution.  
+
+**Q:** Why do briskets turn fibrous when sous vide at low temps?  
+**A:** Brisket has little connective tissue; low temps don’t break down collagen sufficiently. Cooking too long without searing or post-cook searing causes the meat to become dry and stringy as collagen converts to gelatin unevenly.  
+
+**Q:** How much vacuum should I use for fish?  
+**A:** Use low vacuum—just enough to seal without crushing. Fish is delicate; heavy vacuum compresses texture and forces air out, leading to a dense, “pillow-like” mouthfeel. Best to vacuum at low level or skip vacuum for best results.  
+
+**Q:** Can I use a sous vide machine for vegetables?  
+**A:** Yes, but use low vacuum (0–50% extraction) to preserve texture and prevent mushiness. High vacuum can collapse delicate cell structures; low vacuum maintains crispness and flavor.  
+
+**Q:** What’s the ideal vacuum for sealing leftovers?  
+**A:** Moderate to high vacuum (70–98%) to remove air and prevent oxidation, extending freshness. For fish, use low vacuum to avoid crushing; for meats, balance vacuum to retain moisture without squeezing out juices.  
+```

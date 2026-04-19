@@ -10,7 +10,7 @@ dependencies = [
     "pyannote.audio",
     "soundfile",
     "torch",
-    "anthropic>=0.96.0",
+    "mlx-lm",
     "transformers>=5.5.4",
     "sentencepiece>=0.2.1",
     "mlx-speech",
