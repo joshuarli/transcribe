@@ -1,0 +1,343 @@
+[0:16] Hello, welcome to Cooking issues radio on the Heritage Radio Network. I'm Dave Arnold, the host of Cooking Issues here with Nastasha Lopez, Cooking Issues Hammer, and we are coming live to you every Tues from 12 to 12 45. Call in with all of your cooking-related questions uh we our specialty is technical questions but we will take any questions uh call in live to 718-497-2128. That's 718-497-2128 and today's show is brought to you by the Whole Foods Market and the Kraft Beer Festival which is coming up uh starting I guess Friday, right? It'cause it's a whole week of Kraft beer stu. uh and to kick off the annual series the Whole Foods Market Bower is hosting a beer and food pairing event at their beer room uh Oscar Blues is on tap and Chef Jacques Gautier of Park Slope's uh Palo Santo is cooking up one of his South American to a company. The food tasting goes from five to seven and the beer will continue till nine with craft uh beer week passports get $3 off a 64 ounce growler fill that's quite a lot of beer and meet Chef Gautier on Friday September 24th and enjoy some special tastes on tap from the kitchen.
+
+[1:18] By the way uh that's right by my house actually the uh the Whole Foods Bowery is right by my house where I live in the lower east side of Manhattan and uh I was
+
+[1:26] happy to see that very recently they have actually a a homebrew section there and I think it's the only place that I know of in Manhattan where you can walk in and buy malt and yeast and uh all the stuff for homebrewing. So cheers to you Whole Foods for making homebrew accessible to uh us Manhattanites. Um I haven't brewed beer since I was uh since since right before my second son was born and then my wife was like, hey, you know what it's alre a mess in the damn house you got two kids no more beer brewing because of course when I brew beer like I can't just be like a normal human being and use extracts.
+
+[1:52] Like I you know I have full you know full malt you know I ground it all in my house you know it's a it's a f freaking mess. That delicious but a freaking mess.
+
+[2:06] Anyway, call in your questions to 71 eight four nine seven two one two eight that'7184972128. So Nastasha it's uh been a busy uh week right for the cooking issues crew uh which is why you haven't seen much on the blog recently because we've been uh super busy. We're in the middle of Star Chefs Week which uh you know is a uh yearly uh convention uh of uh chefs, I guess. What do you think Star Chefs. Yes.
+
+[2:33] Anyway at the armory uh on the east side of Manhattan and uh you know a lot of the uh glitterati of the food world show up for three days and hang out and we we did a cocktail event yesterday which was good. We have another cocktail event this afternoon and another one tomorrow.
+
+[2:42] Another. And then coming up on Saturday and there's I think believe only twenty tickets left we are doing a cocktail for the Heritage radio networks uh yearly fundraising barbecue the Heritage Radio Party here at Roberta's Pizza in Brookly. And if you want to get one of those last remaining tickets they're a hundred dollars a pop, you can email info at heritage Radio Network dot com. That's info at heritage Radio Network.com..
+
+[3:07] Now uh let's uh look for some questions. We have some email questions while we're waiting to see if we get any callers.
+
+[3:13] Don Rollins writes in and he said he just uh now listen to uh one of our previous shows and there was a question we answered about vodka in sauces and he says that Alton Brown mentioned, I suppose on the uh on the what's it what's good eats, right? on his Goodies show uh that tomatoes contain sever compounds that are soluble in alcohol but not in water or oil and adding alco a tomato sauce brings out more of its essential tomato ness based on that fact.
+
+[3:42] Well uh Don, I uh did some research early this morning uh and there are many, many references on the internet to that being the case to there being an alco like a certain uh principles in the tomato that are more soluble in alcohol uh but I was not able to find any specific technical reference that uh bore that out. Now it is true that uh alcohol is going to change the release uh like alcohol in in uh in your in your product is gonna change the release of volatiles from it and therefore uh change the uh you know the flavor impact of the sauce and I was able to find several technical references to that.
+
+[4:10] There's some mention on some sites um
+
+[4:19] of alcohol actually reacting with uh the tomato uh you know with the actual tomato to to produce flavorful compon that were not there before so th those are you know some possible things but I don't have any ironclad evidence that I I could find you know a scientific paper that said hey look here's what's going on I do though, have a text into Harold McGee. So if he gets back to me on uh on the question of uh tomato sauce and vodka and whether there's anything uh more complicated going on I will relay it to you next week um okay uh Jake Andrews writes in to uh Nastasha and says uh he wants to know whether anyone uh my iPad just died no he wants to know uh he got taken on eBay with an older poly science polyp circulator that is missing the thermometer to control the bath is there anything he can do or is he shafted well uh I really you know I sympathize with you. I had my first kind of uh eBay shellacking recently where I bought a piece of equipment, a refractometer actually an automatic refractometer thing is would be crazy awes because it measures basically uh the ref any any you know, the refractive index of almost it'll do bricks zero up to, you know, in the 90s automatically uh you know, automatic temperature compensation.
+
+[5:26] I could put a f a flow through device on it so that I can measure things as I'm producing them so I can measure alcohol content as as I'm distilling it has user uploadable software profiles where I can upload anyway, it should be like a $00 piece of equipment I bought for a hundred dollars on eBay to say it was working but guess what it wasn't and the company
+
+[5:42] Uh, I'm not gonna mention Reichert by name, but they were not at all helpful to me. Uh you know, they wouldn't even help me troubleshoot. I think there's a problem with the Eprom which is the chip that you know loads the software into it because hardware wise it seemed okay. But they wouldn'e like open their mouths to tell me like what to look at so uh shellact.
+
+[6:15] Now you're lucky in the one sense that poly science is not like this I did a quick search on poly temp I don't have the actual model oh and for those of you that don't know what the hell we're talking about immersion circulators are uh pieces of equipment they're becoming more and more common in kitchens today uh that very very accurately control the temperature of liquid they used to be lab equipment but now they're basically used in kitchens for low temperature cooking and Philip Preston from PolyScience just released the first kitchen model uh you know a couple of months ago that's specifically designed for kitchen. It's not just a piece of lab equipment it's a piece of kitchen equipment anyway they're great I use it I use it every day it's the party machine, it's the brunch machine like if you ever have a party or throw a brunch uh this kind of equipment you know, you should look into it anyway you can see it on our website or go to poly science.com.
+
+[7:05] Anywho uh Philip is not a huge fan of you going out and buying used equipment because he wants to sell new equipment and also uh because he says he doesn't know what happened to the equipment back in the day the other problem is I've I've worked on many of these eBay things that you know in in the past eight years I've maybe had um or ten years I've had uh I don't know ten twelve ones off of eBay uh and a lot of the older models break because they've been used in laboratories for a long long time. The bearings tend to go bad on them uh you tend to have corrosion on the internal contacts which leads to resistance and overheating on the internal parts. Um so there are issues with the older ones. I'm assum if it's older it's analog. The good news is if you can get it to work the analog ones are fairly accurate once you set them you just need to get uh a separate thermocouple to monitor digitally what's going on. Now the problem is is that you don't have a temperature probe on it now I did some research and it appears that some of the older poly science circulators have uh what's called uh what a thermo couple basically uh which is easy to source. The newer ones all use uh platinum RTDs which also are not difficult to source or to wire. So what I would do is contact uh either give me the model number or contact poly science directly and ask them what type of uh what type of probe that unit has and any one of those probes very eas via eBay or McMaster car.
+
+[8:12] Not that you want to necessarily source on eBay again after you got shafted but uh anyway they're fairly easy to source so you just need to find out exactly what it is that you need to get uh and then make a determination as to whether or not it's worthwhile. First of all you should fire it up, make sure the motor's still working, you know make sure the electronics still come on. Any, I hop I hope this helps.
+
+[8:27] Um, okay. Uh uh one of our s people from our Sous Vide class last week which is the reason couldn't be here live last week, Matt, uh wrote in and he said um he he has actually has a restaurant uptown in my old neighborhood uh up uh 109th or tenth, 10th called SI
+
+[8:37] and uh check it out if you're up there.
+
+[8:44] I haven't made it made it up there yet, but I intend to. Um so he's wondering whether we ever tried to carbonate li uh liquor. You everyone who knows me personally knows that I carbonate nothing but liquor, basically liquor and and water. I don't I I don't I like everything with bubb most everything I like with bubbles in it, right, Nastasha? Yes.. Yeah, bubbles... Borbujas. Anyway, I like bubbles a lot.
+
+[9:04] So his question is uh have we ever tried to carbonate in an old uh fashion soda water contain uh because he wants to put it behind his bar because he thinks it's you know it because they do look cool. It's not 'cause he thinks they look cool but they do look cool.. uh and he's gonna make a uh he's gonna make a an infused liquor um based on like a pepper and tomato and he wants to carbonate.
+
+[9:25] Now uh whether or not it's feasible to use these old bottles depends on what you mean by old bottles so roughly you can divide into two different categories. One is the kind that take chargers on them like and and two uh sorry CO2 chargers. And these are kind of the older variety units um that glass with m a metal cage around uh you know EC made them, AKISI or whatever you want to call them uh a number of other manufacturers used to be made a lot in Czechoslovakia very thick glasses and these ones can be used to uh carbonate. The problem with them is is that they're it's very hard to get a very good level of carbonation. First of all liquor is going to require uh more CO2 than water and it's hard to get the head space out uh of the top of the uh of the unit so what I recommend is if you're gonna use one of those with two char you have to use two chargers and what you do is make sure your liquor
+
+[10:11] is super super cold, right? Super cold. If you have a vacu machine de aerate it first to get rid of some of the air if you don't don't worry about it because you're gonna go to the second step you're gonna put your liquor in, make sure you always fill it to the exact same level every time this way you know your recipe is gonna work changing the level of liquid in the bottle is gonna change the amount of carbonation you have each time okay? So make sure it's just the same every time make sure the temperature of the liquid is the same every time as cold as possible.
+
+[10:42] Then uh put a CO2 uh cartridge in swirl to get it all dissolved and then vent it so that it foams up and so you lose uh sorry apologize. Turn it upside down so that the the actual uh siphons these old seltzer siphons have a uh a rod which goes down to the bottom so that when you press it the pressure forces the liquid up through the rod and out the nozzle right when you're venting you have to turn the seltzer siphon upside down so that you'reas and not the product out otherwise you're in for a terri..
+
+[10:58] Any so turn the thing upside down vent out the gas that's of the air uh in that's still trapped on the inside uh and it's also gonna get rid of a lot of what's called the nucleation sites which cause excess bubbling right so that's the key step turning it upside down and venting it then turn it right side up put another charger into it shake it and chill it and you should have a good product now if you mean by old seltz the kind that the seltzer man delivers on a truck or woman I guess but typically men delivers uh on a uh delivers on a truck like three stooges style and you have a little lever and you squeeze them and you spray your buddy in the face or put out a fire or whatever. Uh no that one is much more difficult to fill. They they don't take a charger and they don't unscrew. Those are actually the the tops are left on them and they are washed and filled uh by a machine by actually y you squee the nozzle like you squeeze the lever like you were going to uh spray seltzer out of it and then a machine squeezes a nozzle and fills it without taking the top off so I've considered for several years actually building something to do that, but I haven't done it and it's not a trivial process.
+
+[12:17] So until s and I didn't see anyone on the internet until someone works out like a super slick uh do it yourself way of refilling those old oldser bottles, I would not try to get one of those. Although it's always been a project that I've been interested in it's just too much too many projects in too little time. That's true. I saw a lot at flea markets and I was gonna get you one. Yeah but also if you're gonna do it uh get one with a metal mesh around it because you know if someone nicks one of those old glasses and you're inflating it up to 60 Psi or so I mean th those were built for 120 Psi, but who knows, you know what I mean I don't want it to shatter and explode glass all over you and then you say, Dave Arms didn't be okay to use it uh yeah okay oh so we have a caller.
+
+[12:49] Hello caller. How are you doing hi, I'm fine, how are you? Doing well. Okay, I have a question. It's about chicken, because I cook chicken thighs all the time and it seems like no matter how I cook them they come out wonderfully and everyone thinks they're great.
+
+[13:07] So whenever I cook chicken breasts or chicken cutlets or even a whole chicken, it just seems like the chicken breasts are never that tasty and they're often dry and especially the next day, like the next day you can heat up a stew with chicken thighs and it's really good and even better but whenever I try to heat up chicken breasts
+
+[13:15] the next day they're even drier.
+
+[13:17] So I just wondered if you have any tips.
+
+[13:21] Well first of all, you'rect. Uh the chicken thighs are inherently superior to chicken breasts.
+
+[13:28] And I do not know what kind of marketing nonsense has convinced the majority of Americans that somehow white meat chicken is superior to dark meat chicken.
+
+[13:37] It's insane it's insanity the the thigh is inherently has more taste, uh possibly it's more fat and connective tissue it's gonna overcooking than the breast meat does. I mean that's just straight up fact. Okay. And uh uh breast meat in like a typical American chicken doesn't have as much flavor as you'd like but you know here is here's some things. I mean do you brine the breast?
+
+[14:04] No, but that's a that's a good thought. Yeah here's here's the thing so when you brine the breast two things are happening.
+
+[14:13] Or I brine both but if you brine the breast with uh I usually uh make uh some uh like a w even you could just do water solution till it's uh salty, tasty like salty almost like ocean salty, and then you add sugar till it just gets sweet and what you're doing is is by adding that salt you are changing uh the amount of water that the muscle can uh hold on to, right? So it seems counterintuitive that 'cause when you add salt usu you're drawing moisture out. But when when the salt gets into the meat it's actually changing the amount of moisture that the meat can hold on to when it cooks and it gives you a coup a couple extra degrees of temperature before the meat dries out. And it'll also appear moister when it's when it's cooled down. Um the other, you know obviously
+
+[14:50] You want to be careful not to overcook the breast. If you cook the breast separately from the thigh it's easier um but um that that the main thing is the brining.
+
+[15:23] Also the brining is going to increase the salt level on the inside of the meat which is going to increase the flavor of that meat make it a little less inherently flavorless you know um so you win two times with that uh you know if you have an immersion circulator that is a spot on way to to do you know the piece of equip we were just talking about it's a spot on way to cook it because then you can cook a chicken breast to like sixty three sixty four Celsius and when it cools down it's super juicy and the texture is just right but I personally I think it's hard to it you know using traditional cooking techniques to achieve a uh a good uh uh chicken breast that's good as a cold preparation the next day uh you know that's why we tend to chop it up and toss it with mayonnaise you know what I mean yeah that makes sense that's what I always do yeah I mean that's delicio too I mean don't get me wrong I mean I love chicken salad. Who me uh I mean uh you know we grew up on that stu I love chic salad but um so I don't been helpful.
+
+[15:52] You probably make it with homemade mayonnaise, right? Uh you know, I wish I could say that's true, but I like but i there's certain things that you grow up with in life and you just tend to like them and one of them is I like store bought mayonnaise. I hate to say it I just uh poaching chicken breasts I mean that's sort of something we all grew up with too right well uh poaching chicken breasts, you know, there's a there's a couple of I I I used to do it quite a lot.
+
+[16:13] I've
+
+[16:20] So Jacques Papin came out with a cookbook in the eighties and he has a chicken salad uh recipe poach chicken recipe that he attributes to Danny Kay, the famous uh actor, was also I believe a conductor and and a fine fine cook.
+
+[16:32] Uh and um he used a technique where he would put it into uh water, although I would use broth, right? And then you can uh raise you you raise the temperature till it just comes to the boil and then you cover it and then you let the the r the heat ride out.
+
+[16:45] Now it's no way an accurate cooking technique but it's a variation on a cooking technique that has been used for millennia for instance hams used to be cooked that way in a five gallon uh uh lard container uh you would you know you you would heat the water up in the lard, put the ham in close it and then wrap it up and let the carry overheat.
+
+[17:18] And the theory is is that the carry overheat's gonna be enough to cook it but the temperature is going to drop enough that it's not gonna horribly overcook the meat by the time it's done so I used to fill up a uh you know, like a pot of water and put you know a a pot with uh some you know, vegetables and uh and you know if you had some broth or stock you could put it in and then chicken breasts I would also use thighs, bring it up to the just the simmer, close it and let it ride out and you get two things you get a nice broth and you get some nice chicken meat that's good for a cold salad because it was not overcooked but cooked in water so it didn't or cooked in moisture so it didn's a lot of uh uh a lot of um you know a lot of it's it's not dry.
+
+[17:40] So uh and that's uh you know attributable to Danny Kay through Jacques papin if that's helpful.
+
+[17:44] Well that's really helpful thank you so much. Hey thanks for listening. Hey take care. Could you take your break, James.
+
+[17:52] Oh, uh, and I'm told that we are coming on to our first commer break.. This is cooking Issues that uh cooking Issues radio on Heritage Radio Network, 718 497 2128 That's 718-497-21-28.
+
+[18:05] I want to get on the good foot..
+
+[18:10] I got a kid on the food Going down to the field, let all hang out I wear some beat butt no, like, the button Going down, and let it all hang out so people can find the music and my band the dance and on the good foot I got the beat on the good foot I got the wood on the good foot do it with the good foot say the whole man go back all get together call the strike and they fire it's good dance on the good foot on the good foot ain's nothing but the winter the whole world That's on my face I got the
+
+[19:23] I gotta fucking dog, don't get it, damn. You got that Welcome back to cooking issues on the Heritage Radio Network where we answer your cooking questions at 718-497-2128. 718-497-2128.
+
+[20:28] Uh okay, so Micha Griffith, uh from Philadia is a foller of the blog, thank you so much and uh he called in because he has having a problem with uh some seafood sausages he's making and cause they added ginger to them and he says that they they didn't come out the same and he's pretty sure that the ginger reacted uh he thinks with the eggs and messed it up he said because he also has put uh um ginger into consume and he couldn't get the raft when you c when you're clarify uh when you're clarifying things you add you traditionally you add an egg white raft and the protein along with whatever ground up lean meat you put in helps hold on to the uh the what makes it turbid the turbidity, and uh helps clarify the stock over time it's the actual the proteins are charged and they actually hold on to um they hold on to the stuff that's making it cloudy And he's saying he thinks it's the ginger that's uh messing it up and what the hell is going on.
+
+[20:56] Now uh I don't actually know that it's the egg white specifically that's uh having a problem with the ginger it might actually be the meat and the binding of the muscle proteins together because ginger uh well you know it's a well well known uh enzyme in ginger is uh uh there's a protease enzyme in it and I believe the name of it although I could be wrong is and I don't know how to pronounce anything is zingane and that's a uh uh you know a protease enzyme that's gonna break things down and it's used as a meat tenderizer and in fact uh you know it's it's you know, just as effective if not more effective than papay and you know all these other commer meatenderizers.. So ginger juice is a well-known uh has been a well-known uh tenderizer uh I believe since antiquity so you know it does contain protease enzymes and that's going to mess up your raft and might also mess up your sausage. You could cook the ginger but then a uh beforehand that would um that would you know wipe out the enzyme uh but might change the flavor of the ginger but these things are being cooked anyway so if you I think if you pre-cook the ginger you're not gonna have a uh a problem.
+
+[22:04] An interesting recipe to look up uh that has to do with uh ginger and proteins is uh a Chinese uh dessert called uh ginger milk curd where they basically they take uh uh milk and they add ginger and it causes it to curdle and set um so this is a uh is a well known and interesting fact thanks for you know uh calling our attention To it. And anothering thing I looked, I was looking up the technical literature on uh ginger enzymes and uh ginger enzymes uh you know zingibane or whatever it's called is uh very effective specifically at collagen at breaking down connective tissue uh as opped it seems to have a higher affinity for that uh than uh other protease meat tenderizing enzymes do so uh thank again thank you for that question. And he also uh had a question about lobsters because uh he heard that uh lobsters that are in tanks start to feed off their own flesh uh which you know is true because they typically don't feed lobsters in tanks because if you feed a lobster in a tank uh it it's going to raise the uh you know the waste products that are in the tank and any feed that's not used up is going to uh you know ca cause problems so they tend not to feed I guess also it might cause aggression problems but I don't remember it's been a long time since I've read that kind of technical literature on lobsters uh but that is true but they can survive a very, very very long time. So I don'll know how I don't know how much uh flesh degradation there is just from being stored on a tank although it's quite a bit the next time I speak to a lobster uh scientist I will definitely ask them that that question um the second thing is what is the enzyme that breaks down lobster meat after you kill them uh and uh how long till the enzyme starts to work etc.
+
+[23:27] etc.
+
+[23:40] Can you prevent that enzyme from working uh by freezing it uh now listen this is an incredibly complicated question because there's very very very many enzymes on the inside of a lobster.. Uh lobster tends to have uh break down of its tissue rel
+
+[23:50] Quickly because the circulatory system and basically all the guts of the lobster, everything's in close proximity and kind of an open system. So once the animal is dead, those enzymes really start to to work quickly. There's a number of enzymes it's not just one enzyme that goes to work in lobsters there's enzymes in it that that uh break that break down AT and other uh nucleotides in and they eventually become products that uh that affect flavor in fact um you know uh IMP andosine uh monophosphate is re is reduced to or you know uh changed to other things that have uh negative impact on quality and that is easily traced and is used as an indicator of quality because uh as that starts to progress other things like proteolytic enzymes have also been working, uh breaking down the um the the meat so and it's it's you know very well known that uh what I forget what the thing is called the organ on the inside of the lobster, something like Capato pancreas or something like that contains a w uh a variety of protease uh enzymes that are just going to wreak havoc with the meat.
+
+[24:51] Now here's the bad news you cannot stop those enzymes by freezing because uh as you thaw the meat out like freezing it they they they will work somewhat as they're frozen because unless it there's something called the eutectic point where when you freeze a uh a something below the point at which there's no water left at all then yes, enzymatic activity stops. But in fact what happens is is that at normal freezer temperatures there's still a good bit of unfrozen water uh left inside of your tissue and enzymes can continue to work in that situation but real hell breaks loose
+
+[25:54] When you thaw it because then you have a lot of water that becomes available to these enzymes that are in a hyper concentrated state uh in the remaining uh tissue of the animal and they just go to town and so you uh end up having huge uh degradation on uh on thawing uh especially if things are apparently if things are rapidly thawed um so uh I hope this uh answers your question um I plan on doing a lot more work with uh lobsters soon I've been for literally for a year and a half I've been supposed to be pitching something to the New York Times on uh on lobsters and and what we what we do with them uh so look for more in the somewhat near future although I don't know it's Nastasha how near future do you think of realistically what do we think three years out. Oh Jesus come on now that's not right okay anyway.
+
+[26:15] Uh oh, another interesting thing not only are the enzymes working more uh but I found a study that says that um the muscle fibers of lobster are something like four times uh more liable to breaking by uh proteolytic enzymes than um than like mammal tissue the one they use was rabbit they said that the lobster meat was broken down four times uh easier than uh rabbit meat and I only saw one paper in passing this morning but uh anyway and also, cool thing, the uh there's a paper called Novel uses of uh fish uh and in marine invertebrate enzymes in food industry from 2000 and they have a cool thing that uh and it's because of this question that I looked it up uh they have a cool technique where
+
+[27:13] They use enzymes to descale fish so the scales can basically just be washed off and then the skin is perfect you don't have any problem with uh with knife marks or scraping in the skin and it's used because people tan fish skins for leather and those guys don't want any scraping on their skin and so the enzymatic but I wonder whether there's any application for food industry fun maybeat it upon yeah marine pepsin uh the one I found came from salmon anyway so uh thank you for that question and now uh form our former favorite Thai intern, of course our only Thai intern, we do love him Weep, we pop soupy pot, uh asked about the uh old cucumber trick of rubbing cucumber ends together to get the bitterness out so for those of you that aren'aware there's uh there's an old kind of uh what do you want to call it like a a kitchen what do you want to call it old piece of kitchen wisdom yeah yeah right because I hate that term old wives tale yeah I know I hate it does that mean nothing.
+
+[27:40] Fir is it old wives or old wives wives old wives wives pretty wives sure yes I'm sure yeah okay uh anyway so uh old if it was old wives tale then it's old wife' why that would be that's crazy no anyway so um anyway there is a uh an old uh kitchen piece of kitchen wisdom or maybe not wisdom uh that if you uh take and cut the end of a cucumber off and then the both ends of the cucumber flip it and rub the other end with the other end then all of a sudden the bitterness is gonna go away.
+
+[28:00] Now for th
+
+[28:20] out there that are like hey cucumbers aren't what the hell is you talking about right now listen there are wild cucumbers are bitter pickling cucumbers can be bitter um most supermarket cucumbers in fact are not bitter and if they are bitter it's the uh it's the skin that's bitter. So very, very small percentage of uh supermarket cucumbers are bitter.
+
+[28:53] And certain people can't even taste the bitterness even in the cucumbers that are bitter um what's making it bitter and the the is uh is a thing called cucur I can't we'll never be able to pronounce this cucurbitacin B and C and uh the the these are present in all the cucumber plants but usually not so much in the actual fruit uh and if they are in the fruit they they predominate at the stem end so if you cut the stem end off and then peel it you're gonna get rid of most of the bitter but I have not found any sort of evidence for rubbing it getting rid of that bitterness and it doesn't make any sense if you're cutting the ends off of the cucumber well then hell you're getting rid of the most bitter part of the cucumber, especially if you peel it so that's gonna help right there.
+
+[29:27] The rubbing looks like it's doing something because it foams up and forms a spine but if you think about it uh and I'm willing to be proven wrong on this how the heck is you're gonna pull bitterness out of a whole cucumber just by rubbing the end I mean I could stick a uh the end of a cucumber in a in a pot of stink for like you know half an hour and then cut the stink off and the rest of the cucumber is still fine. So how are you gonna drawitess out just by rubbing the end true or false true. True she looks upset now she's never gonna eat a cucumber again Uh so anyway, so if you have a bitter cucumber the the bad news is is that even on the same plant some cucumbers will be bitter and some won't. Uh and and you know no one's exactly sure it's like the stress of growing, like how old they are, but your best bet is to cut off the ends and peel it and then wash it to get rid of the bitterness and you're gonna be okay. Uh we have a caller.
+
+[30:09] Hello caller.
+
+[30:10] Hey hello how are you doing well.
+
+[30:18] Uh I had a question uh I've been making a drink for a few near a few a few years now it's uh uh espresso with uh Coca-Cola and uh let's just uh put it over ice uh I played around with it uh bunch.
+
+[30:26] But the main thing is uh the way I do it is I take ice uh espresso over the ice I put uh coca okay it doesn't matter. Uh what happens is uh Coca foam uh stiffens up a lot uh want to know if you know uh why that why that would because I'm having s I'm having a lot of trouble hearing you because your uh your cell phone your cell phone's breaking up on me. I heard what I was able to hear was espresso beverage and foam but that what what do you say you put cocoa in it right I make a uh beverage with uh espresso and Coca-Cola.
+
+[30:58] Oh Coca-Cola and espresso okay and the problem with the foam as well thickens up a lot uh one can hop you know why that would be.
+
+[31:03] Yeah so uh uh if you've ever carbonated coffee before it's a nightmare uh in terms of foaming. It really foams up a lot, like a lot.
+
+[31:13] Um and I've never done the research on why, but there's uh you know
+
+[31:18] C you know coffee has a lot of uh espresso specifically has a lot of body to it and a lot of uh emulsified oils in it and it has a high uh total dissolved solids content and it's known for holding a head like a good espresso right has a crema on it.
+
+[31:33] So when you dump an espresso into a Coca-Cola and then try to uh uncap it, you're gonna get like a serious head formation.
+
+[31:39] I've had uh I you know when I carbonate uh coffee beverages, I usually carbonate with uh nitrus. It's not carbonating, but carbonate with nitrous.
+
+[31:49] Uh, to add the creaminess back to the uh to the coffee beverage, like when I'm doing cold like espresso based cocktails, and they foam like the dickens.
+
+[31:58] You just can't you can't get around it. Uh I should have done more research maybe on one. Delicious, honestly. It's my favorite part of the drink. Yeah, it but it's a it's a it if you pouring it in but when you're doing it in a bottle under pressure it's a it's a it's hard to not have it spray all over the kitchen it is delicio. I mean you should try you know, if you like that if you do you have an uh one of those ISI cream whippers where you are? Uh I don't have one uh no I've in the past and a lot of restaurants that worked in I'm planning on getting one for the restaurant uh I'm starting with how yeah so just you know just for for giggles, when you're not doing a Coca-Cola one, when you're doing a a regular one, just try hitting a cold espresso beverage with a shot of nitrous and you get a lot of that body and creaminess back that you get from a freshot, even more so, but it doesn't have the the carbonation taste. So the carbonation taste like there's a Manhattan soda, called Manhoda I think that's really
+
+[32:47] that is a carbonated coffee drink. Uh but a lot of people if they don't they want that creaminess without and that foaminess witho you could try nitrous and that that I've had good success with that thank you thanks for calling in my pleasure, thank.
+
+[33:01] Let me see here.
+
+[33:03] We got some more questions on the email.
+
+[33:07] Okay, so Anthony Wong who took our Sous V class, wrote in and said, uh I mentioned that I use a stainless steel pins for cooking a duck breast instead of scoring the skin now a word of he wants to know where you can get it and what kind uh a word of uh background here when you're cooking a duck breast you want to cut most people will tell you you want to score the duck breast uh you know the skin side of it so that when you render uh a skin when you when you crisp up the skin, the fat's going to render out.
+
+[33:40] Now, Nils Norin, uh, you know, you know my my bar buddy partner in crime, head of the Fren culinary department uh detests this practice because he says that where the scoring is you're gonna overcook the meat uh but people who say who are pro-scoring say well they want more fat rendered out.
+
+[33:45] So where where do you know where do you come down on this?
+
+[33:57] Well, Chris Young, uh chef formerly the research chef at the fat duck restaurant in um in uh in in England and uh Nathan Mirvold the uh Microsoft billionaire inventor of PowerPoint and many other things, you know are coming out with uh you know supposedly the uh well not suppose I've it's really good the world you know, the greatest tech cookbook ever written it's a huge magnum opus it's coming out at the end of the year um they demonstrated a technique last year at Starshest where they said, well, what if you took a dog brush
+
+[34:50] And you know, like you go, it's like a steel dog brush you just go to a pet store make sure you get one that's stainless steel and it's got zillions of little tiny stainess steel spines on it and you just smack the duck breast with this uh dog brush a couple times and it makes uh all these micro perforations in the skin and they allow the fat to render out of the duck breast witho without giving you enough area to overcook the meat that's underneath and you know what we've tested it several times and it's a fantastic idea so I think anyone that cooks duck breast on a regular you know regular basis needs to go buy a dog brush.
+
+[35:14] Please don'll use the brus you've already used on your dog it's gross go get a brand new dog brush I think they're like three dollars or four dollars you can get them at any pet food store uh pet store or you know pet supply mart right and uh they do they do uh they do wonders so uh break time all right I've been told we're going to our next commercial break so call your questions into 718 497 2128 that's sevene 4972128 cooking issues if you want to get down with a butt this is the way you do it walk up and wrap to it put your hand on a low left come on you know yeah this is what you're gonna I mean come on like your shell come on with you come on yeah give me thing with things
+
+[36:01] get it up say give what you say make it stone to the fight give him a thing what you say give me what you say give him a thing what you say baby give him a thing what you say give me what you say give him a thing say give me say give him the same say baby say just moment say give mean give a thing give me I need you baby say leave you now say I don't you say what
+
+[37:22] Welcome back to Cooking Issues on the Heritage Radio Network. Calling your questions to seven eight four nine seven 2128 that's 718497 2128 and we have a caller hello caller on the air hi Dave how are you hey um I got a question about steak.
+
+[37:36] Oh good I like steak.
+
+[37:54] I'm a big fan of steak, especially uh ribeyes and grass fed ribeyes nice uh but sometimes uh when I cook the steak there sometimes it's this really hard sort of tendon that runs through and I'm not sure what the reason for that is or or what to what to do with those. Uh I mean the the silver skin or the actual piece of connective tissue that is uh that little mean that that one little section on the upper part of the muscle that's that's in one part of it but not the other there's not there's not a lot you can do about that as far as I know you you have to kind of cut it out.
+
+[38:10] I tend to trim it I mean one thing you can do you can see it before you before you cook it right um and you can trim that out and then uh and then re glue it back together with uh transglutaminase.
+
+[38:20] I can't remember what that's made out of.
+
+[38:26] I mean I I don't think that's gonna render even under long cooking I could be wrong I don't remember whether that does but you of course you're never gonna cook that kind of meat long enough to render it so I don't short of removing it and gluing it back together which I have done many times I don't know of a of a good way to get that done.
+
+[38:38] Do you have access to meat glue
+
+[38:45] Uh no I don't but I do I do have a circulator.
+
+[38:49] Okay.
+
+[39:13] Yeah, you know what the problem is this so let's okay so for those of you don't know what we're talking about uh you know in uh certain cuts of steak like in s like along as you go along the uh the you know the the rib steak you'll see that there's certain ones that have these little like dots in the in the where in between the two muscle parts that are you know that don't they stay hard, basically uh now the there's uh an enzyme called transglutaminase activa transglutaminase that will glue proteins together and it's very simple to use.
+
+[39:27] Uh problem is you have to buy a whole bag of it and I have a question on that actually came in an email and answer in a minute um but they can rebond the meat together and I use it for taking out pieces of connective tissue and then gluing meat back together um and that's viable but you know you have to have the stuff lying around.
+
+[39:54] Uh the problem with circulators with that is that to to render a piece if it was connective tissue which is gonna get soft with long cooking and I don't the case uh at the temperatures you're gonna want to cook a ribeye which is roughly fifty five degrees Cel um it would take uh several days to really break it down and um you know, in the tests that we've done with with ribeyes you don't wanna cook 'em more than about um you know you know six hours.
+
+[40:08] We've done one hours, two hours, three hours, four hours, five hours, six hours, seven hours, eight hours, nine hours, ten hours and overnight on ribeyes.
+
+[40:13] And uh we like them uh best in the ribeyes that is, in the two to four range and we like them okay, you know, up to about six. At eight we feel that they're l you know starting to take on kind of a little bit of a squashy texture and that it gets fibery as you chew.
+
+[40:32] And that long long cooking on ribeye is not going to be necessarily uh so good for it's I don't know that you have a long cooking way of uh getting out of hey you know you could do if you don't have meat glue though.
+
+[40:46] You could still cut out that that that portion that you don't like and uh and then basically almost you c I don't know this is gonna work you could try dusting it.
+
+[40:49] I don't think gelatin's gonna hold it together at the high temperature.
+
+[40:55] I'm trying to think of something you can use other than um other than meat glue because all you really want to have to do is bind it together. Do you have a vacuum uh sealer as well?
+
+[41:04] Yeah, I do..
+
+[41:05] I mean you could try sprinkling a little bit of uh of uh like salt and then some sort of uh gel no it's gonna melt when you do it but it m if you vacu it together it's gonna hold together while you cook it and it'll probably hold together while you sear it but then as you cut it on the plate obvious you're gonna see that you've trimmed out a piece of the of the muscle, you know.
+
+[41:24] Sorry I couldn't be more helpful on this one.
+
+[41:26] No it just sound sounds like I have to get some uh transglumic. Yeah, you defin you definitely do. You definitely do. Uh well uh thanks for calling in. That leads great into our next question from Matt who says um he's been reading up on transglutaminase after seeing the uh Iron chef uh episode where my brother in law Wiley Dufrain used it to make uh
+
+[41:45] Unfortunately not shrimp noodles, tilapia noodles, tilapia is, you know, not our favorite fish.
+
+[41:49] Anyway, uh he said that he really wants to start using it but he has a couple questions do you know of a supplier who sells quantities smaller than the ninety dollar bags online which are one kilo uh either an online supplier or a brick and mortar store in Boston or New York uh and the short answer is no I do not.
+
+[42:00] It used to be that um and it might still be for all I know that if you call up um a Ginamoto the company that makes it's a Ginamoto makes uh transglutaminase enzyme which is meat glue the stu that glues proteins together.
+
+[42:23] You sprinkle on like powder sugar and the meat she sticks together it's great stuff they make it uh agenoto under Aji Foods USA, makes and the brand name they use is Activa and the one that you want to get to start with M..
+
+[42:33] They used to give out like small 200 gram I think uh sample packs to chefs but the the chef community is taken to it so much they might no longer give out sample packs. And unfortunately moto does not sell increments smaller than one kilo and because they come packed direct from a Ginamoto in one kilo packs and not in like fifty pound sacks the way that um the way that like you know most powders and hydrocholates come, companies haven been willing to break them down into smaller packs and a Ginamoto hasn'd been willing to make available for to pay for their sample packs.
+
+[43:01] Now if a Ginamoto just said hey look we're gonna quadruple the amount we're gonna make, and then just charge three times as much per pound
+
+[43:19] people would still buy it because people would rather to test, spend fifteen bucks on two hundred grams or twenty bucks on two hundred grams uh than um then shelling off for a whole kilo if they don't know if they're gonna use it over time.
+
+[43:39] Espeah they figure they're not gonna use it before it goes bad uh now uh we have toyed with the idea cooking issues of making that enzyme available the same way we make uh pectanex Ultra SPL and Pectanex Smash uh you know the the miracle pectin uh breaking down enzymes that make the world's greatest French fry and the world's greatest juices.
+
+[43:49] Um but uh the but we decided against it because we didn know that we wanted to get in the business of cutting open that uh you know retail pack and then repacking it and selling it.
+
+[44:00] Um maybe we should I don'tro it's I think we should yeah I mean I have to figure out whether not uh whether not it's a problem to do it or whether or not you know we're gonna run into any issues with it um but you know it would be useful to people. So I apologize that there is no way but here's what here's what you should do.
+
+[44:14] You should get together with some buddies. You should uh split a package of it, and then when you buy it make sure that you cut it open you instantly get all the air out and store it in the freezer and it will last a good long time in the freezer like six six eight months in the freezer uh and I'm su you'll get good good use out of it so I mean it's it's definitely worth getting if you can split the bag with like you know, four or five people even more so.
+
+[44:28] Um but anyway I'm sorry I couldn'd be more help with that. But then the uh the second part of the question is can meat glue be used with non meat proteins And could you do something interesting with nuts, for example. Well, I've anything with nuts, but it does make tofu firmer.
+
+[44:49] And uh, you know, you can make for instance, peanut tofu, but peanut tofu is very, very soft and it's very hard to get to s to hold together.
+
+[45:16] So perhaps you could use and this is perhapes because I've it, perhaps you could use transglutaminase to help cross link proteins in like a peanut curd for example, and then make uh a more effective peanut tofu, peanut tofu is a real pain in the butt it really clogs things up, it's hard to get it to set up nicely it's delicious when you get it right though so that's possible um so yeah transglutaminase works on uh any any protein like that uh works on like I say I haven't tried nuts but it works on cheese you can glue things to cheese works on eggolk it thickens up egg yolk quite nicely and you can uh glue things to egg yolks.
+
+[45:30] We glu bacon to egg yolks which is meat but you could glue cheese to an egg yolk I guess. Um you know any protein like that I mean the problem with slurries if there's not enough protein and there's too much fat like in a nut paste, then the protein doesn't have anything to bind on to and it makes for very kind of weak bonds and so it's in certain situations it tends to act more as a thickener than as a uh than as a you know a a gluing agent they also have one for dairy uh that's used for yogurt to make uh yogurt setup better but is uh used by uh you know like Johnny Azini to make ricotta dumplings uh or gnocchi rather so yes it will bond any anyone or it will it will be active on any one of those um on any one of those proteins. Um
+
+[46:11] There's a lot of there's lot of things yet to be done with it.
+
+[46:16] Wiley, my brother in law Wally Defrain, he has a very very interesting application.
+
+[46:23] Unfortunately it's meat because it uses gelatin but basically he uses uh transglutaminase to crosslink gelatin so that it doesn't melt anymore and he makes sheets out of uh vegetables like pasta then lets it set overnight with the transglutaminase and it uh once the gelatin sets up and cross links it no longer melts but stays flexible like a noodle and these things can be fried into crisps or used as pasta it's a fantastic technique you can look for it on the internet.
+
+[46:42] That one you want to use the um activa that there's a special one called that's just the enzyme it doesn't the most of the ones we use have casein or added gelatin in it you want to make sure you use the one that's just straight enzyme for that technique but uh hopefully that's helpful and I wish you luck in your in your transglutaminase journeys.
+
+[46:54] I have another question from Ray in uh DC Hi Ray uh and uh he likes our show which is nice thank you.
+
+[47:05] Uh and uh a friend of his went to a place call PX in Alexandra uh Alexandria Virginia uh and uh it and he said they had a a drink that was made with tobacco uh tobacco in the drink tobacco infused and he thinks it's made with bourbon uh well that place PX is uh the the guy there's a guy named Todd Thrasher and for a number of years now I think three or four he's been well known for uh infusing um cocktail uh cocktails with tobacco um and I forget I saw him interview on it once and it was uh it's something about like his childhood memories I think he grew up maybe near a tobacco farm or anyway it has a lot of childhood memories from the smell of tobacco I believe he does not infuse the tobacco into
+
+[47:38] the bourbon, he infuses it into, I believes water, and then adds the tobaco water and as a syrup to the bourbon. That's I think how he does it.
+
+[47:59] Uh, but I'm not sure uh, because I don't think he publishes his recipe.
+
+[48:15] Now uh uh the second part of that question was what do you think about the health effects of that well it's definitely probably you know, uh ingesting it way is definit, you know less harmful than um than smoking it uh because you know a lot of the harmful products in tobacco come from combus of tobacco.
+
+[48:35] But uh it's not risk free, obviously, you know I don't know what the long term effects of in of ingestion are uh you know, but nicotine by itself has, you know effects on your um on your cardiovascular system uh you know, uh if you ingested huge amounts of it, for any of you have ever tried uh dipping tobaco you know uh like you know the stuffed dip that you put in your lip and have accidentally swallowed the juices, you know that concentrated tobacco juices uh you know, make throw up like a demon. At least they make me throw up like a demon. Apparently if you dip all day every day, you can start swallowing the juices witho spitting and not vomit. But the one time I was in my buddy Charlie's uh room when I was in high school and he gave me some dip, and then he said, Why aren'ting and I said you need to spit and thirty seconds later his entire room was coated with my lunch. Like uh you know from that on in I was like large concentrations of tobacco juice don't sit well literally in your stomach. And so uh you know I doubt he's putting enough tobacco in to have that kind of effect which means he's probably putting a very small amount in which means that any health effect is probably small uh you know especially because how many are you drinking I don't know um what do you think Stasi?
+
+[49:28] I don't no.
+
+[49:30] All right.
+
+[49:32] So I hope that hope that answers uh your question and Ray also says that he's been uh infusing vodka using our infusion technique and uh we appreci we appreciate uh thank you for your question um now Curtis wrote in and he said regarding freezing inzymes uh because we were talking about that earlier.
+
+[49:42] Then this is like live email crazy.
+
+[49:54] Uh I have found that pork tenderloin is much more tender when frozen than thought as compared with fresh well uh I haven't done the test myself but that's entirely possible if you slow freeze a piece of meat what happens is as you's freezing it uh water is drawn out of the tissue and forms ice crystals the slower that it's frozen the the bigger the ice crystals are and they can have a tendency to uh not only puncture the uh meat uh cells so that when you thaw you get lost, but also those big ones are harder to reabsorb back into the meat tissue as it thaws.
+
+[50:11] So when you're freezing something it's think of it as a partial dehydration and when you're thawing it the meat is reabsorbing that liquid. Now the more something drips liquid when it's thawed, the more damage uh you've done to the meat.
+
+[50:35] Now that damage though, it's possible I haven't studied it, but it's possible that that actually could make it more tender as long as you're not cooking it to the point where it's gonna dry out again.
+
+[50:47] So it's in entirely uh uh and also it's entirely possible as you say in your question, that the uh that the
+
+[50:55] proteolytic enzymes uh present in the meat uh kick into overdrive as they're thawed but I don't know that information off the top of my head I'm gonna have to do some uh research. So Stasi if you wanna rejot this question down, I'll try and look for uh I'll try and look for free thaw tenderizing in the scientific literature over the course of the week 'cause it'sing question I hadn's of it but it's probably you know the effect, um which again I haven tested is probably a multi like a multifactorial thing of a jig, right?
+
+[51:27] Any who all right, so we we were trying to call our good buddy Mark Ladner for this next question Mark Ladner is a chef at Del Posto and a tall man. How tall is uh Mark Ladner six four? Six ten uh six ten crazy.
+
+[51:37] He's like six four six five. So he is tall. He's tall.
+
+[51:42] Uh anyway, uh this this will make sense uh in the next question so um Steve writes in and said uh a friend whose name is uh Colleen right uh is a is a tall woman. She is uh six foot seven.
+
+[51:56] It's tall yeah, just under six foot seven actually six foot six, short.
+
+[52:00] Yeah not even six foot seven. No. So she's six foot basically six foot seven.
+
+[52:08] She loves to cook but she gets terrible back pains when working in the kitchen uh particularly when preparing food and so they have a, you know, you know, the standard countertops are thirty six inches high and is it you know, inadequate for her uh
+
+[52:16] they did some calculations and they figure that uh the average countertop is built for someone who's five four to five five they think it's based on kind of uh you know like uh the average World war two era housewife is that uh and that so they constructed a butcher block that's 13 inches uh 13 and a half inches uh high, you know, a table that fits on top of the countertop that she can do her her cutting on um but and she loves it's and you can look on the internets there's a pictures of her using it and she enjoys it.
+
+[53:14] Uh, but she's enrolling in a culinary school and the question is what can be done for a very tall cook does she have to bend over or can she bring something like her modified butcher block uh with her to school or are there other approaches well that's an interesting question first of all uh I don't know that six five that six five, six four is actually I mean I haven't I'm sure you've read the studies, I haven't I'm five ten and I like countertop heights a lot um when they're even like a couple inches taller like let's say like they were five inches taller for me, I get fatigued because of the way that I'm used to to cooking.
+
+[53:25] So a lot of how you a lot of of what's happening with your with your back and working at a countertop has to do with how you position yourself at the counter like what your stance is and where your where your wrist and your arm is.
+
+[53:36] So I I'm used to working at 36 so when you go lower or you go higher like I get t I get totally messed up, right?
+
+[53:44] Um now but that's because I'm used to that
+
+[53:48] now I stood on a stool that made me as tall as Colleen, right? And indeed my arms I could not get a comfortable stance no matter how I tried. Now of course I'm sure Colleen's arms are longer than mine, you know what I mean?
+
+[54:05] I mean you know you know s so I don't know whether it's 10% you know accurate, but I can see the definite need for someone that height to increase the the the height of their countertop.
+
+[54:12] Now, here's the problem. If you're going to a cooking school I think what what you're gonna do depends entirely on why you're going to cooking school and what kind of cooking school you're going to.
+
+[54:37] If you um I was had this discussion my wife's an architect and I was having this discussion with her last night after this question came in well for instance would a workplace be required to uh allow you to bring something in um because of your height could could you for instance go in and I'm obviously I'm not saying being tall is a disability, you know I wish I was tall.
+
+[54:51] You know what I mean but like anothers we have i in the U.S we have the Americ Disabilities Act and you you have to make the workplace with the exception of a couple jobs like airline you know a flight attendant and whatnot, safety jobs like that, you have to make the workplace accessible to anyone based on something that's classified as a disability.
+
+[55:04] But I don't that you would classify being um too tall for the countertops as something that a workplace would necessarily have to make compensation for but I don't it's a very interesting question um now.
+
+[55:17] If you're going to cooking school and you're not interested in working in a pro kitchen you know for the for years and years then by all means I would say you know, ask them, let let let you bring it in and use it. You know, there's no reason to break your back.
+
+[56:09] Uh but uh if you're gonna be working in professional kitchens for you know a long long time, you know I would I would recommend at least trying to figure out some way to modify your your your stance or modify something or maybe use like a weightlifting belt or something that can help support your back I don't no because my you know I was talking to my wife again architect and designer and she's like there's two choices modify your environ or modify yourself and the and the and what this boils down to is I don't know if you're going to be able to modify your environment if you're going to go out into the professional cooking environ if you can't modify your environ then the only thing left is modify yourself and that could be with supports for your back or or uh you know Alton Brown is apparly tall and he designed these knives that have like a a uh a bend in the handle so that he doesn't bring his wrist all the way down to do the chopping now for me they're goofy because you know I'm short and you know I'm five ten and so regular knives work great but you know I don't know whether she's tried uh these knives with the bend in the handle that are designed specifically for tall people and to make up for the um the difference in height and countertops so it's an interesting question I don't have a uh resolution.
+
+[56:39] Um what do you think Sazi
+
+[56:45] I I think I don'..
+
+[56:46] I mean well but then I told you about the other part where we knew the guy who was really tiny.
+
+[56:52] Well it's Robin he still works in a kit a professional kitchen.
+
+[56:56] That's easier to modify I think though, a stool.
+
+[56:59] Yeah or s or something. But you know again it's a very interesting question and uh I wish you know I'm gonna get in touch with some uh some cooks who are very very tall and some cooks who are not so tall and uh you know, you know, very untall.
+
+[57:10] And we will and we'll try to figure out what the uh what the answer is because I think it's I think it's super interesting.
+
+[57:19] But uh the long story short if you're not gonna go pro into a professional kitchen and by the way I I never think any professional kitchen should discriminate against anyone for any reason obvio but I'm just saying like what can you realistically expect to happen when you go to a kitchen that's the real question. It's not what they should do.
+
+[57:36] We all know what my stepfather said should you know I can't get into it with involved scores but like it's not what they should do it's what they will do is what you need to worry about.
+
+[57:43] But if you're not in it to go pro, um you know I think uh a long talk with the cooking school uh I'm sure they would like to have her money. Uh so that I'm sure they will make some accommodation. Am I wrong about this? I mean I don't see it as being that disruptive to the uh class. And then she has her own station and everything it's not like you know she's saying, Hey I need to listen to loud music while I cook or I can't learn you know which would be disruptive to the rest of the class so you know, I don't see why they wouldn't. But uh anyway hopefully this is helpful and you've uh raised definitely an interesting question that I will be thinking more about I love ergonomics And design so uh I'll think more about this problem.
+
+[58:57] And thank you all for listening to cooking Issues this yeah uh this week's cooking issues brought to you by Whole Foods Market and the uh craft beer week cooking issues thanks so much oh you dare got me on this corner and I don't know where I'm

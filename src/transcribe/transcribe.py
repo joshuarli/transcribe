@@ -641,7 +641,9 @@ def _transcribe_parakeet(audio_path: str, checkpoint_path: Path | None = None) -
         ]
         return aligned.text, segs
 
-    return _run_chunks(chunks, sr, _run_chunk, checkpoint_path, "parakeet", done=done)
+    result = _run_chunks(chunks, sr, _run_chunk, checkpoint_path, "parakeet", done=done)
+    result["segments"] = _apply_silence_breaks(result["segments"], _silence_windows(data, sr))
+    return result
 
 
 def main() -> None:

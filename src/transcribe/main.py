@@ -4,7 +4,7 @@
 import argparse
 import sys
 
-from transcribe.denoise import denoise
+from transcribe.denoise import denoise, strip_fillers_rendered
 from transcribe.episode import make_episode
 from transcribe.extract import extract
 from transcribe.feed import load_episodes
@@ -54,6 +54,11 @@ def _add_render_args(p: argparse.ArgumentParser) -> None:
         action="store_true",
         help="Extract and save speaker embeddings (requires --speakers and --diarize)",
     )
+    p.add_argument(
+        "--strip-fillers",
+        action="store_true",
+        help="Remove 'uh'/'um' disfluencies from rendered transcript",
+    )
 
 
 def main() -> None:
@@ -92,6 +97,14 @@ def main() -> None:
     p.add_argument("--redo", action="store_true", help="Delete cached transcript and re-transcribe from scratch")
     _add_render_args(p)
 
+    p = sub.add_parser("denoise", help="Clean a rendered transcript with heuristic filters")
+    p.add_argument("number", type=int)
+    p.add_argument(
+        "--transcriber",
+        choices=BACKENDS,
+        default=BACKENDS[0],
+        help=f"Which transcription backend's output to read (default: {BACKENDS[0]})",
+    )
     p = sub.add_parser("extract", help="Extract culinary information from a transcript via LLM")
     p.add_argument("number", type=int)
     p.add_argument(
@@ -158,6 +171,7 @@ def main() -> None:
                     backend=backend,
                     learn=args.learn,
                     diarize=args.diarize,
+                    strip_fillers=args.strip_fillers,
                     speakers_path=podcast.speakers_path,
                 )
         case "transcribe":
@@ -174,8 +188,22 @@ def main() -> None:
                 backend=backend,
                 learn=args.learn,
                 diarize=args.diarize,
+                strip_fillers=args.strip_fillers,
                 speakers_path=podcast.speakers_path,
             )
+        case "denoise":
+            if not 1 <= args.number <= len(episodes):
+                sys.exit(f"Episode {args.number} not found.")
+            ep = episodes[args.number - 1]
+            if not ep["text"].exists():
+                sys.exit(f"No transcript at {ep['text']} — run 'transcribe' first.")
+            raw = ep["text"].read_text(encoding="utf-8")
+            result = strip_fillers_rendered(denoise(raw))
+            out = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
+            out.write_text(result, encoding="utf-8")
+            saved = len(raw) - len(result)
+            print(f"{ep['slug']}: {len(raw)} → {len(result)} chars ({saved / len(raw):.0%} removed)")
+            print(f"{ep['slug']}: written to {out}")
         case "extract":
             if not 1 <= args.number <= len(episodes):
                 sys.exit(f"Episode {args.number} not found.")

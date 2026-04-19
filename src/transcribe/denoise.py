@@ -2,42 +2,11 @@
 
 import re
 
+from word2number import w2n as _w2n
+
 _TS = r"\[\d+:\d{2}(?::\d{2})?(?:\s*\|\s*[^\]]+)?\]"
 _TS_PARSE = re.compile(r"\[(\d+):(\d{2})(?::(\d{2}))?")
-
-_FILLER_RE = re.compile(
-    rf"^{_TS} (Yeah\.?|Mm+\.?|Ah+\.?|Right\.?|Alright\.?|Uh-?huh\.?|M?hm\.?|Sure\.?|Okay\.?|Yep\.?|Ha+\.?|Hmm+\.?)$",
-    re.IGNORECASE,
-)
-_BUMPER_RE = re.compile(
-    r"(?:you are|you'?re) listening to.{0,80}(?:cooking issues|heritage radio)",
-    re.IGNORECASE,
-)
-_SPONSOR_RE = re.compile(r"\bbrought to you by\b|\bsponsored by\b", re.IGNORECASE)
-_PHONE_RE = re.compile(r"\d{3}[.-]\d{3}[.-]\d{4}")
-
-
-def _strip_phones(para: str) -> str:
-    # Remove "That's/That is <phone>" repetitions before stripping the primary number
-    p = re.sub(r"[.,]?\s*[Tt]hat(?:'s| is)\s+\d{3}[.-]\d{3}[.-]\d{4}[,.]?", "", para)
-    p = _PHONE_RE.sub("", p)
-    p = re.sub(r",\s*\.", ".", p)  # ", ." → "."
-    p = re.sub(r" {2,}", " ", p)  # collapse runs of spaces
-    p = re.sub(r" ([.,])", r"\1", p)  # remove space before punctuation
-    return p.strip()
-
-
-_BOILERPLATE = [
-    "Heritage Radio Network",
-    "Thank you for listening",
-]
-_SHORT_THRESHOLD = 300
-_PREROLL_KEYWORDS = ("cooking", "food", "heritage radio", "french culinary")
-
-# Music detection: runs of consecutive short-content paragraphs with dense timestamps
-_MUSIC_MAX_CHARS = 80
-_MUSIC_MIN_RUN = 5
-_MUSIC_MAX_AVG_GAP_S = 15
+_TS_PREFIX_RE = re.compile(rf"^{_TS}\s*")
 
 
 def _seconds(para: str) -> int:
@@ -45,13 +14,298 @@ def _seconds(para: str) -> int:
     if not m:
         return -1
     a, b, c = m.group(1), m.group(2), m.group(3)
-    if c:
-        return int(a) * 3600 + int(b) * 60 + int(c)
-    return int(a) * 60 + int(b)
+    return int(a) * 3600 + int(b) * 60 + int(c) if c else int(a) * 60 + int(b)
 
 
 def _content(para: str) -> str:
-    return re.sub(rf"^{_TS}\s*", "", para)
+    return _TS_PREFIX_RE.sub("", para)
+
+
+# Spoken digit sequences → digit strings (e.g. "seven one eight" → "718").
+# Must run before phone detection so formatted numbers can be matched and stripped.
+_DIGIT_WORD_TO_CHAR = {
+    "zero": "0",
+    "one": "1",
+    "two": "2",
+    "three": "3",
+    "four": "4",
+    "five": "5",
+    "six": "6",
+    "seven": "7",
+    "eight": "8",
+    "nine": "9",
+}
+_SINGLE_DIGIT_WORDS = frozenset(_DIGIT_WORD_TO_CHAR)
+_digit_pat = "|".join(_DIGIT_WORD_TO_CHAR)
+_SPOKEN_DIGIT_SEQ_RE = re.compile(rf"\b({_digit_pat})(?:\s+({_digit_pat}))+\b", re.IGNORECASE)
+
+# Words that form compound numbers — used by normalize_numbers.
+_ALL_NUM_WORDS = _SINGLE_DIGIT_WORDS | {
+    "ten",
+    "eleven",
+    "twelve",
+    "thirteen",
+    "fourteen",
+    "fifteen",
+    "sixteen",
+    "seventeen",
+    "eighteen",
+    "nineteen",
+    "twenty",
+    "thirty",
+    "forty",
+    "fifty",
+    "sixty",
+    "seventy",
+    "eighty",
+    "ninety",
+    "hundred",
+    "thousand",
+    "million",
+}
+# Multiplier-only words are meaningless without a preceding number; skip when standalone.
+_MULTIPLIER_ONLY = frozenset({"hundred", "thousand", "million"})
+
+
+def _collapse_spoken_digits(text: str) -> str:
+    def _replace(m: re.Match) -> str:
+        return "".join(_DIGIT_WORD_TO_CHAR[w.lower()] for w in m.group(0).split())
+
+    return _SPOKEN_DIGIT_SEQ_RE.sub(_replace, text)
+
+
+def normalize_numbers(text: str) -> str:
+    """Convert word-spelled numbers to digits (e.g. 'sixty three' → '63')."""
+    words = text.split()
+    out: list[str] = []
+    i = 0
+    while i < len(words):
+        raw = words[i]
+        clean = raw.lower().rstrip(".,!?;:")
+        if clean not in _ALL_NUM_WORDS:
+            out.append(raw)
+            i += 1
+            continue
+        # Collect the longest contiguous run of number words.
+        j = i + 1
+        while j < len(words) and words[j].lower().rstrip(".,!?;:") in _ALL_NUM_WORDS:
+            j += 1
+        span_raw = words[i:j]
+        span_clean = [w.lower().rstrip(".,!?;:") for w in span_raw]
+        trailing = span_raw[-1][len(span_raw[-1].rstrip(".,!?;:")) :]
+        # Skip standalone multipliers — they only make sense attached to a preceding number.
+        if len(span_clean) == 1 and span_clean[0] in _MULTIPLIER_ONLY:
+            out.append(raw)
+            i += 1
+            continue
+        try:
+            out.append(str(_w2n.word_to_num(" ".join(span_clean))) + trailing)
+            i = j
+        except ValueError:
+            out.append(raw)
+            i += 1
+    return " ".join(out)
+
+
+# normalize_numbers converts "three" → "3" before these run, so three-quarters
+# appears as either "three quarters" or "3 quarters" depending on context.
+_FRAC_THREE_QUARTERS_RE = re.compile(r"\b(\d+)\s+and\s+(?:three|3)\s+quarters?\b", re.IGNORECASE)
+_FRAC_HALF_RE = re.compile(r"\b(\d+)\s+and\s+a\s+half\b", re.IGNORECASE)
+_FRAC_QUARTER_RE = re.compile(r"\b(\d+)\s+and\s+a\s+quarter\b", re.IGNORECASE)
+_FRAC_THIRD_RE = re.compile(r"\b(\d+)\s+and\s+a\s+third\b", re.IGNORECASE)
+
+# F/C patterns must run before bare-degrees to avoid double-matching.
+_TEMP_F_RE = re.compile(r"\b(\d+)\s*degrees?\s+(?:Fahrenheit|F)\b", re.IGNORECASE)
+_TEMP_C_RE = re.compile(r"\b(\d+)\s*degrees?\s+(?:Celsius|Centigrade|C)\b", re.IGNORECASE)
+_TEMP_BARE_RE = re.compile(r"\b(\d+)\s*degrees?\b")
+
+_PERCENT_RE = re.compile(r"\b(\d+)\s+percent\b", re.IGNORECASE)
+
+
+def _normalize_fractions(text: str) -> str:
+    text = _FRAC_THREE_QUARTERS_RE.sub(r"\1¾", text)
+    text = _FRAC_HALF_RE.sub(r"\1½", text)
+    text = _FRAC_QUARTER_RE.sub(r"\1¼", text)
+    return _FRAC_THIRD_RE.sub(r"\1⅓", text)
+
+
+def _normalize_temperatures(text: str) -> str:
+    text = _TEMP_F_RE.sub(r"\1°F", text)
+    text = _TEMP_C_RE.sub(r"\1°C", text)
+    return _TEMP_BARE_RE.sub(r"\1°", text)
+
+
+def _normalize_percentages(text: str) -> str:
+    return _PERCENT_RE.sub(r"\1%", text)
+
+
+_PHONE_RE = re.compile(r"\d{3}[.-]\d{3}[.-]\d{4}|\b\d{10}\b|\b\d{3}-\d{7}\b")
+_PHONE_REPEAT_RE = re.compile(r"[.,]?\s*[Tt]hat(?:'s| is)\s+(?:\d{3}[.-]\d{3}[.-]\d{4}|\d{10}|\d{3}-\d{7})[,.]?")
+
+
+def _strip_phones(para: str) -> str:
+    p = _collapse_spoken_digits(para)
+    p = _PHONE_REPEAT_RE.sub("", p)
+    p = _PHONE_RE.sub("", p)
+    p = re.sub(r",\s*\.", ".", p)
+    p = re.sub(r" {2,}", " ", p)
+    p = re.sub(r" ([.,])", r"\1", p)
+    return p.strip()
+
+
+# Tag questions: replaced with "." to create a proper sentence break.
+_RIGHT_TAG_RE = re.compile(r",\s*right\?\s*", re.IGNORECASE)
+_WMEAN_TAG_RE = re.compile(r",\s*(?:you\s+know\s+)?what\s+I\s+mean\?\s*", re.IGNORECASE)
+
+# Parenthetical filler phrases — stripped with surrounding comma/space consumed.
+# "you know" lookbehind guards against "do/if you know" (semantic uses).
+_YOU_KNOW_RE = re.compile(r",?\s*(?<!\bdo )(?<!\bif )\byou know\b\s*,?", re.IGNORECASE)
+_I_MEAN_RE = re.compile(r"^,?\s*I mean\b,\s*|,\s*I mean\b,\s*", re.IGNORECASE)
+_BY_THE_WAY_RE = re.compile(r",\s*by the way\s*,\s*", re.IGNORECASE)
+# Only strip "basically/essentially" when clearly parenthetical (comma-fenced or sentence-opening).
+_BASICALLY_START_RE = re.compile(r"^,?\s*\b(?:basically|essentially)\b,?\s*", re.IGNORECASE)
+_BASICALLY_MID_RE = re.compile(r",\s*\b(?:basically|essentially)\b,?\s*", re.IGNORECASE)
+# Trailing hedge — strip before end-of-clause punctuation or end of string.
+_OR_SOMETHING_RE = re.compile(r"\bor something(?:\s+like\s+that)?\b(?=\s*[.,!?]|\s*$)", re.IGNORECASE)
+
+_DISFLUENCY_RE = re.compile(r"\s*(?<![a-zA-Z-])(uh+|um+|ah+|mm+|hmm+|eh|er)(?![a-zA-Z-])\s*,?", re.IGNORECASE)
+# stutter dedup: consecutive identical tokens (supports contractions like we'll, he's)
+_STUTTER_RE = re.compile(r"\b((?:\w|')+)\s+\1\b", re.IGNORECASE)
+
+# sentence splitting: break on .!? followed by whitespace + uppercase/digit/quote
+_SENTENCE_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z\d"])')
+
+_FILLER_SENTENCE_RE = re.compile(
+    r"^(?:yeah|yep|yup|okay|ok|right|alright|sure|exactly|absolutely|"
+    r"totally|mm+|hmm+|ah+|oh+|uh-?huh|mm-?hmm|got\s+it|gotcha|"
+    r"etc\.?|and\s+so\s+on\.?|blah(?:[\s-]+blah(?:[\s-]+blah)?)?\.?|"
+    r"you\s+know\s+what\s+I\s+mean|what\s+I\s+mean)[.!?]?$",
+    re.IGNORECASE,
+)
+# sentences about the show's call-in line — logistical noise, not content
+_CALL_IN_SENTENCE_RE = re.compile(r"\bcall[- ]?in\b", re.IGNORECASE)
+# known broadcast-transition fragments — anchored to full sentence
+_CONNECTOR_FRAGMENT_RE = re.compile(
+    r"^(?:and\s+so|but\s+then|and\s+then|or\s+so|"
+    r"go\s+to\s+break|back\s+after\s+this|stay\s+tuned)[.!?]?$",
+    re.IGNORECASE,
+)
+
+
+def _clean_sentence(text: str) -> str:
+    """Word-level disfluency and filler removal within a single sentence."""
+    # tag questions → sentence break
+    p = _RIGHT_TAG_RE.sub(".", text)
+    p = _WMEAN_TAG_RE.sub(".", p)
+    # parenthetical fillers
+    p = _YOU_KNOW_RE.sub(" ", p)
+    p = _I_MEAN_RE.sub(" ", p)
+    p = _BY_THE_WAY_RE.sub(" ", p)
+    p = _BASICALLY_START_RE.sub("", p)
+    p = _BASICALLY_MID_RE.sub(" ", p)
+    # trailing hedge
+    p = _OR_SOMETHING_RE.sub("", p)
+    # word-level disfluencies
+    p = _DISFLUENCY_RE.sub(" ", p)
+    # stutter dedup
+    prev = None
+    while prev != p:
+        prev = p
+        p = _STUTTER_RE.sub(r"\1", p)
+    p = re.sub(r" {2,}", " ", p)
+    p = re.sub(r" ([.,!?])", r"\1", p)
+    p = p.strip()
+    # re-capitalize only when the sentence originally opened with a capital letter
+    # (filler was stripped from the front), not when it was always lowercase
+    if p and p[0].islower() and text[0].isupper():
+        p = p[0].upper() + p[1:]
+    return p
+
+
+def strip_fillers(text: str) -> str:
+    """Remove disfluencies, filler sentences, and noise phrases from a block of text."""
+    kept = []
+    for s in _SENTENCE_RE.split(text):
+        s = _clean_sentence(s)
+        if not s or _FILLER_SENTENCE_RE.match(s) or _CALL_IN_SENTENCE_RE.search(s) or _CONNECTOR_FRAGMENT_RE.match(s):
+            continue
+        kept.append(s)
+    result = normalize_numbers(" ".join(kept))
+    result = _normalize_fractions(result)
+    result = _normalize_temperatures(result)
+    return _normalize_percentages(result)
+
+
+def strip_fillers_rendered(text: str) -> str:
+    """Apply strip_fillers to each paragraph, stripping timestamp prefixes from output."""
+    parts = []
+    for para in text.split("\n\n"):
+        cleaned = strip_fillers(_content(para))
+        if cleaned:
+            parts.append(cleaned)
+    return "\n\n".join(parts)
+
+
+_FILLER_RE = re.compile(
+    rf"^{_TS} (Yeah\.?|Mm+\.?|Ah+\.?|Right\.?|Alright\.?|Uh-?huh\.?|M?hm\.?|Sure\.?|Okay\.?|Yep\.?|Ha+\.?|Hmm+\.?)$",
+    re.IGNORECASE,
+)
+_BUMPER_RE = re.compile(
+    r"(?:you are|you'?re) listening to.{0,80}(?:cooking issues|heritage radio)"
+    r"|I'?m Dave Arnold.{0,20}Cooking Issues",
+    re.IGNORECASE,
+)
+_SPONSOR_RE = re.compile(r"\bbrought to you by\b|\bsponsored by\b", re.IGNORECASE)
+_BOILERPLATE = ("Heritage Radio Network", "Thank you for listening")
+_PREROLL_KEYWORDS = ("cooking", "food", "heritage radio", "french culinary")
+_SHORT_THRESHOLD = 300
+
+# Music detection: runs of consecutive short-content paragraphs with dense timestamps
+_MUSIC_MAX_CHARS = 80
+_MUSIC_MIN_RUN = 5
+_MUSIC_MAX_AVG_GAP_S = 15
+# Allow isolated long paragraphs (garbled ASR of lyrics) within a music run.
+_MUSIC_MIN_SHORT_RATIO = 0.75
+
+
+def _music_block_indices(paras: list[str]) -> set[int]:
+    n = len(paras)
+    times = [_seconds(p) for p in paras]
+    is_short = [len(_content(p)) <= _MUSIC_MAX_CHARS for p in paras]
+
+    remove: set[int] = set()
+    i = 0
+    while i < n:
+        if not is_short[i]:
+            i += 1
+            continue
+        # Extend run, tolerating up to 1 consecutive long paragraph at a time.
+        j = i + 1
+        long_streak = 0
+        while j < n:
+            if is_short[j]:
+                long_streak = 0
+                j += 1
+            elif long_streak < 1:
+                long_streak += 1
+                j += 1
+            else:
+                break
+        # Trim trailing long paragraphs so content after the run is not removed.
+        while j > i and not is_short[j - 1]:
+            j -= 1
+        run = j - i
+        short_count = sum(is_short[i:j])
+        if run >= _MUSIC_MIN_RUN and short_count / run >= _MUSIC_MIN_SHORT_RATIO:
+            run_times = times[i:j]
+            gaps = [
+                run_times[k + 1] - run_times[k] for k in range(run - 1) if run_times[k] >= 0 and run_times[k + 1] >= 0
+            ]
+            pos_gaps = [g for g in gaps if g > 0]
+            if pos_gaps and sum(pos_gaps) / len(pos_gaps) < _MUSIC_MAX_AVG_GAP_S:
+                remove.update(range(i, j))
+        i = j
+    return remove
 
 
 def denoise(text: str) -> str:
@@ -61,45 +315,19 @@ def denoise(text: str) -> str:
     for para in paras:
         if _FILLER_RE.match(para):
             continue
-        if len(para) < _SHORT_THRESHOLD and any(phrase in para for phrase in _BOILERPLATE):
+        if len(para) < _SHORT_THRESHOLD and any(b in para for b in _BOILERPLATE):
             continue
-        if _BUMPER_RE.search(para):
+        if _BUMPER_RE.search(para) or _SPONSOR_RE.search(para):
             continue
-        if _SPONSOR_RE.search(para):
-            continue
-        # Pre-roll: very early content unrelated to the show (ads for other podcasts, etc.)
         t = _seconds(para)
-        if 0 <= t < 30:
-            low = _content(para).lower()
-            if not any(kw in low for kw in _PREROLL_KEYWORDS):
-                continue
+        if 0 <= t < 30 and not any(kw in _content(para).lower() for kw in _PREROLL_KEYWORDS):
+            continue
+        para = _collapse_spoken_digits(para)
         if _PHONE_RE.search(para):
             para = _strip_phones(para)
             if not _content(para).strip():
                 continue
         kept.append(para)
 
-    # Music block detection: ≥5 consecutive paragraphs with short content and dense timestamps
-    contents = [_content(p) for p in kept]
-    is_short = [len(c) <= _MUSIC_MAX_CHARS for c in contents]
-
-    remove: set[int] = set()
-    i = 0
-    while i < len(kept):
-        if not is_short[i]:
-            i += 1
-            continue
-        j = i + 1
-        while j < len(kept) and is_short[j]:
-            j += 1
-        run = j - i
-        if run >= _MUSIC_MIN_RUN:
-            times = [_seconds(kept[k]) for k in range(i, j)]
-            gaps = [times[k + 1] - times[k] for k in range(run - 1) if times[k] >= 0 and times[k + 1] >= 0]
-            pos = [g for g in gaps if g > 0]
-            if pos and sum(pos) / len(pos) < _MUSIC_MAX_AVG_GAP_S:
-                remove.update(range(i, j))
-        i = j
-
-    result = [p for idx, p in enumerate(kept) if idx not in remove]
-    return "\n\n".join(result)
+    music = _music_block_indices(kept)
+    return "\n\n".join(p for i, p in enumerate(kept) if i not in music)

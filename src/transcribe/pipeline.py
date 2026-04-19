@@ -10,6 +10,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, cast
 
+from transcribe.denoise import strip_fillers as _strip_fillers
 from transcribe.diarize import assign_speakers, diarize, extract_cluster_embeddings
 from transcribe.http import download
 from transcribe.podcasts import Podcast
@@ -247,6 +248,7 @@ def render(
     gap: float = PARAGRAPH_GAP_S,
     speakers: list[str] | None = None,
     diarized: bool = False,
+    strip_fillers: bool = False,
 ) -> None:
     if segments is None:
         data = cast("StoredTranscript", json.loads(ep["transcript"].read_text()))
@@ -264,11 +266,11 @@ def render(
     current: list[Segment] = []
     for i, seg in enumerate(segments):
         if i > 0 and seg["start"] - segments[i - 1]["end"] >= gap:
-            paragraphs.append(_flush(current))
+            paragraphs.append(_flush(current, strip_fillers=strip_fillers))
             current = []
         current.append(seg)
     if current:
-        paragraphs.append(_flush(current))
+        paragraphs.append(_flush(current, strip_fillers=strip_fillers))
     out_path = ep["diarized_text"] if diarized else ep["text"]
     out_path.write_text("\n\n".join(paragraphs))
 
@@ -295,10 +297,12 @@ def _remap_speakers(segments: list[Segment], names: list[str]) -> list[Segment]:
     return _apply_mapping(segments, _first_appearance_mapping(segments, names))
 
 
-def _flush(segs: list[Segment]) -> str:
+def _flush(segs: list[Segment], *, strip_fillers: bool = False) -> str:
     ts = _fmt(segs[0]["start"])
     speaker = segs[0]["speaker"]
     text = " ".join(s["text"].strip() for s in segs)
+    if strip_fillers:
+        text = _strip_fillers(text)
     return f"[{ts} | {speaker}] {text}" if speaker != "UNKNOWN" else f"[{ts}] {text}"
 
 
@@ -317,6 +321,7 @@ def run_episode(
     backend: str = "whisper-large-v3-mlx",
     learn: bool = False,
     diarize: bool = False,
+    strip_fillers: bool = False,
     speakers_path: Path = Path("cache/speakers.json"),
 ) -> None:
     ep["transcript"].parent.mkdir(parents=True, exist_ok=True)
@@ -352,4 +357,6 @@ def run_episode(
     elif dry_run:
         print(f"{slug}: would render")
     elif ep["transcript"].exists() or fresh_segments is not None:
-        render(ep, fresh_segments, fresh_mapping, gap=gap, speakers=speakers, diarized=diarize)
+        render(
+            ep, fresh_segments, fresh_mapping, gap=gap, speakers=speakers, diarized=diarize, strip_fillers=strip_fillers
+        )
