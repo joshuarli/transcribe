@@ -29,10 +29,18 @@ main extract 42 --model haiku          # use Claude Haiku instead of local Llama
 
 ## Backends
 
-### whisper-large-v3-turbo (default)
-`mlx-community/whisper-large-v3-turbo` via mlx-whisper. Processes audio in 30 s windows internally.
+### whisper-large-v3-mlx (default)
+`mlx-community/whisper-large-v3-mlx` via mlx-whisper. Processes audio in 30 s windows internally.
 
-Runs with `temperature=0.0` (greedy, no fallback ladder) and `condition_on_previous_text=False` (prevents hallucination cascades). Both settings improve determinism and accuracy.
+Key settings:
+- `temperature=(0.0, 0.2, 0.4, 0.6, 0.8, 1.0)` — fallback ladder; retries with higher temperature on low-confidence windows instead of hallucinating
+- `condition_on_previous_text=False` — prevents hallucination cascades where one bad prediction poisons subsequent windows
+- `no_speech_threshold=0.3` — more aggressive silence filtering (default is 0.6)
+- `hallucination_silence_threshold=2.0` — suppress windows where the model produces text over a long silence
+- `best_of=10` — sample 10 candidates and pick the best; improves recall of disfluencies and self-corrections
+- `initial_prompt` — seeds domain vocabulary (rotovap, Searzall, hydrocolloids, etc.) to bias the decoder toward podcast-specific tokens
+
+Output goes to `transcripts/whisper-large-v3-mlx/`.
 
 ### parakeet-tdt-0.6b-v3
 `mlx-community/parakeet-tdt-0.6b-v3` via parakeet-mlx. Better at dense speech and fast talkers.
@@ -49,8 +57,6 @@ Chunk duration is sized automatically from the Metal GPU memory budget:
 
 Runs with `dtype=float32` (eliminates bfloat16 GPU non-determinism) and `Beam` decoding (beam_size=5, higher accuracy than greedy).
 
-Note: `max_buffer_length` (16 GB on all M1 chips regardless of RAM) is a per-buffer hardware cap and is intentionally ignored here — total unified memory is the right measure.
-
 Progress is printed per chunk so you can see where transcription is in the episode:
 
 ```
@@ -61,7 +67,23 @@ Progress is printed per chunk so you can see where transcription is in the episo
   ...
 ```
 
-Output goes to `transcripts/parakeet-tdt-0.6b-v3/`, separate from `transcripts/whisper-large-v3-turbo/`.
+Output goes to `transcripts/parakeet-tdt-0.6b-v3/`.
+
+### cohere-transcribe-03-2026
+`CohereLabs/cohere-transcribe-03-2026` via HuggingFace Transformers on MPS (GPU). Good at handling accented speech and cross-lingual content.
+
+This model does not support native timestamp output. Audio is split into silence-bounded chunks for inference (same ≥300 ms silence detection as parakeet), and a second pass over the audio independently detects all silences ≥500 ms. Those silence windows are used to patch the segment timestamps so `render` breaks paragraphs at real pauses in speech rather than at arbitrary chunk boundaries.
+
+Supports checkpoint/resume: each transcribed chunk is flushed to a `.ckpt.json` file immediately, so a `^C` mid-episode can be resumed.
+
+Output goes to `transcripts/cohere-transcribe-03-2026/`.
+
+### cohere-transcribe-03-2026-mlx
+`mlx-community/cohere-transcribe-03-2026-mlx-8bit` via mlx-speech. Same model as above but quantized to 8-bit and running natively in MLX rather than PyTorch.
+
+Use this when you want lower memory overhead or prefer to stay entirely within the MLX stack. Paragraph breaking and accuracy are otherwise identical to the PyTorch variant.
+
+Output goes to `transcripts/cohere-transcribe-03-2026-mlx/`.
 
 ## Speaker learning
 
@@ -74,8 +96,8 @@ To update or add speakers at any time, re-run with `--learn`.
 ## One-off transcription
 
 ```sh
- transcribe audio.mp3 out.json --diarize
- transcribe audio.mp3 out.json --diarize --backend parakeet-tdt-0.6b-v3
+transcribe audio.mp3 out.json --diarize
+transcribe audio.mp3 out.json --diarize --backend parakeet-tdt-0.6b-v3
 ```
 
-Transcripts are committed to `transcripts/whisper-large-v3-turbo/` and `transcripts/parakeet-tdt-0.6b-v3/`, one `.txt` per episode per backend.
+Transcripts are committed to `transcripts/<backend>/`, one `.txt` per episode per backend.

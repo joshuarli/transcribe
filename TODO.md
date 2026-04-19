@@ -1,14 +1,5 @@
 # TODO
 
-## Contextual hinting for transcription accuracy
-
-### mlx-whisper: `initial_prompt`
-
-`mlx_whisper.transcribe()` accepts `initial_prompt` as a first-class parameter. Pass a prose string seeding domain vocabulary and names — e.g. *"Dave Arnold and Nastassia Lopez discuss rotovap, Searzall, and hydrocolloids on Cooking Issues."* — and Whisper's decoder treats it as prior context, biasing toward those tokens. One line of code in `_transcribe_mlx`.
-
-Maintain the prompt in a top-level `prompt.txt` (or `config/prompt.txt`), loaded once in `_load_or_transcribe` and silently skipped if absent.
-
-
 ## Speaker attribution in rapid exchanges
 
 Pyannote diarization fails on rapid back-and-forth (sub-second turns like "Yeah?" / "Uh-huh." / "Nope.") because Heritage Radio encodes both hosts into a shared mono mix (L/R correlation ~0.999). Longer monologues get attributed correctly; it's only dense dialogue that collapses to a single speaker.

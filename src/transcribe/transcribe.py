@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Transcribe audio with mlx-whisper or parakeet-tdt, and diarize with pyannote."""
+"""Transcribe audio with mlx-whisper, parakeet-tdt, or cohere."""
 
 import argparse
 import itertools
 import json
 import math
 import os
+import re
 import sys
 import time
 import types
@@ -14,18 +15,24 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, cast
 
+from transcribe.diarize import assign_speakers, diarize, extract_cluster_embeddings  # noqa: F401
 from transcribe.types import (
     ParakeetCheckpoint,
     RawSegment,
-    Segment,
     TranscriptResult,
 )
 
 DEFAULT_MODEL = "mlx-community/whisper-large-v3-mlx"
 PARAKEET_MODEL = "mlx-community/parakeet-tdt-0.6b-v3"
 COHERE_MODEL = "CohereLabs/cohere-transcribe-03-2026"
+COHERE_MLX_MODEL = "mlx-community/cohere-transcribe-03-2026-mlx-8bit"
 
-BACKENDS = ["whisper-large-v3-mlx", "parakeet-tdt-0.6b-v3", "cohere-transcribe-03-2026"]
+BACKENDS = [
+    "whisper-large-v3-mlx",
+    "parakeet-tdt-0.6b-v3",
+    "cohere-transcribe-03-2026",
+    "cohere-transcribe-03-2026-mlx",
+]
 
 
 def transcribe(
@@ -37,7 +44,9 @@ def transcribe(
     if backend == "parakeet-tdt-0.6b-v3":
         return _transcribe_parakeet(audio_path, checkpoint_path=checkpoint_path)
     if backend == "cohere-transcribe-03-2026":
-        return _transcribe_cohere(audio_path)
+        return _transcribe_cohere(audio_path, checkpoint_path=checkpoint_path)
+    if backend == "cohere-transcribe-03-2026-mlx":
+        return _transcribe_cohere_mlx(audio_path, checkpoint_path=checkpoint_path)
     return _transcribe_mlx(audio_path, model)
 
 
@@ -55,44 +64,209 @@ def _transcribe_mlx(audio_path: str, model: str = DEFAULT_MODEL) -> TranscriptRe
             condition_on_previous_text=False,  # avoids hallucination snowball across segments
             no_speech_threshold=0.3,  # default 0.6 drops low-energy short segments (e.g. corrections after "uh")
             hallucination_silence_threshold=2.0,  # re-examine gaps >2s instead of seek-skipping over them
-            initial_prompt="Cooking Issues podcast. Hosts: Dave Arnold, Nastassia Lopez. Topics: food science, cocktails, culinary techniques, modernist cooking.",  # biases vocabulary toward domain terms
+            # biases vocabulary toward domain terms
+            initial_prompt=(
+                "Cooking Issues podcast. Hosts: Dave Arnold, Nastassia Lopez."
+                " Topics: food science, cocktails, culinary techniques, modernist cooking."
+            ),
             language="en",  # skip language detection
             best_of=10,  # candidates sampled per temperature fallback step; default 5
         ),
     )
 
 
-def _transcribe_cohere(audio_path: str) -> TranscriptResult:
-    import torch
+def _load_audio_16k(audio_path: str) -> tuple[Any, int]:
+    """Load audio as float32 mono at 16 kHz (required by Cohere ASR)."""
+    import numpy as np
+    import soundfile as sf
+
+    target_sr = 16_000
+    data, sr = sf.read(audio_path, dtype="float32", always_2d=False)
+    if data.ndim > 1:
+        data = data.mean(axis=1)
+    if sr != target_sr:
+        new_len = int(len(data) * target_sr / sr)
+        data = np.interp(np.linspace(0, len(data) - 1, new_len), np.arange(len(data)), data).astype(np.float32)
+        sr = target_sr
+    return data, sr
+
+
+def _audio_chunks(data: Any, sr: int) -> list[tuple[int, int]]:  # noqa: ANN401
+    splits = _silence_split_points(data, sr, _optimal_chunk_s())
+    return list(itertools.pairwise([0, *splits, len(data)]))
+
+
+def _load_checkpoint(checkpoint_path: Path | None, label: str, n: int) -> dict[int, ParakeetCheckpoint]:
+    done: dict[int, ParakeetCheckpoint] = {}
+    if checkpoint_path and checkpoint_path.exists():
+        for line in checkpoint_path.read_text(encoding="utf-8").splitlines():
+            try:
+                rec = cast("ParakeetCheckpoint", json.loads(line))
+                done[rec["i"]] = rec
+            except Exception:
+                pass
+        if done:
+            print(f"  {label}: resuming from chunk {max(done) + 2}/{n}")
+    return done
+
+
+def _run_chunks(
+    chunks: list[tuple[int, int]],
+    sr: int,
+    infer: Callable[[int, int, int], tuple[str, list[RawSegment]]],
+    checkpoint_path: Path | None,
+    label: str,
+    *,
+    done: dict[int, ParakeetCheckpoint] | None = None,
+) -> TranscriptResult:
+    n = len(chunks)
+    if done is None:
+        done = _load_checkpoint(checkpoint_path, label, n)
+    all_segments: list[RawSegment] = []
+    texts: list[str] = []
+    i = 0
+    run_start = time.monotonic()
+    try:
+        for i, (s0, s1) in enumerate(chunks):
+            if i in done:
+                texts.append(done[i]["text"])
+                all_segments.extend(done[i]["segments"])
+                continue
+            print(f"  [{i + 1}/{n}] {_fmt_ts(s0 / sr)} - {_fmt_ts(s1 / sr)}", flush=True)
+            chunk_start = time.monotonic()
+            text, segs = infer(i, s0, s1)
+            elapsed = time.monotonic() - chunk_start
+            audio_s = (s1 - s0) / sr
+            print(
+                f"    {elapsed:.1f}s ({audio_s / elapsed:.1f}x realtime) | {time.monotonic() - run_start:.0f}s total",
+                flush=True,
+            )
+            texts.append(text)
+            all_segments.extend(segs)
+            if checkpoint_path:
+                with checkpoint_path.open("a", encoding="utf-8") as f:
+                    f.write(json.dumps({"i": i, "text": text, "segments": segs}) + "\n")
+    except KeyboardInterrupt:
+        print(f"\n  {label}: interrupted after chunk {i + 1}/{n} — checkpoint saved, re-run to resume")
+        raise
+    if checkpoint_path:
+        checkpoint_path.unlink(missing_ok=True)
+    return {"text": " ".join(t for t in texts if t), "language": "en", "segments": all_segments}
+
+
+def _text_to_segments(text: str, start: float, end: float) -> list[RawSegment]:
+    """Split a chunk of text into sentence-level segments with proportional timestamps."""
+    # Split on sentence-ending punctuation followed by whitespace + capital letter.
+    parts = [p.strip() for p in re.split(r"(?<=[.!?])\s+(?=[A-Z])", text.strip()) if p.strip()]
+    if not parts:
+        return []
+    if len(parts) == 1:
+        return [{"start": start, "end": end, "text": " " + parts[0]}]
+    total_chars = sum(len(p) for p in parts)
+    duration = end - start
+    segs: list[RawSegment] = []
+    t = start
+    for p in parts:
+        seg_end = round(t + duration * len(p) / total_chars, 3)
+        segs.append({"start": t, "end": seg_end, "text": " " + p})
+        t = seg_end
+    return segs
+
+
+def _silence_windows(data: Any, sr: int, min_silence_s: float = 0.5) -> list[tuple[float, float]]:  # noqa: ANN401
+    """Return (t_start, t_end) in seconds for every silence run ≥ min_silence_s."""
+    import numpy as np
+
+    frame_ms = 20
+    frame_samples = sr * frame_ms // 1000
+    n_frames = len(data) // frame_samples
+
+    rms = np.sqrt(np.array([np.mean(data[i * frame_samples : (i + 1) * frame_samples] ** 2) for i in range(n_frames)]))
+    nonzero = rms[rms > 0]
+    # 0.15x rather than the 0.05x used in _silence_split_points: paragraph detection
+    # needs to catch speech pauses in noisy podcast audio (no true silence floor),
+    # not just dead-air between segments.
+    threshold = float(np.percentile(nonzero, 75)) * 0.15 if len(nonzero) else 0.0
+    is_silent = rms < threshold
+
+    min_frames = max(1, int(min_silence_s * 1000 / frame_ms))
+    windows: list[tuple[float, float]] = []
+    run_start: int | None = None
+    for i, silent in enumerate(is_silent):
+        if silent and run_start is None:
+            run_start = i
+        elif not silent and run_start is not None:
+            if i - run_start >= min_frames:
+                windows.append((run_start * frame_ms / 1000, i * frame_ms / 1000))
+            run_start = None
+    if run_start is not None and n_frames - run_start >= min_frames:
+        windows.append((run_start * frame_ms / 1000, n_frames * frame_ms / 1000))
+    return windows
+
+
+def _apply_silence_breaks(segments: list[RawSegment], silence_windows: list[tuple[float, float]]) -> list[RawSegment]:
+    """Patch synthetic segment timestamps so render() breaks paragraphs at real audio silences.
+
+    For each silence window, finds the segment boundary whose synthetic midpoint
+    is nearest to the silence midpoint and widens the gap to the actual silence span.
+    """
+    if not segments or not silence_windows:
+        return segments
+    segs = [dict(s) for s in segments]
+    # boundary i is between segs[i] and segs[i+1]; its synthetic time is segs[i]["end"]
+    for t0, t1 in silence_windows:
+        mid = (t0 + t1) / 2
+        best = min(range(len(segs) - 1), key=lambda i: abs(segs[i]["end"] - mid))
+        segs[best]["end"] = t0
+        segs[best + 1]["start"] = t1
+    return [cast("RawSegment", s) for s in segs]
+
+
+def _transcribe_cohere(audio_path: str, checkpoint_path: Path | None = None) -> TranscriptResult:
     from transformers import pipeline as hf_pipeline
 
-    device = "mps" if torch.backends.mps.is_available() else "cpu"
     pipe = hf_pipeline(
         "automatic-speech-recognition",
         model=COHERE_MODEL,
         trust_remote_code=True,
-        device=device,
+        token=os.environ.get("HUGGING_FACE_TOKEN"),
     )
-    result = pipe(
-        audio_path,
-        chunk_length_s=30,
-        stride_length_s=5,
-        return_timestamps=True,  # chunk-level timestamps from the pipeline chunking logic
-        generate_kwargs={
-            "language": "en",
-            "num_beams": 5,  # beam search over greedy; model card default is greedy
-            "max_new_tokens": 448,  # model card example uses 256; 448 matches Whisper's cap to avoid chunk truncation
-        },
-    )
-    chunks = result.get("chunks") or []
-    segments: list[RawSegment] = []
-    for chunk in chunks:
-        text = chunk.get("text", "").strip()
-        if not text:
-            continue
-        ts = chunk.get("timestamp") or (0.0, 0.0)
-        segments.append({"start": float(ts[0] or 0.0), "end": float(ts[1] or ts[0] or 0.0), "text": " " + text})
-    return {"text": result["text"], "language": "en", "segments": segments}
+    data, sr = _load_audio_16k(audio_path)
+    chunks = _audio_chunks(data, sr)
+    done = _load_checkpoint(checkpoint_path, "cohere", len(chunks))
+
+    # Pre-slice all pending chunks upfront so inference never stalls on numpy slicing.
+    chunk_arrays = {i: data[s0:s1] for i, (s0, s1) in enumerate(chunks) if i not in done}
+
+    def infer(i: int, s0: int, s1: int) -> tuple[str, list[RawSegment]]:
+        text = cast("dict[str, Any]", pipe({"raw": chunk_arrays[i], "sampling_rate": sr}))["text"].strip()
+        return text, _text_to_segments(text, s0 / sr, s1 / sr)
+
+    result = _run_chunks(chunks, sr, infer, checkpoint_path, "cohere", done=done)
+    result["segments"] = _apply_silence_breaks(result["segments"], _silence_windows(data, sr))
+    return result
+
+
+def _transcribe_cohere_mlx(audio_path: str, checkpoint_path: Path | None = None) -> TranscriptResult:
+    from huggingface_hub import snapshot_download
+    from mlx_speech.generation import CohereAsrModel
+
+    data, sr = _load_audio_16k(audio_path)
+    local_path = snapshot_download(COHERE_MLX_MODEL)
+    model = CohereAsrModel.from_path(str(Path(local_path) / "mlx-int8"))
+    chunks = _audio_chunks(data, sr)
+    done = _load_checkpoint(checkpoint_path, "cohere-mlx", len(chunks))
+
+    # Pre-slice all pending chunks upfront so inference never stalls on slicing.
+    chunk_arrays = {i: data[s0:s1] for i, (s0, s1) in enumerate(chunks) if i not in done}
+
+    def infer(i: int, s0: int, s1: int) -> tuple[str, list[RawSegment]]:
+        text = model.transcribe(chunk_arrays[i], sample_rate=sr, language="en").text.strip()
+        return text, _text_to_segments(text, s0 / sr, s1 / sr)
+
+    result = _run_chunks(chunks, sr, infer, checkpoint_path, "cohere-mlx", done=done)
+    result["segments"] = _apply_silence_breaks(result["segments"], _silence_windows(data, sr))
+    return result
 
 
 def _metal_budget_gb() -> float:
@@ -105,7 +279,7 @@ def _metal_budget_gb() -> float:
     try:
         import mlx.core as mx
 
-        info = mx.metal.device_info()
+        info = mx.device_info()
         # memory_size = total unified RAM; recommended_max_working_set_size is
         # also correct if present (it's ~75% of RAM set by the driver).
         for key in ("recommended_max_working_set_size", "memory_size"):
@@ -440,26 +614,8 @@ def _transcribe_parakeet(audio_path: str, checkpoint_path: Path | None = None) -
     if data.ndim > 1:
         data = data.mean(axis=1)  # stereo → mono
 
-    split_samples = _silence_split_points(data, sr, chunk_s)
-    boundaries = [0, *split_samples, len(data)]
-    chunks = list(itertools.pairwise(boundaries))
-    n = len(chunks)
-
-    # Load checkpoint: each line is one completed chunk {"i": int, "segments": [...], "text": str}
-    done: dict[int, ParakeetCheckpoint] = {}
-    if checkpoint_path and checkpoint_path.exists():
-        for line in checkpoint_path.read_text(encoding="utf-8").splitlines():
-            try:
-                rec = cast("ParakeetCheckpoint", json.loads(line))
-                done[rec["i"]] = rec
-            except Exception:
-                pass
-        if done:
-            resume_from = max(done) + 1
-            print(f"  parakeet: resuming from chunk {resume_from + 1}/{n}")
-
-    all_segments: list[RawSegment] = []
-    texts: list[str] = []
+    chunks = _audio_chunks(data, sr)
+    done = _load_checkpoint(checkpoint_path, "parakeet", len(chunks))
 
     # Pre-compute all mels upfront so the GPU never idles waiting for CPU mel work.
     # get_logmel requires float32 (uses mx.view to split complex STFT output);
@@ -474,7 +630,7 @@ def _transcribe_parakeet(audio_path: str, checkpoint_path: Path | None = None) -
             chunk_mels.append(get_logmel(mx.array(data[s0:s1]), model.preprocessor_config).astype(mx.bfloat16))
     mx.eval(*[m for m in chunk_mels if m is not None])
 
-    def _run_chunk(i: int, s0: int) -> tuple[str, list[RawSegment]]:
+    def _run_chunk(i: int, s0: int, _s1: int) -> tuple[str, list[RawSegment]]:
         mel = chunk_mels[i]
         assert mel is not None
         features, out_lengths = model.encoder(mel)
@@ -488,163 +644,7 @@ def _transcribe_parakeet(audio_path: str, checkpoint_path: Path | None = None) -
         ]
         return aligned.text, segs
 
-    i = 0  # in case of KeyboardInterrupt before first iteration
-    run_start = time.monotonic()
-    try:
-        for i, (s0, s1) in enumerate(chunks):
-            if i in done:
-                texts.append(done[i]["text"])
-                all_segments.extend(done[i]["segments"])
-                continue
-            chunk_start = time.monotonic()
-            print(f"  [{i + 1}/{n}] {_fmt_ts(s0 / sr)} - {_fmt_ts(s1 / sr)}", flush=True)
-            text, segs = _run_chunk(i, s0)
-            elapsed = time.monotonic() - chunk_start
-            total = time.monotonic() - run_start
-            audio_s = (s1 - s0) / sr
-            print(f"    {elapsed:.1f}s chunk ({audio_s / elapsed:.1f}x realtime) | {total:.0f}s total", flush=True)
-            texts.append(text)
-            all_segments.extend(segs)
-            if checkpoint_path:
-                with checkpoint_path.open("a", encoding="utf-8") as f:
-                    f.write(json.dumps({"i": i, "text": text, "segments": segs}) + "\n")
-    except KeyboardInterrupt:
-        print(f"\n  parakeet: interrupted after chunk {i + 1}/{n} — checkpoint saved, re-run to resume")
-        raise
-
-    if checkpoint_path:
-        checkpoint_path.unlink(missing_ok=True)
-
-    return {"text": " ".join(texts), "language": "en", "segments": all_segments}
-
-
-def diarize(audio_path: str, hf_token: str) -> tuple[Any, Any, int, Any]:
-    """Returns (annotation, waveform, sample_rate, pipeline)."""
-    import soundfile as sf
-    import torch
-    from pyannote.audio import Pipeline
-
-    pipeline = Pipeline.from_pretrained(
-        "pyannote/speaker-diarization-community-1",
-        token=hf_token,
-    )
-    assert pipeline is not None, "Failed to load pyannote pipeline"
-    if torch.backends.mps.is_available():
-        pipeline.to(torch.device("mps"))
-
-    data, sr = sf.read(audio_path, dtype="float32", always_2d=True)
-    waveform = torch.from_numpy(data.T)  # (channels, samples)
-    result = pipeline({"waveform": waveform, "sample_rate": sr}, hook=_diarize_hook())
-    print()  # end the final \r line
-    annotation = result.exclusive_speaker_diarization if hasattr(result, "exclusive_speaker_diarization") else result
-    return annotation, waveform, sr, pipeline
-
-
-def _diarize_hook() -> Callable[..., None]:
-    """Returns a pyannote-compatible progress hook.
-
-    pyannote calls the hook in two patterns:
-      Inference.slide (segmentation chunks): hook(completed=n, total=m)  — no step name
-      Embeddings batches:  hook("embeddings", batch, total=m, completed=n, file=...)
-      Named completions:   hook("speaker_counting"|"discrete_diarization", ..., file=...)
-    """
-    _phase: list[str] = ["segmentation"]
-    _last: list[int] = [-1]
-
-    def hook(
-        *args: Any,  # noqa: ANN401
-        file: object = None,
-        completed: int | None = None,
-        total: int | None = None,
-        **_: object,
-    ) -> None:
-        step = next((a for a in args if isinstance(a, str)), None)
-
-        # Named-completion notifications (no progress bar needed, just a label)
-        if step and step not in ("segmentation", "embeddings"):
-            print(f"\r  {step}...", end="", flush=True)
-            return
-
-        if completed is None or total is None:
-            return
-        if step:
-            _phase[0] = step
-        if completed == _last[0]:
-            return
-        _last[0] = completed
-
-        w = 30
-        filled = round(w * completed / total) if total else 0
-        bar = "█" * filled + "░" * (w - filled)
-        print(f"\r  {_phase[0]}: [{bar}] {completed}/{total} ", end="", flush=True)
-        if completed >= total:
-            print()
-            _last[0] = -1
-
-    return hook
-
-
-def assign_speakers(segments: list[RawSegment], diarization: Any) -> list[Segment]:  # noqa: ANN401
-    # Materialise turns once; both segments and turns are time-ordered, so a
-    # two-pointer walk is O(n+m) rather than O(n*m).
-    turns: list[tuple[float, float, str]] = [
-        (t.start, t.end, spk) for t, _, spk in diarization.itertracks(yield_label=True)
-    ]
-    labeled: list[Segment] = []
-    j = 0  # lower bound: turns whose end <= seg.start can never overlap again
-    for seg in segments:
-        while j < len(turns) and turns[j][1] <= seg["start"]:
-            j += 1
-        best_speaker = None
-        best_overlap = 0.0
-        k = j
-        while k < len(turns) and turns[k][0] < seg["end"]:
-            t_start, t_end, spk = turns[k]
-            overlap = min(seg["end"], t_end) - max(seg["start"], t_start)
-            if overlap > best_overlap:
-                best_overlap = overlap
-                best_speaker = spk
-            k += 1
-        # cast preserves any extra fields from mlx_whisper (e.g. "words") at runtime
-        labeled.append(cast("Segment", {**seg, "speaker": best_speaker or "UNKNOWN"}))
-    return labeled
-
-
-def extract_cluster_embeddings(
-    waveform: Any,  # noqa: ANN401
-    sample_rate: int,
-    diarization: Any,  # noqa: ANN401
-    pipeline: Any,  # noqa: ANN401
-) -> dict[str, list[float]]:
-    """Extract a mean embedding vector per diarization cluster.
-
-    Uses the embedding sub-model already loaded inside the pyannote pipeline,
-    so no extra model downloads are needed.
-    """
-    from pyannote.audio import Inference
-
-    emb_fn = Inference(pipeline.embedding, window="whole")
-    cluster_embs: dict[str, list[list[float]]] = {}
-
-    for turn, _, cluster in diarization.itertracks(yield_label=True):
-        if turn.duration < 0.5:
-            continue
-        start = int(turn.start * sample_rate)
-        end = int(turn.end * sample_rate)
-        crop = waveform[:, start:end]
-        try:
-            emb = emb_fn({"waveform": crop.unsqueeze(0), "sample_rate": sample_rate})
-            cluster_embs.setdefault(cluster, []).append(cast("list[float]", emb.tolist()))  # ty:ignore[unresolved-attribute]
-        except Exception:
-            continue
-
-    result: dict[str, list[float]] = {}
-    for cluster, emb_list in cluster_embs.items():
-        n = len(emb_list)
-        dim = len(emb_list[0])
-        mean = [sum(e[i] for e in emb_list) / n for i in range(dim)]
-        result[cluster] = mean
-    return result
+    return _run_chunks(chunks, sr, _run_chunk, checkpoint_path, "parakeet", done=done)
 
 
 def main() -> None:

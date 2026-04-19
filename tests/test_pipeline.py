@@ -221,6 +221,7 @@ def test_run_episode_downloads_if_missing(ep, monkeypatch, capsys):
         dest.write_bytes(b"audio")
 
     monkeypatch.setattr("transcribe.pipeline.download", fake_download)
+    monkeypatch.setattr("transcribe.pipeline._transcode_to_opus", lambda p: None)
     run_episode(ep)
 
     assert ep["audio"].exists()
@@ -343,6 +344,7 @@ def test_download_missing_parallel(ep, monkeypatch, tmp_path):
         downloaded.append(url)
 
     monkeypatch.setattr("transcribe.pipeline.download", fake_download)
+    monkeypatch.setattr("transcribe.pipeline._transcode_to_opus", lambda p: None)
     download_missing([ep, ep2])
 
     assert len(downloaded) == 2

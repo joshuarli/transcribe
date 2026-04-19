@@ -10,15 +10,11 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, cast
 
+from transcribe.diarize import assign_speakers, diarize, extract_cluster_embeddings
 from transcribe.http import download
 from transcribe.podcasts import Podcast
 from transcribe.speakers import load_embeddings, match_speakers, save_embeddings
-from transcribe.transcribe import (
-    assign_speakers,
-    diarize,
-    extract_cluster_embeddings,
-    transcribe,
-)
+from transcribe.transcribe import transcribe
 from transcribe.types import (
     AnnotationTurn,
     Episode,
