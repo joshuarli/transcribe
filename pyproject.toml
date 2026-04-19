@@ -1,0 +1,102 @@
+[project]
+name = "transcribe"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "urllib3>=2",
+    "mlx-whisper",
+    "parakeet-mlx",
+    "networkx>=3.5",
+    "pyannote.audio",
+    "soundfile",
+    "torch",
+]
+
+[project.scripts]
+main = "transcribe.main:main"
+transcribe = "transcribe.transcribe:main"
+
+[build-system]
+requires = ["uv-build"]
+build-backend = "uv_build"
+
+[tool.uv]
+environments = ["sys_platform == 'darwin'"]
+
+[tool.uv-build]
+module-root = "src"
+
+[dependency-groups]
+dev = [
+  "pytest>9",
+  "ty==0.0.31",
+  "prek>=0.3.8",
+  "ruff>=0.15.7",
+]
+
+[tool.ruff]
+target-version = "py314"
+src = ["src"]
+line-length = 120
+
+[tool.ruff.lint]
+select = [
+    "F",      # pyflakes
+    "E", "W", # pycodestyle
+    "I",      # isort
+    "N",      # pep8-naming
+    "UP",     # pyupgrade
+    "B",      # flake8-bugbear
+    "A",      # flake8-builtins (shadowing builtins)
+    "SIM",    # flake8-simplify
+    "RUF",    # ruff-specific rules
+    "PT",     # flake8-pytest-style
+    "RET",    # flake8-return
+    "PIE",    # flake8-pie (misc lints)
+    "C4",     # flake8-comprehensions
+    "T20",    # flake8-print (flag print in library code)
+    "TCH",    # flake8-type-checking (move imports to TYPE_CHECKING)
+    "PERF",   # perflint
+    "FURB",   # refurb
+    "ANN",    # flake8-annotations
+]
+ignore = [
+    "T201",   # allow print() — this is a CLI tool
+    "TC001",  # TYPE_CHECKING blocks add noise in a small CLI tool
+    "TC002",  # same
+    "TC003",  # same
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["ANN"]
+
+[tool.ty.environment]
+root = ["src"]
+
+[tool.ty.src]
+exclude = ["tests/"]
+
+[tool.ty.rules]
+# Third-party deps lack stubs; treat as Any rather than errors
+unresolved-import = "ignore"
+# Elevate all warnings to errors (equivalent intent to mypy --strict)
+division-by-zero = "error"
+deprecated = "error"
+possibly-unresolved-reference = "error"
+possibly-missing-attribute = "error"
+possibly-missing-import = "error"
+unused-awaitable = "error"
+unused-ignore-comment = "error"
+unused-type-ignore-comment = "error"
+ambiguous-protocol-member = "error"
+redundant-cast = "error"
+ignore-comment-unknown-rule = "error"
+invalid-enum-member-annotation = "error"
+invalid-legacy-positional-parameter = "error"
+invalid-named-tuple-override = "error"
+ineffective-final = "error"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = ["integration: requires real ML models (deselect with -m 'not integration')"]
