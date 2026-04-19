@@ -4,7 +4,9 @@
 import argparse
 import sys
 
+from transcribe.denoise import denoise
 from transcribe.episode import make_episode
+from transcribe.extract import extract
 from transcribe.feed import load_episodes
 from transcribe.pipeline import (
     PARAGRAPH_GAP_S,
@@ -92,6 +94,21 @@ def main() -> None:
         p.add_argument("number", type=int)
         _add_render_args(p)
 
+    p = sub.add_parser("extract", help="Extract culinary information from a transcript via LLM")
+    p.add_argument("number", type=int)
+    p.add_argument(
+        "--transcriber",
+        choices=["whisper-large-v3-turbo", "parakeet-tdt-0.6b-v3"],
+        default="whisper-large-v3-turbo",
+        help="Which transcription backend's output to read (default: whisper-large-v3-turbo)",
+    )
+    p.add_argument(
+        "--model",
+        choices=["llama", "haiku"],
+        default="llama",
+        help="LLM backend to use for extraction (default: llama)",
+    )
+
     p = sub.add_parser("diarize", help="Diarize an already-transcribed episode")
     p.add_argument("number", type=int)
     p.add_argument(
@@ -115,7 +132,7 @@ def main() -> None:
         parser.error("--learn requires --diarize")
 
     podcast = PODCASTS[args.podcast]
-    backend = getattr(args, "backend", "whisper-large-v3-turbo")
+    backend = getattr(args, "transcriber", None) or getattr(args, "backend", "whisper-large-v3-turbo")
     transcript_dir, text_dir = dirs_for_backend(podcast, backend)
 
     raw_eps = load_episodes(podcast)
@@ -174,6 +191,23 @@ def main() -> None:
                 diarize=args.diarize,
                 speakers_path=podcast.speakers_path,
             )
+        case "extract":
+            if not 1 <= args.number <= len(episodes):
+                sys.exit(f"Episode {args.number} not found.")
+            if not podcast.extraction_prompt:
+                sys.exit(f"No extraction prompt configured for '{podcast.slug}'.")
+            ep = episodes[args.number - 1]
+            if not ep["text"].exists():
+                sys.exit(f"No transcript at {ep['text']} — run 'transcribe' first.")
+            raw = ep["text"].read_text(encoding="utf-8")
+            cleaned = denoise(raw)
+            saved = len(raw) - len(cleaned)
+            print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
+            print(f"{ep['slug']}: extracting...")
+            result = extract(cleaned, podcast, backend=args.model)
+            out = ep["text"].with_name(ep["text"].stem + ".extracted.txt")
+            out.write_text(result, encoding="utf-8")
+            print(f"{ep['slug']}: written to {out}")
         case "diarize":
             if not 1 <= args.number <= len(episodes):
                 sys.exit(f"Episode {args.number} not found.")

@@ -1,0 +1,334 @@
+# Cooking Issues Podcast Notes
+
+## Rotary Evaporator (Rotovap)
+
+**Equipment & Legal Status**
+- Expensive equipment ($5,000–$18,000+)
+- Used for distillation at low temperatures
+- **Illegal for alcohol distillation in US without distiller's license**
+- Restaurants in US limited to non-alcoholic distillations (not compelling enough to justify cost/space)
+- A few restaurants in Chicago use them legally
+- Buki is primary manufacturer ("first name in rotary evaporation")
+
+**Applications & Flavor Extraction**
+- Separates flavors impossible to achieve other ways
+- **Chocolate liquor**: cocoa flavor without bitterness (bitterness doesn't distill, aroma does)
+- **Habanero peppers**: floral aroma without spice
+- **Fresh herbs**: cilantro and others—cleaner than any other method
+- Flavors often difficult to commercialize: don't last long, expensive to produce, or hard to scale
+- Non-commercial applications yield purest, cleanest flavors possible
+
+---
+
+## French Fries
+
+**Problem Statement**
+- Must be crispy outside, not greasy-tasting
+- Potato flavor and texture must be good inside (not overcooked, undercooked, or hollow)
+- Must stay good when cold (key differentiator)
+- "Any monkey can make a french fry good when hot"
+
+**Traditional Double-Fry Technique**
+- First fry: form crust and cook
+- Second fry: make crispy again
+- Described as "kindergarten French fry"—not optimal
+
+**Optimized Multi-Step Process**
+1. **Enzyme soak**: Use Pectinex SPL (natural enzyme, not GMO)
+   - Breaks down pectin on outside of fries
+   - Allows starch on outside to swell quickly
+   - Forms excellent crust
+   - Eliminates need for post-blanch drying
+   - Soak duration: couple of hours
+
+2. **Blanch**: Boiling salted water
+   - Cooks potatoes
+   - Flavors potatoes (salt penetration)
+   - Kills enzymes
+   - No drying step needed after blanch
+
+3. **Fry twice** after blanching
+
+**Result**: "Arguably the most delicious French fries"
+
+**Resources**: Details at www.cookingissues.com; Pectinex SPL available from site
+
+---
+
+## Dry Ice for Drink Chilling
+
+**Caller: Carolyn (Massachusetts)**
+
+**Properties**
+- Solid CO₂
+- Easier to obtain and store than liquid nitrogen
+- More cooling capacity than ice; similar to liquid nitrogen
+- Cannot carry over bridges easily
+- Cost: ~$2/lb, minimum purchase ~20 lbs (~$40 investment)
+- Available from ice supply houses or welding suppliers
+
+**Advantages**
+- Chill pre-batched drinks to exact dilution before service
+- Keep drinks cold for hours without diluting them (unlike ice)
+- Stays cold throughout party/event
+- Creates visual appeal (mist effect)
+
+**Disadvantages & Precautions**
+- Small chips of dry ice can burn mouth/tongue if ingested
+- **Never seal dry ice in bottles/containers**: reaches ~800 psi or higher, causing explosion
+- Risk of cold burns from handling—**use gloves**
+- **Wear safety glasses** when chipping (pieces are hard, can fly)
+- **Do not use in sealed living spaces**: CO₂ buildup dangerous
+- Will cause light carbonation in drinks (unavoidable)
+
+**Technique for Parties**
+- Use narrow pitcher (not wide sherbet bowl style)
+- Add 1–2 chunks of dry ice at bottom
+- Stir occasionally
+- After 10–15 minutes: drink is lightly carbonated and stays cold all night
+- Can add more dry ice if needed
+- Storage: In styrofoam cooler; lasts hours to 1+ day depending on insulation
+- Cannot store long-term at home (sublimes away)
+
+**Application: Gin & Tonics**
+- Traditional drinks often turn flat, warm, nasty
+- Pre-batch in pitcher with dry ice: stays carbonated and cold
+- Allows extended outdoor serving without quality degradation
+
+---
+
+## Vacuum Sealing/Vacuum Packing
+
+**Equipment**: Minipack Torre MVS31 (professional home-sized machine)
+
+**Applications**
+- Sous vide cooking
+- Extending shelf life of leftovers (prevents oxidation)
+- Repackaging bulk meat (e.g., Costco) into usable portions
+- Preserving berries (low vac): keeps without freezing-related issues
+- Portioning cooked pasta for easy reheating
+
+**Vacuum Levels: General Rules**
+
+**For texture modification or freezer storage**
+- Use heaviest vacuum possible (98–100%)
+- Removes all oxygen to prevent warmed-over flavor
+- **Requirement**: Product must be very cold before vacuuming (otherwise poor seal)
+
+**For Fish** (critical)
+- Use **minimum vacuum** (low vac), just enough for bag seal
+- High vacuum causes texture problems when cooked:
+  - Initial bite extremely juicy
+  - Water rushes out during chewing
+  - Becomes fibery, grainy texture by 6th–7th chew
+  - Similar to crushing fish under a brick
+- **Recommendation**: Bag with oil or liquid to prevent crushing
+
+**For Poultry**
+- Use **low vacuum** if vacuum-packing
+- Preferred method: seal in Ziplocs without vacuum
+
+**Testing Protocol** (for home cooks)
+- If time permits, cook three identical portions at 98%, 99%, and full vacuum
+- Cook identically and taste differences
+
+**Commercial Equipment vs. Consumer**
+- FoodSaver: guided consumer adoption but not ideal
+- Professional machines vastly superior
+- MiniPak working on price reduction
+
+**Upcoming Resource**: Vacuum packing section planned for www.cookingissues.com low-temp sous vide primer
+
+---
+
+## Sous Vide Equipment
+
+**Immersion Circulators**
+- New PolyScience circulator coming to market (under $800)
+- Size: between stick blender and regular blender
+- Advantages over unstirred baths:
+  - Stirred bath ensures even heating
+  - Better for short-term items or frequent additions/removals
+  - Easier to store than Sous Vide Supreme
+  - $300 more than Sous Vide Supreme (~$800 vs ~$500) well-spent per Dave
+
+**Strong Endorsement**: "Never heard someone say they regretted buying a circulator"
+
+**Sous Vide Supreme**
+- Unstirred bath
+- Holds product well
+- ~$500
+- Not bad, but larger footprint
+- Less ideal for short-term items or frequent access
+- Can accommodate only one bag at a time efficiently
+
+**Multi-Temperature Cooking**
+- Can do vegetables and meat at different temps if multiple devices available
+- Circulator allows staggered cooking with separate baths
+
+---
+
+## Brisket Cooking
+
+**Caller: Janelle**
+
+**Problems Encountered**
+- Grilling ineffective (cannot maintain low temps)
+- Oven method (~250°F, long duration) inconsistent
+- Unsure about searing or other technique gaps
+
+**Fundamental Approach**
+- Brisket = tough cut with lots of connective tissue
+- Cook at low temperature for extended time
+- Overcook the meat intentionally to break down collagen
+- Collagen converts to gelatin → re-moistens meat
+- If inadequately cooked: meat stays dry
+
+**Cooking Method: Braise-Style**
+- Low and slow temperature essential
+- Must allow sufficient time for collagen conversion
+- Not traditional "smoke ring" barbecue (commercial pit method)
+
+**Commercial Technique**
+- Extremely low heat pit smoking
+- Smoke gives characteristic smoke ring
+- Essentially confit-like cooking (low temp, extended time) without added fat
+- Stays moist due to collagen breakdown + rendered collagen gelatin
+
+**Distinction**
+- Braising method will produce delicious meat but won't taste like traditional brisket (tastes "braised")
+- Smoke/low-temp pit produces characteristic brisket flavor
+
+**Resource**: Forum discussion to be posted at www.cookingissues.com forums within one week with detailed technique; Texas barbecue experts expected to contribute
+
+**Marination Note**: 24-hour marination before cooking improves retention of moisture/flavor
+
+---
+
+## Tenderloin (Sous Vide)
+
+**Caller: WeePop Soupy Pot (Bangkok, Thailand)**
+
+**Problem**: Tenderloin becomes fibrous and mushy when sous vide cooked
+
+**Root Cause**
+- Tenderloin has minimal connective tissue
+- Requires extremely low temperatures
+- Temperature + time interaction differs from high-collagen cuts
+- Extended cooking at low temp causes textural degradation (fibery texture) even if not technically overcooked
+- Low-connective-tissue meat degrades texture with prolonged exposure, unlike collagen-rich cuts that improve
+
+**Optimal Parameters**
+- Temperature: ~54°C (lower end of scale)
+- Duration: ~45 minutes maximum
+- Must sear before cooking (kills surface bacteria)
+- Minimize cooking time
+
+**Food Safety Note**
+- 45 minutes insufficient for food code compliance (no time-temperature safety margin)
+- However, safer in practice: searing kills exterior bacteria; muscle interior is sterile
+- Not code-compliant in US, but effective
+- Thailand has no code restrictions
+
+**Searing Benefit**: Kills all exterior bacteria, making short sous vide cook safer in practice
+
+---
+
+## "Molecular Gastronomy" Terminology Critique
+
+**Dave's Position**: Term is meaningless, harmful, and should be abandoned
+
+**Reasons**
+1. **Meaningless**: No clear definition
+2. **Poor branding**:
+   - "Molecular" sounds disgusting, not appetizing
+   - "Gastronomy" sounds like gas/gastropod; implies you'll get gas
+   - Compound term sounds inherently off-putting
+3. **Origin**: Coined by Hervé This (French scientist), who doesn't speak English well and thinks "food" sounds gross
+4. **Misattribution**: None of the chefs labeled with term accept it; creates unwanted pigeonhole
+5. **Logical inconsistency**: Either all cooking manipulates molecules (including campfire cooking), or none do; no one uses scanning tunneling microscopes to adjust individual molecules
+6. **Marketing construct**: Purely commercial term with no scientific basis
+
+**Real Issue**
+- New cooking technologies used widely in restaurants without notice
+- People assume technology = wacky/unusual food
+- Best applications invisible: consumers experience delicious food without knowing equipment used
+- Example: crystal-clear strawberry drink with perfect effervescence and fresh liquor flavor—consumer thinks "delicious drink," not "this required $30k equipment and 5 hours"
+
+**Best Practice**: Use techniques only when they improve food, not as gimmicks
+- Tools are neutral (frying pan or centrifuge can make good or bad food)
+- Technique without purpose = poor application
+- Occasional silly gimmicks acceptable but not the goal
+
+**Foams Misunderstanding**
+- Foams not new (beer head is ancient foam)
+- Problem: people make foam just to make foam, not for flavor benefit
+- When combined with poor food = entire technique gets blamed
+
+---
+
+## Gin & Tonic Discussion
+
+**Caller: John (preferred CookTec induction and Minipack vacuum sealer)**
+
+**Dave's Gin Preferences**
+- Hendrix: favorite for some applications (pricey)
+- Tanqueray: hand instinctively reaches for; high proof, mixes well
+- Bombay (white label, not Sapphire): father's preference; source of Dave's love of gin/tonic
+
+**Gateway Gin**: Plymouth
+- Light on botanical flavors (especially juniper)
+- Juniper often objectionable to gin newcomers
+- Good entry point
+
+**Other Options**
+- Oxley: fine, different taste profile (not traditional)
+- Beefeater: popular among bartenders
+
+**Recommendation**: Taste multiple gins; personal preference varies widely
+
+**Gin & Tonic Service Issue** (general)
+- Usually either under-carbonated or not boozy enough
+- Meant as summertime drink
+- Often executed poorly (flat, warm final sips)
+- **Solution**: Use dry ice in pitcher to maintain carbonation + temperature throughout service
+
+---
+
+## Equipment: Induction Cooktop
+
+**Model Mentioned**: CookTec induction unit
+
+**Properties**
+- Uses oscillating electromagnetic field to heat pan (not conductive heat)
+- Most electrically efficient cooking method
+- Doesn't heat kitchen air
+- Not as popular in US (gas cheaper than electricity; chefs unfamiliar)
+- More prevalent in Europe
+
+---
+
+## Culinary Philosophy
+
+**Technique vs. Gimmick**
+- Technique marriage with flavor essential
+- Never use technique just to use it
+- Tools are neutral; application determines quality
+
+**Commercial Distillates vs. Homemade**
+- Commercial beverages delicious but different flavors achievable
+- Roto-vap distillates: purest, cleanest flavors
+- Challenge: commercial viability (short shelf life, difficulty scaling, expense)
+
+---
+
+## Resources & Contact
+
+**Website**: www.cookingissues.com
+- Forums for technique discussions
+- Low-temp sous vide primer (in progress)
+- Vacuum packing section planned
+
+**Call-in Number**: 718-497-2128 (Heritage Radio Network)
+
+**Sponsors Mentioned**: Barter House wines (917-463-3076)

@@ -71,6 +71,16 @@ def fetch(
     raise urllib3.exceptions.HTTPError("all retries exhausted")
 
 
+def post_json(url: str, body: object) -> object:
+    """POST JSON body, return parsed JSON response. Raises on non-200."""
+    import json
+    data = json.dumps(body).encode()
+    resp = _pool.request("POST", url, body=data, headers={"Content-Type": "application/json"})
+    if resp.status != 200:
+        raise urllib3.exceptions.HTTPError(f"HTTP {resp.status}: {resp.data.decode(errors='replace')}")
+    return json.loads(resp.data)
+
+
 def _sleep(seconds: int, cancel: threading.Event | None) -> None:
     if cancel is None:
         time.sleep(seconds)

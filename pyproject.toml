@@ -10,6 +10,7 @@ dependencies = [
     "pyannote.audio",
     "soundfile",
     "torch",
+    "anthropic>=0.96.0",
 ]
 
 [project.scripts]
