@@ -5,6 +5,8 @@ from typing import Any
 
 import pytest
 
+pytest_plugins = ["pytest_parallel"]
+
 SAMPLE_RSS = """\
 <?xml version="1.0"?>
 <rss version="2.0">

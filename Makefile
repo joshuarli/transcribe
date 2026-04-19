@@ -1,5 +1,5 @@
 test:
-	python -m pytest
+	python -m pytest --parallel -m 'not integration'
 
 pc:
 	prek --quiet run --all-files

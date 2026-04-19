@@ -62,6 +62,14 @@ Neither Cohere variant supports native timestamp output (both are CTC-style mode
 
 Whisper avoids all of this because it is an encoder-decoder that explicitly predicts `<|timestamp|>` tokens — each segment comes with a genuine start/end from the model itself.
 
+## Cohere accuracy limitations
+
+Cohere uses pure greedy decoding (argmax at every step) with no beam search or sampling exposed by the library. This has a concrete accuracy consequence on hesitation-heavy speech: the phrase "Curing powder is nitrates. Uh, nitrites rather." is consistently collapsed to "Curing powder is not. Nitrites, rather." because "is not" has far higher prior probability than "is nitrates. Uh," and greedy decoding commits to the wrong token with no way to recover.
+
+Whisper avoids this with `best_of=10`: ten independent decoding paths are sampled and the highest-scoring one is kept, so the disfluent-but-correct path can win even when it isn't the single most likely first token.
+
+Occasional correct outputs from Cohere on this phrase are dither luck — `_apply_dither` seeds its RNG from `len(waveform)`, so different chunk sizes produce different noise, which can shift logit margins just enough to tip a borderline token. Not reliable.
+
 Both backends support checkpoint/resume: each chunk result is written to a `.ckpt.json` JSONL file immediately after transcription, so `^C` mid-episode resumes from the last completed chunk.
 
 `cohere-transcribe-03-2026` uses HuggingFace Transformers on MPS (PyTorch GPU).  

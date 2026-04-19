@@ -261,7 +261,7 @@ def _transcribe_cohere_mlx(audio_path: str, checkpoint_path: Path | None = None)
     chunk_arrays = {i: data[s0:s1] for i, (s0, s1) in enumerate(chunks) if i not in done}
 
     def infer(i: int, s0: int, s1: int) -> tuple[str, list[RawSegment]]:
-        text = model.transcribe(chunk_arrays[i], sample_rate=sr, language="en").text.strip()
+        text = model.transcribe(chunk_arrays[i], sample_rate=sr, language="en", itn=True).text.strip()
         return text, _text_to_segments(text, s0 / sr, s1 / sr)
 
     result = _run_chunks(chunks, sr, infer, checkpoint_path, "cohere-mlx", done=done)
