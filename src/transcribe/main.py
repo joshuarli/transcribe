@@ -2,11 +2,12 @@
 """Podcast transcript pipeline."""
 
 import argparse
+import os
 import sys
 
 from transcribe.denoise import denoise, strip_fillers_rendered
 from transcribe.episode import make_episode
-from transcribe.extract import extract, model_slug
+from transcribe.extract import extract, extract_request, llama_server, model_slug
 from transcribe.feed import load_episodes
 from transcribe.pipeline import (
     PARAGRAPH_GAP_S,
@@ -23,6 +24,28 @@ from transcribe.transcribe import BACKENDS
 
 def _parse_speakers(value: str | None) -> list[str] | None:
     return [s.strip() for s in value.split(",")] if value else None
+
+
+def _prepare_extract(ep):
+    """Denoise ep's transcript if needed; return (cleaned_text, output_path) or None to skip."""
+    if not ep["text"].exists():
+        print(f"{ep['slug']}: no transcript, skipping")
+        return None
+    out = ep["text"].with_name(ep["text"].stem + f".extracted-{model_slug()}.txt")
+    if out.exists():
+        print(f"{ep['slug']}: already extracted, skipping")
+        return None
+    denoised = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
+    if denoised.exists():
+        print(f"{ep['slug']}: using existing denoised transcript at {denoised}")
+        return denoised.read_text(encoding="utf-8"), out
+    raw = ep["text"].read_text(encoding="utf-8")
+    cleaned = strip_fillers_rendered(denoise(raw))
+    saved = len(raw) - len(cleaned)
+    print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
+    denoised.write_text(cleaned, encoding="utf-8")
+    print(f"{ep['slug']}: denoised written to {denoised}")
+    return cleaned, out
 
 
 def _add_render_args(p: argparse.ArgumentParser) -> None:
@@ -106,7 +129,7 @@ def main() -> None:
         help=f"Which transcription backend's output to read (default: {BACKENDS[0]})",
     )
     p = sub.add_parser("extract", help="Extract culinary information from a transcript via LLM")
-    p.add_argument("number", type=int)
+    p.add_argument("number", type=int, nargs="?", help="Episode number (omit to process all)")
     p.add_argument(
         "--transcriber",
         choices=BACKENDS,
@@ -208,29 +231,36 @@ def main() -> None:
                     f"{ep['slug']}: {len(raw)} → {len(result)} chars ({saved / len(raw):.0%} removed), written to {out}"
                 )
         case "extract":
-            if not 1 <= args.number <= len(episodes):
-                sys.exit(f"Episode {args.number} not found.")
             if not podcast.extraction_prompt:
                 sys.exit(f"No extraction prompt configured for '{podcast.slug}'.")
-            ep = episodes[args.number - 1]
-            if not ep["text"].exists():
-                sys.exit(f"No transcript at {ep['text']} — run 'transcribe' first.")
-            denoised = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
-            if denoised.exists():
-                cleaned = denoised.read_text(encoding="utf-8")
-                print(f"{ep['slug']}: using existing denoised transcript at {denoised}")
+            if args.number is not None:
+                if not 1 <= args.number <= len(episodes):
+                    sys.exit(f"Episode {args.number} not found.")
+                targets = [episodes[args.number - 1]]
             else:
-                raw = ep["text"].read_text(encoding="utf-8")
-                cleaned = strip_fillers_rendered(denoise(raw))
-                saved = len(raw) - len(cleaned)
-                print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
-                denoised.write_text(cleaned, encoding="utf-8")
-                print(f"{ep['slug']}: denoised written to {denoised}")
-            print(f"{ep['slug']}: extracting...")
-            result = extract(cleaned, podcast)
-            out = ep["text"].with_name(ep["text"].stem + f".extracted-{model_slug()}.txt")
-            out.write_text(result, encoding="utf-8")
-            print(f"{ep['slug']}: written to {out}")
+                targets = [ep for ep in episodes if ep["text"].exists()]
+                if not targets:
+                    sys.exit("No transcripts found — run 'transcribe' first.")
+
+            if os.environ.get("MLX_MODEL"):
+                for ep in targets:
+                    prepared = _prepare_extract(ep)
+                    if prepared is None:
+                        continue
+                    cleaned, out = prepared
+                    print(f"{ep['slug']}: extracting...")
+                    out.write_text(extract(cleaned, podcast), encoding="utf-8")
+                    print(f"{ep['slug']}: written to {out}")
+            else:
+                with llama_server() as base_url:
+                    for ep in targets:
+                        prepared = _prepare_extract(ep)
+                        if prepared is None:
+                            continue
+                        cleaned, out = prepared
+                        print(f"{ep['slug']}: extracting...")
+                        out.write_text(extract_request(cleaned, podcast, base_url), encoding="utf-8")
+                        print(f"{ep['slug']}: written to {out}")
         case "diarize":
             if not 1 <= args.number <= len(episodes):
                 sys.exit(f"Episode {args.number} not found.")

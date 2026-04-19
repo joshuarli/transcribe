@@ -6,6 +6,7 @@ import sys
 import threading
 import time
 import urllib.request
+from contextlib import contextmanager
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -74,54 +75,64 @@ def _extract_mlx(text: str, podcast: Podcast) -> str:
     return "".join(chunks)
 
 
-def _extract_llama(text: str, podcast: Podcast) -> str:
+@contextmanager
+def llama_server():
+    """Start llama-server, wait until ready, yield base_url, terminate on exit."""
     model_path = _resolve_llama_model()
     base_url = os.environ.get("LLAMA_URL", _DEFAULT_LLAMA_URL).rstrip("/")
     args = _llama_server_args(model_path)
-
     cmd = ["llama-server", *args]
     print(" ".join(cmd), file=sys.stderr)
     proc = subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
     try:
         _wait_for_llama(f"{base_url}/health", proc)
-
-        from transcribe.http import stream_post_json
-
-        messages = [
-            {"role": "system", "content": podcast.extraction_prompt},
-            {"role": "user", "content": text},
-        ]
-        n_prompt_tokens = _count_prompt_tokens(base_url, messages)
-
-        stop_poll = threading.Event()
-        poll_thread = threading.Thread(target=_poll_prompt_progress, args=(stop_poll, n_prompt_tokens), daemon=True)
-        poll_thread.start()
-
-        chunks: list[str] = []
-        start: float | None = None
-        try:
-            for i, delta in enumerate(
-                stream_post_json(
-                    f"{base_url}/v1/chat/completions",
-                    {"messages": messages},
-                )
-            ):
-                if start is None:
-                    stop_poll.set()
-                    poll_thread.join()
-                    print(file=sys.stderr)
-                    start = time.monotonic()
-                chunks.append(delta)
-                elapsed = time.monotonic() - start
-                tps = (i + 1) / elapsed if elapsed > 0 else 0.0
-                print(f"\r  {i + 1} tokens  {tps:.1f} tok/s", end="", flush=True, file=sys.stderr)
-        finally:
-            stop_poll.set()
-        print(file=sys.stderr)
-        return "".join(chunks)
+        yield base_url
     finally:
         proc.terminate()
         proc.wait()
+
+
+def extract_request(text: str, podcast: Podcast, base_url: str) -> str:
+    """Run one extraction against an already-running llama-server."""
+    from transcribe.http import stream_post_json
+
+    messages = [
+        {"role": "system", "content": podcast.extraction_prompt},
+        {"role": "user", "content": text},
+    ]
+    n_prompt_tokens = _count_prompt_tokens(base_url, messages)
+
+    stop_poll = threading.Event()
+    poll_thread = threading.Thread(target=_poll_prompt_progress, args=(stop_poll, n_prompt_tokens), daemon=True)
+    poll_thread.start()
+
+    chunks: list[str] = []
+    start: float | None = None
+    try:
+        for i, delta in enumerate(
+            stream_post_json(
+                f"{base_url}/v1/chat/completions",
+                {"messages": messages},
+            )
+        ):
+            if start is None:
+                stop_poll.set()
+                poll_thread.join()
+                print(file=sys.stderr)
+                start = time.monotonic()
+            chunks.append(delta)
+            elapsed = time.monotonic() - start
+            tps = (i + 1) / elapsed if elapsed > 0 else 0.0
+            print(f"\r  {i + 1} tokens  {tps:.1f} tok/s", end="", flush=True, file=sys.stderr)
+    finally:
+        stop_poll.set()
+    print(file=sys.stderr)
+    return "".join(chunks)
+
+
+def _extract_llama(text: str, podcast: Podcast) -> str:
+    with llama_server() as base_url:
+        return extract_request(text, podcast, base_url)
 
 
 def _resolve_llama_model() -> Path:
