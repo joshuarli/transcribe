@@ -21,7 +21,7 @@ from transcribe.types import (
     TranscriptResult,
 )
 
-DEFAULT_MODEL = "mlx-community/whisper-large-v3-turbo"
+DEFAULT_MODEL = "openai/whisper-large-v3"
 PARAKEET_MODEL = "mlx-community/parakeet-tdt-0.6b-v3"
 
 
@@ -46,8 +46,13 @@ def _transcribe_mlx(audio_path: str, model: str = DEFAULT_MODEL) -> TranscriptRe
             path_or_hf_repo=model,
             word_timestamps=True,
             verbose=False,
-            temperature=0.0,
-            condition_on_previous_text=False,
+            temperature=(0.0, 0.2, 0.4, 0.6, 0.8, 1.0),  # retry at higher temps if segment fails quality checks
+            condition_on_previous_text=False,  # avoids hallucination snowball across segments
+            no_speech_threshold=0.3,  # default 0.6 drops low-energy short segments (e.g. corrections after "uh")
+            hallucination_silence_threshold=2.0,  # re-examine gaps >2s instead of seek-skipping over them
+            initial_prompt="Cooking Issues podcast. Hosts: Dave Arnold, Nastassia Lopez. Topics: food science, cocktails, culinary techniques, modernist cooking.",  # biases vocabulary toward domain terms
+            language="en",  # skip language detection
+            best_of=10,  # candidates sampled per temperature fallback step; default 5
         ),
     )
 
