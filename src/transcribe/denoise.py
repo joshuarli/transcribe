@@ -79,11 +79,7 @@ def denoise(text: str) -> str:
         run = j - i
         if run >= _MUSIC_MIN_RUN:
             times = [_seconds(kept[k]) for k in range(i, j)]
-            gaps = [
-                times[k + 1] - times[k]
-                for k in range(run - 1)
-                if times[k] >= 0 and times[k + 1] >= 0
-            ]
+            gaps = [times[k + 1] - times[k] for k in range(run - 1) if times[k] >= 0 and times[k + 1] >= 0]
             pos = [g for g in gaps if g > 0]
             if pos and sum(pos) / len(pos) < _MUSIC_MAX_AVG_GAP_S:
                 remove.update(range(i, j))

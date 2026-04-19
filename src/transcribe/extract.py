@@ -16,19 +16,24 @@ def extract(text: str, podcast: Podcast, *, backend: str = "llama") -> str:
 
 def _extract_llama(text: str, podcast: Podcast) -> str:
     url = os.environ.get("LLAMA_URL", _DEFAULT_LLAMA_URL)
-    resp = post_json(url, {
-        "messages": [
-            {"role": "system", "content": podcast.extraction_prompt},
-            {"role": "user", "content": text},
-        ],
-        "max_tokens": 8192,
-    })
+    resp = post_json(
+        url,
+        {
+            "messages": [
+                {"role": "system", "content": podcast.extraction_prompt},
+                {"role": "user", "content": text},
+            ],
+            "max_tokens": 8192,
+        },
+    )
     return resp["choices"][0]["message"]["content"]  # type: ignore[index]
 
 
 def _extract_haiku(text: str, podcast: Podcast) -> str:
-    import anthropic
     import sys
+
+    import anthropic
+
     client = anthropic.Anthropic()
     msg = client.messages.create(
         model="claude-haiku-4-5",
@@ -38,4 +43,6 @@ def _extract_haiku(text: str, podcast: Podcast) -> str:
     )
     if msg.stop_reason == "max_tokens":
         print("warning: extraction output was truncated at max_tokens limit", file=sys.stderr)
-    return next(b.text for b in msg.content if b.type == "text")
+    from anthropic.types import TextBlock
+
+    return next(b.text for b in msg.content if isinstance(b, TextBlock))

@@ -8,11 +8,6 @@
 
 Maintain the prompt in a top-level `prompt.txt` (or `config/prompt.txt`), loaded once in `_load_or_transcribe` and silently skipped if absent.
 
-### parakeet-mlx: LLM post-correction pass
-
-parakeet-mlx exposes no vocabulary biasing — the TDT/CTC decoder has no token-level influence API. The practical alternative is an LLM correction pass after `_transcribe_parakeet` returns, before writing `.raw.json`.
-
-Batch segments into ~1000-token chunks and ask Claude (Haiku is fine) to correct transcription errors using the same `prompt.txt` vocabulary list. Handles hard cases fuzzy-matching can't (e.g. "sir's all" → "Searzall"). Cost per hour-long episode is trivial; correction is cached with the raw transcript so it only runs once.
 
 ## Speaker attribution in rapid exchanges
 
