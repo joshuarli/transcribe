@@ -597,7 +597,6 @@ def _patch_batched_beam(model: Any) -> None:  # noqa: ANN401
 
 def _transcribe_parakeet(audio_path: str, checkpoint_path: Path | None = None) -> TranscriptResult:
     import mlx.core as mx
-    import soundfile as sf
     from parakeet_mlx import from_pretrained
     from parakeet_mlx.alignment import sentences_to_result, tokens_to_sentences
     from parakeet_mlx.audio import get_logmel
@@ -610,9 +609,7 @@ def _transcribe_parakeet(audio_path: str, checkpoint_path: Path | None = None) -
     _patch_batched_beam(model)
     decoding_config = DecodingConfig(decoding=Beam())
 
-    data, sr = sf.read(audio_path, dtype="float32", always_2d=False)
-    if data.ndim > 1:
-        data = data.mean(axis=1)  # stereo → mono
+    data, sr = _load_audio_16k(audio_path)
 
     chunks = _audio_chunks(data, sr)
     done = _load_checkpoint(checkpoint_path, "parakeet", len(chunks))
