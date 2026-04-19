@@ -1709,6 +1709,7 @@ dependencies = [
     { name = "torch", marker = "sys_platform == 'darwin'" },
     { name = "transformers", marker = "sys_platform == 'darwin'" },
     { name = "urllib3", marker = "sys_platform == 'darwin'" },
+    { name = "word2number", marker = "sys_platform == 'darwin'" },
 ]
 
 [package.dev-dependencies]
@@ -1732,6 +1733,7 @@ requires-dist = [
     { name = "torch" },
     { name = "transformers", specifier = ">=5.5.4" },
     { name = "urllib3", specifier = ">=2" },
+    { name = "word2number" },
 ]
 
 [package.metadata.requires-dev]
@@ -1816,6 +1818,12 @@ sdist = { url = "https://files.pythonhosted.org/packages/c7/24/5f1b3bdffd70275f6
 wheels = [
     { url = "https://files.pythonhosted.org/packages/39/08/aaaad47bc4e9dc8c725e68f9d04865dbcb2052843ff09c97b08904852d84/urllib3-2.6.3-py3-none-any.whl", hash = "sha256:bf272323e553dfb2e87d9bfd225ca7b0f467b919d7bbd355436d3fd37cb0acd4", size = 131584, upload-time = "2026-01-07T16:24:42.685Z" },
 ]
+
+[[package]]
+name = "word2number"
+version = "1.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/4a/29/a31940c848521f0725f0df6b25dca8917f13a2025b0e8fcbe5d0457e45e6/word2number-1.1.zip", hash = "sha256:70e27a5d387f67b04c71fbb7621c05930b19bfd26efd6851e6e0f9969dcde7d0", size = 9723, upload-time = "2017-06-02T15:45:14.488Z" }
 
 [[package]]
 name = "yarl"
