@@ -14,16 +14,25 @@ from transcribe.podcasts import Podcast
 
 _DEFAULT_MLX_MODEL = "mlx-community/LFM2-8B-A1B-6bit-MLX"
 _DEFAULT_LLAMA_MODEL = "unsloth/gemma-4-26B-A4B-it-GGUF"
-_DEFAULT_LLAMA_URL = "http://127.0.0.1:8080"
 _DEFAULT_LLAMA_QUANT = "UD-IQ4_NL"
+_HIGH_MEM_LLAMA_MODEL = "unsloth/gemma-4-31B-it-GGUF"
+_HIGH_MEM_LLAMA_QUANT = "UD-Q8_K_XL"
+_HIGH_MEM_THRESHOLD_GB = 48.0
+_DEFAULT_LLAMA_URL = "http://127.0.0.1:8080"
 
 
 def _llama_model_env() -> str:
-    return os.environ.get("LLAMA_MODEL", _DEFAULT_LLAMA_MODEL)
+    if model := os.environ.get("LLAMA_MODEL"):
+        return model
+    total_mem_gb, _ = _detect_hardware()
+    return _HIGH_MEM_LLAMA_MODEL if total_mem_gb >= _HIGH_MEM_THRESHOLD_GB else _DEFAULT_LLAMA_MODEL
 
 
 def _llama_quant() -> str:
-    return os.environ.get("LLAMA_QUANT", _DEFAULT_LLAMA_QUANT)
+    if quant := os.environ.get("LLAMA_QUANT"):
+        return quant
+    total_mem_gb, _ = _detect_hardware()
+    return _HIGH_MEM_LLAMA_QUANT if total_mem_gb >= _HIGH_MEM_THRESHOLD_GB else _DEFAULT_LLAMA_QUANT
 
 
 def model_slug() -> str:
@@ -112,7 +121,15 @@ def extract_request(text: str, podcast: Podcast, base_url: str) -> str:
         for i, delta in enumerate(
             stream_post_json(
                 f"{base_url}/v1/chat/completions",
-                {"messages": messages},
+                {
+                    "messages": messages,
+                    "temperature": 1.0,
+                    "top_p": 0.95,
+                    "top_k": 64,
+                    # Gemma 4 supports thinking but it adds overhead without
+                    # improving structured summarization tasks
+                    "thinking": False,
+                },
             )
         ):
             if start is None:
@@ -213,15 +230,20 @@ def _llama_server_args(model_path: Path) -> list[str]:
     parsed = urlparse(os.environ.get("LLAMA_URL", _DEFAULT_LLAMA_URL))
     port = parsed.port or 8080
 
-    return [
+    # Gemma 4 MoE uses hybrid (local/global) attention that regresses with Metal FA;
+    # the dense Gemma 4 31B does not have this issue and benefits from FA normally.
+    model_id = _llama_model_env().lower()
+    is_gemma_moe = ("gemma" in model_id or "gemma" in model_path.name.lower()) and (
+        "a1b" in model_id or "a4b" in model_id or "-a" in model_id
+    )
+
+    args = [
         "--model",
         str(model_path),
         "--ctx-size",
         str(context_length),
         "-ngl",
         str(gpu_layers),
-        "-fa",
-        "on",
         "-b",
         str(batch_size),
         "-ub",
@@ -249,6 +271,9 @@ def _llama_server_args(model_path: Path) -> list[str]:
         "--prio",
         "2",
     ]
+    if not is_gemma_moe:
+        args += ["-fa", "on"]
+    return args
 
 
 def _count_prompt_tokens(base_url: str, messages: list[dict[str, str]]) -> int:
