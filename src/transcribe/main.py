@@ -86,13 +86,10 @@ def main() -> None:
     )
     _add_render_args(p)
 
-    for name in ("transcribe", "retranscribe"):
-        p = sub.add_parser(
-            name,
-            help=f"{'Transcribe' if name == 'transcribe' else 'Re-transcribe'} episode by number",
-        )
-        p.add_argument("number", type=int)
-        _add_render_args(p)
+    p = sub.add_parser("transcribe", help="Transcribe episode by number")
+    p.add_argument("number", type=int)
+    p.add_argument("--redo", action="store_true", help="Delete cached transcript and re-transcribe from scratch")
+    _add_render_args(p)
 
     p = sub.add_parser("extract", help="Extract culinary information from a transcript via LLM")
     p.add_argument("number", type=int)
@@ -167,21 +164,10 @@ def main() -> None:
         case "transcribe":
             if not 1 <= args.number <= len(episodes):
                 sys.exit(f"Episode {args.number} not found.")
-            run_episode(
-                episodes[args.number - 1],
-                gap=args.gap,
-                speakers=_parse_speakers(args.speakers),
-                backend=backend,
-                learn=args.learn,
-                diarize=args.diarize,
-                speakers_path=podcast.speakers_path,
-            )
-        case "retranscribe":
-            if not 1 <= args.number <= len(episodes):
-                sys.exit(f"Episode {args.number} not found.")
             ep = episodes[args.number - 1]
-            for p in [ep["transcript"], ep["text"], ep["diarized_text"], *intermediate_paths(ep)]:
-                p.unlink(missing_ok=True)
+            if args.redo:
+                for p in [ep["transcript"], ep["text"], ep["diarized_text"], *intermediate_paths(ep)]:
+                    p.unlink(missing_ok=True)
             run_episode(
                 ep,
                 gap=args.gap,
@@ -203,6 +189,9 @@ def main() -> None:
             cleaned = denoise(raw)
             saved = len(raw) - len(cleaned)
             print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
+            postprocessed = ep["text"].with_name(ep["text"].stem + ".postprocessed.txt")
+            postprocessed.write_text(cleaned, encoding="utf-8")
+            print(f"{ep['slug']}: postprocessed written to {postprocessed}")
             print(f"{ep['slug']}: extracting...")
             result = extract(cleaned, podcast, backend=args.model)
             out = ep["text"].with_name(ep["text"].stem + ".extracted.txt")

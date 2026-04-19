@@ -20,9 +20,11 @@ main transcribe 42 --speakers Dave,Nastassia         # label speakers by first a
 main transcribe 42 --speakers Dave,Nastassia --learn # label AND save embeddings for future episodes
 main transcribe 43                     # auto-identifies Dave/Nastassia from saved embeddings
 main transcribe 42 --gap 1.0           # paragraph break at ≥1s silence (default: 0.5)
-main retranscribe 42                   # delete cached transcript and re-transcribe
+main transcribe 42 --redo              # delete cached transcript and re-transcribe from scratch
 main sync                              # transcribe all episodes (parallel downloads)
 main sync --dry-run                    # preview what would be downloaded/transcribed
+main extract 42                        # extract culinary content from transcript via local Llama
+main extract 42 --model haiku          # use Claude Haiku instead of local Llama
 ```
 
 ## Backends

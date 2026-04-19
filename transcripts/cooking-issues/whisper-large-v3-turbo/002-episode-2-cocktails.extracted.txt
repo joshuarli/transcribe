@@ -1,0 +1,153 @@
+# Cooking Issues Transcript Notes
+
+## Curing & Preservation
+
+### Vacuum-Sealed Curing
+- **Pastrami with beef blade**: Vacuum bagging accelerates cure penetration significantly compared to traditional brining
+- **Advantages of vacuum curing**: Uses less brine, allows drier rubs, cures quickly
+- **Curing agents**: Instacure powder or Morton's Tender Quick (salt + nitrates); nitrites have been used for centuries/millennia in salt deposits naturally
+- **Penetration speed**: Pork belly can cure almost completely overnight in vacuum bag
+- **Caveat for long-cured items**: Don't accelerate cures on items like ham where extended curing time develops flavor; vacuum acceleration not recommended for these
+
+---
+
+## Sous Vide / Low-Temperature Cooking
+
+### Chicken Breast (Skinless)
+- **Temperature**: 63°C for ~1 hour; can increase to 64°C if firmer texture desired; do not exceed 65°C
+- **Bagging method**: Use Ziploc bags rather than vacuum seal to avoid "canned chicken" texture (too juicy, juices flow out on bite, subsequent chews dry)
+- **Ziploc technique**: Seal bag almost completely, then dunk under water to displace air for natural seal
+- **Liquid**: Can use chicken stock or olive oil; avoid highly flavorful oils (taste interaction can be strange)
+- **Brining**: Not necessary for preventing overcooking (temperature control prevents that), but increases salt level inside meat for better taste/texture
+- **Best use**: Chopped for salads or cold preparations; texture remains delicious when cooled
+
+### General Sous Vide Principles
+- **Immersion circulator**: Equipment that maintains precise water temperature; prevents overcooking, no monitoring needed
+- **Penetration time calculation**: 
+  - Use Douglas Baldwin's sous vide primer or Nathan Mirvold's tables (eGOULET website) for accurate timing
+  - Avoid "X minutes per pound" formulas—heating is not linear with size
+  - Examples: egg ~45 min–1 hour; rolled chicken ~1 hour; 36-inch striped bass ~3 hours
+- **Thermometer use**: Fraught with problems—difficult to place correctly, can puncture bag causing leaks; often causes more problems than help
+
+---
+
+## Large Lobster Cooking
+
+### 20-Pound Lobster Technique
+- **Problem with large lobsters**: Cooked too long (becomes mushy) or served improperly; muscle fibers become coarser with age
+- **Solution**: 
+  1. Steam 8 minutes (kills lobster, separates meat from shell)
+  2. Use metal shears to cut meat from thick shell
+  3. Slice meat into thin discs (shortens fibers, allows chewing with grain)
+  4. Ziploc bag slices with butter
+  5. Quick-poach individual slices to preserve texture
+- **Result**: Different texture from young lobster but still delicious; prevents toughness and mushiness
+
+---
+
+## Cocktails
+
+### Pre-Batching Stirred Cocktails
+- **Shaken vs. stirred**: Blind taste tests show clear difference; shaking adds texture, stirring does not
+- **Pre-batching limitation**: Hard to pre-batch shaken cocktails (need shaking for texture); stirred cocktails pre-batch well if diluted properly and chilled
+- **Liquid nitrogen option**: Can emulate shaken texture in pre-batched drinks using liquid nitrogen chilling
+- **Determining water content for pre-batch**:
+  1. Make single drink by volume (using jiggers)
+  2. Weigh drink on accurate scale
+  3. Add ice, stir normally, strain
+  4. Weigh final cocktail
+  5. Subtract weight of liquor/ingredients from final weight = water to add
+  6. Accuracy within 2–3 grams
+  7. Write recipe down; reusable for future batches
+- **Note**: Don't dilute at room temperature and taste—balance changes when chilled
+
+### Cocktail Science (Tales of the Cocktail seminar)
+- **Shaking variables**: Ice type and shaking method make minimal difference to temperature/dilution (within reasonable limits); affects texture in mouth more than anything
+- **Stirring seminar**: Upcoming research on stirring techniques (results to be posted after seminar)
+
+---
+
+## Exotic Meats (Sous Vide Testing)
+
+### Sourcing
+- **Supplier**: Czimer's butcher, Chicago (specializes in rare/game meats)
+- **Meats available**: Lion, black bear, raccoon, beaver tails, yak
+- **Ethical context**: Lion/exotic meats sourced from animal brokers (animals bred as pets/for breeding, then killed when no longer useful); meat is byproduct of skin trade, not primary purpose
+- **Cooking method**: Sous vide for tough, older meats
+
+### Beaver Tail History
+- **Medieval religious context**: Beaver tail classified as "fish" (not meat) in Catholic fast days, allowing consumption when meat forbidden
+- **Modern interest**: History buffs recreating medieval recipes
+
+### Lion Meat
+- **Unique property**: No commercially raised carnivore meat in standard food system; carnivores have completely different taste profile
+
+---
+
+## Pâte de Fruit (Fruit Paste/Jelly)
+
+### Recipe Overview (Michael Ascanis)
+1. Cook fruit puree to 180°F with sugar
+2. Add pectin, sugar, glucose syrup
+3. Bring to 225°F
+4. Pour onto silpat to set
+
+### Burning/Browning Problem
+- **Issue**: Fruit browning/burning at 180°F, worsens with added sugar
+- **Likely cause**: Pan temperature too hot, causing scorching
+- **Solutions**:
+  - Use induction burner for accurate temperature control (prevents scorching better than open flame)
+  - Cook slowly
+  - 225°F should be achievable without burning with good pan temperature control
+- **Water bath alternative**: Cannot reach 225°F in water bath without pressure; water bath doesn't remove water needed for proper set
+- **Rotovap possibility** (untested): Could potentially do low-temperature pâte de fruit by dissolving pectin at boiling, then evaporating water under vacuum to reach target solids content
+
+### Pectin Function
+- **Requirements**: Needs heat (boiling or near), acidity, high soluble solids (sugar)
+- **Why it works**: Sugar binds remaining water so pectin gels properly
+- **Common failure**: Insufficient acid or insufficient cooking time prevents setting
+- **Alternative**: Low-methoxyl amidated (LMA) pectin allows lower soluble solids without high-temperature cooking (not widely available)
+
+---
+
+## Mana (Dried Tree Sap/Honeydew Candy)
+
+### Definition & Formation
+- **Criteria**: Sweet, appears from nowhere (wild/uncultivated), providential
+- **Sources**:
+  - Dried sap from trees (bugs chew undersides of leaves, sap dries)
+  - Honeydew: bug bites leaf/stem, sap pressure forces through bug's body, exits as dried sweet substance
+- **Geography**: Primarily Middle East (dry climate allows formation)
+- **Harvesting**: People beat bushes with twigs in morning, collect falling mana
+
+### Mana Candy (Gaz)
+- **Composition**: Mana + sugar + nuts (possibly egg whites)
+- **Texture**: Chewy but breaks; unique mana-like quality
+- **Taste variation**: Each bite tastes different; different people perceive differently
+- **Availability**: Saffron King (website) sells straight mana mixed in bourbon
+
+---
+
+## Equipment & Classes
+
+### High-Tech Cocktail Class
+- **Date**: July 28th
+- **Instructors**: Dave Arnold, Nils Noren (French Culinary Institute)
+- **Techniques taught**: 
+  - Cocktails using rotary evaporator and liquid nitrogen
+  - Lime juice clarification in 20 minutes
+- **Location**: French Culinary Institute
+- **Registration**: www.frenchculinary.com
+
+### Vacuum Marinator
+- Recently acquired at French Culinary Institute for testing optimal vacuum levels for curing
+
+---
+
+## Resources & References
+
+- **Blog**: www.cookingissues.com (Ziploc bagging instructions, sous vide info, mana article, pâte de fruit follow-up)
+- **Douglas Baldwin**: Sous vide primer and book with penetration time tables
+- **Nathan Mirvold**: eGOULET website—tables for calculating food heating times in water bath
+- **Upcoming cookbook**: "Modernist Cuisine" by Nathan Mirvold, Chris Young, and 15 other chefs (preorder available; publication Nov/Dec)
+- **Harold McGee**: Guest on next week's episode (phone call)

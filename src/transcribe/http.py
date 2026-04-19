@@ -72,7 +72,7 @@ def fetch(
     raise urllib3.exceptions.HTTPError("all retries exhausted")
 
 
-def post_json(url: str, body: object) -> Any:
+def post_json(url: str, body: object) -> Any:  # noqa: ANN401
     """POST JSON body, return parsed JSON response. Raises on non-200."""
     import json
 

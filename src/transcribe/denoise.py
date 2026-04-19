@@ -14,6 +14,18 @@ _BUMPER_RE = re.compile(
     re.IGNORECASE,
 )
 _SPONSOR_RE = re.compile(r"\bbrought to you by\b|\bsponsored by\b", re.IGNORECASE)
+_PHONE_RE = re.compile(r"\d{3}[.-]\d{3}[.-]\d{4}")
+
+
+def _strip_phones(para: str) -> str:
+    # Remove "That's/That is <phone>" repetitions before stripping the primary number
+    p = re.sub(r"[.,]?\s*[Tt]hat(?:'s| is)\s+\d{3}[.-]\d{3}[.-]\d{4}[,.]?", "", para)
+    p = _PHONE_RE.sub("", p)
+    p = re.sub(r",\s*\.", ".", p)  # ", ." → "."
+    p = re.sub(r" {2,}", " ", p)  # collapse runs of spaces
+    p = re.sub(r" ([.,])", r"\1", p)  # remove space before punctuation
+    return p.strip()
+
 
 _BOILERPLATE = [
     "Heritage Radio Network",
@@ -60,6 +72,10 @@ def denoise(text: str) -> str:
         if 0 <= t < 30:
             low = _content(para).lower()
             if not any(kw in low for kw in _PREROLL_KEYWORDS):
+                continue
+        if _PHONE_RE.search(para):
+            para = _strip_phones(para)
+            if not _content(para).strip():
                 continue
         kept.append(para)
 

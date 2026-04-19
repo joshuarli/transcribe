@@ -38,6 +38,7 @@ def _extract_haiku(text: str, podcast: Podcast) -> str:
     msg = client.messages.create(
         model="claude-haiku-4-5",
         max_tokens=8192,  # model maximum; extraction output can be dense
+        temperature=0,
         system=podcast.extraction_prompt,
         messages=[{"role": "user", "content": text}],
     )
