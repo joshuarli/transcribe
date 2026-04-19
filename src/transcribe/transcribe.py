@@ -21,18 +21,23 @@ from transcribe.types import (
     TranscriptResult,
 )
 
-DEFAULT_MODEL = "openai/whisper-large-v3"
+DEFAULT_MODEL = "mlx-community/whisper-large-v3-mlx"
 PARAKEET_MODEL = "mlx-community/parakeet-tdt-0.6b-v3"
+COHERE_MODEL = "CohereLabs/cohere-transcribe-03-2026"
+
+BACKENDS = ["whisper-large-v3-mlx", "parakeet-tdt-0.6b-v3", "cohere-transcribe-03-2026"]
 
 
 def transcribe(
     audio_path: str,
-    backend: str = "whisper-large-v3-turbo",
+    backend: str = "whisper-large-v3-mlx",
     model: str = DEFAULT_MODEL,
     checkpoint_path: Path | None = None,
 ) -> TranscriptResult:
     if backend == "parakeet-tdt-0.6b-v3":
         return _transcribe_parakeet(audio_path, checkpoint_path=checkpoint_path)
+    if backend == "cohere-transcribe-03-2026":
+        return _transcribe_cohere(audio_path)
     return _transcribe_mlx(audio_path, model)
 
 
@@ -55,6 +60,39 @@ def _transcribe_mlx(audio_path: str, model: str = DEFAULT_MODEL) -> TranscriptRe
             best_of=10,  # candidates sampled per temperature fallback step; default 5
         ),
     )
+
+
+def _transcribe_cohere(audio_path: str) -> TranscriptResult:
+    import torch
+    from transformers import pipeline as hf_pipeline
+
+    device = "mps" if torch.backends.mps.is_available() else "cpu"
+    pipe = hf_pipeline(
+        "automatic-speech-recognition",
+        model=COHERE_MODEL,
+        trust_remote_code=True,
+        device=device,
+    )
+    result = pipe(
+        audio_path,
+        chunk_length_s=30,
+        stride_length_s=5,
+        return_timestamps=True,  # chunk-level timestamps from the pipeline chunking logic
+        generate_kwargs={
+            "language": "en",
+            "num_beams": 5,  # beam search over greedy; model card default is greedy
+            "max_new_tokens": 448,  # model card example uses 256; 448 matches Whisper's cap to avoid chunk truncation
+        },
+    )
+    chunks = result.get("chunks") or []
+    segments: list[RawSegment] = []
+    for chunk in chunks:
+        text = chunk.get("text", "").strip()
+        if not text:
+            continue
+        ts = chunk.get("timestamp") or (0.0, 0.0)
+        segments.append({"start": float(ts[0] or 0.0), "end": float(ts[1] or ts[0] or 0.0), "text": " " + text})
+    return {"text": result["text"], "language": "en", "segments": segments}
 
 
 def _metal_budget_gb() -> float:
@@ -613,9 +651,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("audio")
     parser.add_argument("output")
-    parser.add_argument(
-        "--backend", choices=["whisper-large-v3-turbo", "parakeet-tdt-0.6b-v3"], default="whisper-large-v3-turbo"
-    )
+    parser.add_argument("--backend", choices=BACKENDS, default=BACKENDS[0])
     parser.add_argument("--model", default=DEFAULT_MODEL)
     parser.add_argument("--diarize", action="store_true")
     parser.add_argument("--hf-token", default=None)
@@ -625,7 +661,7 @@ def main() -> None:
         sys.exit(f"Audio file not found: {args.audio}")
 
     print(f"Loading {args.backend} backend...", file=sys.stderr)
-    if args.backend == "whisper-large-v3-turbo":
+    if args.backend == "whisper-large-v3-mlx":
         import mlx_whisper  # noqa: F401 — triggers model cache check before progress message
     print(f"Transcribing {args.audio}...", file=sys.stderr)
     result = transcribe(args.audio, backend=args.backend, model=args.model)

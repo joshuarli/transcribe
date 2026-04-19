@@ -83,7 +83,7 @@ def intermediate_paths(ep: Episode) -> list[Path]:
 def do_transcribe(
     ep: Episode,
     *,
-    backend: str = "whisper-large-v3-turbo",
+    backend: str = "whisper-large-v3-mlx",
     speakers: list[str] | None = None,
     learn: bool = False,
     diarize: bool = False,
@@ -318,7 +318,7 @@ def run_episode(
     gap: float = PARAGRAPH_GAP_S,
     dry_run: bool = False,
     speakers: list[str] | None = None,
-    backend: str = "whisper-large-v3-turbo",
+    backend: str = "whisper-large-v3-mlx",
     learn: bool = False,
     diarize: bool = False,
     speakers_path: Path = Path("cache/speakers.json"),

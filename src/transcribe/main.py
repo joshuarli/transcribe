@@ -18,6 +18,7 @@ from transcribe.pipeline import (
     run_episode,
 )
 from transcribe.podcasts import DEFAULT_PODCAST, PODCASTS
+from transcribe.transcribe import BACKENDS
 
 
 def _parse_speakers(value: str | None) -> list[str] | None:
@@ -39,9 +40,9 @@ def _add_render_args(p: argparse.ArgumentParser) -> None:
     )
     p.add_argument(
         "--backend",
-        choices=["whisper-large-v3-turbo", "parakeet-tdt-0.6b-v3"],
-        default="whisper-large-v3-turbo",
-        help="Transcription backend (default: whisper-large-v3-turbo)",
+        choices=BACKENDS,
+        default=BACKENDS[0],
+        help=f"Transcription backend (default: {BACKENDS[0]})",
     )
     p.add_argument(
         "--diarize",
@@ -68,9 +69,9 @@ def main() -> None:
     p = sub.add_parser("episodes", help="List all episodes")
     p.add_argument(
         "--backend",
-        choices=["whisper-large-v3-turbo", "parakeet-tdt-0.6b-v3"],
-        default="whisper-large-v3-turbo",
-        help="Which backend's transcripts to check (default: whisper-large-v3-turbo)",
+        choices=BACKENDS,
+        default=BACKENDS[0],
+        help=f"Which backend's transcripts to check (default: {BACKENDS[0]})",
     )
 
     p = sub.add_parser("sync", help="Transcribe all episodes")
@@ -95,9 +96,9 @@ def main() -> None:
     p.add_argument("number", type=int)
     p.add_argument(
         "--transcriber",
-        choices=["whisper-large-v3-turbo", "parakeet-tdt-0.6b-v3"],
-        default="whisper-large-v3-turbo",
-        help="Which transcription backend's output to read (default: whisper-large-v3-turbo)",
+        choices=BACKENDS,
+        default=BACKENDS[0],
+        help=f"Which transcription backend's output to read (default: {BACKENDS[0]})",
     )
     p.add_argument(
         "--model",
@@ -117,9 +118,7 @@ def main() -> None:
     )
     p.add_argument("--speakers", metavar="NAMES", help="Comma-separated speaker names in order of first appearance")
     p.add_argument("--learn", action="store_true", help="Extract and save speaker embeddings (requires --speakers)")
-    p.add_argument(
-        "--backend", choices=["whisper-large-v3-turbo", "parakeet-tdt-0.6b-v3"], default="whisper-large-v3-turbo"
-    )
+    p.add_argument("--backend", choices=BACKENDS, default=BACKENDS[0])
 
     args = parser.parse_args()
 
@@ -129,7 +128,7 @@ def main() -> None:
         parser.error("--learn requires --diarize")
 
     podcast = PODCASTS[args.podcast]
-    backend = getattr(args, "transcriber", None) or getattr(args, "backend", "whisper-large-v3-turbo")
+    backend = getattr(args, "transcriber", None) or getattr(args, "backend", BACKENDS[0])
     transcript_dir, text_dir = dirs_for_backend(podcast, backend)
 
     raw_eps = load_episodes(podcast)

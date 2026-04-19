@@ -424,21 +424,22 @@ wheels = [
 
 [[package]]
 name = "huggingface-hub"
-version = "0.36.2"
+version = "1.11.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "filelock", marker = "sys_platform == 'darwin'" },
     { name = "fsspec", marker = "sys_platform == 'darwin'" },
-    { name = "hf-xet", marker = "(platform_machine == 'aarch64' and sys_platform == 'darwin') or (platform_machine == 'amd64' and sys_platform == 'darwin') or (platform_machine == 'arm64' and sys_platform == 'darwin') or (platform_machine == 'x86_64' and sys_platform == 'darwin')" },
+    { name = "hf-xet", marker = "(platform_machine == 'AMD64' and sys_platform == 'darwin') or (platform_machine == 'aarch64' and sys_platform == 'darwin') or (platform_machine == 'amd64' and sys_platform == 'darwin') or (platform_machine == 'arm64' and sys_platform == 'darwin') or (platform_machine == 'x86_64' and sys_platform == 'darwin')" },
+    { name = "httpx", marker = "sys_platform == 'darwin'" },
     { name = "packaging", marker = "sys_platform == 'darwin'" },
     { name = "pyyaml", marker = "sys_platform == 'darwin'" },
-    { name = "requests", marker = "sys_platform == 'darwin'" },
     { name = "tqdm", marker = "sys_platform == 'darwin'" },
+    { name = "typer", marker = "sys_platform == 'darwin'" },
     { name = "typing-extensions", marker = "sys_platform == 'darwin'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/7c/b7/8cb61d2eece5fb05a83271da168186721c450eb74e3c31f7ef3169fa475b/huggingface_hub-0.36.2.tar.gz", hash = "sha256:1934304d2fb224f8afa3b87007d58501acfda9215b334eed53072dd5e815ff7a", size = 649782, upload-time = "2026-02-06T09:24:13.098Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/dc/89/e7aa12d8a6b9259bed10671abb25ae6fa437c0f88a86ecbf59617bae7759/huggingface_hub-1.11.0.tar.gz", hash = "sha256:15fb3713c7f9cdff7b808a94fd91664f661ab142796bb48c9cd9493e8d166278", size = 761749, upload-time = "2026-04-16T13:07:39.73Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a8/af/48ac8483240de756d2438c380746e7130d1c6f75802ef22f3c6d49982787/huggingface_hub-0.36.2-py3-none-any.whl", hash = "sha256:48f0c8eac16145dfce371e9d2d7772854a4f591bcb56c9cf548accf531d54270", size = 566395, upload-time = "2026-02-06T09:24:11.133Z" },
+    { url = "https://files.pythonhosted.org/packages/37/02/4f3f8997d1ea7fe0146b343e5e14bd065fa87af790d07e5576d31b31cc18/huggingface_hub-1.11.0-py3-none-any.whl", hash = "sha256:42a6de0afbfeb5e022222d36398f029679db4eb4778801aafda32257ae9131ab", size = 645499, upload-time = "2026-04-16T13:07:37.716Z" },
 ]
 
 [[package]]
@@ -1560,6 +1561,19 @@ wheels = [
 ]
 
 [[package]]
+name = "tokenizers"
+version = "0.22.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "huggingface-hub", marker = "sys_platform == 'darwin'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/73/6f/f80cfef4a312e1fb34baf7d85c72d4411afde10978d4657f8cdd811d3ccc/tokenizers-0.22.2.tar.gz", hash = "sha256:473b83b915e547aa366d1eee11806deaf419e17be16310ac0a14077f1e28f917", size = 372115, upload-time = "2026-01-05T10:45:15.988Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/92/97/5dbfabf04c7e348e655e907ed27913e03db0923abb5dfdd120d7b25630e1/tokenizers-0.22.2-cp39-abi3-macosx_10_12_x86_64.whl", hash = "sha256:544dd704ae7238755d790de45ba8da072e9af3eea688f698b137915ae959281c", size = 3100275, upload-time = "2026-01-05T10:41:02.158Z" },
+    { url = "https://files.pythonhosted.org/packages/2e/47/174dca0502ef88b28f1c9e06b73ce33500eedfac7a7692108aec220464e7/tokenizers-0.22.2-cp39-abi3-macosx_11_0_arm64.whl", hash = "sha256:1e418a55456beedca4621dbab65a318981467a2b188e982a23e117f115ce5001", size = 2981472, upload-time = "2026-01-05T10:41:00.276Z" },
+]
+
+[[package]]
 name = "torch"
 version = "2.11.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1660,6 +1674,7 @@ dependencies = [
     { name = "pyannote-audio", marker = "sys_platform == 'darwin'" },
     { name = "soundfile", marker = "sys_platform == 'darwin'" },
     { name = "torch", marker = "sys_platform == 'darwin'" },
+    { name = "transformers", marker = "sys_platform == 'darwin'" },
     { name = "urllib3", marker = "sys_platform == 'darwin'" },
 ]
 
@@ -1680,6 +1695,7 @@ requires-dist = [
     { name = "pyannote-audio" },
     { name = "soundfile" },
     { name = "torch" },
+    { name = "transformers", specifier = ">=5.5.4" },
     { name = "urllib3", specifier = ">=2" },
 ]
 
@@ -1689,6 +1705,26 @@ dev = [
     { name = "pytest", specifier = ">9" },
     { name = "ruff", specifier = ">=0.15.7" },
     { name = "ty", specifier = "==0.0.31" },
+]
+
+[[package]]
+name = "transformers"
+version = "5.5.4"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "huggingface-hub", marker = "sys_platform == 'darwin'" },
+    { name = "numpy", marker = "sys_platform == 'darwin'" },
+    { name = "packaging", marker = "sys_platform == 'darwin'" },
+    { name = "pyyaml", marker = "sys_platform == 'darwin'" },
+    { name = "regex", marker = "sys_platform == 'darwin'" },
+    { name = "safetensors", marker = "sys_platform == 'darwin'" },
+    { name = "tokenizers", marker = "sys_platform == 'darwin'" },
+    { name = "tqdm", marker = "sys_platform == 'darwin'" },
+    { name = "typer", marker = "sys_platform == 'darwin'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/a5/1e/1e244ab2ab50a863e6b52cc55761910567fa532b69a6740f6e99c5fdbd98/transformers-5.5.4.tar.gz", hash = "sha256:2e67cadba81fc7608cc07c4dd54f524820bc3d95b1cabd0ef3db7733c4f8b82e", size = 8227649, upload-time = "2026-04-13T16:55:55.181Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/29/fb/162a66789c65e5afa3b051309240c26bf37fbc8fea285b4546ae747995a2/transformers-5.5.4-py3-none-any.whl", hash = "sha256:0bd6281b82966fe5a7a16f553ea517a9db1dee6284d7cb224dfd88fc0dd1c167", size = 10236696, upload-time = "2026-04-13T16:55:51.497Z" },
 ]
 
 [[package]]
