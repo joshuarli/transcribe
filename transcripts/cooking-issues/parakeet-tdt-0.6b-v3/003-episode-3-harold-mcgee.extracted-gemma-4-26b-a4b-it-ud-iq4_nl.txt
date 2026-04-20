@@ -1,0 +1,85 @@
+# Culinary Notes: Cooking Issues Podcast
+
+## Meat & Sous Vide
+
+### Ribs (Sous Vide)
+*   **Technique:** Low-temperature water bath cooking to maintain structural integrity (meat stays on the bone).
+*   **Recommended Temperature:** ~60°C (140°F).
+*   **Texture Timeline:**
+    *   **~24 hours:** Texture similar to skirt steak.
+    *   **~48–50 hours:** Texture similar to short ribs.
+*   **Note:** Standard temperatures range from 54°C (rare/unusual) up to 80°C.
+
+### Pork Chops (High Fat)
+*   **Issue:** Low-temperature sous vide (54°C–64°C) can result in a "hammy" mouthfeel and unrendered fat.
+*   **"Low Temperature for Insurance" Technique (Dave Arnold):**
+    1.  Sous vide the meat to the desired internal temperature (e.g., 54°C–60°C).
+    2.  Chill the entire piece of meat.
+    3.  Finish in a blazing hot oven to achieve external caramelization and texture. 
+    4.  **Benefit:** Ensures the inside is perfectly cooked while allowing for a traditional exterior.
+*   **Safety Warning (Harold McGee):** At very low temperatures, if the water bath is crowded, lactic acid bacteria may grow between pieces of meat. 
+    *   **Mitigation:** Briefly dunk the vacuum bag into simmering water to kill surface bacteria before starting a long cook.
+
+### Roasting Chicken
+*   **Technique (Two-Temp Roasting):** Start at a high temperature to induce browning/crust, then lower to cook through.
+*   **Technique (High-Temp Constant):** Cooking at very high heat (e.g., 500°F) can work for small birds because the speed of cooking prevents the center from drying out.
+*   **Brining & Skin Texture:**
+    *   If brining, the chicken **must** be dried in the refrigerator before roasting.
+    *   Drying creates a "pellicle" (tacky skin) that allows for better browning.
+    *   Failure to dry after brining results in soggy skin when roasting.
+
+### Meat Marbling
+*   **Ultrasound Technology:** Used to determine fat content in live cattle.
+*   **Mechanism:** Lean muscle and fat have different acoustic properties. The speed of ultrasound waves (20,000+ cycles per second) through the tissue indicates the fat-to-lean ratio.
+
+---
+
+## Herbs & Aromatics
+
+### Preserving Cilantro
+*   **Problem:** Rapid loss of aromatics and tendency to turn to mush.
+*   **Storage Technique (Harold McGee):** Cut stems fresh, place the cilantro in a glass of water (like a bouquet), and cover the top with a plastic bag secured by a rubber band. Store in the refrigerator.
+*   **Note on Processing:** Beating/mashing cilantro (e.g., for pesto) ruptures cells and significantly diminishes flavor.
+*   **Advanced Preservation (Dave Arnold):** 
+    *   Rotovapping with alcohol is more effective at locking in aromatics than water-based distillation.
+    *   Liquid nitrogen can be used to powder herbs, but they will turn black upon thawing due to cell rupture; blanching before freezing may mitigate this.
+
+---
+
+## Beverages & Emulsions
+
+### Carbonation & Dissolved Gases
+*   **$CO_2$ (Carbon Dioxide):** Highly soluble in water and alcohol. Tastes sour.
+*   **$N_2O$ (Nitrous Oxide):** Soluble in water and alcohol. Tastes sweet. Used to balance $CO_2$ to create a "lively" but "mellow" beverage.
+*   **$N_2$ (Nitrogen):** Relatively insoluble. Used in "beer gas" (mixture of $CO_2$ and $N_2$) to maintain high pressure in kegs without increasing excessive carbonation/bubble load. 
+*   **Guinness Widget:** Uses nitrogen to force bubbles into the liquid to create a creamy head without increasing the actual $CO_2$ content.
+
+### Beverage Foams (e.g., Olive Brine Foam)
+*   **Ingredients/Ratios:**
+    *   **Lecithin (Granulated):** 0.5% to 0.75%.
+    *   **Xanthan Gum:** Maximum 0.25%.
+*   **Technique:** Use a stick blender held at an angle to incorporate air and create bubbles/froth.
+
+### Creme Anglaise
+*   **Issue:** Difficulty whipping cooked creme anglaise compared to raw cream or egg yolks.
+*   **Reasoning:** Cooking denatures proteins. In creme anglaise, egg proteins and sugars coat the fat droplets, preventing the structure needed for foam.
+*   **Note on Cream:** If cream is heated and then cooled, it may require significant time to re-crystallize the fat into the optimum structure required for whipping.
+
+---
+
+## Specialized Ingredients
+
+### Salep (Stretchy Ice Cream)
+*   **Ingredient:** An orchid powder used to create a "gluten-like" stretchy texture in ice cream.
+*   **Usage Rate:** 0.5% to 1% of the recipe.
+*   **Technique:** Must be manually beaten after freezing to develop the network.
+*   **Equipment Warning:** **Do not use a Pacojet.** A Pacojet chops the mixture into tiny bits, which destroys the stretchy network.
+
+---
+
+## General Science
+
+### Water for Stocks
+*   **Question:** Does using distilled water improve flavor extraction in stocks?
+*   **Answer (Harold McGee):** No. Distilled water becomes non-distilled immediately upon adding ingredients. The mineral difference is negligible for long-simmering stocks.
+*   **Exception:** Dashi/Kombu stock. Because extraction is very short (minutes) and delicate, water hardness can impact the result.

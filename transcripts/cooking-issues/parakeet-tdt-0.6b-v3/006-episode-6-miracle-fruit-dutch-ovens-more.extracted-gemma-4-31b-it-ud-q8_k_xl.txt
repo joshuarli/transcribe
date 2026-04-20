@@ -1,0 +1,106 @@
+### Taste Modifiers
+**Miracle Fruit (Miraculin)**
+*   **Function:** Protein that binds to sweet receptors; causes acidic/sour flavors to be perceived as sweet.
+*   **Application:** Coat the tongue; effects last 15–30 minutes.
+*   **Note:** Does not neutralize acid; acidity still damages tooth enamel and the stomach.
+*   **Examples:** Lemons taste like lemonade; improves flavors of vinegar, cheap tequila, radishes, and jalapenos.
+
+**Gymnemic Acid**
+*   **Function:** "Sugar destroyer"; erases the sensation of sweetness.
+*   **Effect:** High-sugar fruits (e.g., strawberries) taste preposterously acidic.
+
+---
+
+### Cookware & Equipment
+**Dutch Ovens**
+*   **Enameled Cast Iron:** Both Staub and Le Creuset are fundamentally similar. 
+*   **Le Creuset:** Plastic knobs may chip but are replaceable.
+*   **Warning:** Avoid excessive heat over open flames to prevent enamel "popping."
+
+**Centrifuges**
+*   **Recommended Spec:** 3L benchtop with swinging buckets, capable of ~4,000 Gs.
+*   **Culinary Uses:** Producing nut oils, olive oil from cured olives, and clarifying fruit juices (combined with blending and enzymes).
+*   **Sterilization for Used Gear:** 
+    *   Chlorine soak for internals.
+    *   Pressure cook aluminum buckets for 20 minutes (ensure buckets are fully submerged to eliminate air pockets).
+*   **Safety:** Always verify that the imbalance sensor is connected to prevent mechanical failure.
+
+**CVAP Oven**
+*   **Properties:** Holding oven with a water bath/bain marie; allows 100% humidity.
+*   **Advantage:** Eliminates evaporative cooling, allowing precise control over internal food temperature.
+
+---
+
+### Pasta Techniques
+**Risotto-Style Pasta**
+*   **Method:** Sauté pasta in oil/water first, then add liquid slowly. 
+*   **Result:** Retains released starches, resulting in a creamier texture.
+
+**Standard Boiling**
+*   **Temperature:** Boiling is sufficient. Lower temperature for delicate pasta (e.g., ravioli) to prevent them from breaking.
+*   **Salting:** Used for flavor; does not significantly increase the boiling point.
+*   **Finish:** Pull pasta slightly early and finish cooking in the sauce to improve integration.
+*   **Ingredient Tip:** Bronze-die pasta holds sauce better than smooth-die pasta.
+
+**Pre-soaking Dry Pasta**
+*   **Purpose:** Reduces cooking time and energy consumption.
+*   **Risk:** Thin pastas can become soggy/lose *al dente* texture.
+
+---
+
+### Protein & Meat Science
+**Meat Glue (Transglutaminase)**
+*   **Function:** Soil-derived enzyme that binds proteins together. Natural and destroyed by heat.
+*   **Application:** Sprinkle powder on meat surfaces, press together, and let set for ~4 hours.
+*   **Storage:** Must be kept in the freezer; moisture ruins the enzyme.
+
+**Low-Temperature Cooking (Turkey & Beef)**
+*   **Turkey:** Target $65^\circ\text{C}$ for a balance of safety and moisture.
+*   **Beef:** Low-temperature cooking is required to guarantee tenderness without overcooking.
+*   **Techniques:** 
+    *   **Sous Vide:** Safest method for consistent internal temp and prevention of recontamination. Requires strict thermal processing and refrigeration to avoid botulism.
+    *   **Combi/CVAP Ovens:** Provide accurate temp control and humidity.
+
+---
+
+### Ice & Cocktail Physics
+**The Fundamental Law of Chilling**
+*   Chilling occurs only through dilution (melting). There is no chilling without dilution.
+*   **Temperature:** Bar ice is typically $0^\circ\text{C}$.
+
+**Ice Size & Surface Area**
+*   **Large Ice:** Low surface area-to-volume ratio $\rightarrow$ less efficient chilling $\rightarrow$ takes longer to reach target temperature.
+*   **Small Ice:** High surface area $\rightarrow$ chills faster.
+*   **Dilution:** Small ice has more "entrained water" on the surface, which can increase dilution. However, if ice is shaken/dried before use, dilution differences are negligible.
+
+---
+
+### Mineral Water Synthesis
+**Constituent Flavor Profiles**
+*   **Calcium Chloride:** Bitter; tastes like "death" in high concentrations.
+*   **Magnesium Chloride:** Sweet/milky; becomes bitter when carbonated.
+*   **Magnesium Sulfate (Epsom Salts):** Sweet and refreshing; purgative (laxative) in large amounts.
+*   **Calcium Carbonate:** Tastes like chalk; modifies bubbles to be smoother/less effervescent. Requires phosphoric acid to dissolve.
+*   **Calcium Sulfate (Gypsum):** Less chalky than carbonate; purgative in large amounts.
+*   **Sodium Bicarbonate:** Pleasant in small amounts.
+
+---
+
+### Caller Q&A
+**Q: How does miracle fruit work?**
+**A:** It contains miraculin, a protein that binds to sweet receptors, making acidic/sour foods taste sweet for 15–30 minutes.
+
+**Q: Which Dutch oven is better, Staub or Le Creuset?**
+**A:** Both are very similar enameled cast iron. Le Creuset knobs can chip, but can be replaced.
+
+**Q: What is the best way to cook pasta?**
+**A:** Salt water for flavor. Boil normally, but lower the heat for delicate pasta. Pull pasta early to finish in the sauce. Use bronze-die pasta for better sauce adhesion.
+
+**Q: How can I buy small amounts of meat glue?**
+**A:** It is typically sold by the kilo. It is an enzyme (transglutaminase) that binds proteins. Must be stored in the freezer to remain active.
+
+**Q: Do large ice cubes keep drinks colder with less dilution?**
+**A:** No. Chilling and dilution are linked 1:1. Large ice is actually *less* efficient at chilling because it has less surface area. Small ice chills faster but may add more surface water to the drink.
+
+**Q: How to make turkey and beef tender while ensuring absolute food safety?**
+**A:** Use sous vide for the most precise temperature control and safety. Alternatively, use a CVAP or combi oven. For turkey, $65^\circ\text{C}$ is recommended for moisture and safety.

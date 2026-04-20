@@ -1,0 +1,67 @@
+### Cocktail Science: Stirring vs. Shaking
+*   **Shaking:** 
+    *   Style and ice type (provided it isn't wet) have minimal impact on final temperature and dilution.
+    *   Equilibrium is typically reached in 12–15 seconds.
+*   **Stirring:** 
+    *   Less efficient than shaking for chilling.
+    *   Highly sensitive to duration; equilibrium can take a minute or longer.
+    *   **Fundamental Rule:** Chilling and dilution are inextricably linked; one cannot occur without the other.
+*   **Ice Temperature:** Ice kept in a freezer does not provide significantly more chilling than ice at the melting point, as the majority of cooling energy is derived from the phase change (melting), not the temperature of the ice itself.
+
+### Flavor Chemistry & Leftovers
+*   **Degradation (Tasting Worse):** Polyunsaturated fats in meats and potatoes can oxidize during storage/reheating, creating "cardboardy" or "warmed-over" off-flavors. Vacuum sealing can mitigate this.
+*   **Improvement (Tasting Better):**
+    *   **Pizza:** Proper reheating can recrisp the crust because there is less water remaining in the dough.
+    *   **Lasagna/Stews:** Pasta reabsorbs water from the sauce, concentrating the flavor.
+    *   **Volatiles:** High-note volatile compounds "flash off" during cooling and reheating, evening out the flavor profile.
+    *   **Chemical Breakdown:** Volatiles degrade or hydrolyze differently in the fridge than they do under heat, creating a different flavor profile upon reheating.
+    *   **Infusion:** Spices have more time to penetrate the center of ingredients (e.g., beans).
+
+### Freezing & Thawing
+*   **Freezing Mechanics:** Fundamentally a dehydration process where water crystallizes out of cells.
+*   **Quality Control:** Improper freezing damages cells, leading to "drip loss" (fluid leakage) during thawing.
+*   **Liquid Nitrogen (LN2):** 
+    *   Prevents cell damage and reduces drip loss.
+    *   **Technique:** To avoid hyper-brittleness, suspend food *above* the LN2 for several minutes to pre-freeze before fully immersing.
+*   **Thawing:** 
+    *   Ice is a better heat conductor than water. 
+    *   Thawing is slower than freezing because the outer layer thaws first, becoming water (a poorer conductor), which creates a thermal barrier.
+    *   **Recommendation:** For fast, gentle thawing, place food in a sealed bag and immerse in running water.
+*   **Crockpots:** Safe to cook meat from frozen. Long cooking times and high temperatures will eventually evacuate the water regardless of the initial state.
+
+### Sauce & Gel Stability
+*   **Freeze-Thaw Stability:**
+    *   **Unstable:** Gelatin and agar (they "weep" fluid upon thawing; this property is used for clarifying juices).
+    *   **Stabilizers:** Use hydrocolloids/thickeners to prevent weeping. Recommended: Locust bean gum (requires heat), Xanthan gum, or "flavor-free" guar gum (e.g., from TIC gums).
+*   **Rapid Freezing Technique:** To preserve texture and flavor in roasted vegetable sauces, use LN2 or a salt-ice slush (25% salt by weight) to ensure small ice crystal formation.
+
+### Meat Experiments (Older/Odd Animals)
+*   **General Note:** Older animals often possess superior flavor.
+*   **Lion:** Tastes like a savory pork chop. 
+    *   *Parameters:* 57°C for 1–2 hours was too tough. Suggests 60°C for 10+ hours.
+*   **Black Bear:** Dark meat with a metallic/bloody aftertaste. 
+    *   *Parameters:* 57°C for 1 hour was too tough.
+*   **Raccoon:** Disappointing/tough. 
+    *   *Parameters:* 60°C for 4.5 hours was insufficient. Suggests 63°C for 24 hours, then shredding.
+*   **Beaver Tail:** Tastes like "woody pulled pork."
+    *   *Parameters:* Soak in vinegar water, salt, then cook in butter at 60°C for 40 hours.
+*   **Beaver Flapper:** High fat/skin content. 
+    *   *Parameters:* Cook at 80°C to render, then fry. Suggests dehydrating and puffing the skin into chicharrones.
+*   **Yak:** Savory with notes of duck and tuna.
+    *   *Parameters:* 57°C overnight.
+
+### Grain Cooking: Farro
+*   **Goal:** Achieving a fluffy texture without a tough seed coat.
+*   **Methods:**
+    *   **Pressure Cooker:** Highly recommended for pushing liquid into tough seed coats. Cook for 30–40 minutes in excess liquid.
+    *   **Rice Cooker:** Use "brown rice" setting.
+    *   **Risotto Style:** Initial fry of grains, then gradually adding liquid while stirring.
+    *   **General Tip:** Keep grains submerged in excess liquid during cooking to prevent the exterior from hardening.
+
+### Equipment & Ingredients
+*   **Pressure Cookers:** Recommended for efficiency and reducing kitchen heat in summer.
+*   **Aeropress:** A pressurized coffee system, but lacks the pressure (8–9 bar / 135 PSI) required for true espresso.
+*   **Habaneros:** 
+    *   **Heat Removal:** To remove capsaicin while preserving floral notes, use simple stovetop distillation (macerate in vodka, distill using a pot and ice bowl). 
+    *   **Note:** Stovetop distillation occurs at $\sim 80^\circ\text{C}$, which may degrade floral aromatics compared to a rotovap ($\sim 40^\circ\text{C}$).
+    *   **Avoid:** Peelzyme (breaks down pepper flesh into mush).

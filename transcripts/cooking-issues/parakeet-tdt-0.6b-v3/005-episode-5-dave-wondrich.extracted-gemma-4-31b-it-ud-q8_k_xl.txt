@@ -1,0 +1,69 @@
+### Umami & Sous Vide
+**Caller Q: How to achieve umami in vegetarian cooking without dashi?**
+* **Mechanism:** Umami is a sensation triggered by protein breakdown (specifically glutamic acid).
+* **Vegetarian Sources:** 
+    * Cooked mushrooms.
+    * Aged dairy (e.g., Parmesan cheese).
+    * Concentrated tomato.
+    * Monosodium Glutamate (MSG).
+
+**Caller Q: Is sous vide useful for non-meat eaters?**
+* **Answer:** Yes. It prevents flavor leaching and avoids introducing external flavors, effectively accentuating the natural taste of vegetables (e.g., carrots).
+
+---
+
+### Punch
+**Modern State & Critique**
+* **Current Trend:** Many modern bars use a simplified "sour, sweet, strong, weak, spice" formula.
+* **Critique:** Modern punches often taste like "big cocktails"—too pungent due to excessive bitters, Chartreuse, and herbal elements. This causes them to "cloy" quickly.
+* **Historical Intent:** Originally viewed as "artificial wine" (similar to Burgundy), designed to be quaffable over an entire evening rather than highly pungent.
+
+**Traditional Punch Recipe & Technique**
+* **Core Components:** Spirits, water, citrus, sugar, spice (e.g., nutmeg, tea).
+* **Lemon Paste Technique:**
+    * **Ingredients:** 3 lemons (peeled with swivel peeler, avoiding white pith), 6 oz (3/4 cup) super-fine sugar.
+    * **Process:** Muddle peels and sugar together; let sit for 1 hour to extract essential oils.
+* **Assembly:**
+    * Combine lemon paste + 6 oz lemon juice.
+    * Add 1 bottle of Cognac (or dark/navy rum).
+    * Add ~1 quart water and ice.
+    * **Finish:** Grated nutmeg on top.
+* **Batching:** Citrus, sugar, and some water can be pre-bottled. This results in an "aged" flavor that is more mellow and less sharp than fresh.
+
+---
+
+### Dilution and Ice
+**Dilution Parameters**
+* **Rule of Thumb:** Shaking or stirring should add approximately 25% to the total volume in water.
+* **Measurement Method:** Weigh the base ingredients $\rightarrow$ prepare the drink $\rightarrow$ weigh final result to determine exact water added.
+
+**Shaking vs. Stirring**
+* **Shaking:** Rapid dilution. Chilling and dilution reach a point of diminishing returns after 15–20 seconds.
+* **Stirring:** Slower process. Can take up to a minute to reach the same dilution as a 20-second shake.
+
+**Ice Properties & Recommendations**
+* **Fine Cracked/Snow Ice:** Provides nearly instant chilling and fast dilution.
+* **Large Cold Draft Cubes:** Low surface area; slow to chill but excellent for maintaining temperature over time without excessive watering down.
+* **Technique:** Cracking large ice immediately before stirring creates new "dry" surfaces, increasing surface area for faster chilling without adding excess surface water.
+
+---
+
+### Distillation & Spirits
+**Craft Distillation Critique**
+* **Pseudo-Craft:** Dave criticizes "entrepreneurial" distilling where neutral grain spirits (e.g., from ADM) are bought and simply infused with botanicals.
+* **True Craft (Example: Old Smeets Genever):**
+    * **Grain Bill:** 2/3 rye, 1/3 barley malt.
+    * **Process:** Coal-fired stills; distilled 3 times; stored in below-grade pits.
+* **Aging:** True barrel aging requires seasonal temperature swings (expansion/contraction of wood). "Speed-aging" in tiny barrels is not a functional equivalent.
+
+**Recommendations & Tips**
+* **Innovation:** Encourages making new spirits from unused grains or handcrafted liqueurs (e.g., distilling fresh brandy for orange curaçao) rather than replicating standard gin/vodka.
+* **Budget Tip:** 200-proof hydrous ethanol from a chemical lab (diluted to 40%) is extremely cheap and tastes like a high-quality, sweet vodka.
+
+---
+
+### Molecular Mixology
+**Opinions & Applications**
+* **Strong Opinion:** The term "molecular mixology" is often pretentious. Technology should be used to improve taste and repeatability, not for "tricks" or mimicking other flavors.
+* **Effective Application:** Clarification.
+    * **Example Drink:** Clarified nectarine/peach/plum juice, bourbon, water, and simple syrup.

@@ -1,0 +1,77 @@
+### Meat Curing & Processing
+**Vacuum Curing**
+* **Technique:** Using a vacuum sealer to accelerate brine/cure penetration.
+* **Advantages:** Requires less brine; allows for drier rubs; significantly faster penetration (e.g., pork belly can be cured overnight).
+* **Parameters:** Dave typically uses high vacuum, though some chefs suggest extremely high vacuum may hinder penetration.
+* **Recommendation:** Do not use vacuum acceleration for long-cured items (e.g., traditional hams) as the flavor develops through the duration of the curing process.
+* **Ingredients:** Curing powders (nitrates/nitrites) are effective and traditional.
+
+**Large/Old Lobster Preparation**
+* **Problem:** Older lobsters have coarser muscle fibers; traditional long cooking makes them rubbery/tough.
+* **Technique for very large specimens (e.g., 20lb):**
+    1. **Initial Cook:** Steam for 8 minutes (kills the animal and loosens meat from shell).
+    2. **Extraction:** Use metal shears to remove meat from thick shells.
+    3. **Fabrication:** Slice meat into thin discs (cuts across the grain to shorten coarse fibers).
+    4. **Finish:** Ziploc bag slices with butter and quick-poach individually.
+
+**Exotic Meats**
+* **Recommendation:** Use sous vide for tough, older, or game meats (e.g., lion, bear, yak).
+
+---
+
+### Sous Vide & Low-Temperature Cooking
+**Skinless Chicken Breast**
+* **Parameters:** 63°C for ~1 hour. 64°C for a firmer texture; do not exceed 65°C.
+* **Bagging Technique:** Use Ziploc bags (water displacement method) rather than vacuum sealing. 
+* **Reasoning:** Vacuum sealing creates a "canned chicken" texture that is overly juicy/leaky upon the first bite and dry on subsequent chews.
+* **Brining:** Not necessary to prevent overcooking, but recommended for improved internal salt levels and texture.
+
+**Timing & Temperature Calculations**
+* **Resources:** Douglas Baldwin (Sous Vide primer) and Nathan Mirvold (tables on e-gullet).
+* **Recommendation:** Avoid linear formulas (e.g., "X minutes per pound/inch") as heat penetration is non-linear. 
+* **Approach:** Use mathematical tables or develop a personal database of specific items (e.g., eggs: 45–60 mins; rolled chicken: ~1 hour; 36" striped bass: 3 hours).
+
+---
+
+### Confections & Pectin
+**Pâte de Fruit**
+* **Process:** 
+    1. Heat fruit puree and sugar to 180°F.
+    2. Add pectin, sugar, and glucose syrup.
+    3. Heat to 225°F.
+    4. Pour onto a Silpat to set.
+* **Prevention of Scorching:** Use an induction burner for superior temperature control over open flames.
+* **Pectin Requirements:** To gel, pectin requires heat (near boiling), acidity, and high soluble solids (sugar) to bind remaining water.
+* **Equipment Limitations:** Immersion circulators/water baths cannot be used because the recipe requires the evaporation of water to reach the necessary solids concentration.
+* **Experimental Idea:** Using a rotary evaporator (rotovap) to remove water at lower temperatures.
+
+**Mana (Ingredient)**
+* **Properties:** Wild, sweet substances consisting of dried tree sap or honeydew (aphid secretions).
+* **Characteristics:** Unique chewy texture; flavor varies significantly between bites.
+* **Applications:** Mixed with bourbon or processed into candy with sugar and nuts.
+
+---
+
+### Cocktail Science
+**Shaking vs. Stirring**
+* **Shaking:** Primarily affects the **texture** of the drink. Difficult to emulate in pre-batched cocktails unless using liquid nitrogen to chill a pre-diluted mixture.
+* **Stirring:** Primarily a process of **chilling and dilution** without adding texture. Ideal for pre-batching.
+
+**Pre-Batching Dilution Method**
+To determine the exact water weight needed for a pre-batched stirred cocktail:
+1. Weigh the liquor and ingredients before mixing.
+2. Prepare a single drink traditionally (stir with ice and strain).
+3. Weigh the final chilled cocktail.
+4. **Calculation:** $\text{Final Weight} - \text{Initial Ingredient Weight} = \text{Water to add to batch}$.
+* **Warning:** Do not determine dilution by tasting room-temperature mixtures; the balance changes once the drink is chilled.
+
+---
+
+### Equipment Summary
+| Equipment | Recommendation/Notes |
+| :--- | :--- |
+| **Immersion Circulator** | Essential for precise temperature control; prevents overcooking. |
+| **Vacuum Sealer** | Great for accelerating cures; avoid for certain textures (chicken). |
+| **Induction Burner** | Recommended for sugar/fruit work to prevent scorching. |
+| **Rotary Evaporator** | Useful for low-temp evaporation of water/solids. |
+| **Ziploc Bags** | Preferred over vacuum bags for chicken breast to maintain natural texture. |

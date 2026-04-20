@@ -1,0 +1,77 @@
+### Techniques & Parameters
+
+**Soufflé Stabilization & Pre-making**
+*   **iSi Whipper:** Pure egg white foam does not work directly in an iSi whipper.
+*   **Stabilization:** To pre-make soufflés, use stabilizers like **carrageenan** or **xanthan gum**.
+*   **Process:** Create a stabilized foam, cut into "pucks," and bake. 
+*   **Physics:** Soufflés rely on a pre-aerated base that inflates via steam and bubble expansion. Use stabilizers that melt above $120^\circ\text{F}$ to $140^\circ\text{F}$ to allow expansion during heating.
+
+**Avocado Oxidation Prevention**
+*   **Ineffective:** Placing the pit in the puree.
+*   **Effective:** 
+    *   **Ascorbic Acid (Vitamin C):** Pure powder is recommended over citrus. It provides high antioxidant power with less acidity/taste.
+    *   **Citrus:** Lime juice works but is often too acidic.
+    *   **Chemicals:** Sodium metabisulfite.
+    *   **Physical:** Using oxygen-proof vacuum bags (standard plastic wrap is insufficient).
+
+**Clam & Snail Purging**
+*   **Clams:** Cornmeal is used to stimulate eating and purging (likely via starch dissolution).
+*   **Snails (Spanish Style):** Purge on herbs (e.g., rosemary) to infuse the meat with flavor.
+*   **Snails (Roman Style):** Fatten on milk.
+
+**Reducing Heat in Peppers**
+*   **Manual:** Carefully remove the inner skin (where most capsaicin is concentrated) using a knife.
+*   **Enzymatic:** Peelzyme (SPL) is ineffective for targeted heat removal because it dissolves the mesocarp (the "meat" of the pepper).
+*   **Alternative:** Use *Aji dulce* peppers (Venezuelan); they share the floral aroma of habaneros but are sweet/mild.
+
+---
+
+### Equipment
+
+**Blenders & Juicers**
+*   **Vitamix (Vita-Prep):** Highly recommended for blending and smoothies.
+*   **Champion Juicer:** Recommended for hard produce like apples and carrots ($\approx$\$200).
+*   **Nutra-Juicer:** High-end, high-power option ($\approx$\$5,000).
+*   **Blender Evaluation Criteria:** 
+    1.  **Tip Speed:** The speed of the blade edges determines the force applied.
+    2.  **Blade Geometry:** Affects the efficiency of the cut.
+    3.  **Pitcher Design:** Essential for product movement to prevent cavitation (air pockets).
+
+---
+
+### Ingredients & Functional Roles
+
+*   **Transglutaminase ("Meat Glue"):**
+    *   **Proteins:** Glues animal proteins together.
+    *   **Dairy/Soy:** Can strengthen tofu, yogurt, and other dairy systems.
+    *   **Vegetables:** Cannot glue vegetables alone; requires a "helper protein" like gelatin to cross-link.
+*   **MSG (Monosodium Glutamate):**
+    *   **Role:** Flavor enhancer (glutamic acid).
+    *   **Natural Sources:** Giant kelp.
+*   **Horse Fat:** Highly recommended for frying the "best" French fries.
+
+---
+
+### Caller Q&A
+
+**Q: Should oysters be avoided in months without an "R"?**
+**A:** The rule exists because oysters from warm water are less desirable and potentially riskier. Gulf oysters, specifically, are higher risk for *Vibrio* and are often treated with ultra-high pressure pasteurization.
+
+**Q: Does white wine always go with fish?**
+**A:** No. Red wine can pair well with fish. White wine is generally too "soft" or weak for steak.
+
+**Q: How do you develop a professional palate?**
+**A:** Eat everything. Eat with natives/experts in foreign countries to understand the "correct" version of a dish. To become a "perfect omnivore," intentionally eat foods you dislike to remove personal biases and preferences.
+
+**Q: Is MSG dangerous or does it cause "Chinese Restaurant Syndrome"?**
+**A:** Scientifically, MSG is generally safe. Glutamic acid is a natural neurotransmitter. Blood spikes only occur when consumed as a liquid on an empty stomach in very large doses. Reactions in studies are often not statistically significant when double-blinded.
+
+---
+
+### Strong Opinions & Recommendations
+
+*   **Tilapia:** Described as an "evil" and "vile" fish.
+*   **Meat Glue:** Jeffrey believes most applications are "tricks" or for purely industrial portioning; rarely adds culinary value.
+*   **The Perfect French Fry:** Should have a crisp, friable exterior and a texture like mashed potatoes inside (or be hollow like a baton-shaped chip).
+*   **Iron Chef America:** Characterized as "yuppie food" that prioritizes surprising combinations over "comfort food" (the latter of which rarely wins).
+*   **Nutritional Science:** Warns that much of the popular literature on salt and sodium is "crap based on other crap" and lacks rigorous sourcing.
