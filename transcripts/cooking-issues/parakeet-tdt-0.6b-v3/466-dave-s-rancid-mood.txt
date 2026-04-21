@@ -1,0 +1,531 @@
+[0:11] Hello and welcome to Cooking Issues.
+
+[0:01] This is Dave, our own, your host of Cooking issues coming to you live on Newstand Studios from Rockefeller Center calling your questions to 917 410-1507 that's 917-410-1507 joined as usual in the studio with Nastasia the hammer Lopez. How you doing? Good. Yeah yeah we got John over here how you doing doing great thanks we got uh Jackie Molecules over in California A what's up I'm in Vegas baby Vegas?
+
+[0:41] Vegas, we'll come back to that in a second and in our local booth here at Rockefeller Center Joe Hazen how you doing I'm doing great how are you guys I'm doing all right uh you know what I have to say uh for as muggy as it is outside and those of you that have joined the Patreon and can see the video I am sopping in a pool of my own sweat.
+
+[1:14] This shirt is actually three shades lighter than what it appears to be uh and unfortunately Joe had to move my helmet uh and uh how was that it was fine I actually touched the mask by accident that was inside it that was like yeah uh quick disinfectant yeah all right so uh so Senior molecules uh what are you doing in Vegas and are you having a good time but are you uh filming the second season of hacks that would be amazing
+
+[1:29] I'm definitely not doing that um I'm having a fine time. It's it's a long story that has to do with basketball and NFTs, but I don't want to waste too much show time going into that.. Are you one of these NFT people?
+
+[2:33] I mean what does that mean that's a generalization I mean are you selling like a like a a picture of your own nose hair for like eight billion bitcoin or something isn't that what it is basically isn't that what an NFT is you sell a picture of your nose hair for a lot of Bitcoin I mean the NBA has its own uh project where they they make moments of games so they kind of make these videos of plays it's it's a long story but uh I am involved in that and I'm here for that explain this to an old codger like myself so someone I don't know who's playing because I don't sports as Nastasia knows and hates about me is or she does uh so someone does some sort of sweet like reverse slam dunk and then I somehow now own that slam dunk yeah instead of a trading card think of it as a video of the play but it also acts as a token of your fanship so if you have a certain amount of these or certain plays then you get perks in the arena because they say oh you have this and you're this threshold level of collector it's pretty nascent and new.
+
+[2:48] Do you feel like we're living in end times Jack do you feel like we're living in end times yeah okay oh yeah i mean I'm in Vegas so every feels like the end so are the uh are the buffets open
+
+[3:00] I don't know what I mean you don't know actually I've never been to Vegas You gotta go to the buffets the buffets are an experience.
+
+[3:33] Yeah I mean I mean it's you know COVI times I don't about going there I I've never been to Vegas but the only reason I would go is to experience the buffets I don't I don't go to in general shows you know uh so like I mean what else is there is a very different Vegas I don't know I'm like off strip I went to some great tiki bars, went to a good Thai restaurant that's kind of like what I do when I'm here wait so you're telling me that you live in Los Angeles California and you go to Vegas for Thai food I'm just try........
+
+[3:44] I come to Vegas, why I come, but if I happen to be here, there's a good Thai restaurant that I like it just seems a little bit ridiculous to go from LA to Vegas for Thai food.
+
+[4:06] I'm just saying like if you're like I'm going to Las Vegas because they got a buffet where for no apparent reason every single piece of meat is 85 Wagyu I'd be like that sounds like Vegas I go to that does sound like Vegas you know what I mean or like you know uh you know every single dish is brought you by someone on clown stilts and they have to get it down to the table without taking the stilts off I'd sounds like Vegas I would want to see that you know what I mean but like I go to a Thai restaurant off the strip does not sound uh like it's up to your uh standards there Jack
+
+[4:22] That's fair.
+
+[4:28] Well, you know I don't I don't have clown stilt dinner money yet you know, maybe one day. You pounding uh you pound in the bottles at Cheat Merlot while you're out there are you?
+
+[4:37] No, I'm not definitely not. Don't you have that NBA money? What do they drink are they all uh popping bottles like it's a championship game out there what's happening?
+
+[4:46] Um, beers I guess.. I don't know. This is not the Vegas I'm imagining.
+
+[4:51] You like I know. Sorry to disap you. Yeah, you really are disappointing me. Of course, it's very easy to disappoint me right now I am in a rancid mood and I'll tell you I have not slept in like three days I don't and my dreams that when I do fall asleep have been terrible.
+
+[5:04] And of course, Nastasi, you're in one of them we're doing a demo listen to this we're doing a demo we're having some sort of wretched, wretched meal together where we're discussing the demo at a crappy diner. So far checks out, right?
+
+[5:21] We go outside to load up for the demo, right, and it's it's John's there, you're there, I'm there. Uh I think there's a fourth.
+
+[5:32] There's a fourth there's four people that need to make it to the demo we like the jerks that we are have giant coolers full of stuff, right? And nothing is working right. So far checks out? Mm-m. Okay.
+
+[5:44] The car that you have rented, oh that's right someone I don't remember who is driving the car and the three of us are waiting outside pulls up. Now it's not a real car. Imagine if you will a miniaturized like clown car kitty car version of like a citro and DS. So there's like
+
+[5:59] No room.
+
+[6:09] It's like almost like three wheels almost and there's no room for anyone but the driver our our cooler doesn't even really fit in the back and I'm like Nastasia, four of us and all of our stuff need to get to this demo right now why did you rent this useless thing I mean maybe it's cube why did you rent this useless thing and then and here's what makes it Nastasia like and Nastasi you'll appreciate this I think right it drives off without us and I'm like where the hell did it go?
+
+[6:28] And Nastasi goes, well he had to go over to the hotel to pick up my stuff I'm like there's your stuff too I was like so bent. I was so bent.
+
+[6:36] So bent I mean we could still get an Uber.
+
+[6:40] But we had we'd spent all this money on this obviously like fancy but ridiculous tiny car. Doesn't check out? Yeah.
+
+[6:48] And only we only do that in LA only..
+
+[6:53] I don't we's we go like hardcore crappy and here oh we're C and C mu well it's not it's called for those of you that have never rented a car in New York, right?
+
+[7:00] Like if you don't have a lot of money and if you've ever known anyone in film or production you only rent from C and C rentals, right? Maybeart too. Art2? Do they do that no they need a fancier truck art people need a fancier truck.
+
+[7:17] Yeah so C and C rental, you show up and it's like they don't ask for any ID, right, Sas?
+
+[7:21] Uh, no, I don're you can rent you rent these giant trucks they don't they don't ask you whether you've ever driven a truck of this size before No.
+
+[8:02] They just hand you this giant truck that may or may not work and you drive around but it's so much cheaper than the evil U-HAL people I'll never I I try to never rent U-Haul and I try to tell people never to rent U-Haul if anyone out there works for you haul and wants to convince me differently please tell but as far as I know they're the worst they're the worst rental company I have ever dealt with in my life and let me tell you this if you're going down the street if you've never moved before I mean I don't know who you are or where you live if you've never moved before but if you've never moved before and you see the sign that says like 195 no a U-Haul costs minimum a hundred bucks a a U-HAL costs a minimum of, I'm gonna say it again a hundred bucks at least here in New York because they're like well if uh if you don't get the insurance uh and there's even one thing on it you pay for the I'm gonna I'm gonna renovate the whole damn truck and you're gonna pay for it.
+
+[8:47] They's like oh god so you pay for the insurance it's 50 a mile but by the time you're done it's a hundred bucks any anyone have uh uh uh an alternate experience with them that's pretty accurate yeah and i did i say on the air once that one time I I went to go rent there I was moving my entire apartment now for those of you that have never had the pleasure of moving an apartment in New York, you pull a truck up to your apartment and no one can easily get past you immediately the horns start going you have the flashers you have someone waiting down because you're going to get a billion tickets it's a freaking nightmare in general right yeah right
+
+[8:58] And you only have the truck because you can't afford to have the truck for two days because even though it's only a hundred dollars that's that's all you had you gave all the money to the person so that you could have your deposit am I right?
+
+[9:16] Mm-okay show up to the U-Haul, not open line out the door the hell about an hour and a half two hours after I was supposed to have the truck they open up and the line now is like all the way down the block. And the reason every single person who was supposed to work in the U-a hall that morning was in jail.
+
+[9:29] Get this separate incidents separate incidents.
+
+[9:43] Then the manager who they roused out of bed to come open the U-Haul now she's pissed at all of us as though it's our fault that her staff is in jail which one was this 10 uh 125th and Broadway 127th or whatever it is the one that's above 125th Street on Broadway right right next to the the the the overhead tracks it's a big lot they have a bunch of U Hauls there it's a good I mean theoretically it's a good place to get a U-Haul it's as big as the one over in Chelsea, you know?
+
+[10:03] Anyways so then you know finally so I'm I'm four hours late for moving right and again my window is tight right I pull the truck up I move all of my stuff down, John you'll appre this from a fourt floor walk up yeah right get it into the truck get it to the new place put the key in to go return the truck turn the key in the door what happens?
+
+[10:24] Snaps snaps.
+
+[10:28] Snaps. U-Hul is in the middle of the street u-Haul is in the middle of the middle of 106th street, right?
+
+[10:36] Snaps. I'm like the hell.
+
+[10:39] All your stuffin it or no? Empt. I don'll it was this was a long time ago.
+
+[10:46] So I call up the U-Haul, and I'm like, yo, you need to come get your truck. I think it was done. I think it was over because I said you need to come get your truck the key broke off in the lock I don't know what to do.
+
+[10:53] You know what they said to me you ready for it even though I bought all the insurance you ready?
+
+[11:01] Call a locksmith call a locksmith what?
+
+[11:03] What?
+
+[11:17] What I was like no I was like no I think I eventually did have to call a freaking locksmith to get the freaking door open to return their truck it was I mean the the worst just don't rent from them and and every other occasion when you rent from them you want the small truck right because you always want the small one with grandma's attic in it you know what I'm talking about yeah yeah and my grandma's attic was a real attic people my grandma had an attic not some like weird little actually that's not true my grandparents had a motor home with that little thing over it and that's what I had to sleep in that time that Taffy wouldn't let me pee which is why I hated that dog but I will not go into that story again.
+
+[11:47] So uh they always then give you a giant truck you don't need which then takes you know a billion times more gas nightmare do not rent from them.
+
+[11:50] Rent from anybody else.
+
+[11:54] Now again if any of you out there work for the U Haul Corporation and want to convince me that somehow
+
+[12:01] Maybe it's only every single U-Hall I've ever been to that is terrible.
+
+[12:05] Maybe it's just New York ones. Maybe.
+
+[12:08] Maybe.
+
+[12:09] Let me know. Let us know on uh at cooking issues and I'm willing to have you on the air to discuss it and I will retract anything negative I've said about the U-Haul Corporation if in fact I'm wrong.
+
+[12:25] Oh, and the reason I'm in such a rancid mood and couldn't sleep is because this weekend I was cooking, I was doing an outdoor cooking thing for the book.
+
+[12:29] By the way, I found a newill..
+
+[12:32] You ready for it? It weighs two and a half pounds. Ready for this?
+
+[12:36] It's kind of a Sears all light technology. I really appreciate the way it works. It's you know how like um those aluminum folding chairs, right?
+
+[12:43] So it's imagine like thin versions of those like aluminum folding chair tubes that fold into like a like a like a square and you open it and it's got like four posts sticking up. Right? You kind of can you picture it so far? Like with X's in between the posts? Okay.
+
+[12:56] Then it's got uh four angle pieces of aluminum angle real light that almost look like like window frame angle or like you know like the bottom of a bla like that and you slip them over the posts.
+
+[13:06] All right? You with me now? Okay.
+
+[13:10] So now you have the four posts with these four angle brackets and then they have a stainless steel mesh square almost like a handkerchief, right with grommets. And you push that over the tubes and that's it and the gr that mesh like lets air up through to make the coals hot or the wood or whatever
+
+[13:57] but because air is going up the whole time it doesn't get hot enough to melt and then last but not least they give you a little reflective uh piece of like uh reflective stuff to put on the bottom so that you don'll light whatever you have it on on fire and I was like okay i'll see what it can do right and so I filled that sucker with with with lump hardwood charcoal and there's a little folding grill that fits on top of it so you can grill it was kind of a little bit of a monster like you could go to the beach with that thing uh you know, and it's and it's a lot cleaner and easier than lugging around uh Nastasia's old favorite the Smoky joe remember the smoky joe yeah smoky Joe is the miniature Weber.
+
+[14:03] Do you remember when we lit that thing off inside the Frenchinary Institute we we were like uh we're like I'm gonna grill these burgers for real even though we're inside the French culinary Institute.
+
+[14:11] They're like Dave we can't I was like don't sweat it and I brought the smoky smoky Joe in and put the smok the chimney starter right under the hood oh man I can't believe I didn't get fired from that place.
+
+[14:23] Yeah all's forgotten now because the school closed down so anyways so I'm cooking outside also I cook some more miracle pork we gotta talk about by the way people I know I'veracle pork several times which is theoretically injected by with duck fat by the Sam Weixel corporation. I've some more resear this weekend when I cooked my last batch of Miracle pork I could see the fat injection so someone tweeted in and said I don't leave that it is injected with fat it is injected with fat.
+
+[14:53] I can see the fat injection sites uh at certain places when I cut into it I am going to start figuring out a recipe for the optimum injection of
+
+[15:03] duck fat and I th I think they also injected with like MSG 'cause it's so damn good.
+
+[15:07] You know what I mean like like that like we ate that I served it to everyone I served it to Wiley, you know Wiley my sister in law Miley so that's you know chef, editor and you know, chief founder of the food uh network magazine and like you know the rest of the family.
+
+[15:33] And they were all like what the hell is this what the hell is this pork's a miracle so I gotta figure out how to make it out of because Sam Wexel is completely un uh what's it called un unreliable I you know we waited like monthem, John we waited months to get the the the miracle pork and now yeah speaking of waiting months, you know what's coming up?
+
+[15:41] I had my first real tomatoes of the season.
+
+[15:44] It's gonna be it's gonna be Aunt Ruby's time soon and uh I'll talk to you about them after I have them gonna shoot that for the book. So anyway, so I'm outside and as anyone who knows me knows, I was completely covered from head to foot, right? I have my sneakers, I have my darn tough Will socks on, long sleeve shirt, a uh leather uh sorry, a a fur felt uh hat, right, broad brim. I was out there 'cause I was cooking outside.
+
+[16:09] The next day, I have the worst bug bites I have had in decades. Okay, now listen, again for people who don't, I am usually covered head to toe in DEET.
+
+[16:17] I believe in DEE. DEET is a miracle. DEET, DE E T is God's gift to humans. I love DEET. I like use
+
+[16:28] People used to joke around my family would joke around that my cologne is deet like i was just made of deet 100% deep deet everywhere.
+
+[16:40] Right yeah dEET problem is this it used to be that I only wore natural fiber clothes but now that I have more of these kind of technical uh you know synthetic clothes deet will eat straight through them like if you spray DEET on like you know, sneakers or if you spray DEET on like uh uh synthetic pants it'll just chew a hole straight through them same with like a lot of raincoats and whatnot so I've moved to Picard right but I didn't have the extra thing of Picardin because I packed it for Dax cause he was going to camp.
+
+[16:58] So I forgot to put on bug spray and I went out early in the day and cooked all the way through till nighttime but here's the weird thing see if you guys anyone out there is a bug specialist I only got bit on my feet and my knuckles not on my legs.
+
+[17:18] I'm my hat is 100 at this point after years of spraying it with DEET so I's nothing bit me in the head what only bites you in the feet when you're wearing shoes and socks what is that what is that or on the knuckles.
+
+[17:35] So I haven able to sleep because it just itches so much feels like poison Ivy is the worst that's why I'm in a terrible mood I don't think mosquitoes are gonna get through your socks and your shoes I know so what is it maybe while you were sleeping no because then then they would have gotten more of me like because I I got nothing on my on my arms and I was you know I's wearing a t-s and sleeping chonies when I was sleep they would have gotten my legs I don't know it's a mystery it's a mystery i it i if we were further south I would guess chickers but I don't think we have those up here
+
+[17:55] I don't even know what a trigger is it's a small spider-related mite.
+
+[18:01] That that that is nasty and makes terrible, terrible bites.
+
+[18:10] All right.
+
+[18:54] Miguel Kuntz says uh and this is a follow from last week in uh in a couple weeks ago you briefly mentioned how oil works to desiccate the surface of something that is being saute and therefore assists in achieving a crispy tex on that note cris always good right always good crisy have you ever use cris to mean something bad no right no always good all right what about golden brown golden brown always good right now when could that be bad when could that be bad i i I wrote the words golden brown in the book and as i wrote them I was like this is never bad like golden brown is like always good like there's rich and golden brown.
+
+[19:15] It just sounds you know what I mean yeah yeah uh maybe I should call the book something like how to make something crispy and golden brown instead of the miracle of moisture management my editor was like, I don'ture thing I mean she doesn't talk like that but you know oh by the way people I got some not safe for radio stories uh relating to my old editor Maria Guarna Shelley amazing right Stas we can't talk about them but uh man what a cheese uh I know that's me that's me big T's w
+
+[19:25] Uh, all right. I'd love to hear uh you get into the weeds more on the mechanism of a crispiness. I'm guessing this will take up a large part of miracle of Moisture Management. That's true, because it's not just keeping moisture in, it's also getting the moisture out. Therefore you can create the crispiness on the outside of things. Now, John, uh, or Joe, or Nastasia or Jack, uh, why don's you guys talk to me about crunchy versus crispy?
+
+[19:55] Crispy is more fried chicken, crunchy is more Kellogg's frosted flakes. Huh huh huh huh.
+
+[20:04] Well, crunch continues, right?
+
+[20:09] I think of crisp, I think of like the first bite of a crispy exterior but crunch is kind of like that make sense?
+
+[20:13] It's in what what Joe what do you got?
+
+[20:17] I's not sure.
+
+[20:33] Yeah it's kind of sorry I'm not sure um crunch versus crisp I mean like a like a potato chip's got crunch and crisp right I don't eat fried chicken so I don't really in general or just you don't do chicken I don't like chicken on a bone oh you know what?
+
+[20:37] Neither is my wife do you know all of my chicken is boneless including the legs I make something called a leg ball wow. So here's how the leg ball works people I'm gonna give you this secret and uh hope you'll enjoy it so what you do is is uh I do uh the standard eight part chicken all right eight-part chicken means legs, thighs that's four, breath, breast breast, wing wing
+
+[20:58] Eight eight part chick.
+
+[21:39] And then the back is not considered one of the parts right well they usually keep the back in or if if they're gonna do it on the bone so I do boneless breasts I typically don't take off the tender loins unless I's unless I'm doing a turkey where the tender loins are huge and then I also cut the breasts in half all right okay I leave the wings in the bone but when I take you take off the thigh leg pieces at the same time you then slice directly uh through the joint between the thigh and the leg that's the most satisfying part of chicken butchery by the way like the most satisfying part of chicken butchery uh I mean like I mean I don't like we so we when you when you do the first slice on uh when you're taking the leg off right so you you bend the leg away from where the breast is and then you you nick the skin closer to the legs you want to keep a lot of skin on the breast right and you push in and then when the whole thigh peels away from the from the body and you flip over and go pop and then cut that oyster out of the back also satisfying moment in chicken butchery.
+
+[22:20] But when you just lay that thigh leg down on the table and you just take that knife and it just goes and just goes right down to the cutting board right through that knuckle joint because you hit the cartilage just right most satisfying portion of uh chicken butchery all right so uh so then what you do is you take the uh take the get get you get you your kitchen shears all right take the kitchen shears grab grab the um
+
+[22:29] the leg, right?
+
+[22:33] Point the point the the bone part that you just cut right the part that attaches to the thigh point it at you and grab it like uh like what am I grabbing it like uh like a like some kind of a like a juice cup, right grabit like like fist it, you know. Then take the shears and then go in and push the shears along the along the top of the bone along the meat and go snip and do a snip, like like push into where the tendons attach and go snip and then do four snips.
+
+[23:02] Snip snip snip, snip in a circle around the the bone. Turn it around so that the little ball right that you normally hold it by is there. Pull the skin down you know so that it's taut and then snip the entire end of the bone off, right?
+
+[23:21] And then, you know, make sure no bone flex get in there. Turn it around.
+
+[23:37] Now hold the thing what what is this like holding it like hold it like you're holding a tennis ball in your hand where you hold all the meat back and all that's coming through like your hand is the the fat end of the bone where you did the snips then grab the bone with the other hand twist and rip it out where key you try like your your one hand holding the meat is holding as much of the meat back as possible and you rip that bone out right and now you have a boneless leg ball. And when you when you batter and fry the boneless leg ball it turns almost into a perfect, especially if you brine it, it gets all nice and salt because the the the brine gets into where you rip the bone out The entire thing is this salty, delicious, perfect sphere of chicken hood that let me tell you something. If you've never had a chicken ball you're in for a treat. You're in for a treat. My recipe for Food and Wine magazine on fried chicken, right, which has, I don't a lot of good reviews on it, I gave them explicit directions on how to do the full boning including the leg balls and they're like too complicated too complicated for our readers and they omitted it so like if you follow that recipe which is real old school that's like a 20 I've been making that recipe for like 25 years so I'm sure like you know I'm probably have changed I gotta go look at that recipe again. But uh leg balls I've made it for a long time they're delicio okay are you gonna try that tonight Joe.
+
+[25:24] I might that's a great idea yeah I might have to like yeah go through this video again and kind of watch the way his hand movements were yeah yeah it's gonna be in the book by the moisture management book so nastasia I noticed it you somehow uh didn't chime in with your crispy versus crunchy what do you what do you feel the differences oh crispy oh yeah crispy's like fried chicken and crunchy's like um i don't know like like frosted flakes I agree with you wait wait cris frosted flakes crunchyes crunchy as frosty flakes crispy as chicken see for me it's like I think crunchy for especially like a kettle chip Joe like on potato chips I think those are crunchy right do we all agree like a kettle chip is crunchy and like for me crisp is like almost like what a cracker does you know what I mean like it's hard
+
+[25:30] But when it breaks up it doesn't break into sharpness maybe. But I could be wrong.
+
+[25:37] Anyway, uh I still have not answered your question, uh Miguel.
+
+[25:45] Um as regards oil and advancing uh crispiness um if I'm talk I was talking about sauteing it's probably just the fact that uh it's very difficult to get good contact between uh a dry pan and a um and you know and and a food stuff.
+
+[26:23] And in order to make something crispy you need to desiccate it and you need a moisture you need a um something that can conform to the surface of the product that you're trying to saute and at the same time can get to high enough temperatures that it can boil away uh all of the water at the surface and also uh transfer heat to it at the same time so oil is the only real thing that can do that you think that's what the I was talking about is that an answer yeah that's an answer it's but you don't seem like well I I think it was so you know I went back and listened to the episode which was a lot of fun um um the two things that I think you could have been talking about were either the ableskever and the that one listener was referring to like the like blanket on the the name the Japanese term for those little little balls uh the uh yeah the uh the takoyaki yeah exactly or or that old fried chicken.
+
+[26:40] Well, the fried chicken obvious it's like like the like oil conforms oil has the ability to both conform to the surface and desiccate at the same time and nothing else does this is why frying is the greatest thing that's ever happened you know I mean like
+
+[27:05] I just love frying um All right well if I didn answer that it'll come back come back Miguel if I didn's answer that come back with like a very pointed question I'll try to give you a pointed answer.
+
+[27:15] Uh Josh Seberg wrote in I recently tried to make a milk punch in the spinzall, and although the curves were separated the drink itself was still quite opaque by the way I've been told that I say opaque wrong.
+
+[27:30] How do you guys say it opaque opaque and what do I say what do you say Joe opaque What do I say opaque.
+
+[27:33] Yeah opaque am I s so you guys can hear something different from what I'm saying and what you're slightly because I can't hear it.
+
+[27:40] I've been told by many people that I say it wrong did you put an I in it? What are you doing I don't know I also freaking say coupon I mean like albums I say that too.
+
+[27:50] I I say album, what do you say? No, you don't what do I say? You say album, it's really weird.. It's really weird.
+
+[27:59] Wow All right.
+
+[28:00] What el I say weird? I think that's it.
+
+[28:03] Uh I will occasionally bust out the nuclear.
+
+[28:08] Oh yeah because oh yeah uh as a result of nuking, right?
+
+[28:13] It's nuking, nuke, and then Euler. You know what I mean? Nuke I know it's nuclear people, but I said I I definitely are you guys coupon or coupon people?
+
+[28:23] Coupon Coupon coupon. Gosh. Coupon...
+
+[28:28] Coupon.
+
+[28:28] Oh yeah finally,
+
+[28:31] Yeah Jackson coupon.
+
+[28:33] Long Island baby. Yeah. Listen, I need to get.
+
+[28:58] Have we discussed this on air that that we we've discussed a million times the uh steam cheese so I won bring that up because it'll make Nastasia even more angry but have we discussed the flying nun cheese I don't know so you've been John to this restaurant right the one that makes the flying nun cheese in uh Manchester Connectic is such a treasure trove of weird little weirdnesses, right so there's this restaurant calledn Creamery in Connectic. I've been, but now I'mine to go. Here' what they do they have a like a chrome flat top. By the way for those of you that are never cooked on a chrome griddle do you know why chrome griddles are so nice? Anyone? Anyone? Anyone? No.
+
+[29:19] Emissivity. So what happens when you're uh especially a very large surface that's kept at a hot temperature it radiates a lot of heat at you surprising amount of heat right especially if you're keeping it up at like 375 400. It's just spraying heat out at you and radiant heat on a griddle is useless because rate because griddles are a hundred percent contact cooking conductive cooking right?
+
+[29:43] So any radiant heat that's lost not only burns you but is also wasted energy that you could use into get in the griddle so chrome griddles for anyone that has one or used one everyone knows that they're awesome as long as you keep them clean and don't dent them with uh you know like uh implements that you smack them too hard so I think in Shady Glen I think they have a chrome griddle but I'm not su
+
+[29:55] Uh John's been maybe he looked at it.
+
+[30:03] So then you you you I they press the burger, not too flat, not fat flat uh smash burger style.
+
+[30:19] That after they flip it, they take out not one, not two, not three, four slices of whatever special blend American cheese they have, and they layer it like like tic-tac-toe, four pieces, right, touching in the center, right? So that so that over half of the of each slice of cheese is on the griddle, right?
+
+[31:09] Then it like freakos up, it like gets all crisity, crispity-melity around the outside onto the to the to the griddle, then uh the the person takes their spatula and just goes shoop shoop shoop, shoop, and lifts them all four up into like a nun's habit shape like like the flying Nun then s takes it off the grill, puts it on the bun, and it stays up in the air like like uh like a cros between the flying nun and and the feed me the feed me plant from uh little shop of whores and apparently everybody loves this dang cheeseburger who has it but it's in Manchester and who the heck has the time to drive an hour away from anything that you've gone to go to manchester and you've been there what do you think about this burger I liked it a lot they also have very good ice cream yeah yeah as good as the as the Yukon dairy stores ice cream the dairy Bar no
+
+[32:29] There anot Connect I've apparently UConn has a really great department and they have the cows and then like you know like a couple feet away from the cows they have the the ice cream store where they take the milk from the cows and make the ice cream right there yep and uh from all accounts on point very good ice cream yep on point mm well the people at Shady Glen took the ice cream course at stores did they really I would like to have if anyone out there I would like to have an ice cream off between graduates of the Penn State ice cream program and the Yukon ice cream program in like like a like an ice cream like ag school smack down my grandpa of course old school Penn State so I'm a little bit rooting for Penn State in this even I've never been to either of their ice cream stores but I've been to Cornell's ice cream store it's pretty all right enough on ice cream stores uh wait that didn't answer Josh Sheeberg's question all right I recently made milk punch in the spinz all and all the curves were separated the drink itself is still quite opaque that's how we got off of this the word opaque uh I assume this has to do uh not with it being filtered through a mat of proteins like I like it would be presumably if you were doing it through the super bag is there a workaround for this or am I bound uh to old school drip process milk punchin.
+
+[32:48] Milkin uh well in a spinzall on uh absolutely clear milk punches are better done in batch mode the good news is is that batches are extremely fast. So you you only have to spin a milk punch in a spinzall for like four to five minutes, turn it off and pour out that 50 mils and then go again. And so that's how I'm gonna do it. And then if I need to do large amounts like gallons, then I will, you know, you can do it on a on a super bag or do it do a double spin. Does that answer the question, John? Yep.
+
+[33:20] Okay.
+
+[33:23] Uh Daniel Glover wrote in uh presumably a different Daniel Glover.
+
+[33:26] Yes, yeah.
+
+[33:27] Uh, or yeah. I mean, or you're not, you're you're the other one's a different Daniel Glover. I'm apologize. You's your own Daniel Glover.
+
+[33:37] Anyway.
+
+[33:48] Um I had a question about uh the lime quinine cordial from the cocktail class you did a while ago so lime quinine cordial is where you take clarified lime juice put peels into it, sugar, uh you boil it, then uh strain, then you know get the rid of the peels then you add enough extra acid to it to uh take it up to the acidity of lime juice then because remember the sugar has diluted it and then you add quinine so it can be used in things like tonic syrups and whatnot as a tonic syrup I should say um oh I had another thing about that did you know I was running some tests and that if you have a different sugar that you're going to add to a product and you're gonna bottle it and you want stabilized cordial flavor
+
+[34:14] You can boil the lime juice without the sugar and then add it to your batch and it gets that stabilized cordial flavor even with peel even though you haven't boiled it with the sugar. I just ran that test a couple of uh weeks ago so you're welcome if that was an issue for you.
+
+[34:39] Um I'm getting married on September fifth and have to come up with a signature cocktail.
+
+[34:50] I was wondering if it is possible for me to order this cordial somewhere thanks Daniel yes and congratulations on uh on the marriage hope the Delta variant doesn'hose you guys down and you have a fantastic wedding go to uh gush.com that's G-U-S-H.com, and they I know for a fact that they just made a new batch of quinine lime cordial and it should be on sale if not now tomorrow or email them and you can get it there and I'm sure they made enough for the whole wedd wow Andrew just resigned really well at least I know you were looking up news on your phone while we were busy doing our jobs but uh did it uh I didn't think he was gonna resign.
+
+[35:15] Me neither I mean this is not a political show but I just didn't think he was gonna resign.
+
+[35:27] Yeah Joe.
+
+[35:29] Staying out of it. I'm not saying whether you're for or against it.
+
+[35:33] Did you think he would resign, Joe you don't wanna get into even that he's he'n't not even he's shaking his head yeah uh I didn't think he would.
+
+[35:37] I don't I thought he was gonna hang on to the last you know. Yeah man thought he was gonna s like keep his fingernails in the desk and they were gonna have to pull them away.
+
+[35:51] Wow yeah yeah yeah you know his brother. Was at Yale in my residential college, the year above mean I only met him once he was trying to find a friend of mine.
+
+[36:22] So when I started going out with my wife I still lived in the dorms and I wante to be able so I had like a a decent Macintosh at the time and it had all of the games on it that people wanted so this friend of mine named John Morning lived in the in the room next to me through our fire doors we all had fire doors right and so I you know I needed to move the bed because you know my you know the person who's now my wife was coming over to my room and I, you know, but I wanted John Morning to still be able to like come into the room to play my Macintosh because you know I didn't want to like bogard my computer because he had gotten used to being able to use my computer.
+
+[36:47] So I took a circular saw and I cut my fire door in half like a Dutch doors, right and added like a little extra bottom hinge so that you could just leave the bottom section shut and I left the doorknob on the top section and it swung right over my bed. So like you would just open the fire door over my bed, walk over my bed and go use my computer. And so the only Chris Cuomo was when he knocked on flung my the the Dutch door open was like Morning in here.
+
+[37:07] I'm like nah dude John's not here right now. I was like, all right, and that was it.
+
+[37:13] It's my only Cuomo.
+
+[37:14] There we go it's my only Cuomo.
+
+[37:16] Um, all right.
+
+[37:19] Will Robinson wroin Hey, uh Dave, Stas, John, Jackie M. And Joe
+
+[37:26] Uh in the post pandemic world, I work uh prep at a farmer's food market in the Midwest for small pasture raised meat farm uh as such, I'm always looking to cook the underused cuts from the market.
+
+[37:31] Our current contender is lamb fries.
+
+[37:36] Uh you guys know what lamb fries are right?
+
+[37:41] Mm-no D's- Yeah it's uh it's lamballs.
+
+[37:46] Lamb balls. That's one of those euphemisms. Lamb fries. I think Will knewith and just wanted me to go and say do some D's nuts.
+
+[37:56] Wow. I like what he says next too. We have a veritable sack full of them in the freezer Gosh.
+
+[38:03] Oh man this is good. I have a copy of McLaughn's book. I don't have that look uh John look up that book uh and found her applications delicious but not particularly marketable any recommendations?
+
+[38:18] So my question here first of all I have to say that uh the only time I've ever cooked balls of any sort I completely ruined them. Like uh d how many times Stas, are you an old Val Kilmer fan? No. Did you watch this thing? Is that what you're talking about it? No.. But you remember the movie Top Secret? No. Oh anyone here Joe's got some top secrets.
+
+[38:36] Joe. Yeah of cour. Yeah. There's like few of top secrets. Really? Well the original one with uh you know uh the the you know the French resistant guys Choc chocolate Mous and then and uh surf Nazis Must Die. I mean like, you know, it's classic. And it's early Val early Val Kilmer. I'm sure it hasn' aged well, but you know
+
+[38:56] Anyway, so he's in this restaurant uh and he doesn't understand, I forget whether was French or German this restaur, he doesn's understand what's ordering.. So he orders hog balls and it it comes to a plat the platter comes with a bunch of flaming hogballs on it.
+
+[39:11] So I sawell that and I was like I'm gonna cook some hogballs. And so like when I did a medieval feast I like there was a recipe one of the medieval feasts I did with my mom there was a recipe for hogballs but I completely ruined them because there was no internet.
+
+[39:42] This was in the early 90s I mean there was an internet but there wasn't like internet recipe for hogballs it was easily searchable on excite, you know what I mean which is what you were using at the time and so I didn't know to peel the outer membrane off of the nuts and so you have to you have to take the the nuts and you have to slice the top and the bottom remove the outer membrane and the epididymus and then you have the the gland in there right and then that you're supposed to then soak that sucker in like, well depend to get rid of this kind of if you if you don't want that more livery flavor, soak it in water or milk for a while to kind of leach out some of the leach out some of the gaminess right and and then you slice it and I think you're not supposed to cook it for too long or it's gonna get real puff right so typical recipes are fried, right?
+
+[40:02] So you salt it first, you know Brian it gets some flavor into it's are are um fried sliced and fried or skewered and kebab, right?
+
+[40:16] But definitely not like boiling them
+
+[40:22] They were the chewyest nuts.
+
+[40:58] They were like chewy, nasty nuts, and we were all like okay thank god I had a lot of other good food Thank so again I was so traumatized by the one time I cooked hog balls that uh the other one that you can buy in uh Chinatown all the time that I could not get to taste good was uh this is how it's marketed so I'll I will write I will say exactly what it says on the package beef pizzle beef pizzle no beef pizzle uh I was not able to make it taste good I try and in fact you Stas you took it to a party once as an F-U.
+
+[41:41] Oh, that's true yeah how was it I don't think it was good you like for some reason Nastasi was going to a raw meat potluck remember this someone someone threwesome potluck where they're like bring something to put on the grill yeah and you were like okay and you broug a styro packed thing of beef pizzle I remember we walked over to the to the market, the one on uh Hester and uh and um uh what's that Hester and uh Elizabeth right uh it's changed its name since then and you walk over to the case and you're like that's it and you grab the beef pizzle and you think you put it in your bag I wonder whose party it was in Long Island because you like it was sitting on the train for like hours in my bag. Whoa hmm
+
+[41:58] Ooh Beef pizzle, beef, beef beeple so back to these nuts um listen I mean you if you're not able to sell them fried first of all like there's a whole cultur shift here, right?
+
+[42:07] So like a lot of like I think a lot of women don't care right but like men are like oh I can't eating nuts but then like a lot of other men like depends on your culture right or like if I eat the nuts of something that I think is strong my nuts will become strong.
+
+[42:26] You know what I mean so like they they like it's all depends on what kind of culture you're in um but you know people eat a lot of Rocky mountain oysters in the uh in the in you know over in Denver they even sell them apparently at the at their uh what's what's that thing call stadium you know what I mean and those and fried.
+
+[42:34] Ifan's sell that what about you grind it up and just make it into like a lamb scrapple like make a lamb scrapple and just grind up the nuts into them and then along with other pieces of meat that you have left over some sage, some rosemary in that sucker some uh cornmeal I mean you don't have to say nuts on it if you're making a scrapple and everybody loves scrapple.
+
+[43:10] I mean isn't that what um what the um the beverage uh Red Bull is it's taurine so it's like isn't it bull semen or bull balls that are I don't many I had no idea if you look up taurine I believe that's what it is yeah yeah that's a good question I think I think the fact checked on that comes back saying the opposite but I do remember hearing that Red Bull gives you nuts
+
+[43:29] Now we're a constituent of bile of bile huh yeah and animals oh my god how many of you guys cust how many of you guys have butchered a fish and you accidentally pop the bile sack and that green yellow nasty bitter stuff leaks all over the meat on oh my god oh my God.
+
+[43:44] I just want to add one thing for Will uh maybe check out Fergus Henderson's cookbooks as well for lamb fries recipes I think he has some I ate one of his restaurants it was very good and he is also a great speaker yeah I've eaten at St.
+
+[44:14] John's in London it was one of the best meals I've ever had the best tripe I've ever had it was so delicious really yeah did I ever tell you the problem I had with tripe growing up no so as I've said on the show many times my stepfather's father and his father's father and his father's father and all their uncles all butchers going back for like as many generations as they can count all butchers my stepfather of course, shrink mind butcher uh just kidding people.
+
+[44:45] I love it anyway so the when my when my you know when when my butcher my you know my grandpa was the butcher right Gerard's Gerard's dad comes Gerard's like you know what let's take let's take the old man because he'd retired like 15 years earlier let's take the old man to a slaughterhouse he'll love it so we go to this slaughterhouse and slaughterhouses have a particular kind of smell to them you know what I mean like
+
+[44:54] The blood where it's drained, the cleaning, everything has a and so then we bought a whole bunch of tripe that had like you know just been like taken out and when we ate it that night in the tomato sauce, right?
+
+[45:17] So it's the in the tomato sauce to get rid of the yeah it gets rid of some of the odor and all of that and it had been cleaned and everything, but it just something in it still remind me of the smell of the slaughterhouse and I could not remove the mental conjunction of the smell of the slaughterhouse and the tripe and it took me years, took me years to get back on tripe and still to this day I don't cook it because of that.
+
+[45:29] In that in that way.
+
+[45:31] Yeah.
+
+[45:32] Yeah.
+
+[45:33] Hey, I have to just clear up something from the Red Bull for Joe. Um Taurin was originally isolated from bull semen and is now produced synthetically. So, wait some truth to it. Synthetic bull semen.
+
+[45:46] I'cause that's a lot that's a lot of bulls to be like.
+
+[45:50] So I told. The taurine and Red Bull. Yeah, that's what I was thinking. I meaning I don't know that's a lot of Red Bull they'selling.
+
+[46:02] Okay, we're getting a little we're getting a little risque here but have you guys seen the documentaries on how they collect the product, let's say, from bulls for uh when they're studying them out to uh to to raise cattle. You go inside.
+
+[46:12] There's uh there's a person.
+
+[46:14] There used to be, I don't know, and there's videos of this online, so I encourage you, there's a person who sits in a fake cow butt and
+
+[46:22] Is the receiver.
+
+[47:20] I am not they referenced that in uh Malcolm in the Middle in one of the episodes I'm not making this up I don't know if that's still the way they do it but some guy's like all right I'm ready and they're inside of this like this like furry cow behind and the bull like runs up to what they can call that cow behind what hooker index oh zing oh zing oh man strong so good oh man were you you didn'd go with me to Panama did you go with me to Panama in Panama when they wanted to get me the liquid nitrogen doer they literally got me one from a bull semen storage unit and it still had the bull semen storage tubes nasty the drinks were good okay uh strong on six wrote Instagram hey Dave, uh I know uh by the way one more thing on synthetics.
+
+[47:24] So your Red bull may now be synthetic bull semen which maybe is disappoint to you maybe it's a relief I don't know uh but a lot of people think that quinine that you get in tonic water is synthetic.
+
+[47:33] It's and I'll it is very expensive to make synthetic quinine.
+
+[47:42] It is much easier to just chop downchona trees and get it that way.
+
+[47:49] So if that matters to you rest at ease your quinine's not
+
+[47:53] .
+
+[47:53] All right.
+
+[47:55] From Strung on six via Instagram.
+
+[48:28] Strung on six also sounds like some sort of like thing that you're buying right strung on six what is it what what is it what kind of a product would strung on six be I don't know I don't know yeah and before I get to-medicinal yeah well yeah I get it yeah yeah yeah like some eucalyptus is in it somehow yeah maybe it maybe it uh alleviates the symptoms of bug bites oh I could use that I'm like I said such a rancid mood oh talk about the Lego shoes so I will after I ask you this semi-related question everybody knows that Nastasia Lopez was displeased when Skittles changed their recipe and the green got changed to apple.
+
+[48:52] So a couple I'm gonna try to locate a pack for you because they they're already sold they did all lime what do you think whoa it's not that I love lime it's just that when you'reating Skittles to get lime is good and the apple just messed up the what if what okay how about let me ask you this what if John and I, how many how many colors are there in Skittle? Five? I think so okay what if John and I bought five four bags of Skittles and a bag of all lime and then we removed all of the offensive apples and then reshuffled it with the all lime so that it was OG Skittle. Also it is our anniversary this month Dave.
+
+[49:19] Oh yeah eight million years eight years
+
+[49:21] I think we have to go to Raids how long have you guys been working together the answer is always what? Too long oh jeez all right so uh oh Legos, yeah so like right next to where we shoot here at Rockefeller Center Uh there's a Lego store, right?
+
+[49:47] And so they did uh how do the kids pronounce collaboration now collab or collab what are they collab collab so Legos and uh or Lego I don't know how they style themselves and Adidas, which as we all know the Germans used to call it Adidas, right until run DMC sma was like my Adidas.
+
+[50:03] Any so they did a collab together where there are Lego Adidas.
+
+[50:06] So Nastasi and I are like awesome if Dave can wear Dutch shoes around that are hard then you know I Nastasia, can wear Lego Adidas.
+
+[50:38] So we go in there and all of the boxes, there's no sizes listed on them they don't come in sizes you just buy a lego Adidas and Stas is like yo and we walk in and and they just try to shuffle you in like right because they're like assume that 9999 is either a tourist or you work there right and we're like can you wear the Adidas and the lady was like yes, yes yes and so we walk in and then we ask someone else we're like hey you don't have any of them out here on the floor they're all around the neck of this mannequin in the window can we get it off the mannequin the neck nastasi wants to try them on she wants to see if they fit she's not gonna buy the lego adidas unless they fit
+
+[50:50] And what'd they say to you.
+
+[50:53] They like looked at you like you had. I said that you can'd wear them. They not to wear. So the lady at the front totally lied to us to get us in the store and then guess what they won because John bought something anyway.
+
+[51:04] John got suckered by the lady.
+
+[51:07] That's not good enough though, John. What did I get I bought nothing. You bought didn'd you buy something for like your brother or something like this?
+
+[51:13] I bought nothing camper van. Didn'n you buy a camper van? No. Those have a little bit of Lego on the tip..
+
+[51:18] Yeah, that's not that's not good enough. No. That's not good enough. I want like the mashup I want Dutch shoe hard. Dutch wooden shoe hard with like a soft soul though yeah core. The Dutch wouldn's shoot a Navash. We're gonna have to glue that sucker together so that it doesn't apart how embarrass would that be you're running to get an Uber and the entire soul pops off and you have just the top of the anyway, all right.
+
+[51:41] Strung six uh I know reusable sous vide bags have been an elusive item uh but I just came across this item on Kickstarter let me know your thoughts.
+
+[51:49] So what it is people is this is the craziest thing ever. Uh and I don'll know how I feel about this. If if you're the maker of it then call us and say that you're the maker of it and I'll talk to you about it.
+
+[52:00] But it's a little mini vacuum pump that uses the USB power from your iPhone. Now your iPhone I don't think has enough power to suck a decent vacuum so you have pictures of these people like pulling their iPhone out of their pocket and being like trying to suck a vacuum on on like food
+
+[52:21] So like, you know, for someone like like Nastasi and I, like, I mean, I can imagine once in my life at a restaurant and someone be like if I could only suck a vacu and then you pull out your iPhone and we're like, but I just feel like, you know, at home, most of the time you have a plug, you know, or like, you know, you want something more powerful, even like I have a cordless blower.
+
+[52:40] I actually have a cordless, like little vacu that wearing makes for sucking a vacu, but it like charges via USB and it's big enough to have the power. So I'm a little I'm uh, what's the word? I'm skeptical.
+
+[52:54] Is that fair? Mm-hmm.
+
+[52:57] Nastasia, how much would you what would you do to me if I actually pulled something out of red? Oh my God.
+
+[53:03] Well the thing is that it's not it's like we rarely get to go out, you know. And so we try not to go places where we know people because then they suck your time.
+
+[53:15] And so that's why you just don't be embarrassed either. No, no, no, I don't care about that.
+
+[53:21] Well, my favorite Nastasia moment at the now defunct box was when we were getting forced out.
+
+[53:27] Us reopen. I don'no. And Nastasia as we're being escorted out, they stopped. I hate this place! They stopped us from dancing. I don't know why I don't know why not cool enough, man. I don't know anyway.
+
+[53:38] Uh all right.
+
+[53:40] Uh it's 2 a M via Instagram. Hey I'm curious to know if freezing the rehydrated onion and garlic and your everything bagel seasoning would prevent slash reduce burning
+
+[53:49] I imagine this will also make them easier to incorporate into your seasoning mix.
+
+[53:55] Hope you're having a good day well I'm not but it's not your fault. Um I don't know.
+
+[53:58] I could try it sometime.
+
+[54:06] I've stopped thinking about that problem and just started omitting it from the from my bagels but I'll think about it I just had to think about what are you guys's feelings on small bagel, union bagel size, the three ounce bagel the mini bagel well it's not a mini bagel it's the original bagel.
+
+[54:15] Oh the the the bagel that we all eat is the is the nineteen seventies like largified bagel.
+
+[54:21] The original bagel was a three ounce. It was a union bagel. You couldn't just make bagels. You had to be a part of the bagel makers Union and in order to become a part of the bagel makers union you had to have relatives in the bagel makers union it was like a thing.
+
+[54:32] I didn't know that yeah and it was all like most of it was concentrated like down near where I live on Hester like by Hester in Rivington downtown. It was like a real thing.
+
+[54:44] Um wow yeah look for the Union bagel. What do you think about that small bagel size?
+
+[54:49] Is it like some more like a Jerusalem bagel?
+
+[54:57] I've never been to Jerusalem they're much thinner and smaller but not like David is like the if you got like a pack of like Thomas bagels or something like that size. Uh I will yeah lenders lender size.
+
+[55:05] I will never buy a Thomas's bagel.
+
+[55:09] Hi who made your bagel? The Thomas's Corporation no thanks that's like uh yesterday I saw at Trader Joe's and I put it on my Twitter
+
+[55:24] Uh Trader Joe's made a pretzel bagel that a was not fully pretzeled it was like this like light brown color so they didn't use enough uh base and whatever they were boiling it in and B didn't boil it enough they just looked like wrinkled pieces of roll bread in a bagel shape god people why can't you learn what a bagel is it's not the water people anyone can make a New York bagel.
+
+[55:37] All you need to do is follow the recipe.
+
+[55:45] It's low hydration you you you boil the sucker and and you make it you eat it. You know what I mean?
+
+[55:51] Don't you hate a bad bagel yes...
+
+[55:56] what was it that the Blasio not not to talk more crap about him but what what do you say his favorite bagel was we talked about this yesterday whole wasn's whole wheat with extra cream cheese?
+
+[56:10] Toasted whole wheat toasted with extra cream cheese clown was Cynthia Nixon's was like a cinnam raisin with locks and uh it was like something insane you know what though it's like I've never liked cinnamon raisin but I know plenty of people from New York who actually like cinnam raisin bagels.
+
+[56:33] I like them yeah with cream cheese yeah do you know interesting maybe fact that the everything bagel is a relatively recent invention that it was not popularized until the 80s did you know this so a guy I forget his name Gus or something in Queens
+
+[57:40] Claimed to have invented the uh everything bagel in 190 at a place in Queens when he was working there at a summer job his story and these stories are never true by the way his story was that I was sweeping all the seeds and stuff out of the oven at the end i uh I put them all in a bucket I was like yo you can make new bagels with this we'll call them everything bagels right that's his story but I hope I hope still friend of the show, Seth Godin, which by the way, we need to have him on for this reason alone not just this thing I's but remember for those of you that listened back on the old network we had Seth on and he says that he knows the person ready for it who invented Fuddy the whale what Carvel Carvel ice cream yeah anyway so like Fudgy the whale for those of you that have ever like spent appreciable time as a child in New York or the area, you got your cookie puss and you got your Fudgy the whale and if you got those you knew that your parents loved you know what I mean yeah you're like they do love me they got me fudgy or they got me I never got Fudgy.
+
+[57:52] Yes you did..
+
+[57:57] What if I got it for your 40 yeah I meant when I was growing up they loved me but I did not get it growing up we would get Carvel though I love Carvel crazy. Yeah I mean Carvel, I love Carvel.
+
+[58:11] But so like anyway Seth claims to know the person who invented Fudgy the whale and then he was quoted
+
+[58:16] in the articles I was reading on the everything bagel as saying, no offense to Mr.
+
+[58:19] Gussin.
+
+[58:21] However I was working at a bagel shop in nineteen seventy seven, three years prior to Mr. Gusson's claimed invention of the everything bagel and was making everything bagel so I think we need to have Seth on to talk about this right yeah Yeah what do you think Stasm, we can try..
+
+[58:34] All right.
+
+[58:47] Uh Kevin Stadmeyer wrote in via Instagram uh man, this is old school oh yeah yeah they just have it hasn't caught up yet because they're still calling out uh indie rock uh indie Jesus. Still calling out Indie Jes.. Wow. Awes. Hey Nastasia Dave, maybe Jack.
+
+[58:56] So you're back in the picture Jack, which is nice. Carlos and in and indie Jesus.
+
+[59:02] Wow Carlos.. Shout to Carlos. Wow, wow.
+
+[59:23] For those of you that haven's listened to the old uh episodes, there was um there was a couple of servers at Roberta's who had very specific looks so one of them was was Indie Jesus so he was um um he was if some if Jesus Christ was alive today and an indie rocker with a little bit of like you know the eyelids at half mast because he just can't deal with the situation around him because we, you know we just aren's following his teachings enough like that was the server at the thing and so we're sitting in uh the Robert's fish bowl one day and Stas goes
+
+[59:39] Check it out.
+
+[59:46] Indie Jes and then like that was it. And then it was the other one. Well what do we end up calling so there was a guy Hitler's little Santa's little helper No it was Hitler's little helper because he's got the he looked like a combination Santa's Elf and Hitler youth like that was his outfit vibe.
+
+[1:00:03] That was what it that was what it was you know what I mean like we gotta go the North Pole like like the Berlin club at the North Pole. Yeah.
+
+[1:00:18] Yeah yeah like real specific so anyway uh I recently discovered cooking issues because I'm an idiot being that you discovered it or that you haven't discovered it earlier I'm gonna go with the former that you're an idiot because you have discovered it uh but it's basically right up my alley I'm working my way through all the past issues and have listened to episode uh 54 well you got a long way to go my friend uh wow and Dave made a series of 10 years predictions. That episode aired a little less than 10 years ago and I thought you uh would be pleased to be reminded that the 10-ye predicators become much cheaper and more ubiquitous seems to have come true well I know something uh if only we can make money off what I know right Stas.
+
+[1:00:45] Yeah uh nice work predicting the future because I'm 10 years behind if you talk about this on air I'll hear it sometime next year keep on being awesome also that's why I don't know if uh the others in the salutation are still involved stads all right nice uh all right that is it all right so we have uh we have some more Instagram we have a lot more Instagram questions and we have more questions that's crazy next week we have special guests on
+
+[1:01:15] Wait, so we're not gonna get to you so when are we gonna do something to just take care but they're not uh Patreon so we can't even do it on a Patreon thing.
+
+[1:01:21] Nope.
+
+[1:01:22] We'll just have to stop going on tangents.
+
+[1:01:27] But without the tangents it won't be a cooking issues.
+
+[1:01:53] Oh, I'll before we don'done,

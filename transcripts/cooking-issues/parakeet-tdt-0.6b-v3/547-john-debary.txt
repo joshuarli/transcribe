@@ -1,0 +1,511 @@
+[0:11] Hello and welcome to Cooking Issues This is Dave Arnold, your host of Cooking Issues coming to you live from the heart of Manhattan at Rockefeller Center New Stan Studios Not join with uh John as usual.
+
+[0:01] He is on vacation. But we do have Joe Hazen in the booth. How you doing I'm doing great man good to see you Yeah Jackie Mole is sick, so we're down uh Jackie Molecules we do have Nastasia the Hammer Lopez in Connectical land what's up Hi.
+
+[0:36] Okay.
+
+[0:55] That's uh sounds uh good yeah yeah and uh over there in the upper Upper West West Quinn uh from Vancouver Island how you doing Hey I'm good how are you good see that sounded legit not like this I was like Connectic moker and uh today's special guest a longtime friend and friend of the show uh John DeBerry who just wrote a new book called Wait For It. Well didn't just write it, just published a new book called Saved by the Bellini.
+
+[1:12] Saved by the Bellini.
+
+[1:14] Literally yeah if you don'll get the reference then probably you won't anything it's gonna get saved it's that's the filter you know if you don's means then just yeah buy it anyway but yeah buy it anyway and then uh and then just stop listening. Uh
+
+[1:28] And uh I're I don't Quinn do we have that one uh at Kitchen Arts and Letters on uh on discount or no?
+
+[1:35] Uh no unfortunately not.. did they did are you are we going to for our Patreon folks?
+
+[1:41] Uh no.
+
+[1:43] Okay.
+
+[1:55] Okay well we can talk to Matt about it next week because Matt Sartwell from Kitchen Arts and Letters is gonna be on here next week and I will ask him uh kind of what's going on so uh since last time you were on John which was I think it at the old Voldemort network was the last time you were on, right?
+
+[2:02] I mean I remember calling in from my closet so it was like 2020.
+
+[2:06] It was probably around the same time my last book came out which is June...
+
+[2:09] Yeah the first time live was for proto could have been that yeah.
+
+[2:12] Yeah that's true.
+
+[2:19] Okay, but you know, uh so this is nowadays what we do is we shoot the breeze for a little while about anything interesting that happened to us last week and Nastasia's favorite thing to say is nothing. Nothing.
+
+[2:27] Right do you have anyth this week, Stas, or is it or is it or is it your favorite again?
+
+[2:31] No, I haven I have not done anything interesting last week...
+
+[2:36] Come on Okay. It was I'm not gonna say what she did because I don't know she wouldn't tell me but it was her birthday so happy birthday to Nastasia.
+
+[2:47] Oh happy birthda yeah yeah no thank you know um but I'm not gonna ask you because then you'll get bent at me if I ask you on air so I won't.
+
+[2:51] Okay.
+
+[2:54] Uh but what I did send her uh from uh my position for her birthday was
+
+[2:59] We got the new spinzall prototype working.
+
+[3:01] So that's good.
+
+[3:03] You know. So I got this got the snap got the poetry snaps gone from John.
+
+[3:08] Um so it's working and everyone can expect to see a lot more about that next week and it's actually working pretty well I just have to make a couple of changes. So that's good news right guys.
+
+[3:20] Yes it's awesome yeah it's why don't you talk more about it.
+
+[3:42] Well for those of you that don't know, Booker and Dax uh the company which is you know uh Quinn and Nastasia and myself at this point was John before he decided to go chefing it up uh you know we built a centerfuge called the spinzall that is for bars and restaurants and uh nobody wanted it because no one knew what to do with it and then we actually built a market for it so that people we built a market for it so people really wanted it and then as soon as we were like oh this is gonna be a real business again the factory changed hands and they stopped the ability to make it and we spent the last like three years, Stas, three years trying to get it built again. Yeah.
+
+[4:04] Yeah.
+
+[4:10] And so finally the factory's like, okay, we'll build it's, and so we're changing like a yeah yeah. So we're changing a lot of the stuff like for instance like a bunch of people in Europe and Asia bought not a bunch.
+
+[4:21] Some people in Europe and Asia bought them and then it's fine when they used it but when they handed it off to their crew they would plug it directly into two twenty and explode it. Oh
+
+[4:39] And they're real expensive to ship back and forth right so that we fix that problem so we fix a lot of those kind of problems you know it's like you know just better all around it it there's an i an old interlock on it that was a solenoid for safety reasons and people would kind of burn that out and so now we have a mechanical interlock which can't be burnt out because it's mechanical what is the interlock do so when you well you know the old oh you're just saying that to be nice when you have the center fuel the old centrifuge is really so when you when you close a centrifuge you remember booker and Dax when you close the centrifuge, you couldn't open it when it was spinning because you die.
+
+[5:05] Right right and so even though this is inherently a lot safer because it doesn't have giant you know, buckets spinning around uh you know something that looks like a propeller that could like take your arm off.
+
+[5:24] It's a lot smaller still we don't want you to touch it while it's spinning right so we actually had it physically locked shut when it was spinning and then it would wait until it slowed down you know and then all of a sudden you could push a button and a solenoid would go ching and then unlock it but it's all it always was a pain in the butt that that interlock um it wasn't designed that well because the the company that did it didn't really understand why we wanted it or safety.
+
+[5:52] So this time or safety in general uh so this time around we um built an actual mechanical thing it works like it works like it's like a it's like a hex that fits through a plate And so when it's spinning you can't pull it back off because it's like it'll it'll yeah it's like trying to put a you know a round peg through a hexagonal hole you know and then uh so when it stops you just use a little wrence the action of it spin is what locks it yeah cool. Yeah. I used to do this um at home when I was like you know nine years old. I would hold open the the um the washing machine and I would turn it to spin cyc and I would find the little button that keeps yeah that clicks when the door shuts... So I would let the thing go and I let it spin in the just put coins in there or whatever it is.
+
+[6:35] Yeah that sounds it was super fun but yeah yeah nice and like so it's like that do they I don't remember it's been a long time do they have a the S is about to hit the F sensor in them so that they stop walking acr acros the room or could could you get it really Oh I don't never my my my the one of my parents' house never actually went anywhere but it did bang against if it if it went like if it hit the side too hard it would stop.
+
+[6:51] So when I moved out of um when I moved into uh my illegal loft in the thirties this is in ninety ninety seven we moved toft in the in the thirties on 38th Street.
+
+[7:08] Nice 20th floor garment district spent the first week and a half scraping gum off the floor inside because it was you know legitimate like all the workers were being horribly exploited so they're like I'm just gonna spit the gum out here.
+
+[7:15] Why do I care you know what I mean? Like poop in the So people used to go poop in the there's a fire stairwell right so There was a regular stairwell and then there was a fire stairwell and because the the companies in the building weren's supplying adequate facilities for their workers they would just go into the fire rest well uh uh uh stairwell and pee and poop.
+
+[7:34] So like Amazon.
+
+[7:41] Yeah yeah yeah, yeah. Basically like Amazon from like if but in the nineties you know what I mean so um so much has changed my one of my great regrets is that one I I don't do pot or grow it because that place was the perfect place to grow pot. Why? Because uh the sweatshops were still going and they were using immense amounts of steam energy. Oh so the heat was the heat signature was all there anyway and everyone had all of their windows blacked out anyway so that their workers wouldn't know what time it was that's great yeah well I mean horrible but yeah yeah but i if you had wanted to be a pot grower right it would have been you know ideal.
+
+[8:25] All concrete floors like 10 foot ceilings like you know, open it could have just been like one gi massive who knows maybe that's actually what they're doing now there because it's legal so there's probably some tech bro with some Yeah but like can you make as much money now that it's legal?
+
+[8:35] Yeah I think so.
+
+[8:39] Really?
+
+[8:41] I mean I don't I don't know not my not my thing.
+
+[8:42] I guess more people are buying it so it the you know the revenue, like the the pie gets bigger.
+
+[8:46] Yeah.
+
+[8:49] Are you uh do do you are you uh a a pot fan? I do I am a pot fan. Do you do pot cocktails? Uh
+
+[8:56] Not really. I mean I do there's like so there's a few legal uh shops that have opened up in there's like unlicensed stores in New York City that have been around for like a year and then there's like actual literal licensed places that are there's only like three or four in the city.
+
+[9:07] The one is run by Housingworks and I got some like this little grape soda.
+
+[9:12] Yeah.
+
+[9:14] It's really good, but I don't like mix with it like are you allowed to?
+
+[9:17] Like in other words, can you you can't probably serve, probably not in a restaurant. I don't know.
+
+[9:23] I don't the rules are I don't know if there's like a if there's like a SLA for weed.
+
+[9:28] Do you know who would know is our friend Don Lee probably He knows all of those things yeah he would know that and knows all the workarounds yeah yeah um I know they cracked down C B D the DOH did a whole C B D thing like Why?
+
+[9:36] Isn't it like unregulated?
+
+[9:42] I think it had to do with like the labeling or like had the claims that people were making and they were like you couldn't put in something like that I don't know.
+
+[9:49] There some sort of weird crackdown where they were like telling you you can't mix C B D into your drinks. Alright well whatever maybe you couldn't have health claims.
+
+[10:01] I don't know anyway, something like that so back to this loft and your washing machine story uh so we you know there was no laundry around there because it was not a residential neighborhood. You know what I mean like and I didn't like ironic for the garment district. Yeah, right. So like you'd like I didn't or walk up to what we know, Proper Hell's kitchen, you know what I mean with my laundry.
+
+[10:20] So we got a laundry, you know like a used like laundry uh washing machine and um we only had one drain in the entire apartment and I wasn'alled to do any real renovation to it because we weren't there leg
+
+[10:28] So our tub was up on cinder blocks and I cut into our sink drain and like this is all like 1927 piping too so like and I cut into it so our tub was way up high a completely unaccessible nightmare, right and then I just wheeled the washing machine next to it we kept it on casters, and I would just take the drain thing and stick it right in the bathtub.
+
+[10:51] Yeah the drain tube right into the bath only like once it walked like I'm talking on the casters and the drain thing pipe came out of the thing and started dumping dumping water and Jen and I and my wife we were out doing something and below us had just because it was switch it' fancy phot started coming in and it went all into the dude's studio below us right kind of a nightmare.
+
+[11:16] Oh wow yeah oh well well you know illegal living yeah you know you get what you pay for you get what you pay for although I don't he lived there. There was only one other person who lived there full time and a creepy dude in the mechanical like tower like next to us super creepy that's kind of fun.
+
+[11:31] Yeah well that's why yeah do you remember old school New York Fox police locks?
+
+[11:37] No, what's that so if if you went to an old loft building the the guy who sold them died in the nineties to yeah propos of this but if you see the old doors where you pull on a central knob and then you rotate and the bars bars come in come in and out.
+
+[11:47] And so we had one I've installed one And as soon as that thing was closed I was like I'm in here you're not going anywhere like you know no one wants to kill me badly enough to make it through this door.
+
+[12:07] You know what I mean yeah and so I felt okay as long as we never answered the door and never answered the telephone.
+
+[12:10] Didn lose your keys didn't lose if you know you toast you're toast.
+
+[12:18] Unless you know someone's inside to let you in you know yeah anyway good times illegal living uh so do you have anything interesting this week John that uh well this week I had my book came out today. Well so there's that well okay but like in the kitchen or like or mixing or foods.
+
+[12:40] Well I um I'm doing a consulting project out in Brooklyn for this place called Cafe Mars and we did a I had a little R and D session last week which is very I used to do it all the time from Fuku that was like my job I was go in and just make drinks and do menus for for the restaurants and so I haven't done that a lot recently so I actually was like behind a bar like making drinks.
+
+[12:51] And how that's like make the drink and it's like oh it through quarter ounce instead of a thing and it's like I was like it was very like blast from the past.
+
+[13:02] So how do you like that doing ver versus doing development at your place um it's nice to do it with someone and also it's nice to be the person who just gets to walk away.
+
+[13:11] be like boom like here are your specs and then you know, there's like a restaurant that has to deal with it well I like how many times you have to go back and and make sure they're not hosing it too bad. I don't know how how hard do you bulletproof stuff like that's a good question. I mean so I did another I did another consulting gig. Have this uh restaurant called Ursula in Brooklyn's like a Tex Mex kind of
+
+[13:32] There a new Mexican burrito breakfast burrito place.. It's great. It's amazing it's this guy Eric C.
+
+[13:38] Who's in anyway. So uh we did a I did a cocktail program for him that was like he didn't want to hire bartenders so you just wanted to keep all his existing staff from this breakfurrito place so we basically did a fully like batched program. With but so so so but it was the regular FOH staff is pouring it from a batch stitch. Okay so it was so that all pump and dump straight pumping.
+
+[14:00] Exactly yeah so that was like you know you just build in all that kind of like you just have your sort of manager expectations around like what kind of you know bells and whistles you can put in the drink.
+
+[14:03] You're doing bar spoons, you're not doing you know fancy stuff. It's like what is this gonna how is this gonna like batch out and then just be portable and still be really good.
+
+[14:17] So you're like but then for the something like that it to me like my mind is always like they're not going to regularly put their thumb over the bottle and go chungunk, chung, chungunk. You know what I mean like that like it you could work your whole life making a great batch drink and if they're not just gonna like put their settling and good junk junk No there I mean they only need to do it a couple of times a shift to that yeah. How many times a shift do you think you do that twice, three times a shift depending on how often they're pouring it's just bored you're just like yeah yeah but see the it like I'm natural fidgeter so for me everything's gonna get it kind of spin spin twist, you knowing ming me, you know, like you have to stop me from touching things.
+
+[14:47] That's like uh actually it's kind of a problem next Booker index uh lab product is like a batch bottle with a built-in agitator.. yeah yeah yeah. Do you remember um I remember uh Souther from uh who is you know doing he was at Booker index, but he was also doing something at a more amargo
+
+[15:03] He uh he was like getting hassled.
+
+[15:08] He wanted to keep things uh you know not to not stratify in a keg situation so we actually built a magnet thing yeah I heard about that but there was also because the the city government was being a pain in the ass about rebot remember when for a minute we thought that the uh that they they were gonna come in and nuke us all for uh for batches for batches yeah and we were all like what are we gonna do what are they gonna do I'm like I'm just not gonna worry about it until we get completely hosed and then it just kinda went away.
+
+[15:26] Well it was like when everyone was starting to do everything on kegs like keg G T GTs, it was like this huge collective crisis that we had to figure out how to like make it agitatable. Yeah yeah but I don't even know why that gets you away from it. As long as it's constantly okay I remember the argument. You ready for this you ready?
+
+[15:49] Yeah is how dumb it was as long as it's being stirred it's being made yes that's right yeah that rings a bell.
+
+[15:55] Yeah yeah my argument for like the box actively being prepped. My argument well for our bottles is like I'm making the drink and pouring it into a glass and here's your glass.
+
+[16:06] Yeah.
+
+[16:14] You know what I mean it's like well what if what if their recipe includes lett undisturbed for twelve hours right right that's my point like it's anyhow like I get that okay so I probably shouldn's say this, but when we opened I maybe I said it on it already.
+
+[16:28] Doesn't matter so like when we opened existing conditions, um we took an existing place and with it came their inventory. Oh right a hundred percent watered
+
+[16:34] Because I had always kind of 100 watered. So I had gone through life thinking that that was something from the past.
+
+[16:51] You know what I mean and the whiskey and stuff especially the whiskey but like anything that cost money was watered and like anything oh like unusable un unus we dumped it all that's so insane yeah so like I was like what the hell is this? And I was like is it me? Am I just a super booze hound and I and I can't tell what am I broken? Yeah and so like I poured it for other people.
+
+[17:18] I was like what do you think about this and they're like this tastes like water I'm like wow wow yeah real bad wow real real bad yeah anyway uh so I see why they have those rules but like if you're not selling a pour in other words it you should be allowed to put anything into a bottle as long as you're not saying it's something like you can't pour someone can't misrepresent what you're selling right you can't be like this is this whiskey and in fact it'd be like something else but like we never did that obviously anyway uh Quinn you got anything interesting this week anything?
+
+[17:40] Uh yeah I made a nice carrot risotto the other day what does that did what does that mean carrot risotto carrot instead of rice or an orange rice?
+
+[17:50] No like a carrot flavored risotto with rice.
+
+[17:53] Juice, vegetable stock. Oh yeah um basically vegetable stock and then a batch of roasted carrot
+
+[18:48] Some of the roasted carrots got blended and then further streamed into the stock okay and then also pieces of the roasted carrots when you say pieces like peas and carrot size pieces I like peas and carrots don't anyone talk nasty about pizza carrots cubed cubed little carrot pieces pro can I tell you something that just reminded me of you know what doesn't freeze well at all like at all chicken salad horrible I was thinking frozen peas and carrots works yeah frozen chicken salad is it the chicken it turns like spongy that makes sense because the water is all sense is like frozen meat's okay like steak yeah but once you cook it and then mix it with you cook it you mix it with the mayonna you can even cook it at whole and do it but like once you mix it with the mayonnaise and the celery and the onions no no coming back from that.
+
+[18:56] No.
+
+[19:01] Yeah.
+
+[19:04] And I know it was a good chicken salad because I ate it and I was like, you know, I'm trying to get ready- You wash off the mayonnaise and put it back in there uh no I wouldn'a but I'm trying to get ready for this whole you know not like only cooking for, you know two people again and uh I was like so I'm gonna try to freeze this one we're not gonna you know right yeah anyway doesn't work.
+
+[19:14] So back to the carrot risotto, how was it?
+
+[19:25] Uh really good I also cheated a little bit on playing around with um favorite nucleotides
+
+[19:35] So, you know um inosinate and guanolate yeah it's a terrible name guanolate, sounds like guar. Guano. Yeah, guano, guar, guar, yeah, yeah. Guar's the band, right? Yeah, Guar's the band. Yeah. You never listen to guarda. And uh well spelled differently Quinn. Guar the band is G W-A-R. That's true.
+
+[19:52] And guar I uh they're both pretty metal sounding G-U-A-R is also pretty metal sound guar.
+
+[19:57] You used Guar?
+
+[19:59] Oh no you just said Guaran Guar bro? Guar what Guar?
+
+[20:04] Hey this is a public service announcement anyone out there using Guar, please get the flavor free guar flavor-free guar. Do not buy standard Guar. Standard Guar tastes bad.
+
+[20:14] Tastes like what it's like tastes like ground bean junk like bad bean junk. You know what I mean like no good get the flavor free guar. You know what I mean? Tastes like the stuff that Guar the band might spray on you in a concert. Okay.
+
+[20:27] Right tastes like it tastes you know that taste of uh glycol smoke at a at a at a concert I kinda like that taste all right well maybe you like the regular maybe yeah all right cool so Quinn back to your saying you cheated and you added these uh these uh nucleotides and whatnot guanolate in cheap okay uh your words Quinn your words not mine.
+
+[20:37] Yeah Okay. Yeah true..
+
+[20:53] All right so so uh what happened did that jack it up yeah yeah you know I'm I'm experimenting with you know being very delicate with those sort of things with anything that'
+
+[21:04] It's supposed to have like a brothy flavor it really works.
+
+[21:17] Yeah any time someone says delicate the way you did it the wicked Witch of the West goes directly into my head these things need to be done delicately remember that it breaks the spell remember because she's trying to kill Dorothy but if she just kills she doesn't get the shoes back the Ruby slippers.
+
+[21:28] Is no one here in Wizard of Oz Land with me I mean I've seen the movie I just don't have a apparly she was a nice lady.
+
+[21:31] Yeah yeah she was also the Maxwell House lady. That's right.
+
+[21:35] Yeah yeah and she almost burned to death doing that sh doing that doing that shoot yeah she did yeah yeah like legitimately almost burned to death yeah like there's like the like the movie you see her like burning. Yeah yeah yeah yeah yeah you know what I'm gonna say worth it.
+
+[21:47] Worth it.
+
+[21:50] I mean like it's iconic I mean we all die there's only one Wizard of Oz. You know what I mean original Wized Oz.. Time is the fire in which we burn. Yeah yeah anyway uh so do you feel that you overuse the broth machine or uh the uh the uh nucleotides or do you feel like you you hit it on the money there Quinn?
+
+[22:08] No, I'm pretty happy with it I though I do I usually I do and this time I just told my dad to add like a little tippy like teaspoon I should have measured it.
+
+[22:15] Yeah yeah did you say tippy teaspoon like the like you know like a like the very tip of a spoon.
+
+[22:23] Wait would you say just would you say just the tip
+
+[23:49] Yeah yeah, yeah, all right, all right so uh okay and what was the color was it dirty or orange did you saffron it too it was no actually what I what I pumped the color with was a little tomato paste okay which sort of balanced it out and added some uh added some umami yeah yeah all right all right fair fair uh is does anyone like uh parsnips more than carrots I think they have their place I didn't say do they have their place I didn't say should parsnips be exterminated I said does anyone like them more than carrots no yeah right is like no because why would you it's like a parsnip is carrot minus like you know what I mean it's like you know what like I'm not in the mood for something that's kind of as good as a carrot and a little bitter yeah yeah let's go with parsnip I'm not anti-parsnip I'm just pro carrot so what's the benefit of parsnip it easier to grow I don't less water I don't I don't know I like a parsnip with my carrots okay when they're uh blended together hey you know when you buy a lot of those multicolored carrots a lot of those uh yeah they're basically flavorless they might as well be parsnips
+
+[24:02] Yeah. But you just get a CSA box and there you go. Yeah yeah someone's gonna hand you a parsing. Yeah.
+
+[24:08] I mean when was the last time you were like oh okay. Also like whatever I tend to add a little bit of sugar to my veg like you know the old way they used to teach us is you know you salt and sugar with the water and then you steam it down, pull and glaze it off and the sugar kind of caramelized.
+
+[24:22] So I always tend to add a little sugar anyway so why would I want to start with something that is like so neutral the carrot has like a good amount of sugar in it already plus carrot flavor.
+
+[24:33] You know, seems like a win to me.
+
+[24:38] Anyway.
+
+[24:42] Not anti-parsnip I know someone's gonna be like parsnips are really really good. Okay.
+
+[24:46] You know what I mean? All right.
+
+[24:47] How dare you how dare you how dare you go against my parsnips.
+
+[25:05] Uh so the subject, uh anyone else uh anything this this uh this week anything else we want to talk about before we get into the the meat the meat of the week no I cooked a lot of meat the other day actually yeah uh it was my wife's birthday last week so I did the but I had to I had to go, I had to do all the stuff precooked because I had to wal in and do like dinner for ten.
+
+[25:18] I had to walk in at 5 30 and have dinner done by seven. So I did all like pre and like and style and then yeah blasted through it just like freaking ripped through it. But it was good. I mean like you know my steak is pretty standard at this point so I didn'd do anything interesting to talk to people about, unfortunately if you've alre steak a million tim Then it's pretty much the same you know?
+
+[25:37] I bought it though at Albanese. You ever been there?
+
+[25:43] Where's that's that butcher shop on Elizabeth Street that is like just south of Houston and it's like has been there for like almost like eighty hundred years something like that and it was Moe who is I remember.. You remember Mo? Of course I remember Mo.. I mean he eventually died as like I said, like we all do. As one does. as one does. Uh, and now his granddaughter runs it's you go in there and his granddaughter is like, you know, she's the butcher, and it's like it's like you're walking into somebody's like living room kind of, but there's also a meat case. So it's it's like half living room half meat case what kind of living room?
+
+[26:15] Like you know, there's like a like a chair you can sit in and she's got like some chotchis there and like upholstery like wing chair like what we were talking about my memory of it is that yeah that it's like yeah that it's like you know, that like chair with the with the yellow kind of like maybe it was fuzzy at one point upholstery that you can kind of sit in it's got the two arms and you're chilling while she's talking to me about the meat that she's gonna sell me you know and she has a cooler in back and uh you know her scale is from like 1950 and I think it's still legal for trade. I didn'd care because I was gonna pay whate she told me anyway I don't care you know what I mean but it was a good experience. That's nice. Yeah I should go. Yeah uh right support some like weird like small I mean I lived in Lurie side for like 15 years and I had no idea it existed yeah it's been there yeah but where do you live before that I don't remember who I lived on Eldrit Stre
+
+[27:04] Oh okay well by the way, John and I are practically neighbors.
+
+[27:37] We live in we used to be in the same co-op but there was a fight about you's wait so you consider yourself the the OG co-op I mean in the splinters I I consider it unf I wish I was in the splinter co-op because the co-op board is a mess but all co-op boards are sure yeah and our particular neighborhoods so that so basically there is a six block chunk yeah right between um between uh yeah Essex Street in the lower east side and the river yeah and along Grand and it was all built in the 50s right and it was built for the women garment workers union and others but it was these they were called llamas and there's 20-story high right they first built a lower one called bank it's the same group oh really yeah same guy oh awesome anyway so they so well so Hillman was the second one and then yours East River and mine Seward yeah but they were all at one point not the amalgamated but the East River was Hillman ever part of us yeah Hillman just broke off from East River like last year or the year before so all of these co-ops this entire-move the office from Hillman to our building.
+
+[28:21] Really yeah because they got kicked out they were really bitter about it why they have a whole different vibe to me the big is that our buildings have lobs and they's lobbies outside oh in the in Hillman and Amalgamator the older ones yeah yeah yeah anyway point is
+
+[28:27] is that this whole neighborhood was one big co op and then they all split up so you know, now we're mortal enemies.. yeah, yeah, mortal enemies. Yeah. Like the way they do in the Balkans. You know what I mean? Like yeah yeah. Very much so. Uh anyway.
+
+[28:42] Uh so talk to me about uh talk to me about this book.
+
+[28:46] Uh what to say. Uh basically um before you start, yeah.
+
+[28:49] How the hell did this happen that's kinda what I want to know how did this happen. So first of all John de Barry for those of you that don'tno John de Barry, John DeBerry uh was at PDT, one of the most famous like cock renaissance bars. Did you open it?
+
+[29:05] Oh oh m no, but I op I I started within a year of opening. So that's opening whatever right so uh you know before it was big enough for for me just to like waltz in with no experience and just be like hey. Right. Yeah and and by the way the the people who were there at that time were like Don Lee, John Daragon, who else was there? Jimmy and obvious. Jimmyan, yeah, I mean yeah.
+
+[29:29] Um I yeah that's kind of yeah. And no one else had been like, I'm gonna how you're gonna have to walk through a phone booth I mean first of all, so many genius decisions in that bar. Yeah.
+
+[29:38] I mean yeah. I mean the f the getting like chefs to like give you product so that you could put out hot dogs at like you know, infinite margins and like I mean getting fried mayonnaise from WD fifty six days. Yeah nuts. Come on. I mean crazy. Anyway, huge, huge influence. Uh, very like for th for those of you that haven't been to New York or for those that are
+
+[30:01] I don't know 30 this year like that you can't understand uh you can't really understand uh it was a big what it was like back then yeah it was a big deal.
+
+[30:11] Uh anyway so from there to uh another tiny restaurant group uh the Momofuku.
+
+[30:18] Yeah tiny yeah yeah no one's heard of them no one's heard of Dave Chang or anything. Under the radar under the radar people so you kinda decided to go into the radar for a while yeah uh and then while you were doing that started writing.
+
+[31:01] Kind of yeah I was at I was at Momofuku for nine years uh so I was the bar director for the group and I opened 10 of their restaurants um ish and then uh as I was sort of like you know nine years is a long time to do anything so I was sort of like how long am I gonna do this uh a book a book deal came along um so that was my first book that came out in 2020 came out on the day that everyone was posting Black squares to Instagram that was my pub day um so that was great yeah um uh and so that that and that book was more of like hey I'm gonna take everything I learned about like teaching people how to make drinks and make it really accessible to people and very much like hey it's not actually that scary I almost like it's almost like the exact opposite of your book.
+
+[31:13] Uh yeah yeah uh funny uh and at the same time you were working on um your you you were doing a a non alcoholic yeah I was developing a non alcoholic drink company and R IP
+
+[31:30] And oh it is so hard to make a product we could talk about it so yeah. It's impos. Yeah especially a product that is consumed that you have to ship around. Yeah..
+
+[31:40] And I made a heavy heavy bottle that costs like twenty dollars to ship ridiculous so it was like nuts.
+
+[31:50] Right so you can sell locally but then as soon as you try to distribute and you know we had to go direct to consumer because of COVID so it was like that whole you know not being on a hand truck and just getting loaded into your bar..
+
+[31:56] and then it turns out that if you personally uh have to do everything then uh it sucks it's a pain in the ass yeah yeah yeah yeah it sucks uh and then also you want to talk about your uh charity work?
+
+[32:15] Yeah so I started it's actually this this actually started way like before all of this but in like 2016 or so um a Momofuku colleague of mine uh Alex Pamolia we she had left at the time but we were do you know what we call her?
+
+[32:22] What Tara pamoulier Tarapemoulier I don't even though that doesn't yeah yeah is what's what's that what opera is that from I don't know.
+
+[32:27] Okay anyway.
+
+[32:30] Stas, is that accurate?
+
+[32:36] Yeah you came up with it Yeah I don't know what it's from Cosa.
+
+[32:45] Anyway um like I know about opera what am I even doing uh and we were kind of despairing after the 2016 election like you know, things are gonna get worse before they get better and like how are you know rest people who work in restaurants are so vulnerable as it is like how do we kind of shore up the kind of power of uh workers in the industry.
+
+[32:57] So we came up with the idea of having of creating a community foundation
+
+[33:03] Um, which is basically an organization that raises money and then gives it away. So it's sort of like a fundraising operation at its core it does other things, but that's basically the core of it.
+
+[33:12] Um it's called Restaurant Workers Community Foundation uh we just had an opening board of people you've definitely heard of like Souther was on it Lynette, my husband Michael, uh was on it, um and some other restaurant people and some other nonprofit people were were included as well.
+
+[33:21] And um we launched in 2018 and it was pretty quiet and we didn't to do very much.
+
+[33:26] We just thought we'd slowly build and then nothing happen momentum and then absolutely nothing happened that affected the restaurant industry in 2020. And so uh so just out of nowhere people started sending us tons of money because it was like well how do we help restaurant workers?
+
+[33:48] How this this community um and so in 20 when everyone was like oh what do I do how do I you know do I do sourdough I'm me and my husband and a you know our board of all volunteers at the time we didn't have any staff we were just like cranking money out to other organizations that were doing like direct that were directly interfacing with restaurant workers.
+
+[34:00] So um So you're telling you made no sourdough?
+
+[34:10] I actually did buy a hundred pounds of uh bread flour by accident from like well you know when you you know in like in like April of twenty twenty when you would like when like chef's warehouse would do like retail like home delivery? Yeah and when Amazon was like a week away. Exactly. And then you would so you you have your cart and by the time you got to the checkout half the things on your car were gone. Right remember that yeah oh yes. So I would just was hed in my best.... I I kne I was like there's no way I'm gonna get both of these. I might as well just get like, and I was like how big could a fifty pound bag be like whatever. Yeah and then they both showed up.. So I
+
+[34:36] you know yeah the thing over my shoulder and i had the all these cameras in my in my uh in my kitchen that had to get worked through and people are asking me like oh do you still have the bread and I'm like I mean you still have the flour I's no I used to do like six months. Yeah yeah yeah I went through it so I actually did develop a very good power recipe. Oh, so at the at like was there a moment when it showed up where you were like can I use this as toilet paper?
+
+[34:58] Because that's the thing you know we never knew whether for a little for a little while it was like that was the thing TP. True true that was never really an issue in our household but why you have a you have enough space for teepee storage?
+
+[35:12] I just I don't think we ever had a problem finding it yeah yeah it was just the first couple of it was like yeah yeah I also we I yeah I'm like uh I like to order a bun I ordered a bunch you know we have like all these cabinets everywhere that are underneath benches in our you're living New York City, yeah there was a strategic reserve of of TP that helps us out.
+
+[35:29] Um but I guess I didn't think about you could bake flatbread and turn it into emergency toilet paper. Yeah I don't know I don't know anyway. So anyway uh yeah so okay so it comes you're giving direct uh money to people. So yeah we're not but we're we're giving we're we're granting out organiz so like a lot of a lot of like liquor companies sponsor us like you know Dave Chang went on Jimmy Kimmel and shouted us out so a lot of like individual people were giving us money and so we found the the best places to give that to whether they were large national organizations or more local ones that were like directly doing like you know food food security or like you know covering people's medical bills or all sorts of differ that people people needed help with being out of work.
+
+[35:56] Um and so that was uh
+
+[36:36] uh a big chunk of my my time in in 2020 uh handling that um but and so now I mean we're still here I mean, I think COVIV isn't going anywhere it's still here and so I think the restaurant workers still need they needed support in 2016, needed support in 1995 and they still need it now and so now we have staff and so we're kind of like gone legit you know we sort of proved our our uh our reason to for being and so now we're just kind of trying to get settle into more like actually having to like ask people for money rather than just sitting back and letting it to us, which was a really you know great great position to be for a couple years but now it's like okay well now we're like really really cranking.
+
+[36:45] So yeah great all right so all of that was to kind of lay the foundation for people who don't know you who you are so then you write a book that is called Saved by the Belly and other nineties inspired cocktails.
+
+[36:55] So this is you always like like fun tongue-in-cheek yeah stuff..
+
+[37:07] Right but um I'm just gonna go ahead and say this because people need to people need to check this book out because you're like, oh it's like some cocktails that are named after things from the nineties and while that's true sort of while that's you have gone 100% bonkers.
+
+[37:20] Okay like str I'm not talking about the references, I'ming like the drinks. You've g actual recipes you have gone Looney McToon's.
+
+[37:31] And so like we need to talk about it but why don't you describe how this book happened completely unhinged and how
+
+[37:38] You have disguised as like I mean I don't you just can describe the disguise that the book is and then just some real off the wall combos and and ideas in it. So I mean is there really I feel like it'Mask off. I mean if you look at it it's like a it's like a it's a cosmopolitan in a sparsity jacket holding like a Zach Morris phone on the cover of the book. I mean it's like I'm not trying to like fool anyone here.
+
+[38:02] It's like a Tamagotchi uh it' right there on the cover.
+
+[38:04] I mean it's basically it was the it was the title and it was the fact that the fact that saved by the Bellini wasn't taken. So you're like around one day you're like, so uh what we're gonna do uh yeah, I'm smoking a cigar yeah yeah yeah you know saved by the Bellini Google it is that a book yet?
+
+[38:20] No?
+
+[38:23] I'm gonna call my agent. I mean more or less. Yeah that's pretty much what haped and it's like I looked I looked like the trademark thing I I I looked like that like you know, all that stuff and it wasn't it wasn't used and no one no one has made a save by the Bellini Bellini before.
+
+[38:32] Oh man. And it was just like too good and then ever and then from there it just everything fell into place because you just cause the my first book I don't know if you counter this when you were writing Liquid Intelligence, but like I didn't know what the book was gonna be until I finished writing it.
+
+[38:48] So I was just writing. And I was like well maybe this will be good and I ended up cutting like 100 words from the manuscript in order to get into like a real book.
+
+[38:58] And I almost had to rewrite the entire book before I could like actually finish it. It took like the last second I was like oh shit but this is like
+
+[39:05] You sold it right away, right? You didn't you didn't well, I got the proposal. Yeah.
+
+[39:16] And it's sort of like hey, I'm gonna write a book that's explaining cocktails to people, but based on my experience, but it wasn't like the whole idea and like the in the first book it's like all about obje deliciousness and like subjective and like you know, drinks have to be appropriate and also structurally sound that didn't really come about until like literally like the day before my like the final draft was due. Like that it was like I was about to lose. So this one was like, okay I'm writing a book about the nineties. I'm gonna pick 60 something 90s things that I love that are like reasonably relatable, and then from that devel drinks that refer to them somehow.
+
+[39:40] Right. Um and either they were based, you know, the the you'll well, I'm sure you have some examples because it seems like you've read the book, but like but like you know sometimes there's like oh well like this particular uh reference incor like calls to an ingredient or like this movie, these people drank these things in this movie so that means like I have to include that in order to make the reference work so it was very like you know people always talk about like how like you know confinement and like restrictions and um like boundaries create like a lot of creativity because you're forced to work within a certain kind of space that you can then be really crazy within that space so you're not it's not totally overwhelming.
+
+[40:07] So that was definitely what was happening here where it was just like okay I know I have to make a clueless cocktail that includes Diet and coffee.
+
+[40:27] Yeah. That's how do I know dieth diet coke yeah and so does it so my question is because here's what I think people first of all Two things.
+
+[40:37] One, everyone who was sentient during that time it has a slightly different nineties.
+
+[40:45] Right so like I was in college and early adulting in the nineties right you were in high school I was I was I'm twelve to you' born in eighty two eight two late eighty two so I was I had turned eight when New Year's happened to from eighty nine to 90 which is technically still the eighties but whatever uh and then I was uh twenty when so I was like I went from like third grade to college.
+
+[41:00] Right in the decade so that's like so it's yeah that's like the decade for me.
+
+[41:13] Right but for instance saved by the Bell, I was in college when that came out or like was about to go to college and so I wasn'ting it because that would have been kind of creepy..
+
+[41:25] Yeah I mean imagine a college kid watching Save by the Bell. I mean now that makes a little sense but back then no. And speaking of you got one of the cast members to to write your forward Tiffany.
+
+[41:40] Yeah and she's also a food person now she is she has a she has a um her her um there's a cookbook that came out already and she's got one that's coming out in the fall that's all about leftovers and I love that and I'm so excited for it actually.
+
+[41:46] I mean I like leftovers yeah uh and uh by the way, uh the screech not related to Mike D.
+
+[41:55] Not related.
+
+[41:57] They's Beastie Boys? Yeah, not related. They're both named Diamond but they're not related I didn't even not rel No. Yeah. People used that they were related.. That's funny.. Remember that Joe? Everone would say that they were related?
+
+[42:09] Not I mean whatever. And r you know Rip rip screech.
+
+[42:11] RIP yeah. Yeah. You know I mean? Yeah, poor guy. Uh but yeah so that's not part of my nineties.
+
+[42:17] Like my nineties, um, you know, to me the the big switch in the nineties was when everyone started listening to what they called alternative music yeah you know what I mean like when Nevermind hit.
+
+[42:24] Oh yeah that was like oh now everybody listens to this kind of music.
+
+[42:32] Yeah it was so it was it was so amazing how like big like Nirvana was considering how not poppy.
+
+[42:42] I mean it would they it was pretty poppy but it was just like just imagining like that Nirvana being like that's like Taylor Swift, you know that's how big they were it was huge but they and it impossi to like it was just nuts I remember like listening to like jamming out to Nevermind at like my friend's like fourth grade birthday party.
+
+[42:52] Okay. So a as like a you know, a college student, right, who was in a bunch of like alternative bands. So like all listening to, you know, we were listening to like fishbone, my guitarist was Dinosaur Jr. like Primus, like all that kind of stuff. You know what I mean um you know, we were l that's the kind of stuff we were listening to right and uh you know the people who in high school you know had never heard of Jane's addiction but uh you know listened to Steve Winwood all of a sudden you know that all like they were like Steve Winwood like you know which I like you know what I mean or like you know the song Josephine? I don't remember any of that like all of his like 80s output like have erased it from my head. Yeah or like you know fine young cannibals all that like th those people who were listening to that
+
+[43:36] all of a sudden I'm like what are you doing that's like what you know what I mean it was a weird moment you know what I mean it was good because I think those bands deserve to make a crap ton of money but I was like you know well it's just goes to show that what if something is good it transcends genre and you just like can't control it.
+
+[44:03] May like good music it says good music commodified stuff that anyway whatever whatever we'll figure out so like we we come from different nineties but we fortunately don't about all of that all of the ins and out the new in nuances of the 90s but it's basically you use it as a kind of a a it seems like it's giving you license to just kind of be nuts.
+
+[44:18] So you know on the one hand you'll do an apple teeny by literally blending a Granny Smith apple with uh what was that spec again blending the granny Smith apple with lime with lime I would have called for like a sorbe acid but it's like doing that. Right and then straining, straining it and then letting the whole thing chill for a couple of hours. Right so you have that level of bonkers but then you also have drinks very a lot of very spirit forward like like no acid stir drinks like like uh you have one that's like whiskey is it whiskey Aquit.
+
+[44:51] Oh yeah it's the AOL instant messenger uh cocktail at A-I-M.
+
+[44:55] And it's Aqua V Irish whiskey and Midori. Yeah because you love Midori you love everything first of all like you and Nick you and Nick Bennett are the are the kings of blue in New York City. Oh how is he? It's great yeah so you like you know I've
+
+[45:09] Whatever. Like, your famous blu drink is the shark the shark. You want to give the spec for the shark? I don't remember the spec for the shark. Give. I mean I remember what the ingredients are. Okay what are the ingredients. So it's uh butter infused uh white rum uh with Ray and Nephew, Frangelico, Blue Curacao, cream, pineapple, lemon, and uh the bitterman's uh tiki bitters and the oceans of that at PDT. I'm the menu really I think so yeah I haven've been in a while but if I have trouble getting in I'm like hey pass me a menu and I pass put my license through. I'm like look at me.
+
+[45:43] So uh anyway so like Midori, Aquavete, and Irish actually good.
+
+[45:47] Actually good. I was surprised. I was really relieved as well so I was really relieved so what I what I think people need to see because of the because like also some of the you go from being kind of like in terms of money spent for the liquors in this kind of high and low at the same time too depending. So like and it depends on kind of which recipe you're going to but these were all tested approved yeah I made them all.
+
+[46:09] Yeah yeah yeah and you had and you said in the back that you had like a bunch of people make them.
+
+[46:15] Well I made that I made for a bunch. Yeah I had I had some I had some because like uh let's talk sometimes you can get a little in your own head you know when you's no ideas and you're like am I just lazy or is this good uh yeah that's so you need a gut check yeah so a couple things uh so so some of the stuff is like yeah I'm gonna throw the apple in the blender as a way to get the apple flavor in but not have to do a bunch of intervention, right? And strain it out. I'm sure it tastes good because of course and grannies by the way self clarify pretty quickly and so it's gonna be good whatever. Yeah
+
+[46:43] Uh but let's talk about some of the stranger or the different kind of things.
+
+[47:28] In your uh Bellini, right by the way uh Stas, you remember that time that we went in the back of house at that event at Chiriani's and they were had the big bladders of peach puree oh yeah yeah and they were just like I was at that eventually I've never had a bellini since then because like seeing the peach puree be like and then then just like dumping that cheapy cheapycheep cheapy cheap cheap cheapy prosecco over the top of it I think I I think I worked that event with you uh maybe like downtown like way downtown I think yeah yeah we were like I was just like uh well you know mean like go clarified goop like uh sorry carbonated goop is not my carbonated goop is stuff yeah anyway your Bellini didn'd you put bananas in it yeah because I the white peach puree is hard to find right again I'm not to I can and even I thought my last book was pretty accessible in terms of ingredients even that or even if I have do another recipe, I do Fo52 recipes every month and like I have an ingredient that I think is like reas and people are like I can'll this and it's like so I'm like okay what's like how do I'd make this so that you can like go to like a 7-Eleven or like the gas station and finds.
+
+[47:42] Oh my god gas station bellini is your next book yeah and so I thought like you know canned peaches always in season yeah uh oh yeah that's an old video that's we that we used to say that to each other all the time the booker index yeah yeah um and so I sort of took that idea of like well canned peaches are great
+
+[48:10] Yeah for their, but they're not that like kind of fresh and puree.
+
+[48:15] They're just kind of syrupy and out of honey well also whites have a floral note so I guess bananas are estery. Exactly.
+
+[48:23] So I just wanted to like um what is it like what's a fancy word for it but like doctor it somehow to make it sort of kind of read more of like a white peach puree, which actually isn't even white.
+
+[48:32] But I think you're like what's like the what's a really easily easily findable freshruit that you could throw in that would like kind of give you that. And it works it works..
+
+[48:45] What you added you added another you had a uh did you add a spice to it I can't remember there's another thing that wasn't there's one more I think there's one more ingredient in your it's called uh no ID peach puree or something like that. Like I or like what's it called like fake ID peach puree.
+
+[48:54] Fake ID puree. I should know this it's my book but whatever. Yeah it doesn't matter I mean how you gonna remember all how you gonna remember every turn of uh phrase that you put into a book because it's the uh the entire book is turn and phrase it's sure yeah so you can't possibly remember it all though fake ID peach puree you should remember yeah I like my I my favorite's the heart in a blender or simple syrup oh yeah yeah six yeah because it's just simple syrup this simple syrup banana blender yeah yeah yeah and you're like if you must heat it you can but why?
+
+[49:10] But why? But why so let's talk about uh then you do have some flavors that are more complicated than normal fan. Let's talk about this I was kind of intrigued by your ultra granite. I love the ultra granite which comes up you mentioned it yeah which comes up like uh in at least four three or four recipes more probably yeah so talk about ultra grandin. Okay so here's the thing about like a lot of sub recipes in cocktail books that I find to be a bit irritating is that you will have a recipe
+
+[49:43] for like a syrup or an infusion or whatever that the yield is like five quarts or whatever or a quart and then there's one recipe in the book that calls for a half ounce of it and it's like why am I doing this like why I'm I'm not I don't ask someone to go through all this trouble to make this ingredient if they're not gonna use it a bunch so I did that for this book where I was like I'm gonna create a bunch of like kind of basically make a meeting passe for myself where I have like fancy grenadine, fancy honey, simple syrup and a few other things that you can sort of make and have on hand and use them in a few different ways that however you want.
+
+[50:09] So one of them is the ultra grenadine which if you just want to make regular grenadine with pomegranate and sugar, you can and the drinks will work fine but um I did a cold infusion of black tea in saffron into the water that you then use that gives a little bit of it makes it fancy like the depth, it's like the weird saffron, I don's saffron tast like but it's good.
+
+[50:23] Plastic, like luxurious plastic. It's the best I can super plastic. Yeah um and so it creates really deep, really rich, like really super like kind of concentrated grenadine flavor that I use in um and you jack the acid too because you put unsweetened cram which is as we know is like the the the coolest new ingredient of the past 1 years.
+
+[50:58] It's so good yeah yeah um and actually the the fun thing about the ultra grenadine is that um you know April watchtowel yeah cheeky cocktails? Yeah. She made we did a limited run. Oh yeah so you can just go out and buy ultra grenadine. Ah and they it's called that. It's called that. It's like branded it's like a whole thing so she's selling it's it' on sale now And so if you're if you don't even want to make it yourself you can just order from her.
+
+[51:27] Oh nice so it's amazing it's super fun um and then it's uh it's uh the recipe that you have open to is a Dark Phoenix which is based on one of the best X-Men storylines ever I mean again I was not during this period consuming that kind of stuff so yeah it's it was on saturday morning at like 11 30 so I don't I don't blame you um but I actually went there's a podcast that does recaps of of the of the X-Men animated series and I went on and talked about the the Dark Phoenix storyline.
+
+[51:44] So are you gonna like do endless ones of those like I saw that you got called to like some save by the Bell reunion or something like this. No I went to the I went to 90sCon in Hartford Connec. Oh, oh my God, Hartford. And I I handed copies to Mark Paul Gossler, Mario Lopez, Elizabet Berkeley, and Alicia Silstone and two of the guys from InSync uh Chris Kirkpatrick and Joey fatone and Jeff Timmins from 98 degrees and I handed a copy of uh the book to Thora Burge's like manager because she's in I mentioned her in the Hocus pocus cocktail.
+
+[52:09] Oh you should check out uh JDB that's what we call John in the real life call check out JDB's uh Instagram account and look you've not I've never seen a smile on his face as big as those pictures where he's just like all these people and the book it was like it was nuts.
+
+[52:25] All right uh what el what else do you want to oh here's a strange one uh it's prune juice so this is based on um
+
+[52:43] Uh the Whoopy Goldberg character and Wharf uh Wharf, right? Wharf...
+
+[52:49] That is a warrior drink.. Warriors drink. Yeah. Yes.. So you want to say what's in this and it by the way I actually kind of even though like the idea of tonic water and prune juice because of the bubbles and gloop problem. Bubbles and gloop is gonna be like my maybe my you know the book that I write that's published after I die.
+
+[53:06] Do you not like how the bubbly gloop like sticks to the side of the glass there's yeah all aspects of it yeah I find troubling but that's fine it doesn't mean that it're so that like I like troubling I as I've gotten older I realize that you know uh like just because I have a problem with it it could it's most likely my problem it's your it's a you problem.
+
+[53:23] It's a me problem, and that's part of growth that's fine yeah yeah so why don't you describe this uh all right so the so Gynen is uh this bartender from Star Trek the Next Generation.
+
+[53:52] Like Whippy Goldberg lobbied Jean Rodberry to be on the show because she was so inspired by Nichelle Nichols who played Uhura for you know being like her on the show uh and make inspiring her to be an actress and so uh and I was weirdly not I don't know like if I if Gynan like made me want to be a bartender but Gynen like made me like love bartenders because she was this awesome bartender. So not Isaac.
+
+[54:02] That's too young for it's too Isaac from the Orvo? No Isaac from Love Boat. Because I see that that's my generation over yeah what's past that's old people stuff' yeah so um
+
+[54:15] And so I was being one of my first interviews I ever did with any press it was like a New York magazine inter like QA or something like that, in like 2010 or something person was like what is your favorite on-screen bartender?
+
+[54:28] And I was like, Guynan from next start to next generation. And she was like I have never heard a person answer that question as quickly as you just did um so that's the level of like where I hold Gainen in my heart um and at in one episode of of the show she uh she's sort of like consoling Wharf who's this like Klingon.
+
+[54:47] It's a species of people they're very like warrior like and sort of he's very dour.
+
+[55:06] All the other Klingons are actually like kind of anyway and he's like he's kind of a grumpy pants and so she gives him a glass of prune juice and he's like his eyes light up and he's like this is a warrior's drink and so this is gag for the rest of the show where he's like drinking prune juice all the time um and so I figured that there's like there's got to be a fancy sort of like a cocktail you know alcohol version of that so uh so I've turned it into a cock with uh with wine tonic water.
+
+[55:18] Yeah yeah it's like it's like pinot noir prune juice, ango and tonic.. Hell yeah. Uh you know what it sounds like it's delicious though is it though? It is sounds delicious I wouldn have put it in the book if it was gross but what I but what I'm like this is what I'm just picking some random recipes out of here to just show that if you get this book which you know you should check out this book it's not just like
+
+[55:38] It's not so a lot of people will write a book and they'll re they'll they'll just relabel some standard beverage with the name of a movie. Right you know what I mean like uh you know what's really good at that actually like the so and so mojito. The the best one of that is actually the Star Wars cookbooks. Have you seen them? I've seen them they're really good but they're basically just relables of regular recipes like the Mossley taco salad. Yeah yeah yeah I mean they they'll gussy it up and make it look like yoda soda I think is a little weird it's got like a sherbet in it. It's a good name anyway.
+
+[56:14] But like this is not that this is like I was inspired to use these kind of ingredients and then I made this cocktail that has been tested and I like it and you know here's my pedigree to prove that I know what I'm talking about. Yeah. And it's off the rails. Yeah.
+
+[56:26] You know what I mean so like that's the kind of vibe I get off the book. What's uh I feel like one of my favorites that you'll appreciate is this one.
+
+[56:34] Oh yeah.
+
+[56:40] So I was gonna talk about this so you make whey and uh you so we had a yogurt person last week, Homa Dashtaki on and you know, she makes whey and I was actually using her whey in a shaking drinks, right? So you using the whey here and it's you know, it's got a gold bloom picture and the Tyrannosaurus Rex is gonna drink some and it's a blender drink with whey that you make in it called Life a way.
+
+[57:03] Life Finds a way uh I actually had a question about this drink because um I know people blend with pineapple all the time but like I always tend to under ice my blender drinks so that they're not too tall to keep as much backbone as possible
+
+[57:11] But the problem of under icing when you're doing something like pineapple or something like whey is that it foams up it gets too frothy.
+
+[57:23] So like is it just that I need to just suck it up and throw enough ice in the blender yeah also depends on the ice you have you know if you're using like the the larger like I have the half moons from my ice ice machine yeah versus like this cubes or whatever I feel like it's and also the blender, it's like I didn worry about that too much when I was speaking it just sort of works.
+
+[57:34] I think if you I think it's I think it's it's better to use like more ice than less. It is because it can't up as much so it's whey it's a boatload away and then rum, creme de cacao and mango.
+
+[57:47] You're a lunatic. Yeah. You're you're a isn't that crazy. I mean no, but okay, yeah. I was trying, Costa Rican because the island and we got these questions in for you and uh by the way uh also I'll say we have two minutes don't worry uh I'll say that uh there's plenty of non-alcoholic uh drinks in here as well and like it's like 13% non-alco.. I like how you give it as an A B. Something like that. Yeah. Uh Drogi says for JDB, uh where would you recommend somebody start learning how to make pair non alcoholicco is it easy to get into witho non alcoholic spirits and the like yes that's a good question uh the spirits are great but they're also they're all very specific so it's hard to like call for a recipe that works for a lot of them I would suggest getting a book called good drinks by Julia Bainbridge and it the recipes are a challenging but it's from an inspiration standpoint they are great and then you can sort of get get used to that and start to Like get the idea of how it worked because it's a totally differ structural ball game with non-alk versus elk. It really is. Yeah uh from delicious spear uh does anyone have experience making floral infusion syrups I live near several groves of wild plums the blossoms of which I'd like to turn into a syrup or cordial I see some recipes fall for steeping the flowers first in a hot water a lot of infusions in this book by the way including prunes and then you use the prunes as a garnish then adding sugar over bamory while recipes call for making the simple syrup first and adding the flowers to infuse would you expect a difference between these are they mostly interchangeable I I's well we'll because I don't have time to go as ape into that as I want. Now lastly uh for you know for you today, Case Highsmith who's a food historian you should check out her Instagram. Yeah, it's good uh not explicitely cocktail but I'm curious about the cocktail flavors of wine coolers. I remember my grandparents drinking these in South Texas back when I was a kid in the nineties probably early nineties because they were on the down trail in the in the St. Ides well see like real wine coolers like Bartle and James everything in the 90s switched to malt beverages right so uh how did these come to be so what happen was there was oceans of wine in California in the eighties because there was a huge glut and uh the California cooler was the first one and they bought up a bunch of like Thompson C-less like grape wine that was stored in tanks and mixed it with fruit and it just exploded and then because that exploded then places like Ernest Juliet Galloads and James thank you for your support remember those guys but then by the time you get to the nineties that that wine glut was gone and because the taxes increased on wine everything switched beverage and then it just became like all these crazy flavors like you have strawberry which is right yeah it used wine and some fruit yeah but I know I you know like did you ever consume that stuff yeah but it also has a huge negative a huge negative connotation in the 90s because that's when people started worrying about our you know like candy cigarettes and things for kids you know what I mean and obvious wine coolers are they're not difficult to drink. They're not for kids.
+
+[1:00:54] Yeah they're not for kids but now they're kind of back at Trader Joe's they they basically those things they sell in champagles are wine coolers yeah it's true it is yeah do you ever try one of those no right why am I so resistant I'm also resistant to hard cider because I don't I don't I don't like it's like I don't believe it's a word like it's a cider or it's just not real no me not hard cider uh hard uh seltzer oh yeah hard seltzer is gross I don't believes it's a thing. I haven't one that I find delicio yet the yeah there's some bad ones all right so next week we have matt startwell get in your questions for Classic in the feed field meanwhile we have this new classic in the field saved by the Bellini thanks for coming on JDB as usual cooking issues
+
+[1:01:41] Yeah
