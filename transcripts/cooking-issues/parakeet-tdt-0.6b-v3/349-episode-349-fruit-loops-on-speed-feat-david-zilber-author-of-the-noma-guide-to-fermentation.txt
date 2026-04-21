@@ -1,0 +1,481 @@
+[0:00] Hi, I'm Josh Spiegel, host of the podcast Lunatic in the newsroom. It's news like you've never heard before. We'll about things like a possible ban on recreational pot, Americans giving up on dressing like civilized human beings, and a call for fraternities to be outlawed. If you enjoy wild overthinking, lunatic in the Newsroom is for you it's funny, informative, and emotionally unstable. Lunatic in the Newsroom.. Listen today.
+
+[0:30] This episode of Cooking issues is brought to you by Bob's Red Mill, an employ-owned company that has been offering organic stone ground products for decades. Their flowers and whole grains are the highest quality and are minimally processed at their stone mill in Oregon.
+
+[1:04] Visit Bob'Redmill.com to shop their huge range of products use cooking Issues 25 for 25% off your order to Cooking Issues this is Dave Arrow, your host of Cooking Issues coming to you live on the Heritage Radio network every Tues from you know, I don't, sometime after like about one, especially Nastasi has to leave on the button today because uh joined as usual with Nastasia de Hamer Lopez how you doing good she's uh flying off to uh her native land to LA today for 24 hours sounds fun visiting pasta after pasta place in in LA yeah nice we got uh we got cat today how you doing I'm good how are you?
+
+[1:23] You gonna Well we'll your pitch in a second what we gotta do this is our NPR
+
+[2:09] of a pitch for money we got matt in the booth hello hello and in a minute we're gonna have I hope we had he called before but I guess he doesn't know how late we normally run uh Dave David Zilf who uh is the co-author of the NOMA guide to fermentation and we're gonna talk fermentation in a minute uh but while we're waiting cat why don't you give your pitch so this Monday December 3rd at 6 p.m is our annual fundraising gallering ding ding ding ding ding I've been in Alabama for a week don't judge me uh fundraising gala winter in the garden it is at Brooklyn Botanic garden the palm house the really pretty glass house um we're gonna chefs Dave's going to be making cocktails as well as Souther's Whoa I'm gonna be making I'm kidding I know I'm wait what do you mean um Damon boltey souther teague are also gonna be slinging cocktails we're super excited tickets are still available go to heritageradionetwork.orglash gala tickets are 135 General 25 VIP VIP gets you in an hour early you get an hour more cocktails you get VIP bites that only VIP people are gonna get can I just say I like I want V people to spend money on the VIP thing, but I always find VIP things incredibly depressing.
+
+[2:44] It's because you're jaded remember that were you there for the Justin Timberlake VIP thing that we did when he launched his tequila brand or is that before you started working with me?
+
+[2:50] No I was there.. Rem but he wasn's he was really but he wasn't section because he didn'tan because the VIPs at like an event like that aren't the real VIPs.. The re the real VIPs are on their own platform in the club looking down at the rest of the of the of the plebes. You know what I mean they don't want to be in a separate back room with like the with like the tier C and D V IPs.. They want to be untouched by the the throngs and yet see the throngs right?
+
+[3:20] Speaking of Tier VIPs, Dave. Yeah. I've got a friend on the phone oh nice got uh David you there?
+
+[3:28] Hello Hey how you doing wait where are you now are you in Copenhagen right now.
+
+[3:32] I am in Copenhagen I'm in the greenhouse which is my little my little uh my vegetal getaway.
+
+[3:37] I thanked them.
+
+[3:39] Nice. You know, do you know I'n I have not been in Copenhagen for more than an hour and a half in my life.
+
+[3:48] That's unfortunate because there's more than an hour and a half worth of stuff to see here I'm sure I saw mainly the train station like I went from the airplane to the train station.
+
+[3:58] Now this comes another part of my life where I only go on trips uh basically for business and absolute vodka was like, you know what you need to do you don't to go to Copenhagan no one needs that you need to go to Skona. So you know uh Yeah you you need to come to the south of Sweden and see nothing.
+
+[4:16] Except an absolute vodka factory No my gir my girl from Skona is so I've been I've been to that town yeah well I mean it's qua I mean Skona's the kind of place people are from, right?
+
+[4:29] Yeah exactly. It's not the kind of place people have moved to, it's the kind of place, not like California where people go to California, it's like where people are from now you're actually from you're you're from Toronto, right I am Torontarian, yeah.
+
+[4:42] Toronto is a place people go to not necessarily a place people are from.
+
+[4:55] So is it ju in your in the in the your intro or somewhere I read oh no it was in uh some in uh interviewith you literally to go to Noma you sent out a bunch of resumes to like the three places you wanted to go and your first bite was in Noma and that's how you ended up in Copen huh yeah that is that is uh Grands wasn't so interested in me at the time.
+
+[5:07] I think you'll find that no one's interested in that's the thing no one's interested in you until you know something it's one of the kind of like crappy parts about life you know what I mean it's kind of depressing yeah sure enough.
+
+[5:25] So you know I'm glad Noma's because yeah so you just came out by the way because people are gonna want to call in I'm sure you just uh recently with uh the Noma guide to fermentation. Now I know you know Ari Ariel's good friend of the show Ariel Johnson, she they did a s uh you know another guy guide to fermentation years ago but this one is it's very different.
+
+[5:45] It's more kind of I mean this in in a good way mass market kind of you know bigger shot differently on kind of a a different scale. But did you overlap with Arielle at all or no?
+
+[5:57] Oh yeah yeah yeah she taught me lots of what I know. Yeah Ariel is a smart lady
+
+[6:02] I love Area. Yeah, yeah. Absolity.
+
+[6:07] Um I d i it's funny because I think of her as like big fist even though I I' older than her.
+
+[6:15] But um No she she taught me so much when I first got into the lab and really really kind of helped me get my feet on the ground and that's um her and Lart and so we worked together for maybe maybe about a year before she moved on.
+
+[6:24] Um and same with Lars Williams.
+
+[6:31] No but uh it was it it was amazing to work with them and to see what they did and then to be handed the Rams and kind of build a new lab and get to write so yeah it was it was a big torch to be fast. Nice. So I uh by the way call in your uh fermentation or your NOMA, whatever you got your Nordic related questions, maybe I guess your Toronto related questions, your fermentation related questions, your writing a book related questions, two, seven one eight four nine seven two one two eight that's seven one eight four nine seven two one two eight uh but uh Matt I'm assuming we don't have anyone on the phone yet right no.
+
+[7:00] Okay. So I'm gonna say some things first, uh cause I did as I say read the book in its entirety.
+
+[7:12] Um what I like about the book and I this has to be a conscious choice uh that you know that you made is the kind of, you know, you can do it to channel Rob Schneider, but the you can do it kind of attitude you have in the in the in the book, it's you know very uh you know, it's very much with this tone that you know you can get her done.
+
+[7:26] You know what I mean
+
+[7:33] Yeah. But that that was exactly the point.
+
+[7:36] I mean, it wasn'n't uh y you know, when we're when we first set out to write this book and and Renee was like okay, this is this is what we's striving for uh i it you you can't just write an esoteric, you know tome of closing you w we couldn't include recipes with centrifuges and rotovs and and ultrasonic homogenizers.
+
+[7:47] We just wouldn't I mean it's pretty to look at and it's but it's not about impressing people, it' it's about empowering people..
+
+[8:01] So uh I really a lot of the work was just dumbing down what we did at Noma and and not in a negative sense but being like okay if you had nothing and you you still wanted to make this butter emulsion, what would you have to do?
+
+[8:12] And then you just MacGyver it until y you know, it it makes sense.
+
+[8:20] Um and the best part about this is that Martha Holmberg who's uh a really amazing cookbook author herself was a recipe tester for all this.
+
+[8:29] So I actually flew out to Portland uh quite early on in the book's process to actually like once as soon as the the recipes were graphics just do this with her and then basically go through the entire process of what Noma did, you know, very early on as we were figuring this stuff out and going to the local hardware sort of the local cookshop to actually like build build all these incubators and stuff in her apartment.
+
+[8:39] So just to prove it could be done.
+
+[8:47] And that's one of my favorite things. You're like here's a speed rack, here's the plastic thing and you like you know build all the stu. Which is I think, you know, I think that's the kind of thing people even though look, you can get all that stuff on the here's what you can't off the internet people
+
+[9:08] Like what you can't get I mean you can I guess, but the nice thing about a book is a book when you're writing for the internet, yes, it's a good place to put up a a DIY how to build uh you know, a a fermenting chamber, et cetera, et cetera.
+
+[9:25] But um there's something about writing a book and trying to turn something into a coherent, large format document that just forces the writer into a mental space and a kind of l if they do a good job, a level of rigor that you don't get writing on the internet. You know what I mean? So I think it's a useful thing and I think books so one of the reasons I think books still have a place. What do you think?
+
+[9:44] Yeah, absolutely, it it really forces you to, you know to like go through with a fine-tooth comb. Yeah. And uh, blog posts, like you said, they're one thing.
+
+[9:52] You know, it's and that's the thing is they're self published there's no I I don't mean to say it but there's like there's no stakes.
+
+[9:55] You can put something up. If it doesn't work, well, it gets buried in the history of your archives or whatever.
+
+[10:03] But with a book, you know, there there is a pressure, especially, you know, coming from us, it had to be it it had to do what it needed to do extremely well. Um and and uh y yeah, d you just put yourself into that mindset and then from the ground up kind of uh you know, empathize with someone who's like got a team of three cooks in a bistro and I really want to do this, but how?
+
+[10:25] And and you just have to put yourself into their shoes and and make it make sense to them. Yeah. You know that you take it for granted that we have this like huge space and
+
+[10:38] these amazing incubators and and you know thousand dollar humidity systems and all this stuff but at the end of the day it's about doing it for the little guy I guess.
+
+[10:53] And so for people who haven't seen the book it's kind of organized by style of ferment so it goes like you know, lacto ferments, kombucha, uh vinegar, koji, miso, you know, koji in general, miso, shoyu, garum, which uh and black fruits and vegetables and um which is you know like black garlic etc. etc. So uh until people call I have some questions actually on the uh Dave I believe we have a caller on who has a black garlic question. Uh uh well all right well so I'm gonna caller you're on the air but while we's, I's in case this question overlaps, uh we'll we'll put them to you all all at once.
+
+[11:24] One, you in the book you do mainly kind of I know it's weird to say traditional because none of it's traditional, it's all relatively new process, but kind of lower temperature, much longer um uh processes for you know your your blackened uh, you know alliums and your blackened fruit.
+
+[11:43] Uh and I was wondering whether you've tested and rejected or just haven's play with like a lot of the shorter term ones that like Johnny Hunter's doing in Madison where he's doing was first doing higher temperature and then beyond that pressure cooking uh black uh stuff and I know that all the flavors are are are different but I'm wondering whether you're testing it and while you're thinking about that caller you had a question about black
+
+[11:59] blackened products. What was it?
+
+[12:11] Oh yeah, hey, this is this is uh Quinn Francis of VC... Hey, how you doing? Another uh a uh fellow you're good fellow Canadian.. Nice from Vancouver Island. Yeah.
+
+[12:20] Yeah. Cool.
+
+[12:25] So my setup right now is a um old rice cooker.
+
+[12:30] So again it is actually running a little hotter than you guys recommend.
+
+[12:36] But I had a different sort of question.
+
+[12:43] Um How concerned would you be if the heating got interrupted?
+
+[12:50] 'cause that has happened to me before and I just recorded it just in case.
+
+[12:54] But I was wonder like if it if it goes completely off for like a day if it's cold.
+
+[13:03] Would it be reset to just restart.
+
+[13:05] Could you hear that question David or no?
+
+[13:12] I I it was a bit choppy but I think I think how how concerned should I be if the rice cooker shuts off for a day. You got it and then you restart it.
+
+[13:24] Yeah um I that's not a good thing uh and it was actually Ariel who impresses who impresses upon me but you know what you're you're sitting in the prime range for for pathogenic bacteria growth.
+
+[13:34] So if something cools down to like, you know, forty five degrees and it's sitting at that temperature for like eight hours
+
+[13:40] that's that's not there's there's no way to ensure it's safe.
+
+[13:45] Um you know that's why you ferment or or you you age garlic at sixty degrees because that's it's hot enough to keep the bacteria from propagating um and again garlic is something that grows underground anyway if there are botulism spores, they could they could very easter to kick off.
+
+[14:29] So Yeah um yeah I c I I elaborate on that in the book and I say you know it's your task with making sure that it doesn't drop so I I would just start fresh for the right now it's never worth your house table and like again I've already sure that you know, if it happens again I know what to do you know back when I used to work at the French Culinary Institute constantly like people who were cleaning would come this was in early early days back when people weren't used to things cooking for 24, 48, 72, you know, week whatever constantly people would unplug my crap.
+
+[14:46] Like I would come in the next morning and be like I can't live in the damn kitchen people.
+
+[14:53] You know what I mean like don't unplug my stuff and like so it got to the point where I would duct tape over all of the sockets.
+
+[14:59] You know what I mean?
+
+[15:05] Because and still occasionally some moron would be like I wonder what this tape is here for.
+
+[15:07] Let me take the tape off and unplug this thing.
+
+[15:10] I hated it. I hated it so much like interrupted processes, this is why ear and no one does it anymore it's not even a problem anymore.
+
+[15:30] But early in the day I used to tell Philip Preston I'd be like Phillip man can't you put because the worst would be like I I didn't trust anything I did anymore because I no one had the data logger yet there wasn'thing function in your kind of your standard thing and so like I was always nervous if that some a-hole unplugged my stuff to plug in a vacu machine or some crap you know or a vacuan and then just plugged it back in and didn't say anything I didn say nothing I didn'd do nothing.
+
+[15:47] You know what I mean so like I used to be worried about this constantly but I don't more because I think everyone knows now not to unplug the cooking equipment overnight.
+
+[15:54] You know what I mean yes yes definitely hate yeah I see that one more quick question about fermentation..
+
+[16:27] sure Queen go do it go for it's sure um so I've got some mixed responses about harvesting my own coji sports I was wondering if David has any other for making sure that is sterile or there's no contamination from other functions or if you know what it's just harvesting your own spores like from the wild.
+
+[16:31] No no no, just propaging.
+
+[16:35] Yeah.
+
+[16:36] Um if if it tastes right
+
+[16:39] So like if you if you grow the spores and you grow your next batch of koji and it tastes like koji, you're probably on track.
+
+[16:46] Uh one of the really cool things that Japanese koji growers used to do or or managed to do is that they would they would select for for color variants.
+
+[16:56] And this you know the idea that koji is white is something that people had to do.
+
+[17:03] Um, so it was domesticated and they're like okay we'll breed it white so if anything else pops up we'll be able to see it.
+
+[17:13] We'll have a very strong visual cue and we'll know that something got infected and we can either talk out the batch or start again.
+
+[17:17] So if you ever see uh different colors pop up, black, green, especially red or orange molds, you know it's been infected.
+
+[17:24] But if you're if your spores stay pure and white and keep growing really really fluffy and it doesn't look like any other sort of sillim growing, you's gold to green.
+
+[17:31] When it's spores, correct.
+
+[17:39] Wait what? Say again?
+
+[17:43] You're kind of uh the same color shift from white to green when it sharing.
+
+[17:48] Uh question was uh doesn't it shift from white to green during the growth.
+
+[17:52] There are some species that do that. So there are some species that when they go to spore they go green.
+
+[17:59] Um but if you are concerned about that find find a frame that grows white and you'll have that added layer protection or that added cue.
+
+[18:08] Okay.
+
+[18:12] And you know for those of you that don't I mean for for for the few people I guess who are listening to this who don't know about uh thanks Quinn by the for those of you who don't know the you know the basics of Koji you're inoculating uh a substrate with uh uh an aspergillus species uh you know fungus, and that is growing producing a a lot of uh enzymes that then do many other awesome things care to elaborate David?
+
+[19:09] Yeah, so it's uh it's how uh everyone in East Asia came across basically the process of so liberating the starches and grains and being so you you want once you do that you liberate sugars that can then be fermented by yeast into alcohol so in in the pursuit of getting drunk we have koji in the world um and it has a flavor of its own it's delicious it's fruity and its enzymes work not just on grains and starches but also on proteins.
+
+[19:16] So you can break down meats and misos and all sorts of tasty things is a broad breaker down of things which by the way funguses are in general which is why they're so awesome but also such a pain in the in the behind if you for instance own a house or want anything to not get chewed up and eaten alive.
+
+[19:28] I mean fungus they've developed a fungus that can break down anything. That's why a lot of your enzymes that you buy, commercial enzymes, are grown from some form of
+
+[19:41] fungus that has been found in a laboratory to produce a very high uh you know quantity of a particular enzyme.
+
+[19:52] All the enzymes I use are fungally produced um see is that true no uh Activa meat glue is bacterially produced I think.
+
+[19:58] Anyway, um anyway, fungus good at breaking things down that's what they do you know they're one of the very you know you anyway, whatever.
+
+[20:06] Uh so on aspergillus, I'm very curious because something I've never tried using before and I didn's about is this uh this other aspargillus species that you use uh lo wait how do you pronounce it-chu luchuensis that makes a citric acids?
+
+[20:21] How awesome is it? Is it super named after the island in the south of Japan where it comes from.
+
+[20:30] Do you love it I love it's my favorite thing on earth it's my favorite favorite thing to grow.
+
+[20:33] It's my favorite it's my favorite if you if you ever if you ever get your hands on it's like fruit loops on speed.
+
+[20:41] I like I've never tried methamphetamins. I'm told that if I had methamphetimens, it would be really, really bad. I'm I'm told that me on speed would be a horrible idea. Don't yeah it would be a terrible, terrible thing.
+
+[20:53] But uh I d you know I do like fruit loops. So you know, win. Also I like anything that produces citric acid. You know what I mean? Like anything that can produce citric acid, like how much have you have you ever figured out kind of uh uh like equivalent percentages that you can get if you're doing um
+
+[21:10] If you're doing like how acidic can you get?
+
+[21:13] Well, then you have to deal with actually extracting it.
+
+[21:16] I mean the the the grains once they're fermented are packed with citray acid.
+
+[21:22] You pop it in your mouth it tastes like a sour patch kit.
+
+[21:25] But if you want to let's say transfer that into a stalk you's you're you're obviously going to be buffered a little bit you're only gonna be able to get uh so much of that.
+
+[21:36] But when once you do it is still super delicious...
+
+[21:39] Totally want to I read that's the that's the thing I read when I read that I was like I want that.
+
+[21:45] I want to try that I want to try so I want to try a koji that makes citric acid.
+
+[21:49] That sounds like something I want. You know what I mean so uh uh on that other thing uh I you know the the garum I love garum so a couple questions from people try your recipe so that you know we can give them kind of a mental note.
+
+[22:03] Your squid garm, how I'm sure the s the squid uh the ishiri from uh Ishikawa right?
+
+[22:09] Or no have you have you ever tried that one the commerly produced I have not it is freaking awes.
+
+[22:24] I love it's my it's one of my two favorite commercially produced uh favorite uh commercially produced fish sauces so I can's you how dead a ringer yours is for that because you haven't it um you know okay so fair uh so that was one one of my questions the other one was the grasshopper garum now I understand theoretically that people want to eat uh bugs protein yada yada yada I ain't never had a grasshopper
+
+[22:33] Where I was like, you know what?
+
+[22:44] That was better made with a grasshopper than with anything else.
+
+[22:47] I have to say, like if that had been made with anything other than the grasshopper, it would have been not as good.
+
+[23:09] And what you're telling me in the book now here's the thing, and you know I liked you know the the ant distillates and all that they're good but what I'm asking you God's truth is the grasshopper Garum just surprisingly good considering it's made with relatively flavorless grasshoppers or is it an incredibly delicious product on its own right that deserves to exist aside from the fact that you happen to be making it from grasshoppers in other words would you ever choose it over a different substrate yes yes it is it is one of the most popular ferments at Noma and it has been for a very very long time.
+
+[23:26] But is how much of that is because it's grasshoppers and how much of that is because you would in a blind taste test be like that's the one I want.
+
+[23:44] I'm just asking I'm just being a devil's advocate here's the satisfaction of eating like shellfish without the fishy flavor?
+
+[23:54] That's what grasshopper garham is except it's roasty and it's more meaty and it tast it tastes almost like mole honestly it really does well maybe someday I'll get to try it oh by the way people uh gar you guys use garum rather than the more kind of current fish sauce is that kind of just an homage to tipping your hat to bringing it back to Europe to doing something uh on the European side or like a a like a a desire to not try to appropriate
+
+[24:12] like like wholesale like uh a South you know uh uh you know, an uh Southeast Asian kind of uh condiment or what?
+
+[24:41] Yeah it it's it's tough to say and a lot of the a lot of the reading that I have found about gerum and fit sauce it it like the dates kinda don't up and there are there are people there are historians historians that postulate that um it only showed up in Southeast Asia in the way it's made today after communication between the Roman Empire and uh and China was established on the Silk road.
+
+[24:53] Yeah I kind of doubt that though don't you I mean there are links to I mean don't you kind of doubt that a little bit I like almost all of these kind of they're very um tenuous food histories, you know what I mean?
+
+[25:00] And it's like super it's you know, especially for someone who wants to I in other words for instance, like you look at rice culture, right?
+
+[25:05] And so it's you know, it's now obvious decades, you know hundreds of years later, that rice was domesticated in parallel in two separate at least at least two separate very different kind of places two separate domestication events at least right?
+
+[25:27] In Africa, in Asia. And so, you know, there are some things that you know have one place where they come from, like chickens, you know what I mean.
+
+[25:38] Uh but don't you think it's much more likely that since everyone has salt
+
+[26:25] And everyone's got extra weird fish lying around that it kind of just kind of happened you know like if you really think someone in possible yeah I mean do you really think someone in Asia needed some like you know like a uh a Roman to yeah to instruct them on how to do this but think about it think about it this way not only well I mean not only do you need a Roman right but if I handed you an amphora of garum right and say yo here's this sauce we put it on everything you know what I mean and you'd be like because they did they put it on everything it was like you know everything it was like more they put that on more things than we put on ketchup in the US, right but it's like every damn recipe had Gar in it you know why delicious people but the point is is that if I handed you a bottle of that you would have no idea how to make it right doesn't taste like its constituent parts I mean it's like vaguely kind of fish but you wouldn't be like you know what I bet you the way to do this is to just take a bunch of fish and salt and throw it in a pit.
+
+[26:46] You know what I mean you know like you wouldn't think about it so like the idea that somehow mastery of fish sauce comes via it just doesn't make any sense to me that's all you know and now for our Bob's red mill moment we're gapanth and amaranth flower so amaranth is is a pse grain that is uh native to uh I guess South America. Uh it's a tiny little thing and in fact uh you can pop it really well uh if you have the whole grain you can uh and it's dried you can pop it and then mix it in fact they make a whole series of candies. Instassi you remember where the name of that candy is the one they make in Mexico with the honey and the amaranth. You know what I'm talking about though? Yes. Yeah anyway I forget the name of it um but Bob's red mill sells an amaranth flour the cool thing about amaranth is it has it has a really nice uh taste I haven's figured what to use with a hundred amaranth flour yet but I have substituted as much as I hate telling people to substitute it into things like muffins and pancakes small amounts up to about 25% of amarant flour in those are nice and good and add a kind of a bit of a nuttiness to it uh amaranth you know it's if you believe in health it's people believe it's uh a healthy thing I of course don't believe in health I care only about taste but I still enjoy using amaranth flour. Uh Bob's Redmill carries whole grain stone ground amaranth flour. Go to Bobsredmill dot com and use the code cooking issues25 that's one word all caps, cooking issues25 for 25% off your order.
+
+[28:28] Hey we want to do another question yeah caller you're on the air.
+
+[28:34] Hi Dave. David and Dave.
+
+[28:37] I have been uh trying to track down the recipe or some kind of clue about how to make
+
+[28:44] Portuguese fermented hot sauce.
+
+[28:47] I know it's made with these with the small period chili.
+
+[28:56] I know it's got some garlic in there and I know it has uh some kind of spirit other than that uh no clue wondering if I of you have seen anything or in putting me in the right direction.
+
+[29:05] Portuguese fermented hot sauce?
+
+[29:07] No uh nothing nothing on my radar.
+
+[29:11] And I just had uh a Portuguese intern with me for three months.
+
+[29:16] And uh no but he I mean I I haven't I haven't heard much about that.
+
+[29:19] Maybe you could call them up, put it out, tweet.
+
+[29:24] You're not really on Twitter, are you?
+
+[29:28] I am not on Twitter. Yeah, I'm on Instagram. Yeah. But not not.
+
+[29:33] And well email it to us or whatever. If you get if you get an answer, if you ever speak, did you like the Portuguese intern?
+
+[29:40] I loved him. He was fantastic. So you will you will speak to him again someday?
+
+[29:45] May maybe you can get back to us and to let us know something and then I can I can forward it.
+
+[29:51] Yeah. Well I will do that. Yeah.
+
+[29:53] Uh speaking of questions we had off of the internet uh Wes Hendrickson wrote in um would you talk about this is for you David, would you talk about Koji aging meat they omit in the book but the DIY Koji crowd is nuts about it discuss.
+
+[30:04] You don't really omit it, you talk more about marinades, not about aging it for long periods of time, right
+
+[30:15] Yeah, that's because putting meat in an incubator freaks me out.
+
+[30:18] Yeah.
+
+[30:28] I'm sorry but just putting a a hunk of meat at thirty two degrees for forty eight hours just makes uh it uh yeah not it makes me a bit uncomfortable so I didn't want to tell people to do that. What about some sort of middle of the road thing doing kind of refrigeration uh dry aging with already made kind of in other words, doing the marinate just for a long, long, long, y long, long time. How about that? Yes.
+
+[30:48] Yes. That that works. And that's that's what we say to do in the book.
+
+[31:02] I mean it's like make a make a cure make shioki, blend koji with water and salt, turn it into a paste and then rub your meat down in that and leave it on for as long as you want.
+
+[31:04] Well how long have you gone?
+
+[31:07] Now I Well at at the restaurant we marinate our ducks for maybe about five four to six hours.
+
+[31:15] And it really actually does help to tenderize uh the f the skin and the flesh right but you're not doing like uh like a week or a month.
+
+[31:24] No. But you have you could. It would make the meat extremely tender.
+
+[31:30] But uh I think after a point you're you're not you know it's like a lot of diminishing return. I don't particularly like over this why like I you know I know that in your buttermilk fried chic recipe with I forget what you added to it with the enzymatic thing like I like buttermilk
+
+[31:49] fatter but I actually don't I mean I like it, but it's not my choice to marinate for super long periods in acid just because I think the flesh of the chic breaks down too much.
+
+[31:58] is it i is it acceler even more or using a harder chicken 'cause American chickens are so so freaking tender anyway that if you really if you do too much more kind of breakdown American piece of chicken, I mean, suckers pulp.
+
+[32:12] You know what I mean?
+
+[32:19] Now if you were gonna do it like on like uh you know you know an older chicken, like a hen, or maybe like, you know, the kind of chickens that you know, I had when I was in Columbia or that you get in Asia sometime, you know, older, tougher chicken, like maybe, but we I don't know what you get in Copenhagen there. Are you getting like American style like hyper tender things or are you getting tougher pieces of chicken.
+
+[32:37] I mean you can you you can actually get like factory farmed rockens and and roll of that.
+
+[32:46] Um but we I haven't really sort of tried chicken and Mama.
+
+[32:51] That was that was the recipe that Renee came up with you know just as like uh oh this this could be a good use and we tested it looks um now um back to black fruit again I do well sorry go ahead.
+
+[32:59] Yeah.
+
+[33:09] No, no so just uh just getting back to the the Koji on meat a lot of this uh is centered around like rubbing your meat down
+
+[33:12] Rice flour and then. When you just said rubbing your meat down, Nastasia gave me such a look.. That phrase got uttered once before and I was looking through the window and nobody was looking at me.
+
+[33:30] Alright go ahead go ahead So the Koji's growing on the rice flour it's not actually growing on the meat.
+
+[33:40] Some of those enzymes do kind of go through the other side of the layer of rice cake and and leach in but it's not going to be anywhere near the same level of enzymatic production or at least that you'd experience if it was growing on a completely starchy substrate.
+
+[34:13] So I we've tested this in the lab you know it's when we see when we see people doing interesting things we want to be able to understand it ourselves if it's worthwhile and it's it's it's to me just making a paste and rubbing your koji or rubbing the koji over the meat is a more effective, safer and more controllable way of actually you know getting some usefulness out of its enzymes.
+
+[34:19] So here's some some more random questions. Back to the b uh blackened uh alliums and fruits have you ever tried the higher temperature or or the pressure cook methods you just don't like them or it's just you're sticking with traditional or just curious?
+
+[34:33] Yeah so I I uh uh I foll Simon Davies on Instagram and he was recently posting about pyrolysis which
+
+[34:44] is the the ther the thermal break down of uh whatever plant matter at high heat in a short amount of time in the absence of oxygen.
+
+[34:56] Um garlic at those temperatures I find you'll end up getting those burnt flavors out of them.
+
+[35:00] Those those kind of charred acrid notes.
+
+[35:04] And for me that's why that's sixty degrees for a really long amount of time is it's quite special. I mean it's what it is I I've never tested it so I I don't know.
+
+[35:20] But what I know is a hundred true is that you that no reaction is the same carried out in if you change almost any of the parameters of temperature, time, pressure, water, i like all everything changes.
+
+[35:28] You know what I mean and so you can't even though the same style of reactions is taking place, you don't get the same flavors it's just a question of maybe they're not better worse, maybe they're different, but you're thinking on something like garlic that you think it's worse to do the higher temperatures for shorter times.
+
+[35:45] Yeah.
+
+[35:46] In in the rare instances where our our fermentation chamber has spiked up and jumped I've always found that you do get these kind of like the this like burnt garlic flavor.
+
+[35:51] And it may not be like overt it may not be like oh this is like garlic that was stuck to the pan and it's gross.
+
+[35:59] But you do get the a little like in the back of your mouth that twang of it. Yeah but I wonder whether that's because you're running it's so long.
+
+[36:09] He's only running for like uh a like in one s one one he's running with a high on the crock pot he's running I think a couple of days and then I think in the pressure cooker he's doing like sixteen hours I've never cooked garlic more than an hour and a half in a pressure cook
+
+[36:28] So I don't know, you know what I mean um I mean I know that shifting into pressure cooking range like drastically accelerates myard reactions. Drastically.
+
+[36:33] Yeah. Um yeah.
+
+[36:36] Drastically.
+
+[36:39] But um but if it's over it's a but no I haven'cause I'd love to do it'd love to do someday someone I would love someone to do a side by side test and then bring the results to me so I don't have to do the work. I'm too old to actually do the work anymore I want someone else to do the work and bring it to me.
+
+[36:57] Um what other questions do I have oh when you were making your uh your shrim now shrimp, I'm assuming you chose shrimp for one of I think right Gar, you did a shrimp shrimp Garm. I think one of the reasons you're doing that is because it already comes with its guts in it, right? So you appreciate you just buy the whole thing easy peasy right?
+
+[37:12] And it's got lots of guts with lots of enzymes in it now and in fact isn't that the reason you started Koji doping uh a lot of your stuff because you were using things that didn'd have a lot of endogenous enzymes in it yeah yeah exactly exactly.
+
+[37:29] I mean yeah the grasshoppers do um but it it it really came about with uh with the meat scraps um with the beef caron and you know you're like oh well what what sort of digestive juices can we get from cow or you know any butcher shop would be like we's selling of those um 'cause they're gonna kill people, full of E.
+
+[37:35] coli. Um
+
+[37:42] So we swit to kosher for that means and then we're like, oh wow this flavor's develing really fast and discovered that.
+
+[37:47] The shrimp caron though is uh is very it's classic, you know it's shrimp lots of salt, just let it go at room temperature for for months and months.
+
+[37:55] So you say no farm shrimp. Why? Why no farm shrimp? Is that just because you you're hating on farm shrimp or is there some actual technical reason the recipe won'll work with farm shrimp?
+
+[38:06] No, it won it won's not work. I just find the flavor to be lesser than the amazing wild shrimp that you can get.
+
+[38:12] Uh I mean I I know we're a bit spoiled here in Copenhagen but um th I just I just think wild shrimp tastes better.
+
+[38:16] I mean strictly from a taste perspective. Yeah, okay so it's just a taste thing.
+
+[38:31] You know one of the things about you know if if if Yeah if a weekend warrior is going into a grocery store and they're getting like frozen tiger shrimp from Thailand, fed chicken shit or whatever, I don't think it's gonna be the best extra thing on it Well it'cause uh farm shrimp are raised in in uh low low salt situations.
+
+[38:40] You know what I mean?
+
+[38:41] Don't you think that's why? I mean I think like in like from the research that I've done years and years ago, you know, one of the main issues with uh farm rame sh far farm raised shrimp is that they're raised in kind of um kind of concrete pits at lower salinity levels and the free amino acids and kind of like nice tastiness of a shrimp is kind of directly one of the direct relationship it has is, you know how much salt there was in in the environment in which it was living.
+
+[38:58] Same with like bass, right? So you get like your your hybrid stripers, one of the reasons they don't is because they're raised in freshwater you know what I mean.
+
+[39:17] And no offense to freshwater fishing people but I mean most of the stuff that what comes out of the ocean tastes better. Am I wrong about this?
+
+[39:26] No I would completely agree..
+
+[39:29] I really would now a couple of things here.
+
+[39:34] One, you uh you you make a plea you say you know that you've moved away at Noma almost entirely from long cooked stocks, and you call a greasy smear like the old school gelatin race stocks.
+
+[39:44] That's pretty harshage there...
+
+[40:08] You guys don't like you you know l no longer even find a place for it I mean like it's on it you know actually know now with this game with this game season menu we do have we have a dish of uh cold pheasant jelly right with caviar and that is a very classic stock so it it did make a comeback and there's no Koji in it. Yeah, I will read the quote Koji helps us to uh find the finesse in our raw ingredients and highlight their natural beauty witho like adding a spray of just right lubricant to a creaky door rather than a thick layer of grease.
+
+[40:24] Hating on the gelatin based stocks hating on 'em.
+
+[40:28] They' heavy they for me honest they take me back in time.
+
+[40:36] And I'm not saying that deaf hand can't use them
+
+[40:39] But these are the things that I learned how to cook, you know fifteen years ago.
+
+[40:48] And they do they they do taste of a time and they taste of of a certain way and they do weigh you down and y you know, Rene is the final gather of what actually makes onto the menu. And you know one thing he is he is adamant about is that like the flavors don're way weigh you down in your mouth if nothing that's like so incredibly heavy that you're like bogged down in the middle of your meal.
+
+[41:04] Things should be light and slow and and and like almost flutter on the palate.
+
+[41:13] Um and that's something Koji helps do more than traditionally cook stocks.
+
+[41:18] So that's that's why that's part of the mantra in the book and how we apply it.
+
+[41:21] Alright well so we're coming up on the end here and I was gonna get in a long, protracted argument with you about chaos theory and hand taste and uh consistency in the kitchen. So for those of you that want you know that want to get into it in the section on hand so the cover of the book is kind of hey Nast we didn'd get to say it.
+
+[41:42] Spores, spores. You said it, you said it and every time you said it I cringe. Yeah she hates the word sport. But there's like uh there's kind of like a fungal high fee thing with a hand on the front cover, right? That's what's going on there? Yeah. Yeah.
+
+[41:58] And yeah it's a discussion of kind of this idea that m you know, micro changes the in the cook's hand, hand taste, taste of taste of cook, taste of place, right? Hand taste, Korean idea, hand taste. But then you go into chaos theory and this is where I have a bone to pick with you but I don't time to pick it because we should just go to it hanging.... The question well we'll do it again sometime. The bone to pick is is that With a hand like having an actual hand taste.
+
+[42:24] Look, there is a true statement that batch to batch you're gonna get changes because you're not controlling it a hundred percent because things are wild but part of having a taste from the hand is that the hand does lend some consistency through practice, right? I mean that's the thing like you it is a trained hand not like the random hand.
+
+[42:39] You know what I mean not like the anyway, we'll we I wish we had more time to talk about it because instead I have to ask you this last question on the way out. And I d I know I didn't get in any of the pre writes question it well we'll think about it maybe you come back on sometime you know when you're back in uh you know, uh in New York, sometime to see it.
+
+[42:54] Oh and I didn't get to ask you, by the way, real quick. Coffee coffee and kombucha coffee show you and kombucha. You make them with spent grounds. I get it as a way to reuse waste, but revelatory or just something to do to prove you can do it and and not waste the coffee grounds.
+
+[43:10] Uh it can be extremely good.
+
+[43:15] Now that being said we have tested so many different types of coffee and they are all different.
+
+[43:24] You will get fresh ground where you'll have a batch that shit and fresh grounds where you'll have a batch that will you'll be like holy crap this is amazing um and we were fortunate enough to have spent grounds actually turn out really, really good..
+
+[43:31] But you can use fresh grounds.
+
+[43:37] Um trial and error will tell you what roasts are best, what beans are best um But it's it's it's surprisingly good with this cold speed method So yes it is a great way to to give something a second. So uh you have been listening to David Zilber, uh one of the co authors of the Noma guide Fermentation out now. It's a great read but and before you leave
+
+[43:53] I have the my last question and I don't to blow up your spot but if you look at your Instagram which is David underscore Zilber right is that correct?
+
+[44:09] Yeah and you look at your profile picture and you're also wearing this in your Grub Street interview you have this amazing technicolor dream coat and I don't want to like you know you to give any secrets away but where do I get this coat this is a miraculousco it's like an amazing freaky coat.... Miraculoat.
+
+[44:21] Is do you have the only one is a very No there's more than I think they're sold out to be honest but it was made by a designer out of New York uh a label called Cease marjong wait like some fun stuffe Cease marjon like stop margining?
+
+[44:32] No, no it's it's uh it's a Dut name but uh S-I-E-S-M-AR-J-A-N.
+
+[44:38] Would you be offended if I found one of these coats and also had one?
+
+[44:44] No of course not I didn'd make the coat anyone could buy the coat yeah but it's like I feel like it's like you know it's your coat so like if I wore it I'd be like you know kind of horning in on your coatness whatever.
+
+[44:59] If you can find the coat two days in the same jacket that's not that's not a bad thing all right cool well anyway thanks for coming on uh cat you want to say one more thing it's been a pleasure yeah and next time you're in New York stop by uh the bar stop by existing edition say howdy I have one thing one thing to say before we go I forgot to mention it
+
+[45:10] If Cooking issues listeners want to come to the gala they can use the code cooking issues for 10% off their ticket all right well there you go see you guys next week cooking issues thanks for listening to Heritage Radio network food radio supported by you for our freshest content and to hear about exclusive events subscribe to our newsletter. Enter your email at the bottom of our website heritageradio network.org connect with us on Facebook Instagram, and Twitter at Heritage underscore Radio. Heritage Radio Network is a nonprofit organization driving conversations to make the world a better fairer more delicious place and we couldn't without support from listeners like you want to be a part of the food world's most innovative community rate the shows you like tell your friends and please join our community by becoming a member just click on the beating heart at the top right of our home page thanks for listen

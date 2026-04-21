@@ -1,0 +1,349 @@
+[0:00] Hi, I'm Josh Spiegel, host of the podcast Lunatic in the Newsroom. It's news like you've never heard before. We'll talk about things like a possible ban on recreational pot, Americans giving up on dressing like civilized human beings and a call for fraternities to be outlawed. If you enjoy wild overthinking Lunatic in the newsroom is for you it's funny informative and emotionally unstable. Lunatic in the news listen today. Hello and welcome to Cooking Issues. This is Dave Arnold, your host of Cooking Issues coming to you live from Robertus Pizzeria in Bushwick, Brooklyn. Oh yeah, it's middle, middle of the road. You kind of split the difference there. Yeah what do you think?
+
+[0:48] It's pretty good yeah yeah all right all right although most people like the loud crazy one. Yeah but but then but uh but a lot of people said they liked kind of like you know, like mixing it up. I think middle of the road might be fine. You know it's I think generally people like surprises.
+
+[1:01] Oh. You know exceed hate surprises I mean I don't know. I mean how was the last time you were truly surprised by something Jack? That's a great question I can't think of an answer off the top of my head you think about it we'll get back to it later in the show. Meanwhile, call your questions in two 7184972128 that's seven eight four972128 got uh Nastasia the Hammer Lopez next to me here with her vegetti Wow it's oh even gross so stas open up your vegetti here on air let's here
+
+[1:42] the uh last time I was surprised is right now so Claire sent us this uh bought us this uh vegetti which for those of you that haven' been folling the Vegetti Chronicles tear that sucker open is a a vegetable spiralizer.
+
+[1:58] Now it looks like um kind of like a an hourglass.
+
+[2:07] It's got two sets of teeth.
+
+[2:11] Two sets of vegetti teeth, in differ uh one's fine and one'coar it's got a little pusher so that you don'ters sliced off in the vegetti now uh Stas why you go ahead and shove a cucumber into your vegetto I'm gonna use a zucchini?
+
+[2:27] Start small.
+
+[2:28] She's now twisting it like a pencil sharpener.
+
+[2:31] Oh good yeah.
+
+[2:36] Yeah sick now it's good sound guys. Yeah yeah well we are Fole experts um let me see that sound experts for you folks.
+
+[2:52] Yeah I mean it tast like uh tastes like but look it's good that doesn't get that well Stas is trying to avoid the middle part the seeds here.
+
+[2:56] I mean I could see these being used in a salad I could see guys it tast just like spaghet
+
+[2:59] It's amazing. It's like you use starch it's amazing uh the cucumber is kind of cool.
+
+[3:14] Let's try it's try all right on a second let me see uh I bet you the texture oh maybe should have peeled it first there Stas. Let me see here.
+
+[3:18] All right let's see ready here this is this is uh sampling the cucumber vegetti.
+
+[3:30] I mean look it's not a bad product all the shit as a that's not a bad product as a topping or something yeah I mean I wouldn'd zucchini cause it's gonna turn into like a mess of mess..
+
+[3:35] Well she fries it makes no sense because it's a sponge for salads that's good yeah for the cucumber it's good, but look at the it all gets compacted.
+
+[3:47] Yeah yeah there's uh there's a bunch of stuff compacted into Stas's vegetti here.
+
+[4:02] She better get out all right so what we don't a carrot no I didn't know maybe they have a carrot in the kitchen they can bring to us later in the show and we can spiralize that would be good like for a topping what shreddy Carrot?
+
+[4:08] Yeah I mean look obviously like you know I got Asian on the mind so I'm thinking Daikon.
+
+[4:12] Yeah oh coller you're on the air.
+
+[4:17] Hi Dave Um Nasasha and Jack and everybody. Um my name's Bradley I'm from San Francisco and uh I had a couple questions for you. Um I found this podcast about seven weeks ago um and I'm unemployed so I've listened to a hundred and four episodes in the last seven weeks oh my god get a job man um you don't listen to that much cooking issues it's gonna rot your brain
+
+[4:40] Well uh I'm I'm I'm helping a refurb uh uh s do a fa some family handyman projects so I'm I'm listening to it while working. But um I I'm my family does this thing called meat every year for my mom and my uncle's birthday they were born on the same day and we get a whole ribeye and um you know, you grill it all up and so my goal this yeah was to um build a dry curing chamber and um dry age uh a ribeye that I got um and I had seen online that um like at Go Pound salt that they put they had suggested using a tray of of rock salt uh or I uh of sea salt down below um as like a desicant and I was wondering if as long as um my humidity and temperature are controlled if that's helpful or if that if that is just a kind of um a bad way of cu uh keeping uh humidity uh relatively uh the same throught the process.
+
+[5:39] Yeah that's great.
+
+[5:46] so um yeah as far as my understanding of it is the salt is more for uh like you say stability of of the humidity, right?
+
+[5:53] Because it's like the salt is gonna at saturation is gonna want to maintain a specific um humidity.
+
+[6:03] I had always read so if you the first time I ever read this was you know decades ago in a now outdated book what's it called, Sausage
+
+[6:11] .
+
+[6:11] The sausage maker something...
+
+[6:29] Oh, it's God, the book's gotta be from the eighties or something like that but he was the first one I s you know saw recommending uh the salt in the curing in the in the aging or curing uh chamber as a as a humidity modifier but my memory serves me he actually has a huge amounts of salt and some water there so that you know you could evaporate water into it or absorbit as needed right so it would only be a desiccant until it turns completely to liquid if you were in an extremely humid environ otherwise it could be you know used the other way it's it just keeps it's something at the same relative humidity. I forget what it is it's been a long time but it's somewhere in the mid seventies, I think is that right have you looked it up recently it's like seventy seven percent or something like this?
+
+[6:58] Yeah, I saw like eighty to eighty five was what I saw um so around there.
+
+[7:06] Yeah I mean some people just believe in the mystical power of salt in the aging room period.
+
+[7:15] So David Burke, you know uh when he years ago did uh his steakhouse in Chicago, did uh an aging room and he literally tiled on the walls giant blocks of salt which were pretty impressive I have to say. And I think he was serving stuff on that you know on that Himalayan salt block stuff.
+
+[7:27] Yeah I have some of that yeah and it was pretty impressive. I don't know if it made a bit of difference or not because you know obviously, you know, there was no side by sides, but um it was impressive look cool.
+
+[7:39] so my setup is I've got a a four point four cubic foot Kenmore um mini fridge that I've um I'm rewiring to um include a temperature controller and I I'm taking out the thermostat for the fridge and rewiring it to an Arduino. Right um along with a fan and a humidier but so if I have like that kind of setup and they're all you know with you know, maintaining within normal range the salt is like a a fun extra but not necessarily something that I need.
+
+[8:18] Well, yeah exce for this what so what is the if you're running the coils in the fridge, right, that that will automatically remove enough humidity to keep your humidity low enough, right? Then if you have a humidifier to add back in, then you can achieve any humidity you want witho, right?
+
+[8:43] Right uh I mean a salt can maybe act as a as a buffer there but it's not necessary the um if you weren's running cooling coils that were going to automatically dehumidify the the i if you didn't have some way of removing humidity and adding humidity then whether or not salt would be helpful would depend on what the ambient relative humidity of your area is right I forgot where you said you were calling from but it's San Francisco.
+
+[8:59] Oh yeah.
+
+[9:05] So I mean you're pretty mean like you're just air is pretty nice there, right?
+
+[9:10] Yeah, um I mean it's it's pretty pleasant. It's it's a little damp, um just 'cause of the fog, although, you know, it's been nice recently. Um I guess it depends on what block you're on, right? Everything's a microclimate in San Francisco. Exactly. Yeah, I I I I moved from the the the foggy side of the city to the warm side of the city um and it makes a huge difference of about five to seven degrees, depending on the day. Yeah, that's so crazy to a New Yorker.
+
+[9:37] You know what I mean? That whole concept is so crazy to a New Yorker.
+
+[9:41] Anyway um so so yeah I would say that you know it if and the in the f in the fridge you have the like uh it will it dehumidify the fridge as it's working or is it some is it totally sealed?
+
+[9:56] Like w is it old style so you can see the coils or is it new style so you can't see the coils um so I I haven't taken it fully apart yet it's about half taken apart and I like in the process of building this and one of the reasons why I was asking was because um you know if I have to put a Pyrex pan full of salt at the bottom that's gonna change the way I configure it.
+
+[10:07] Um but it it doesn't it's pretty it's pretty sealed in there.
+
+[10:19] There isn're you know there there's there's like um there's the uh there's the freezer component of the refrigerator that's got like two coils but I was gonna try to take that out.
+
+[10:30] Right.
+
+[10:33] Well exce remember though, uh these units usually have like the single compressor and they're running everything off of the one so if you take the you're not gonna use the you're not gonna use the chilling of the fridge at all.
+
+[10:43] No, no, I'm gonna use the chilling of the fridge. But I was gonna try to take the it's got like one of those like mini freezer components in there.
+
+[10:49] Usually that mini freezer component is actually what provides the chilling for the entire fridge.
+
+[10:55] And it's just yeah and it's I mean if it's the one I'm thinking about and then um what happens is is they they concentrate and insulate the freezer area so that it stays frozen and then the rest of it kinda doesn't.
+
+[11:13] And that's why stuff that's up near that freezer box sometimes freezes over like things like lettuce and ice...cause remember they're making these things by the bazillion and they need them to be as cheap as possible so they only have one refrigeration system in them, not two.
+
+[11:22] And they're always uh you know it's basically just like a um uh like a balancing act to get the temperature right um throughout the box.
+
+[11:36] So um you know the you could shield off like the coil there a little bit so that it's not really chilling too much if you don't chill too much but it's condensation onto those coils and then the melt off and you gotta drain the water out from those coils that's gonna dehumidify that chamber for you because if any time you're freezing any time you freeze water out of the air onto a coil and then you know put it through a saw thaw cycle and drip out that's how a dehumidifier works.
+
+[12:07] You know I mean that's literally what they are and so um you know, having that in some like in contact with the air in the box is gonna definitely
+
+[12:14] provide uh the dehumidification that you that it you know therefore that you could add the humidity back.
+
+[12:27] Otherwise um I mean otherwise if and if you if you can't use that to hit the numbers that you want, then the salt might be something that's useful for you okay.
+
+[12:32] Great.
+
+[12:33] Well that's that's really helpful um and then I I had another question you had um an episode I think it was like ninety six you uh we's about uh coffee cocktail called a shake nado um and um you you said you were cold you were cold brewing the coffee directly into the liquor and I was wondering if that was uh just grain spirits or what or like you know uh as close to that as you can get um yeah and I was wondering what what liquor you were doing the cold brew in the extraction in the ISI....
+
+[13:03] uh it depends uh kind of on uh my mood. M what I use most often is uh a uh a dark rum the one that I and of those the one I use most often is uh called Ramsa Kappa which uh it it's called twenty three it's not twenty three years old they use like a Solera system so like you know one microliter in a bottle is probably twenty three years old.
+
+[13:23] But it's a it's a good nice um it's a good nice dark rum and I like it'cause it goes it goes well with the coffee but I you know that said I've done it into totally neutral as well it depends on what you're shooting for like we're shooting for Like a cocktail and the coffee flavor is extremely intense so you know, two ounces of the uh but I also wanted a little bit of that kind of rum sweetness on the nose. But if you don't want that you could use you know you could use a a neutral a neutral spirit but we were using regular forty proof um forty proof liquor.
+
+[14:03] In fact the uh the uh the recipe for the ISI, the one I always use is the one that's in um in the liquid intelligence and if you uh the book, and if you don't you know, if you know I I'm pretty sure you could do a look inside on Amazon and s snag the recipe um for the I think it's called Cafe Zakpa is what I call it in the book and it's just um but you could substitute any kind of liquor you want.
+
+[14:28] The key there is that a coffee infuses so quickly uh into the alcohol that you just have to be um pretty accurate with your grind, you know, um and pretty accurate with your timing otherwise it can just go intensely bitter..
+
+[14:42] Just intensely bitter, you know.
+
+[14:48] And the whole idea of doing it that way is so that you don't need to add like a boat ton of sugar back to it to make it to make it um good.
+
+[14:53] You know what I mean?
+
+[14:55] Right. Yeah, um there's a uh a race in San Francisco called beta breakers. Um it's like uh the most San Francisco San Francisco holidays, everybody wakes up at uh you know, seven AM and does and pre drinks for the race and then gets in costume and runs this race completely drunk and it's uh a complete mess. Um but I do a uh pre-break.
+
+[15:26] So I was thinking about drinking or like making this as the cock uh last year we did a Kent breakf is it is it gonna be something that like you said being precise with is that going to be something that is too diffic you think is going to be too difficult to do um out of minute for a bunch of people um you know at at seven in the morning kind of thing or is that is it going to be um would that be a good application of that.
+
+[15:40] Yeah I would make the coffee liquor the night before let it okay and then you know and and it's it's no I I've well just as we did that cigar event how much of that stuff do we bust out a lot a lot lot, right?
+
+[15:58] So it's no problem you can bust out like a lot of it um it's and it'll hold overnight no problem um and then just shake it shake it in the morning uh you know and then you could do the either the milk the the version with milk or the version without milk depending on you know kind of what you feel like but already like I you know, man, running when you're drunk, that's painful why do people do that to themselves.
+
+[16:14] Oh no it's so much fun. So like what we do is so like last year I made strawberry buckwheat pancakes with bourbon uh whipped cream and had Kentucky breakfas and you're only going like two miles and you don't like actually run. You more like walk and drink more. It's like a like it's like a it's like a two mile it's like a bar crawl except there's no bars and you just bring all of your alcohol and everybody's drinking in public and it's the one day of the year where the
+
+[16:45] nudity ban is like is um not in effect so you know there's costumes and naked people and people thrown up and it's it's it's the most San Francisco of San Francisco events this is like Santa Con this is like our version of Sand without frightening the children or maybe with frighten the children.
+
+[17:03] Well we do SantaCon so like you know, we we're on that bandwagon too this is like our own special thing um but you know, you it's it's it's it's just this massive they shut down the streets and they like have like you know um it's it's just massive. I know you hate block parties and being outside but um it's it it's it's really you know, if if you ever wanted, you know people do all sorts of weird stuff and it's just kind of insane um and collective insanity a quarter of a million people show up every year to do this.
+
+[17:31] That's a lot that's quite a lot...
+
+[17:39] anyway so listen try that to try that recipe out and tweet us at cooking Issues. Let us know how it worked out and let us know how this the uh your uh curing chamber worked out uh yeah I will thank you uh for letting me bogart the show.
+
+[17:48] All right uh all right we got another call actually a few more calls yeah so let's take the next one. Alright cool caller you're on the air.
+
+[17:58] Hey I just wanted to give you a little bit of encouragement and don't let anybody tell you otherwise you have to continue the intro with your show in the full New York WWE introductory fashion because that was the first time I heard your show
+
+[18:19] So in fact, I think I I just happened to find your podcast and I the first episode was one that uh Nastasha stole Christmas trees. Oh yeah but for the intro, I'm sitting in my bed listening to the intro and I'm thinking, what in the Sam, hell is this? And then of course it turns into a great show with ransom Raves so don't let anybody change your introduction because when I started listening to the backlogs as soon as I told about backlog it was like, hello, this is Dave and this is like your M PR and it was like, is this the same show? This is not right. There's so much more uh aggressive ideology here that I want to hear. So don'll anybody change that uh anyway, my question was how do you uh clean your um cast iron do you use soap is the uh is the question. Yeah I use soap. Uh you know I use regular kind of uh you know the dishwashing stuff like uh like you have on the uh on the counter. Not the not the powdery stuff obvious but just like regular kind of hand dishwashing soap.
+
+[19:17] I mean I don't let it soak there forever but I use um I just use Scotch bright and uh and that soap and then wash, give a rinse, and then I I always, almost throw them back on the burner for like uh fifteen seconds on high heat just to heat it up, get all the water off of the pan so that it's dry uh so it's not like sitting and do it. And I've never had a problem, you know, my you know, ever.
+
+[19:36] I mean it's I think it's the old the old uh cleaners like alkali based cleaners
+
+[19:42] uh or alkaline cleaners can hose it because it can start breaking down the surface but that polymerized oil surface isn't is it, you know, Dawning cutting that grease.
+
+[19:48] Do you know what I'm saying totally.
+
+[19:56] Um and, you know, I think aggressive scrubbing can probably be uh m might be able to cause you a problem, but like the regular like uh you know, I don't use steel wool on it, but I use scotch brights and you know, chore boys and stuff like that on 'em and um 'cause otherwise they get all gunked up, you know?
+
+[20:06] Yeah, and mine stay like pretty pretty slick.
+
+[20:27] And I've I've used it on I have old uh polished pans like a an old I have an old griswall that's polished and um, you know that I've had for, oh, probably, you know, tw twenty five years and and it was probably forty years old when I bought it and I've never had a problem with that and um and I have a bunch of uh lodge stuff that you know is newer, the kind of pebbled surface that's not polished.
+
+[20:37] And it's also fine that way.
+
+[20:44] Of course the the you know, that those newer pans take a lot longer to build up to a complete, like awesome non stickness than the old school ones. But my seasoning never comes off.
+
+[21:02] In fact, they's the ones I pans I use most often so I ha I scrubem all uh all the time because I have um I have like six of those uh like fajita pans and they just like they're they stack so easy and so they I keep 'em right on a ledge above my my burners and spam a bam, but they're easy to get to, so I use 'em a lot but
+
+[21:15] .... But uh yeah, you know if you're gonna be an excitable New Yorker and frustratedly excited when somebody tells you that they don't like biscuits, there's no way you can go back to the MPR intro. Because eventually you're gonna get all excited so just stay with the excitement. Alright fair enough what do you think Jack?
+
+[21:33] Sounds good I got another call waiting so yeah all right well thank you thank you for the uh call what do you think Staz Stas is shaking her head even though this is radio not TV, she is merely shaking her head up and down which is classic Stas.
+
+[21:39] But thank you for calling in and uh no next time we'll go back to cooking issues.
+
+[21:48] Um caller, you are on the air.
+
+[21:54] Hey how's it doing Dave, Nastasha, Jack, and the rest of the crew hope's well. Yeah doing well.
+
+[22:08] We're enjoying the nice weather but Nastasia hates nice weather do you know why Nastasia hates nice weather's weat this is nice weather What do you mean it's not raining it's gloomy, but oh, you like gloomy Nastia hates nice weather because she doesn't like it when people enjoy going outside. I I used my Twitter and I was feeling great and it was sunny out and I said something on Twitter I was like I'm a change man in the sun and then somebody tweeted at me and they were like don'tell Stas that... Yeah, because she hates when people enjoy the outside.
+
+[22:26] Especiers..
+
+[22:29] Any sir, go ahead, sorry.'Vogue! I'm also a vote for your your enthusiastic but that's that's a side note..
+
+[22:37] Awes um my question today is if if you's aware of any other modernist technique that you can make black garlic
+
+[22:44] Outside of the long and slow method. Did you write in the black garlic question?
+
+[22:50] Yeah... Just how would you go about making garlic if there's a quicker way of doing it's the world is so crazy this happens so often.
+
+[23:11] Like we have a question someone sent us on black garlic uh which is totally separate so uh and you know what's unfortunate we have to get I don't know if you can get Johnny Hunter on the um uh on the phone Jack but he has I was literally talking to black garlic but he was on the show a couple weeks ago and uh I was talking to him about black garlic because they make it and then he said yeah someone makes it in like in like a couple of days and I think they just do it by jacking the temperature higher.
+
+[23:28] But I couldn't remember what the protocol was that the guy used.
+
+[23:44] So for those of you that don't who are listening to the program, so black garlic is something and like uh uh from all accounts that I can read it was fairly recent in invention um but the basic principle is you keep uh whole garlic cloves uh whole garlic heads rather, uh, you know, skins on and everything, sealed in a container so that it doesn't they don't dry out uh and you you let them go for at like sixty degreys like 140 or thereabouts, you know, like within plus or minus uh five five sixty five ten degre, and you keep it for like a month or a little longer and uh people mista
+
+[24:14] Call this fermentation styas, but it's fermentation because it's it's not a bacterial or uh or a fungal thingam the crap it's just you know it's it's this stuff's breaking down over time at this elevated temperature and what you get is this kind of like awesome sweet black garlic uh that is is is awesome but it's expensive so a lot of people make it themselves but and you know the the only way I've ever done it is in my Excaliber food dehydrator but people do it in their rice cooker for instance.
+
+[24:38] And in the rice cooker, rice cookers are a bit hotter they're at 165 degrees uh Fahrenheit and I've people say that two weeks in a rice cooker might be enough you know on the keep warm function but uh I forget what Johnny said uh I don't know if we can g get them or not but uh if not I can tweet him and have him tell me what what the other guys were using in in Madison. They's today by the way losing the Madison, Baders, they lost yeah yeah. Yikes. Any, oh Badgers. It turns out it wasn'tgers it's mushroom mushroom. Anyway, was that actually done by someone in University of Madison anyway I digress the the point is is that yes there is a way to speed it up.
+
+[25:20] I don't know the protocols but it doesn't taste quite the same it still tastes good but it's not the same because anytime you're working with these uh reactions that take place over a long period of time that are very complex whether or any other kind of reaction like this, the flavor you get depends on every factor involved including the rate at which it happens. And so
+
+[25:43] um speeding it up you might get something that looks the same but it probably and according to Johnny doesn't taste the same. Doesn't and it's not necessarily a question of better or worse it's just it's gonna be differ.. Does that make sense?
+
+[26:08] Fair enough yeah but if I can get them on the phone I'll figure out what it is to speed up because he said that these guys were getting it in like in a couple of days like like I think it was under under a week which would be awesome it's not like a 10 minute thing but uh and you know what I wondering like what else like what else have people experimented with I know the Nordic food guys lab uh the Nordic food lab folks uh did onions and shallots the same way and they said that that those were um good you know the thing is is that alliums are so complicated that uh you know a lot of interest goes on.
+
+[26:26] But I have like a rice cooker that'll stay keep warm for like you know weeks and weeks. I should just just keep random stuff in there and see what happens to it. I kept uh I've only kept rice warm for three days. I was hoping I would get some sort of miracle rice after like three days of keep warm but it didn't but maybe I should left it for like two weeks.
+
+[26:57] Like maybe I'll just like divide up my rice cooker like have some rice there, some onions, some garlic, and some other random stuff and just keep it on keep w warm for like a month and see and like kind of note the changes that happen to a bunch of different food stuffs you know what I mean?
+
+[27:05] Yes. Yeah I'll give it a shot. Anyway, I'll let I'll uh I'll I'll either tweet it on cooking issues or uh if Johnny gets back before the end of the show I'll have him uh figure uh you know tell us the fast way to do it all right?
+
+[27:18] Excell sounds good. Thanks a lot, man. All right, thanks for calling. One more call here. Okay, caller, you're on the air.
+
+[27:24] Hey Dave, how's it going all right I have to say I like the loud intro a lot more nice.
+
+[27:27] Nice so we know that our co our core folks, the folks that are willing to call in, they like the loud..
+
+[27:43] That's who matters yeah yeah gotta play to the core baby I got two totally unrelated questions for you so start with the first one I run a pop-up bar and I do a lot of home infusions and things like that.
+
+[27:49] And I have tried filtering with coffee filters which are terrible and Buchner funnels which are a pain to use and water filters which I'm worried strip flavors out to activated charcoal.
+
+[27:55] They do I read all of Liquid intelligence and read all of Cooking issue's blog and I understood in your clarification technique but I don't have a centrifuge.
+
+[28:07] So I'm wondering if agar clarification works on infusions or just blended things like your strawry gin for the first question.
+
+[28:36] Right so I have agar clarified liquor, but I'm not super jazzed about it to be honest, because it strips it just strips a lot of flavor and um and you end up having to add some uh water because you gotta hydrate the agar in water and um because you c obviously the temperatures uh you can't reach the hydration temperature of agar in straight booze. Uh right and so I've done it
+
+[28:52] Uh but I just don't like it you know what I mean?
+
+[28:54] It's like uh agar clarifying juices, yeah. But like doing the agar clarified booze I've been super I've never been super happy with it.
+
+[29:06] I tried it once because I did uh an event in um in South America once and I couldn't get a centerfuge and I was trying to do I forget what it was, it was something like it was something like strawberry and gin but but a as a whole, you know what I mean?
+
+[29:17] And it just I just wasn't happy with it.
+
+[29:22] Um I'm not saying that you couldn't find something you're happy with and it will work, right? Yeah. But it's just the flavor'n's not uh gonna gonna be that that good.
+
+[29:33] Now you could you could um it you could maybe treat it as something that's pre watered a little bit, right? But still I think you're gonna strip a lot of flavor out.
+
+[29:46] So like in other words, if you were going to do like a carbonated drink where it didn't matter that it was gonna come out more watery, then sure, you could take an infusion, hydrate the agar in the water uh then like temper it back in, trying to keep the alcohol percentage somewhere around twenty maybe, twenty, thirty percent uh well I was say twenty and then and then agar clarify your yield might not be that high.
+
+[30:10] Your proof will probably go up a little bit over your base level because the water's gonna be preferentially held onto the agar a bit and it'll clarify and it might taste good for something carbonated where you need like a lighter flavor anyway, but I don't think it's gonna work that well for let's say a stir drink.
+
+[30:21] Do you think that um the charcoal in a water filter would strip less flavor than agar or am I just should I just pluck down for a centrifuge?
+
+[30:33] Well I mean uh the charcoal does clearly strip flavor.
+
+[30:36] I mean, you know, you you can taste it, it strips flavor.. Right ev even if you take something that's clear for instance, so you know you're not removing particulate matter, then and you taste it, you can taste a difference after it's gone through a charcoal filter uh like a Britta.
+
+[30:51] Um in fact we used to run we used to run all of our Smiranoff through Brita's to get rid of the you know any residual hospital nose on it before we were using it to do rotary evaporation back at the back at the school.
+
+[31:06] Um and uh but I was too cheap to buy the actual Brita holder so we used to take a torch and melt the bottom of core containers and then punch the filters through the bottom of core containers. That's how cheap we are um someone someone was like you guys have such great facilities and literally like we're sitting there like melting the bottom of a core container with a torch and punching a brita through 'cause we're too cheap to buy the pitcher for it.
+
+[31:37] But whatever um so uh I mean look centrifuges are great and I think with within a year I will say that within a year there will probably be centrifuge there there will probably be a centrifuge that normal people can afford to have around within about a year I would say
+
+[31:52] I mean I'm not gonna guarantee it, but I would say that that I mean I would bet on it.
+
+[31:55] If there's not I'm in big trouble, let me put it that way.... Uh. So, you know, if you can hold out a uh a bit longer, you know, yeah maybe maybe you should hold out a bit longer for the for the centrifuge.
+
+[32:08] Cool. Alright and I have another question about something entirely different, one of your favorite subjects, country ham. Ah love it.
+
+[32:17] So uh I was wondering, uh if I want to serve it like a European dry-cured ham, is it better to get one of the ones that have been aged for a year or one of the ones that have been gone for like four to six months, okay. No, no, no, here's the problem.
+
+[32:30] The four to six month ones are uh some of them are like they're not that they're low low quality, right?
+
+[32:47] But uh the way that the the they the people who are good at it anyway at doing faster hams, um they they basically um they put it through faster cycles of uh of uh of kind of uh of like it would go through naturally and then they they keep it at exactly the humidity they need to get the the thing as dry as possible as fast as possible, right? So on first inspection these hams can look like a like a twelve month old ham, right?
+
+[33:10] Um now, someone that's doing it so okay, let's just
+
+[33:15] back up a second. So if you were to take someone let's say like a Newsom's or an Edwards or uh you know Finchville or any one of these kind of like styled Benton's caliber of hams like completely traditional style hams, right? And you were to open one of those guys up at seven seven six or seven months, right? So this ham would be okay then for like traditional American uh cooking but the inside of the kind of like uh cushion area of the meat the meaty part is gonna be really tacky. You know what I mean yeah and it's gonna be impossible to slice witho gumming uh forget the fact that the flavor won'd's developed yet but it in terms of sliceability it's gonna be pretty tacky in there.
+
+[33:57] Um so one of the hams that's been meant to be released after you know a fairly shorter amount of time might seem like it's lost all that tack in there. However I'vetic on slicing them when you slice them and then let them sit, they can get kind of gummy tacky. They're not gonna have the same texture and also there's no there's no way that you're gonna get the same kind of um flavor uh in a quick in a quick uh thing as you will in a in a in a slow one because you'll have the drying but you won't the flavor development from protein breakdown and whatever else happens you know lip you know, lip oxidation or whatever the heck else happens in the ham as it's aging that stuff just takes time. And they're not accelerating the aging they're just really accelerating the dehydration of it. You know what I'm saying uh and so you know what
+
+[34:48] You know what a what a country ham uh you know really wants is to go thro you know, um you know a full you know a full cycle of at least a year.
+
+[34:55] Sometim you know better. Two summers, like at the, you know at the at the in the middle of that second summer man when they're like eighteen months that's like sweet that's a sweet spot you know what I mean so if I have one that's that old and not naturally dried out does it need to be refrigerated once it's been cut?
+
+[35:10] No.
+
+[35:22] I mean some people do it depends on how you how you store it I used like I say I used to store mine out in my uh you know hanging uh the problem is is that you can get certain insects can attack it and and you can get mites that hit the um that you know that that create a powdery residue around.
+
+[35:38] That's why some of the oldimers they used to spread on the on the cut surfaces um but you know the other thing is that sometimes uh you know when you bone it, there's like the you know you create a cavity there and like some molds can grow in there..
+
+[35:53] you know of course you can always trim away mold mold that mold on the outside as long as you trim it away uh you know isn's going to kill you. You know you just gotta you know I say you know tri trim it away. Uh the thing about uh storing it in the fridge is that you can store it in the fridge for even a relatively long period of time but like I tend to some like get like weird kind of like sticky nastiness on where the paper let's say you were to wrap it in wax paper and put it in your fridge, I get like some sort weirdness on the surface of the meat right by the wax paper and uh sometimes you can pick up odors from your fridge and vice versa. Like for instance in the country Ham fridge at Somme uh you know, Sambar, like uh they put the for some reason they put the milk for the coffee in the country ham fridge and that milk is like unusable. I don'm how those suckers are using it for coffee. They they must love ham coffee you know what I mean. So I mean the other thing is I don't have that much space in my fridge anyway so yeah so I wouldn't sweat it.
+
+[36:48] I mean like the you know just uh you know, I wouldn't have it necessarily resting against anything uh cause you can get some like weird mold weird context of and I'd keep the bugs away from it. Um you know and if you get if you happen to get mites, again, none that stuff' gonna kill you. You know what I mean uh you know, just trim away anything you don't like and you're good to go.
+
+[37:06] I mean this stuff is you know, this stuff's survival food man.
+
+[37:09] Yeah, of course and uh on final question I know that Edwards uses um heritage breed pigs like Berkshire and what not are there any other producers using those kind of figs?
+
+[37:21] Um I think I think uh news might have bought some stuff from uh Patrick and there's a there'a I just went out of my head but there's uh there's a company that produces some really expensive and very delicious hams that are all kind of mast fed I saw them at at uh Starchefs so you can look up the uh people who are but the the name of the company just went right out of my head as I as I went to go think about it.
+
+[37:42] But I think it's more and more ha gonna happen because I mean that's really where
+
+[38:10] That's really where the future of American kind of country ham excellence lies is in um in the feed and and the the the the meat itself like the like I've always said the curing is there it's just uh the you know um they hadn't forgotten how to do that right you know what I mean it's just the quality of of the meat that needed to be um kind of brought up and I think we're getting that can I chime in here yeah I'm Sam Edwards and I listen to Heritage radio network I just really wanted an excuse to do that nice all right nice Sam Edward's actually one of the original sponsors of of uh the radio the radio network huge supporter he has sponsored the show from time to time but uh but you know anyway good man all right that answer your question hello yeah all right nice yeah yeah that's great thanks a lot all right cool thank you um okay so uh we're about to get kicked off but let me just go through what we're not gonna get taken break Jack's gonna fake insert a break right Jack?
+
+[38:40] Actually you know I have another minute for another I just the lines are off the hook today.
+
+[38:48] All right caller you're on the air hey me?
+
+[38:55] Yeah.
+
+[38:57] Oh hey Dave um on the intro note go with whatever makes you happy. See there's the first person that cared about like what we wanted. Stas doesn't the space Stas just made size is making her head a her migraine head all right I'll go with what's happy nice do you have a uh yep
+
+[39:13] But I do have a quick question for you.
+
+[39:15] I made your tea time for Easter brunch. It was a great everybody loved uh awesome drink but there was so much good foaminess left in the bottom of the shaker is there a trick to getting that out oh that's a good question.
+
+[39:28] Uh well you see you gotta know your like I don't know your shake technique, right?
+
+[39:45] So when you shake usually you shake and then uh kind of like let it drain and then I'll do a s I'll do a snap like you know, I'll like uh, I'm holding the the shaker kind of pointed down with my um with my pointer holding the um holding the strainer onto the thing right and then I'll give it a s I'll not down and that'll get some last um little little bit little bit out um and plus I was reshaped to strain it out I mean that's sorry I couldn't you what did you say?
+
+[40:09] Was that are you using a hawthorn to strain?
+
+[40:15] Yeah so so here's the thing with a strainer right so the bad hawth um when I say bad I mean the cheap like the normal kind of hawthorns that you use uh you have to be really be careful otherwise you get like uh too many of different larger and weird size ice crystals coming out I like like a couple ice crystals in a drink because like I like that little crunch the problem is is that it's hard to control with those kind of older Haworn strainers. That's why most of the um faux you know a lot of the uh cocktail people for a long time who were anti crystal because there's a huge anti crystal on the top of the drink movement for years in the cocktail world. And that's why those folks you'd always see them straining through a tea strainer right so they would have a hawthorn which why would you use a Hawthorn if you're going to go through a tea strainer right uh don't ask me because I don't know um except for the fact that they rest more conveniently they're easier to hold than a julep strainer I think in a in a tin. Uh and then they would strain through a um um a tea strainer.
+
+[41:12] Now the problem with a tea strainer it's fine for a dairy um but for a milkwash product which tea time is milk wash there's a uh milk washing for those of you that you know, I don't go go look it up in the in the liquid intelligence or it's been on the show before I think milk washing. There's a specific foam from the whey proteins in milk washing and that is destroyed by uh tea strainer. So uh so I never use a tea strainer on that and so uh that's why I use exclusively the uh cocktail Kingdoms like fine m the the fine wired um uh hawthorn because it's like the best balance. It doesn't through an inordinate amount of crystals uh you don't have to worry about you know, clamping the gate of your hawthorn down so hard to the shaker that you know you're you're you're having like white knuckles by the end of the evening and um you know and it doesn't the foams. That's what I use for it.
+
+[42:03] Yeah that's what I use as well, and I guess it's just the uh the snapping technique 'cause after after two or three of those on a Sunday afternoon. My technique kind of goes sideways well that they go down easy right uh but the um yeah just give it a snap and that's gonna get the other stu out. I have had um bartenders who are used to the kind of older style like uh you know fat wire hawthorns we'll call them or coarse hawthorns I'll call them um say that they that that they're not getting everything out of the shaker and that they're you know that kind of upset them but then if you if you just give it that last snap on the on the way out I think you're gonna get most of that stuff out of there.
+
+[42:40] All right well thank you very much and that's a great drink for anybody who hasn't had it yet oh well thank you thank you good vote for the tea time we uh tea time styles we do a lot at events because people people like them, right? Yeah you made that for one of our events it was good.
+
+[42:52] Oh nice all right so we're gonna get uh ripped off and we didn't get to any of the written in questions but I will just describe this time in a while it's been all collars which I like I like that. Yeah.
+
+[43:19] But okay so we got uh we had a follow up on the ricotta which we'll we'll talk about next week we're back here next week right we're not anywhere styles right okay what we may our company wide meeting might run more of this no I'm not gonna I'm gonna come here uh 'cause it's more important uh and we had a question on cooking squirrel from Sam Geiger which is gonna be interesting uh because I've never cooked squir but I will talk about what I think and we had a question on black garlic and what and uh and making a tea out of the black garlic skins and what and what thickens them and I have to real qu
+
+[43:32] We have a Kickstarter uh for a new heritage radio website that will make especially my life really a lot easier. I I do all this like horrible HTML coding every day to get these shows up it's completely unnecessary Jack talk about the Kickstar. Yeah quick. So the code's expiring on our website it's gonna fall apart uh soon so we have a new website that's gonna be built it's gonna be really really awesome interactive modern mobile friendly so go to Kickstarter, search for Heritio Network every dollar counts please please please do it for all of us so many perks. I mean at the highest levels you can get your own show on heritage radio at the lowest levels I make you some ringtones so what does it cost to get a get your own show on the heritage radio network I think a full season is a five thous donation so that'd be like a 12 episode you know, season that's pretty cheap though they get they get you doing the production and all this other stuff.
+
+[44:22] Yeah you should raise that to 10 your own radio show says, any one of you out here with an axe and five thousand dollars burning a hole in the bottom of your pocket can come over here it comes with free pizza at lunch that mention this yeah we'll do that yeah and uh no travel or accommodations though and for a thousand bucks you can do one show one episode cheap yeah you can have an hour to say whatever you want.
+
+[44:44] Whatever you want whatever you want and they'll push it on the they'll push it on the what's it call there on the website you can push it on your yeah oh yeah yeah well okay uh that's great.
+
+[44:55] And so we we know we didn't get to talk about uh next week the Tando.
+
+[44:57] I've got a lot of Tandoor stuff. I've been going Tandoor crazy. I'll maybe I'll cook with Tandoor this weekend too and uh we'll uh and we'll get back to it. Cooking issues.
+
+[45:10] Thanks for listening to this program on heritegradio network.org you can find all of our archived programs on our website or as podcasts in the iTunes store by searching Heritage Radio Network. You can like us on Facebook and follow us on Twitter at heritage underscore radio you can email us with questions anytime at info at heritage radio network dot org Heritage Radio Network is a 501c3 nonprofit to donate and become a member visit our website today.
+
+[45:58] Thanks for listening

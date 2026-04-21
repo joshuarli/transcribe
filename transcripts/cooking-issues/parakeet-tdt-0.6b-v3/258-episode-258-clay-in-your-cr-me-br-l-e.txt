@@ -1,0 +1,357 @@
+[0:00] Hi, I'm Josh Spiegel, host of the podcast Lunatic in the Newsroom. It's news like you've never heard before we'll talk about things like a possible ban on recreational pot, Americans giving up on dressing like civilized human beings and a call for fraternities to be outlawed if you enjoy wild overthinking Lunatic in the Newsroom is for you it's funny informative, and emotionally unstable. Lunatic in the newsroom listen today. Hi, this is Marion Nessel I'm the Paulette Goddard professor of Nutrition food studies and Public Health at New York University and a longtime fan of Heritage radio. Like Marion you too can support Heritage Radio Network a member radio station operating out of Bushwick Brooklyn I've been on it countless times I love being interviewed. The interviewers are always really well prepared and fun to talk to about the issues that matter to me the most about how we can change our food system to one that's healthier for people and the environment it's just invaluable to have an independent radio station that's dealing with these issues I think it's a wonderful wonderful asset support Heritage Radio Network by becoming a member today. Go to Heritageradio Network dot org and click on the beating heart to donate
+
+[1:29] Today's program is brought to you by Mofad the Muse and drink for more information visit Mofad.org. I'm Linda Palaccio, host of A Taste of the Pass. You're listening to Heritage Radio network, broadcasting live from Bushwick Brooklyn. If you like this program, visit HeritRadio Network.org for thous more.
+
+[1:50] Hello and welcome to cooking issues this is Dave Arnold your host of Cooking issues coming to you live every Tuesday from roughly 12 to roughly 1245 or one ish on uh the Heritage radio network from Rabina's pizer in where's Roberta's Pizzeria, Nastasia Bushwick Bushwick where? Brooklyn. Where Brookly Brooklyn's good morning.
+
+[2:17] How you doing it's not morning somewhere it is also we've been speaking since like 745.
+
+[2:27] Yeah but did people who are listen to this know that no they're listening to it at like midnight somewhere in somewhere else they don't know what you've been doing they don're life this is a con constant radio mistake I feel like they like hearing about our life yes but with context like like like imagine this last maybe you'd want to talk about the center views fine imagine this yeah but we can bring it up that way simply oh my god can you believe what happened earlier oh and that's all we say no because when I say that then you's prompted to say well we've been up since that early because we've been talking about the centrifuge which you should all know and like how do you pronounce uh the way your your man trump says it I don'll know on the phone with China
+
+[2:59] In fact that is true. Uh we did a after work their time before our work.
+
+[3:04] See the when you' when you're when you're building something that's twelve hours time zone away you have to kind of arrange your calls either like early in the morning or like late at night there's no I guess that's not true.
+
+[3:15] They could arrange it so it's early in the morning or late at night for them like that yeah.
+
+[3:21] Instead we organize it so it's early in the morning or late at night. We like it's better late at night.
+
+[3:47] Anyway this is uh again people don't care but we are working on the centrifuge I had a tweet in earlier asking for updates etc etcet uh the updates are that uh we look we've had a working prototype uh for some months now but we're not going to officially release anything until or give a date until we are sure that we have the future production kinks pretty ironed out. Right Nastasia? But we are we're still planning on doing a pre-order. It's still gonna be under a thousand dollars.
+
+[4:08] You will get a d uh pre-order discount that's still our plan, and we hope to have it on pre-order uh somewhere between three and five months before the actual delivery date.
+
+[4:12] And we might have a tiered uh early bird system where the early early birds get it for less than the later early birds et cetera etcet, right isn't that our current? Okay. Or something like this something similar to that we're not committing that. Early bird definitely. Yeah whets of early Bird
+
+[5:01] We don't know but the issue is is we're gonna go on uh pre-sales and you're gonna get a discount because you're buying it before it comes out and what that's gonna do is there's a substantial amount of tooling that we need to make to get it made and we don'll have the cash to front it so the pre-orders are basically gonna go towards the tooling to get it produced as for the specs the specs are going to be that it is um it's gonna hold uh five hundred milliliters uh at a time uh of l of liquid or oil or whatever but it's gonna have the ability with a built-in pump to pump liquid through the rotor such that you can do more than 500 milliliters at a time so the most I've ever done and it depends on the solids content, etc etc.
+
+[5:12] But the most I've ever done in one shot is five gallons uh but obviously that has you know, not that many solids in it.
+
+[5:17] I did five gallons of uh cider. I filtered five gallons of cider with it.
+
+[5:28] Anyway we're pretty excited about it the whole thing is going to be s smaller uh well it's about a little bit bigger than a Quisinard wouldn't you say, Nastasia? Food processor. Yeah a little bit bigger than a Quisinard food processor much smaller than like a kitchen aid mixer, right?
+
+[5:41] Uh easily fits under counter uh easy to lift around move around, etc etc. You buy them like potato chips, you're not even gonna want one you're gonna want two, you're gonna want three am I right, Nastasia? 'Oh, our goal is to put in anybody they ask us my partners, they ask us how do you know how many people are gonna buy it I said well
+
+[5:59] this is how many modernist cuisines sold.
+
+[6:06] We had the number a while ago but I don't know where it is now uh and we figure if someone's willing to shell out five hundred dollars for a book a lot of these people don't already have the centrifuge they're gonna be willing to shell out less than less than we don't know what the final numb's gonna be but less a thousand hopefully as low as we can go right in size we're gonna price it as low as it can but uh let less than a thousand bucks to be able to do some of those tricks.
+
+[6:44] And we can do most of the tricks uh that you can do from modernist cuisine we've tested pea butter for instance all these kinds of things the recipes are differ because and I'll go more into depth later but uh I have to rewrite some of my recipes to get them to work in a smaller centrifuge but that's part of the work that I've been doing is uh figuring it out and if anyone really cares they can ask me to do a an ABCs a centrifugation on air later in terms of the actual uh science and math behind it's I don'll think that many people care.
+
+[7:08] No but I never really talked about uh I mean there's a there's a there's a number of factors in a centrifuge that we run into the same problems that people run into with uh with uh things like induction burners right they compare watts of an induction burner with BTUs in a gas stove and nobody really knows how to compare them. So comparing for instance something that acts more like a fixed angle centrifuge versus a swinging bucket the two main kinds of centrifuge that people deal are called fixed angle obvious what that means is that they the liquids are held
+
+[7:29] At a fixed angle in the rotor uh as it spins and the other kind is called swinging bucket where the the products are in buckets that, as you might guess swing out when you open it uh when you turn it on rather and that's and that's how they work.
+
+[7:48] Uh they have the two different kinds of rotors have different characteristics primarily based on uh the fact that having an angle helps with certain kinds of uh pelleting i.e.
+
+[8:30] getting solids to deposit and stay solid at the bottom of a rotor and also fixed angle rotors definitely uh usually the uh cloudy bits have a shorter distance to travel before they hit the bottom of the tube so fixed angle rotors act differently from swinging bucket rotors but usually swinging bucket rotors have a much larger capacity than a fixed angle rotor albeit at a slower rpm so this kind of this centrifuge kind of uh tries to bridge the gap between those two so it works uh it works at a considerably lower g force than the uh than the equivalent swinging bucket would also uh you know, the centrifugate, like how well something a centrifuge separates solids out is based on a uh a variety of factors that are um inherent in the product itself so the the viscosity which we work on with uh uh like enzymes like Pecan X ultra SPL, but also out in the speed of the rotor which is something I can't change too much.
+
+[8:44] But the the other and the diameter obviously they work in tandem because that's where the force comes from but the the big one the important one that you get
+
+[8:56] To manipulate is particle size.
+
+[9:18] So the um the the speed at which you set the sediment stuff out goes linearly as the force is increased it goes uh linearly as the viscosity decreases but it goes uh by uh by the square of the particle size so you what you really wanted and also the density difference between the solids and the and the liquids but so so a lot of my recipes to get the smaller centrifuge to work like a big guy it has to do with increasing the particle size so I already went through and went through it if anyone didn't understand that which I'm sure is a hundred percent of people because I wasn't very clear then you can ask me to explain it later at a later date.
+
+[10:03] Be like what the hell did that guy say about particle size like the the truth of the matter is is that a lot of the recipes that I use in uh liquid intelligence for things like lime juice to centrifuge lime juice out uh lime juice is more more difficult to centrifuge than other things because the enzymes don't fully break everything down because of the extreme acidity in lime juice and the way that I make that work in a centrifuge regular, you know the the benchtop three liter centrifuge that I use at the bar is uh wine finding agents and what those wine finding agents do is they is they make the particles agglomerate together they become bigger as those particles become bigger it becomes as I said, uh you know by the square easier to filter them out or smash them to the bottom of the uh centrifuge buckets and so uh I do that trick with this centrifuge
+
+[10:29] And I can centrifuge basically anything so far. The you know a few things aren't as good as the big guy but pretty much the results have been good, right, Sus? Yeah. It's just a matter of making sure they're consistent so that when it shows up at your house or at your bar you are safe and happy right?
+
+[10:42] Those we want you to be in that order safe, happy yeah?
+
+[10:50] Mm-hm-anyways.
+
+[11:00] So we'll give you updates as as we know them but like if it doesn't go on we look we're still hoping to deliver it this calendar if not early next calendar, but I don't want to promise anything but if we don't pre-order by the end of this year I think we're in some serious trouble anyway so expect that to happen.
+
+[11:13] Right is your sister by the way, still on dunk meals or no did she do any?
+
+[11:18] I haven't asked her but she said she was gonna keep on. Because we got some we just have every other week she'll call.
+
+[11:32] Every other week we call in so we didn'thten her away did you explain to her that I I realized that she didn't write and therefore she shouldn't feel bad about me insulting the dump meals we had a caller we had a uh a question in about the dump meals on maybe I'll hit that one first even though we're we're way behind oh another remind me after you come out of break mozzarella all right you cook anything interesting by the way over the week no no what did you do this?
+
+[11:45] Oh you went to a wedding how was the food at the wedding good come on really good good for a wedding or good just because they had like a whole pig and a raw they went all out oh how's the whole pig?
+
+[11:57] Good
+
+[12:39] Mm-trying look at you see I see I what I'm doing for you people is I'm reading Nastasia's face and I actually saw that she enjoyed it how was the skin was it chewy or crunchy crunchy really I love a crunchy skin I love a crunchy skin of how how big was the pig not like that big oh how many people at the wedding three who is she doing that was just the appetizer hour oh she she's showing a pig that's like maybe two feet long and anyone there who's cooked a pig knows that until the pigs get like longer than that it's all like bones anyway there's a few skinny little mothers that well they're you know pigs baby pigs, and that there's not a lot of meat on them right news is is that they they're fairly uh I don't think the little guys dry out as easily right so it wasn't as dry no a lot of fat coming out of the skin did you hit the ear?
+
+[12:43] No. Who who at the wedding there's always one who at the wedding nobody.
+
+[12:53] Come on it was like one part of like 1 pieces that are happy at the cocktail.
+
+[13:08] There was no one like me there who walked up ripped off the ear and started eating no yeah you know what I've said this before Nastasia you better get yourself some new friends I know you need new friends uh anyway let me find this uh let me find this thing we get Judy from Malden writes in this is regarding dunk meals couldn't pause to jot down a note while listening to you shout down dunk meals it is true I got mighty angry over the uh over the dump meals I did uh you don't my opinion though since I don't wraps ooh.
+
+[13:28] She goes on to say, yes, it's essentially edible cardboard, but I can't help mys if I don't want all the bulk of the bread. Here's key this is why I know I can trust her.
+
+[13:42] I may be a garbage individual but I'll call a wrap a sandwich now you see I have infinite respect for someone who comes out I say it to myself all the time I may be a garbage individual but, props props.
+
+[13:53] Am I right?
+
+[13:55] Major respect..
+
+[13:59] I got a lot of love for Malden right now.
+
+[14:37] Uh I know you guys feel that maybe America's test test kitchen which is you know, you know America's test kitchen affiliate yeah uh, can be a little tone-deaf at times and it's true, but I've spent seven years reading cookbooks cover to cover and cooking mostly dishes that make sense when only one person is eating of the time uh and you have no access to outdoor cooking so those are the things cooking for cooking for yourself a lot of the time and no access to the outdoors okay okay so I've cooked my way through America's test kitchen slow cooker cookbook which I get you is their answer to dump meals and certainly not all the dishes are winners but some dishes like shredded barbecue chicken that is literally chically slightly doctor uh uh but some dishes like a shredded barbecue chicken is literally chicken and slightly doctored with uh uh barbecue sauce talk about a dump meal uh but in other words like she's some a lot of them aren't winners they a lot of them she's saying I guess blow.
+
+[14:58] But
+
+[14:59] I kind of really want to send you guys a copy because she says something interesting uh uh the mailing address which we'll send Nastas you can send her the mailing address. Okay uh I'm sure uh Dave will do a look inside on Amazon.
+
+[15:21] I didn't get a chance this morning because as I said normally the time when I would be looking inside that for you to make comments Nastasi and I were talking to uh the factory in China uh anyway um I'm sure Dave will do a look inside but here's uh another important uh paragraph the first lesson was that most slow cooker recipes are mediocre at best because most of the time one cannot simply dump a bunch of ingredients into a slow cooker and walk away. True obviously that's why I was yelling at your sister about not browning the meat beforehand because that's garbage uh one needs to develop flavor using a host of mostly new and interesting techniques that are contained in the book so apparently America's test kitchen has a bunch of new techniques that allow you to just dump a bunch of crap into the slow cooker and uh get a good result um microw spares first and aromatics tomato paste, etc.
+
+[16:02] Uh par cooking hearty vegetables in a microwave blah blah uh so anyway so we'll take a look at it um and and uh you know and it says obviously soy sauce and tomato paste were secret weapons for building flavor as I yelled at your sister for the teri sauce. But we'll try it we'll try it uh so if you send us that uh Judy we'll take a look at it and see it right yeah I like a response.
+
+[16:16] And next week we will have uh Nastasia's sister the correspondent coming in with her dunk meal No, she's gonna call in again..
+
+[16:21] That's not meant, call in, calling with her dunk meal. And hopefully Nastasia you can warn her a little bit beforehand. I think she
+
+[16:29] uh like that I'm gonna have some violent reactions yes towards some of the stuff. I know last week we covered the uh Shai's question on uh Burmese tofu, right the chick polenta?
+
+[16:41] I don't thought we got to nothing.
+
+[16:44] I thought we covered it uh okay uh I wanted to call uh remember I wanted to call Francis Lamb but I couldn't get in touch with him, like two weeks. But we talked about it, right? I think that was when I was driving yeah you talked about it I talked about it. So anyway so if Shai, if I didn't to your question on the uh Burmese tofu, which is essentially not tofu it's essentially a chickpe polenta, right? And I again I've never tried it, but there's also Italian variants of chickpea uh polenta it's called Pinella uh I haven tried those eit eit, but uh I'm sure it works.
+
+[17:36] But it's definitely not a tofu style thing it's much more like a polenta but it sounds delicious I've never had it uh you also had a question on um using molds that I'm not sure to to make tofu ripen like cheese and uh usually the cheeses that are uh the molds that are used for uh fermented tofus aren's classic western cheese molds but they have run tests uh with like penicillum rogue for tea but they've uh bolstered the problem is is that a lot of those flavors um in cheeses are uh fat breakdown products uh so in general they have to dope the tofu with fats first and sometimes with they do with milk solids as well, which kind of defeats the purpose but they'll dope the tofu with fat such that um the molds can uh make similar uh fat uh oxid uh fat breakdown
+
+[18:07] Um, you know, lightaste style flavors that you would get from cheese but it has been tested I think in the 70s, though I don't know anyone that does uh commercial stuff Shirtleaf, uh in his uh and uh his his wife who I can never pronounce her name they have all the soy books and if you look online they have an exhaustive uh search of the literature bibliography on um cheese uh a tofu uh inoculated with different uh molds.
+
+[18:19] So I go check on that and and uh Shy if I didn't get to your actual question uh accurately just send back again. I know it's taken forever I feel bad about it.
+
+[18:32] I feel bad about it.
+
+[18:33] Right Nastasia? I mean we've had a bunch of weeks where we've had a bunch of crap going on here. Chris did I get to Chris' Gravlocks question? I don't think so.
+
+[18:40] Okay. Uh called in a long time ago I have made Gravlocks the cured uh Scandinavian salmon a few times before but have now been asked to make it for my sister's wedding which hope didn't already happen.
+
+[18:51] You know, otherwise we're host. Uh I'm concerned that I'm producing something that is safe to eat and would like to know about the principles which make it safe to eat.
+
+[18:59] The procedure for curing fish is to prepare a mixture of salt, sugar, black pepper and dill. Sources vary quite a bit in the ratio of these ingredients and also in the ratio of curing mixture to the mass of fish being cured.
+
+[19:10] Spread it over uh longitudinally sliced salmon fillets with the skin on place the two fillets together and wrap in cling film then cure in the fridge for about 48 hours uh flipping every now and again which by the way I emailed Nils and that's pretty much his recipe. I have Nils's recipe, Nils Norn uh uh here I'll I'll give it to you before I
+
+[19:29] Uh Nils uses 1.5 uh sugar to one salt uh if you use the kosher salt blend it until it's fine otherwise it doesn't melt properly uh nils mixes a salt and sugar mixture with chopped dill and black pepper even though white pepper is more traditional Nils hates white pepper because of the moldy taste hates hates hates it hates not a huge fan either you like white pepper because it's moldy tasting right and do you care about seeing black pepper on your product no to me it's a sign there's black pepper there I love black pepper I hate white pepper.
+
+[19:49] You know who loves white pepper?
+
+[19:56] Wiley Wiley Dufrain. Loves white pepper.. He's not a huge fan of black pepper. You know what I think he is? Wrong.. I think Trump would probably love white pepper. Whoa I'm gonna tell Wiley you said that you think Trump is a white pepper fan? That's not what I said he said I think he thinks what he said he thinks. See that's very Trumpy in yourself you don're like I'scribing to any opinion but I've heard some people say Trump likes white pepper. I get all my information from the internet. Yeah yeah. Wow.
+
+[20:36] Wow so you're s and I uh am I sensing some there's a there's a racial overtone to the pepper argument all of a sudden I hadn't even never even it never occurred to me although I guess it fits white being moldy uh anyway uh even though white pepper is more traditional I debone scale the skin and leave the uh leave it on as the skin and here's a key thing that Nils says as the skin is really good to sear after it's cured when you remove it before you slice it but it's cured he likes the the seared cured skin.
+
+[20:55] I rub the mixture and put the fleshes together don't
+
+[20:59] Weigh it down, just make sure to turn it after 24 hours or less if it is a smaller salmon. So anyway so that's Nils's direct from Nils' uh mind. And Nils' Gravlocks pretty damn good. I mean if I had to say, give me some Swedish crap I would go to Nils and say, Nils, can you cook me some Swedish crap? Wouldn't you do that, Nastasi? Mm-hmm.
+
+[21:17] I haven's seen Nils in a while hopefully I'll see them soon.
+
+[21:20] Um okay. Uh I also understand that there might be some risk of contracting parasites that you hate what's the worst word for parasite in your mind, Anastasia?
+
+[21:30] I mean you don't mind the word parasite you just hate all the things associated worm, spore.
+
+[21:37] Like what else, anything cystsysts.
+
+[21:41] Uh parasites, which can be mitigated by using fish that have been frozen to below a certain temperature for an extended period of time. Probably not attainable in a home freezer. Actually it is.
+
+[21:53] The issue with a home freezer is that you just need to freeze it for an extended period of time. So like if you your home freezer and you can measure it with a thermometer but your home freezer probably easily gets down to about minus 20 which is minus four Fahrenheit and that's fine but you have to leave the free uh fish in that uh for a long time the problem with that also is that probably your fish has already been frozen and multiple free thaw cycles really kind of beats up the texture of the flesh um I think your best bet is to uh get stuff that you can guarantee is uh previously frozen
+
+[22:21] I mean the the issues um there are definitely parasite issues uh in salmon and those parasites are not necessarily killed by the salting or by the refriation. Uh they will be uh killed by freezing.
+
+[22:49] Uh you know the the thing is is that a lot of times if you talk to people in the store they're like what do you mean it's definitely been frozen it's fresh and like they don't realize that you're like come on will you please just tell me this sucker's been frozen because then I don't worry about it people still in their minds they think that the never frozen is like a positive thing for fish.
+
+[23:08] Whereas a lot of fish especially farmed which is a lot of what your salmon's gonna get unless you're getting the wild caught uh it's much better for them to freeze it properly at the source and ship it than to go through the the whole uh cold chain uh unfrozen you know what I mean like a lot of all your sushi that you eat uh supposedly has been frozen to kill parasites and so freezing is not what it once was like very high quality frozen fish is kind of the best that you can get for some of these bigger things unless you're catching it um you know right away unless it's off of a day boat or something like that. But you're not you're not get unless you live in Alaska or in uh Washington, you're not getting salmon anywhere close to its source, you know what I'm saying so anyway so I would just buy stuff that's frozen ahead of time uh so that you don't have to uh worry about it.
+
+[23:54] I would like to prepare and slice this in advance how far in advance can I prepare it and well slicing
+
+[24:11] In advance increase the re risk that somebody might get sick from the fish yeah of course anytime that you're taking something that's a whole muscle and cutting it you are introducing the possibility of uh adding bacteria so if you get like can any kind of contamination on it uh listeria or whatever you're increasing the surface area on on which it can grow and you know the the knife if it's not fully sanitized I mean, are you gonna get someone sick? Like maybe not, but you know, um yeah you definitely increase the increase the risk.
+
+[25:06] Now if you I don't know if if you want to if cheat it and you can add something that will kill bacteria like uh nitrites or something like this but I don't I don't know a lot about um cured uh fish safety but definitely you're increasing the risk it's still a small risk right anyway uh also do you have any values for the ratio of curing mixture to fish and the composition of the mixture anyway I gave you Nils and stuff on that but uh not sure how to answer on the safety uh look I would slice it I would slice it um pretty soon thereafter and keep it really cold you know keep everything really cold like you know sanitize your knife it's probably not going to be a problem but yeah anytime you're doing something like that you're increasing risks and maybe someone in the chat room has something to say on that um okay uh should we take a you want to take a break?
+
+[25:18] Come back with more cooking is oh let's take a break and come back with some more cooking issues
+
+[25:37] Hi, this is Peter Kim, the executive director of Mofad, the Museum of Food and Drink. We're a nonprofit founded by Dave Arnold, the host of Cooking issues here on the Heritage Radio Network and we want to take people on a learning adventure through the world of food. We just opened Mofad Lab, our gallery space at 62 Bayard Street in Williamsburg, Brooklyn, where we are currently showing Flavor, making it and faking it. Flavor features some very cool sensory interaction flavor tablets deliver tastings of vanilla and umami and the Willy wonka inspired smell synth lets you compose over half a million different flavors. So come on by and visit Mofad Lab. We'open five days a week and tickets are five dollars for kids and ten dollars for adults learn more about the Museum of food and Drink at Mofad.org.
+
+[26:26] Peter Kim huh Peter Kim Peter Kim you know that the entire time he was talking about uh talking about us on cooking issues that he was uh like making snide faces he was just like you know what I mean I can see his face I could see his face of disgust as he mentioned cooking issues I could feel it's Peter.
+
+[26:38] Yeah I know so Peter. We gotta get his butt back in here so we can I asked it was too busy me me me me working on the uh on the next exhibition that we're gonna do which they're gonna do a Kickstarter later on uh to
+
+[26:56] Make money for the next exhibition. Don't worry. Nastasia made her kickstarter face, you're not involved. Sorry.
+
+[27:05] Nastasia hates Kickstarters, which we can get it if anyone ever wants Nastasia to if you want Nastasia to rant like get her started on running.
+
+[27:49] Unless I hate you then I'll tell you're a good idea which I did once someone asks you should you do one you're like yeah yeah so fun sometimes look sometimes it's necessary and first of all there are some people who enjoy interacting with people for them maybe it'll be good for you're living nightmare some people may be okay yeah you know what I mean yeah also if you were gonna do a Kickstarter and you didn'd actually have a product you needed to deliver if it was not actually a product yeah if it's a non profit you know I think it's better yeah you know what I mean it's like whatever anyway Rachel from Hong Kong wrote in hey uh Dave Nastasia and David in the booth and any other special guests no no other no special guest today because Peter apparently doesn't think that we're we're worthy we're worthy not even uh not even the chance to talk about MoFad and a free lunch is enough to entice entice him in uh a little bit late to the game and only found out about your podcast this January.
+
+[28:01] Spent the last six months powering through the entire backlog yes I'm one of those nut jobs wow you know I feel for anyone that you're friends with you know what I mean that's like a lot of screaming and ranting to read your way through yeah uh bit gutted that I didn't quite make it uh to wish Jackie Molecules van voyage but I'm taking comfort that we still get to hear him on the Heritage Radio outro for now. We gotta get Jack to record some more outros someone just beat down the back wall you hear that somebody beat almost punched through like Kool A style did you call out for Kool-Aid?
+
+[28:41] Oh yeah remember that whoa man David you are quick on the button today. That is some strong Kool-Aid oh yeah noise I have my coffee yeah sweet uh what kind of coffee do you like?
+
+[28:54] Black. But like like do you are you espresso man or an American cup of coffee man?
+
+[28:59] Um well in the summertime I do cold brew.
+
+[29:04] Um I like Americanos I don't I don't I don't like milk really. Yeah, uh I like milk but not in my coffee.
+
+[29:10] Yeah agreed... I like milk formed into cheese. Oh, which I was supposed to talk about later.
+
+[29:15] Oh, nice segue. Yeah, but I gotta finish, gotta finish Rachel.
+
+[29:18] So I know how you feel about vacu sealing chicken uh for low cooks, but texture aside, because my theory is that especially the higher the vacuum, if it's cooked in a vacuum bag, it affects the texture of the chicken makes it spongy and and gives it that uh you're more apt to have that feeling I'll describe it this way that when you bite into it it's excessively juicy at the beginning but then turns to fibrous pulp as you chew you know what I'm talking about in Stasia? You felt it yeah that's my feeling.
+
+[29:46] Uh but texture aside, assuming I've pulled a hard vacu on a bag of chicken breasts and cooked it through to pasteurization time and temp how long uh will the cooked chicken uh then keep in sealed bags refrigerated before spoilage occ
+
+[30:14] I tend to batch cook and I've had bags keep uh almost two weeks uh smelling and tasting okay uh so far but recently I had a batch smell off after six days I reckon it's an anomaly uh might have effed up the seal on that batch well the question is if you effed up the seal on that batch the one that smelled off like did you get uh did the bags blow in other words did they inflate so a lot of times uh if something's gone wrong there's two things that can happen you can just see that you have a loss of seal uh this is especially I forget to say did you bone them?
+
+[31:11] Did you bone them I can't I can't see if if you if you don't let's say you let's say you have chic breasts now this is before I get to your safety question let's chicken breasts and the bone there's still a bone attached to them now if you suck a very very hard vacuum like a like v like like wait till the machine gets down to its full vacuum and then allow it to suck for an additional 30 to forty seconds right you'll evacuate most of the air most of the air out of the bones uh and then you'll you know you'll be able to get a good seal and you'll be able to uh have the bag stay tight however if let's say that chicken was a little bit warmer than the rest of the chicken then it's never gonna get down to the super low vacuum you might not pull all the air out of the bones in that case when you cook air will seep out of the bones because bird bones are hollow and you'll get a puffed bag right so that's one way you can get a puff bag on a chicken uh but let's assume that didn't happen right you can sometimes you can get a pinh
+
+[31:29] leak, right? And usually if you look at it really closely you'll see there's a little fold in the bag seal where it didn't seal right, or the edge of the bag got too close to the edge of the bar and sometimes you can get a little pinch or a crimp mark in the in where the sealer is towards the edge of the bags and you'll notice you don't have a good seal or there'll be like a little piece of herb or something that cut across one of the bag ceiling points and you can see and there you'll see you'll get some leakage in and what you'll have is a not tight bag that usually won's give you a blown bag a blown bag happens when there's bacterial growth in the bag and it literally inflates from uh gas that's being produced and if you get a blown bag on anything that you weren's specifically trying to get a blown bag on so for instance like if you're making sauerkraut you're trying to grow lactic acid bacteria in anaerobic environ in that case if the bag doesn't blow it's not working properly, right?
+
+[32:03] So uh anytime you get a blown bag something terribly um wrong uh has happened anyway uh I reckon it's an anomaly I might have messed up the seal on that batch but I'm also curious as to what makes stuff go bad in the absence of air and any pathogens since it's been pasteurized for reference I tend to cook my chicken breasts in flattish 200 gram uh bags I guess portion of 200 grams at six2 degre Celsius for about two to three hours uh thanks in advance and for all your uh time doing the show every week it's been an awesome source of information.
+
+[32:45] I'm not entirely sure what I'm going to listen to now that I've wiped out the backlog. Cheers Rachel from Hong Kong. All right
+
+[33:00] So there's there's a lot of stuff uh uh going on here.
+
+[33:22] First of all as regards the shelf life this is from the the um the Minnesota this is Minnesota's food code I don't know why Minnesota that's the first people that came online when I when I popped it up right so it's the Minnesota food code requires the shelf life under refrigeration of products that are vacuum packaged in a retail store right so that would be like what you so like be limited to 14 days however fooding uh places that are inspected by USDA or state get 30 days or longer and the reason is is because they don't retail operations to have the levels of safety and quality on the products as they go as they go into the bag and they don't the uh pasteurization procedures and the cold chain holding ability of a retail outlet to guarantee safety for 30 days or longer but if everything is done right then they's like oh yeah 30 days no problem so you can keep stu that long as long as you're cooking stuff properly and maintaining it now as for bags that appear to have been pasteurized and still uh still blow off and go bad now you're quite right most spoilage bacteria especially things that stink and smell bad do not grow in uh anaerobic environments ie they will not grow in a vacu.
+
+[34:15] And in fact that is why uh people are worried about the safety of vacuok products because typically uh when things spoil
+
+[34:21] Uh in an aerobic environ, i.e with oxygen, when they spoil in an aerobic environment, they smell terrible. And so you can use sliminess, like it grows slime, you can take smell, and all these things indicate that bacteria have been growing on it and that it's no longer good nor safe to eat.
+
+[34:50] The problem is is that in a vacuum that's not the case so in a vacuum you can get pathogens that grow uh they're particularly worried about things like botulism, listeria, uh porfringens, these sorts of things, that can grow in the absence of producing a smell or sliminess and sometimes in the absence of producing a gas that would indicate that there has been growth at all.
+
+[35:19] And that's why people are worried about the safety of vacuum-packed foods in general now when things go wrong in a bag usually it's due to improper pasteurization and so uh that can happen and then you can get the growth if you don't kill all the vegetative cells typically in a pasteurizing procedure in 62 degrees Celsius for two to three hours and something that is fairly flat is more than enough to properly pasteurize a chicken breast.
+
+[35:44] More than enough um typically right if you get blow off in the bag you're you'reobic that's not spore forming so we're talking about uh lactic acid bacteria.
+
+[35:54] Most of the time you're going to kill lactic acid bacter
+
+[35:56] 1000 of the time if you pasteurize it you're uh the lactic acid bacteria and they're not forming spores so you shouldn't have that kind of a problem typically when you do have that kind of a problem I ascribe it usually either as you say to a leak where bacteria can get in or to a situation where you have like two or three bags touching each other and in fact the temperature on the inside of that bag didn's up to where you think it should have fast enough so sometimes that can incubate bacteria in the bag in which case it probably tasted bad right when you took it out of the bath or um it it hasn't killed everything and it can grow later or you have like a knife jab and some bacteria have survived on the inside of the meat that somehow got there it didn't pasteurize all the way through because you had layer on layer on layer and then uh it grew over time.
+
+[36:30] The other thing is that I I have this uh sneaking suspicion that in certain cases of this there are other things going on.
+
+[36:52] And so if you go to this book called Principles of modified Atmosphere and SUBI product packaging edited by Jeffrey Farber and Karen Dods if the pH inside of the bag and so this has happen that it warrants some um some thinking at a pH greater than about five point eight right there are things that are like thermophilic and mesophilic that might be able to survive and can grow in uh anaerobic things.
+
+[37:08] For instance uh and this is just you know, off the top of uh Wikipedia and this book's head I haven't researched
+
+[37:29] Uh, Enterobacteria uh uh broccolix and shellinella putrefactions which is also known as alteromonas putrefactions and they can cause stink and grow in an anaerobic environ and may not be killed unless you really make sure it's pasteurized right but I have a sense that that's kind of what's what's happening um obviously if it smells bad don't don't eat it right any damn sense anyway Gus wrote in uh hey my name is Gus.
+
+[38:09] I'm a college student in Kentucky majoring in biology and chemistry uh absolutely love how scientific and detailed you guys get on the show uh without my two years of biology and chemistry classes I'm not sure I'll be able to understand half of what you guys are talking about but that's what I love in my spare time I love to make uh bean to bar chocolate Nastasia hated making bean to bar chocolate do we make that uh all the time remember we didn't just make the ketchup thing we made a couple of batches first of regular bean chocolate remember grinding all of the cacao nibs in cacao in the uh champions and then all of that cocoa liquor mess everywhere?
+
+[38:22] I remember that no it was drowned out by the other nonsense we had to do.
+
+[38:32] Yeah you didn'd hate that as much as you hated like all of the nutters in in the sandwork.....
+
+[38:36] clarifying grapefruit juice by hand.
+
+[38:41] Yeah.
+
+[38:48] Well you said you're never gonna do that again in my spare time I love to make bean to bar chocolate I order the raw beans and then ferment roast, winnow, grind, and finally conch them. I ground them by hand for a while in a mocha jete before recently upgrading to a countertop mel
+
+[38:59] uh I usually end up with some pretty delicious results and I enjoy the process however I'm pretty blind as far as the science uh behind it all like sugar and fat structure tempering blooming etc and would love to learn more do you know of any books or other literature that really dive deep into this the nerdier the better I haven't finding anything so any info would be greatly appreciated thanks so much uh keep up the great work Gus. Okay.
+
+[39:23] So back in the day when I used to order when I used to Xerox all of the technical books out of the uh science and business Industry library in uh here in New York City the classic chocolate work was by uh a fellow named Minifee and it was just known as Minifee chocolate.
+
+[39:39] It's very industrially oriented and it's also it's been updated a couple of times and it is I think still one of the industry standards but it's a extremely expensive like $1502000 and B, is I think a little bit out of date.
+
+[40:00] However I'm sure they have it in the li in your library at school for you to go look at um it's not what I what I recommend. Um the the kind of book that came out uh I don't was 10 15 years ago that everyone started um buying that it's it's it's blessly short you can do an Amazon look inside of and it's only 30 is uh The Science of Chocolate by uh Steven uh Beckett. Uh there's a paperback there's a hardcover and uh one of them I forget is on on Amazon Prime for like 30 bu
+
+[40:29] And it's decent. It's short and it's to the point. It gives you the science.
+
+[40:42] It's still focused on um on bigger operations not necessarily on on kind of what you're doing but I would get that and then in terms of the actual and that'll give you some of the science, but in terms of the actual like putting your hands to recipes I would go on any of the websites out there where people are doing their own kind of bean to bar stuff like uh chocolate alchemy and stuff which is who we use when we were originally getting the Santa there's a lot of differentures out there I would say uh in addition to the Melanger you'd be uh you'd be good if you went and got yourself a champ juicer.
+
+[41:09] That's still what I would use for the initial grind out of the um of the uh the you know the cook uh cacao uh beans or nibs or whatever you're using to do it but yeah so I would get a hold of champion but yeah get the science of chocolate second edition um and let me know what you think I think it's pretty good I don't think there's anything better at that price point that's for sure.
+
+[41:25] I'm assuming that you don't have infinite money to spend since you're a college student majoring in biology am I right so as I'm assuming all right uh Barry wrote in this is kind of a hard question.
+
+[41:32] I don't know what to answer.
+
+[41:42] Maybe like take I wanted McGee on this but you know he's been in Spain so I don't know Barry writes in rather than wait to see uh if there is a show uh here's my question for the next show how uh I guess it was a show a week where we didn't necessarily gonna have a show I don't know how does a chef create the taste sensation of individual flavors that meld into one for example if I make shrimp etufe it tastes like
+
+[41:59] Shrimp etuffe. But when um when a chef does it uh on the initial bite, uh which when a chef does it, on the initial bite one tastes the red pepper, then the celery then the onion followed by the tomato. As one chews each uh one of the clear individual flavors melds together uh to taste like a shrimp etuffe, uh how does this how does this work? And secondly, how does a chef create an initial spicy flavor that passes and it's followed by a different lingering spicy flavor later?
+
+[42:29] Well, huh..
+
+[42:31] How you create things that meld?
+
+[42:34] It's a complicated that's a really complicated question. I don't really it's in the it' kind of hard.
+
+[43:06] I've never really you just kind of do those kinds of things um you know kind of naturally one thing you can do uh Barry is um you include things that that bridge so for instance like if you need something to linger and you're gonna add some acidity you want and you need to draw for instance the front of the palate towards the back of the palate and you know something's missing you can add an acid like something like lime that's gonna pull and so like a lot of spicier cuisine you see and I think it's not just because that's where it grows, you'll see lime in it instead of lemon and the reason is is that lime's going to integrate acros the flavate longer than um lemon will because the malic acid has a longer trail out. So like when you're tasting something a lot of times when things integrate it's either because you've put something in with too high of a uh of a high note, like a particular spice that just hits one note too hard, and you need to bring the rest of this stuff up to kind of beat that note down.
+
+[43:35] Or a lot of times what happens is you'll have um a a drop down somewhere in the mid palate of you eating.
+
+[43:49] I when I think about flavors I tend to think about uh the time progression of what goes on in in in something and then try to figure out kind of where things um drop out and usually that's where you'll notice things don't meld well like a lot of times in the in the middle of a palette and that's where you know that's why we tend to add a bunch of salt which rounds out all the flavor. That's why we tend to hit everything with acid at the end because it doesn't just brighten but it rounds everything out.
+
+[44:14] But I don't really know how to answer your your question other words I guess and I need more thought on it. Need more thought about how to how to round it out.
+
+[44:22] What do you think Nastasia? Do you know what eggs at duvet is eggs in like in a duvet cover? It's when you fart under the comforter.
+
+[44:32] What does that have to do with this you just think about it's what's it welcome to my life people welcome to my life. Trying talk about how to make flavors meld together she's like you don't melds together farting under a comforter etufe I know it's going in New Orleans by the way for Tales of the cocktail speaking of uh etufe. Harassum down there everybody I'll be there a blessedly short period of I'm going there from I'll be there a Thursday night and Friday night. I know your cell phone number circulate somewhere online. Please please I'm bringing the centrifuge with me by the way so for those of you the tales of the cocktail I'm gonna do a demo of it for the uh cat programs get some feedback for some uh some bartenders evil you're just the evil person you know what I'm saying you just like you know have to be mean to me for no no reason.. Well one time I put my away message when I went on vacation and said if you want to contact Dave it was for the people that we work with that the radio show people email me.
+
+[45:34] Yeah and then your number was there. Nastasia also put the like swipe credit card for the original Sears all over number I don't know how that happened and people are calling me they're like who are you why did you charge my credit card I'm like what are you talking about I'm like what are you talking about like you're a thief and a lot I'm like what are you talking about?
+
+[46:10] And then remember like people be like they people would order a Sears all on uh Kickstarter right or Shopstarter And then they would forget and they didn't know what Booker and Dax was you know what I mean it's usually like the wives of the men who bought why is it men why you going sexist on this? No because it was usually women that were like what is this charge on my billy, like, did you check with your husband. I checked I said did you buy a gift for anyone right and she's like no and because I remember that one specifically in that change
+
+[47:13] I was like oh man I was like Nastia, how the hell did they get my personal number to call about credit card stuff so weird yeah they matched I don't know yeah and so you know to get back at Nastasia like the time she sent me on Spirit Airlines next to uh you know next to well a uh a woman and her fake uh service dog, you know what I mean the uh I gave them her number I was like you need to call Nastasia um okay Mark calls in this is a burning man question I'm not gonna be able to answer this question right now I gotta think on it okay so go to Montserella no I'm gonna do it I'm gonna talk about it and then someone else I have suggestion I hope one big question sering question this part of the joke here uh I'd like to serve a thousand creme brulees at this year's Burning man festival in the Nevada Desert but what to serve these in first of all we gotta ask Jordana Jordan she's gonna come on the show in three weeks I think won't Burning man that'll be before Burning man because she's going to yeah because she served some sort of cocktail at the Burning man last year.
+
+[47:25] And she didn's limes I don't want to get into it.
+
+[47:34] I don't get into it.
+
+[47:39] She came we talked about how to do what we wanted to do you insulted her and then she and then she did something else entirely which is fine just don't ask you know what I mean but anyway but that's not my point. My point is is that is that uh Mark, let me ask you this is the Burning man crowd the creme brule
+
+[47:58] Kind of crowd that's the question?
+
+[48:09] What do you think I think no, but I don't know are you gonna be able to chill these creme brulee anyway whatever uh the creme brulee is sorted some investigations led me to this product Dr. Otker or Oetker Creme.
+
+[48:24] It's that German brand they make the vanilla tzucr as well you know I's right you see it yeah uh creme brulee mix it's prefab just need milk and cream uh foolproof and tastes okay and it's which will come in handy since we're gonna prepare this in an RV with a very limited kitchen uh we also get to insult the French uh kitchen at large. Now by the way I looked at the ingredient list for that sucker and it's uh starch and carrageenin and milk powder so it should stay in the heat because the carragean should keep it set no matter what it's not uh gelatin based so or anything like that so the carrageenin um should work um okay I can't work out how to make the ramekins however they must be edible since there's no waste at burning man and we definitely don'ting pottery ramekins although how burning man would that be to like literally like slipcast a thousand things eat the creme brulee and just shatter it into the freaking desert and it becomes part of the earth part of the earth seems like it's very burning man right you know what I mean like those little like freaking like did you ever do burning man oh no what if you had no family would you ever do burning man don't but don't people have to get naked I don't belie in naked no no I don't
+
+[49:47] Except on your funeral that's you want to being I don't like heat recorded I don't like heat I like it gets cold at night like super cold I like that I like cold at night I like the desert well you yeah I don't really like collaboration you get to choose who you want to be with I like to kind of like be left alone you can do that too then why go to Burning Man can't be left can't I just go camp there by myself not in Burning Man?
+
+[49:55] But you really want to be all alone in the desert?
+
+[50:22] Not yeah so you can like choose who to speak to isn't like large petroleum fires I don't I don't I've never been look I look I I've had plenty of friends who have gone and said it's life changing although I'm not sure their life afterwards was better than their life beforehand you know what I'm say I've I've known people who like it was life changing in the sense that like they ended up breaking off their engagement and then like going to a downward spiral for five years you know what I'm saying I think it's different for everybody kind of like LSD different for everybody?
+
+[50:36] Like some people they spiral off and some people it like you know leads to enlightenment it can go either way what did Jordana say she loved it obvious she's gonna go again is her uh boyfriend Daniel going?
+
+[50:48] No did he go to the first without crying like Wow Nastasia insulting our friend
+
+[50:54] on air.
+
+[51:01] Alright I can't work out how to make the ramekins they must be edible since there's no waste of burning man and we don't bring pottery rammekins I'm'sing of a caramel or cornetto slash cookie ramekin uh alternative but making these will be very labor intensive and also they're gonna get soggy right they're goggy ramekins a cookie ramekin first of all, think of all those freaking cookies.
+
+[51:43] I think a super baller move would be to slip cast a whole crap ton of these things like that heavy though where's it coming from no do it in Nevada didn'd you have to bring uh the the plaster mold yeah I guess it would take a million years and you wouldn'd be able to fire them so you'd get clay in your creme du lay, right although wouldn't it be hot enough to fire them? No, no, no, no, no, no, no.. by the way, P. S. Although you could build a giant fire outside your RV and be firing the clay ramekins that is super baller. That is what you are supposed to be there for that is so super ballers.
+
+[52:14] Like slip casting in the desert is super easy here's why right you get you got your you got your slip mix right which is like a liquid and then it's just these plaster these two plaster um uh things so you pour it in to the to the ramekin so you let's say you have this big piece of plaster that has the cup mold shaped in it you ever done slip casting sauce no so what you do is you you pour it in you fill up the entire cup mixture right And you let it sit depends on how thick you want it, but like the like the ones I used to do, you only had them let it let you use the earth as the I don't depends if they have clay there but you let it sit the slip mix you let it sit for like you know however long, like 30 minutes. The plaster absorbs the moisture from uh the slip mixture and forms a leathery um layer right next to the plaster you then dump the rest of the slip out and you have this thin perfectly hollow I used to make uh vases this way for art for an art sculpture I was doing the uses.
+
+[53:00] And uh and then you have this thing that you can then go fire and then you do it again. You could do it again and again and again and again and again and again and again and again you could keeping them and I made big like like two and a half feet tall vases and in the course of a couple of days I made like 40 or 50 of them. So if you're making little rammickins in like in a like a master mold thing you could make a crap ton of them it just seem super baller to like make a kiln out in the desert whatever you're not gonna do it will maybe it will that just seems like super baller thing to do or maybe get someone else to do that. Or have your camp do it all right going back tookie I think cookie's a pain in the butt and also in order for a cookie to work it's gonna have to be so thick that you're gonna be hauling eight tons of cookie out there.
+
+[53:44] You know what I'm saying they're gonna break. What do you think about I mean you could do like a like a creme brulee tostada shell. No.
+
+[53:51] That would hold anyway.
+
+[53:53] You hate that idea?
+
+[53:55] Also the problem is is that how you get the creme brulee wants to be cold
+
+[54:00] Are you gonna chill it but if you chill it in the ramekin that's edible the ramekin that's edible is gonna get all nasty, right? It's gonna get all floppy and nasty because there's gonna be a liquid contact you get me? Mm- see the problem why does he wanna do creme.
+
+[54:16] Whatever anyway, that's not the point but the point is the carrageenin like the ultimate would be if you could do if you could if you could set the the creme brulee in a tube. A tube!
+
+[54:24] Who is that uh Alaska Senator. It's a series of tubes remember that that's how you describe the internet uh and uh set it in a tube and then slice it into discs and let them thaw in your ramekin then you could use almost anything because it wouldn'd need to be around that long before you served it it wouldn't get soggy right but the issue is is that I don't know if the carragean they're using, I didn't up is going to be freeze thaw stable but you gotta um anyway oh yeah maybe unless we freeze the creme brule in blocks cut them up uh in portions and coat them yeah but lots of work.
+
+[55:12] By the way I'll think on a little more uh they said best I can find were prefrabbed waffle bowls not quite it but we'll do that's kind of expensive I'll think on some more maybe someone in the uh in the cooking Issues land has uh some theories one thing I'll say remember creme brulee is one of the few things I recommend using a naked torch on instead for Burning man naked torch and not a Searsol because it just is it's one of those things but I'll think on that I'll think on it some more I thought you didn's in naked uh I only if only for creme brulee do I believe in nak naked.
+
+[55:30] Alright. So, uh, quick one. Daniel Wright saying, question about pressure cookers. Uh I'm not even gonna get a talk I made mozzarella uh this week and by the way it's one of the do you ever have anything in your life Nastasia that like you've had such a traumatic experience that you won'll do it again uh again I like ravioling me yeah so like twenty-three or twenty four years ago right?
+
+[55:46] Twenty three years ago.
+
+[56:07] I was like 2 and I was uh at my wife's apartment I was still in college or just gotten out of college she was in she was uh you know had her first job there was no internet and I wanted to make mozzarella and I'll just say that it was a freaking catastrophe like a freaking catastrophe. There was no place to look it up I was just what I could gather from books on how it was done I didn't know how to make curds I was not a professional and my wife for the past 23 years has made fun of my mozzarella attempt 23 years ago so much that I have never tried it again ever until last night.
+
+[56:36] And I have to say success but we'll talk more about it later but yeah she like she was like she was like you should leave that kind of stuff to the professionals this was you know obviously I wasn't a food professional at the time uh but you know what like this weekend I was like I'm tomatoes are gonna grow.
+
+[56:45] Where my tomatoes are growing there's no good mozzarella I need to learn how to make mozzarella again and plus you know what damn it, I am a professional now. You have that cheese shop
+
+[56:59] In New York? No. In Connecate.
+
+[57:02] Cheese Shop. Do they make Mozzarella? Yeah. Is it good? Yeah, we yeah. The mozzarella's good? ' That' a cheese shop. Yeah.. Got. I'll.. Okay. A minute. Daniel, I'm gonna get your question in a minute. Question about pressure cookers. A good hundred episodes ago, a caller asked about what pressure cookers you would recommend uh he buy and and why I'm having a hell of a time finding the episode thought you might answer it again what stovetop pressure cooker would you recommend ignoring price?
+
+[57:51] I think you've the Coon Recon model in the past that's the only one I like that I've used uh myself personally how does that model compare to the Fissler Vitaqui I hate the word Vitaqui because it implies that you're keeping vitamins inside in a pressure cooker which is ho ho hocum but uh it looks like a really good unit the fissler vitaqui uh looks like the Coon Recon in that it has a pressure uh gauge that goes up and down and so allows you to um gauge the pressure without it venting and as you might know in my tests I've noticed that venting pressure cookers uh tend to make stocks that don't uh taste as good that's been backed up by many many trials uh so anyway so the Fissler Vitaquick looks good I don't have any personal experience with it uh America's Test question rates the Fissler quite a bit higher than the Coon Recon model again I don't know I've never used uh the fissler uh are their assessments valid in your opinion I also can't get a hold of their someone can send me their stuff I don't have their password to their website they claim the Coon Recon model had the most evaporative loss out of all the models they've tested if that's the case and are not testing the Kun Recon right. The Coon Recon, if you overshoot the pressure uh gauge you'll get evaporative loss because it's telling you to turn down. But my Coon Recon, when it's operating properly is dead silent and there's no uh there's no venting out of it. Uh so you say, have you found this to be true? No. I also I looked up their thing, uh I uh I looked up their uh test they recommend the phagor and I hate I don't not hate. I didn't like that the phagor and they made a classic error. I'm gonna leave you with this and we can talk more about it next time if you want more questions they made a classic error that people with the Phagor pressure cooker make. The Fagor pressure cooker when you close the the lid and you turn on the heat and it starts building pressure a little button goes poop and indicates that there is pressure in the unit it does not indicate that you have reached your operating pressure. So if you use the Fagor model and think that that little yellow dot is an indication that you have reached 15 psi on the inside of your pressure cooker you are mistaken the only way you can figure out whether you've actually reached that pressure is whether steam through the pressure regulator that's set to that pressure right because the button doesn't know whether you're at five psi or 15 psi or what it just knows that it's sealed and that you started building pressure classic mistake anyway we can talk more about it next time on cooking issues.
+
+[1:00:39] Thanks for listening to this program on HeritageRadio network dot org you can find all of our archived programs on our website or as podcasts in the iTunes store by searching Heritage Radio Network you can like us on Facebook and follow at heritage underscore radio you can email at any time at info at heritage radio network.org heritage Radio Network is a nonprofit organization to donate and become visit our website today thanks for listening

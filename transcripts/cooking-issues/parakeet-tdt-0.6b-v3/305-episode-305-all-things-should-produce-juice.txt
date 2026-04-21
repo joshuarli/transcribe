@@ -1,0 +1,297 @@
+[0:00] Hi, I'm Josh Spiegel, host of the podcast Lunatic in the newsroom. It's news like you've never heard before. We'll talk about things like a possible ban on recreational pot, Americans giving up on dressing like civilized human beings and a call for fraternities to be outlawed.
+
+[1:05] If you enjoy wild overthinking Lunatic in the newsroom is for you it's funny informative and emotionally unstable lunatic in the newsroom listen today today's show is brought to you by Bob's Redmill sharing nothing but the best in whole grain nutrition and committed to their mission of good food for all learn more at Bob's redmill.com slash podcast you're listening to Heritage radio network where a member supported food radio network broadcasting over 35 weekly shows live from Bushwick Brooklyn join our hosts as I lead you through of craft brewing behind the scenes of the restaurant industry inside the battle food and beyond find us at heritage radio network dot org hello and welcome to cooking this is Dave Arnold your host of cooking issues coming to you live on the Heritage radio network roughly from roughly 12 to roughly like 125 every Tues from Robert's pizeria in Bushwick Brookly joined as usual with Nastasia the hammer Lopez how are you doing Stas? Go
+
+[1:29] We got Dave in the booth. Good and good I like that like don't even ask. Just follow and suit it's just good it's good you do anything interesting uh Dave?
+
+[1:38] In what, in life? In well in this food not food related, some sort of issue that you had over the past week? Um, let me get back to you. All right.
+
+[1:55] And uh we have with us today for the first time ever, the entire Booker and Dax current Booker and DAX team in the studio with us we have, yeah we have Matthew whose last name I'm gonna withhold because he's the cust represent and I don't want you to be able tox him and find him in the real life.
+
+[2:25] You know what I mean unless he so chooses to out himself Booker and docs oh booker and doxing what's up uh Matthe how you doing how's it going how the how's that uh spins all customer service treating you roughly looking answer for him how's how's it going over there rough I see it yeah yeah but are you seeing the life melt out of him yeah nice so uh how did you come to Booker and Dax what were you doing before what was I doing before I was working in data science data science wow what's that French for like uh what can what is they like just explain to people what data sci because to me data science can eit like what I used to do which is uh design databases for lawyers or it could be I'm gonna troll data to try to make up some new uh uh epidemic that doesn't really exist.
+
+[2:49] It could be either of those things or it could be a good use of data science uh it wasn's use it was credit cards.
+
+[3:40] Oh credit cards were you mining it so that you could get more money out of the people or so that you could find people who weren't paying so you could get them to spend more money all those and fraud fraud fraud that was the only one that felt redeeming to do yeah yeah yeah yeah well so uh what do you do you have a word for people who believe that credit card fraud is a victimless crime probably right wow you used to work in that business and you don't have like a good like so that the businesses I used to work in I can still instantly spit out like all of the all of the rhetoric you can't there was no fun lingo no they didn't instill in you a hatred of credit card fraud just working on it yeah yeah I mean for my years of working with uh for my years of working with lawyers I can tell you I still hate asbestos companies to this day I still hate them.
+
+[3:53] More than you hate asbestos is just a rock, my brotis just you know it's oh we're getting philically asbestos you know what asbestis used to be called don't you Dave? I don't..
+
+[4:02] It was called the magic mineral you know why it was called the magic mineral? Give you wings?
+
+[4:07] Ooh. No, but uh who knows maybe uh Red Bull will also turn out to be as horrible as asbestos no it uh I think it it doesn't expand it doesn't contract, it lasts virtually forever, it's fairly cheap. It can be molded into, you know almost any variety. It's it's a mineral that comes in fiber form already it's as though God made fabric out of rocks you know and it's heat proof. It's amazing stuff, except It kills you uh which is the problem okay now we also have the reason why any of you have a spinzall at all we have direct from Hong Kong and Shen we have Chris Witters who is the Booker and Dax representative in China and in Hong Kong how you doing Chris?
+
+[4:46] Fantastic. Yeah and so Chris I'll let him tell a little bit of his story but Chris uh you know is now like uh I don't know what you would describe what you do you beat people's heads together until they do what they need to do is kind of what you do?
+
+[5:28] Well except you don't you only need to pay back that guy because he's going to break your knees otherwise I mean like it's Chris more like takes people who should be doing their job and aren't and then just sits there and like harangues them until they do it was that I mean like what do you what is that even called what's that job title like how would someone find someone like you if they needed to find you look up in a directory for an asshole family show Chris Family show A-hole and uh but before that uh Chris was a chef uh in like in New York at Walt Disney World what'd you do at Walt Disney World uh regional chef yeah nice all right so how do you get from chef into product was most of your product design on the kitchen side or or or not product design but product sheping whate this job that you do mainly
+
+[5:47] Kitchen?
+
+[5:59] Mainly kitchen.
+
+[6:01] Massaging.
+
+[6:03] Like ms like literally massage parts.
+
+[6:07] Sometimes it seems like It's like uh you know that where we're gonna open the new bar is all massage parlors but it's it's it's uh foot massage parlors and so like you're actually like Matthew, you would be sitting next to Nastia like like in close proximity both of you getting your feet massaged and for me that's unpleasant.
+
+[6:22] I would not want to do that.
+
+[6:30] Doesn't sound great would you want to do that would you want to do that Nastasia doesn't bother me you wouldn't you wouldn't want to sit next to what about if it's next to May yeah no.
+
+[6:38] Yeah right you don't women get pedicures how's that different?
+
+[7:14] A pedicure is like a more like a functional they also massage your feet uh I wouldn'tno I wouldn't know you can add up the number of pedicures I've gotten in my life on zero hands you know what I mean and the number of manicures i've ever gotten you can add up on zero hands but I do enjoy a head massage at the at the at the hair salon what about uh people do foot massage over there like straight up regular foot massage over there in Hong Kong or no oh yeah it's quite a bit yeah quite a bit you can see massage parlors everywhere well yeah but I mean like regular feet massage just feet yes more or less all right so call in all of your spinz all related questions uh booker and dax related questions equipment manufacturing questions or really any questions too seven one eight four nine seven 2128 that's seven one eight four nine seven a two one a two eight we do have a c On the line caller you're on the air.
+
+[7:33] We did have a caller. Hey, sorry about that. No, I had a demute button on uh first off, great that the spindle guys are there because this is a spindle question yeah uh first off big ups to Matthew because he helped me with spinal problems via email so so uh well well well picked um but my my question regards um an old recipe from uh from the bar which was the champion houstino.
+
+[8:15] Ah yes um I've done i've done you know the various uh uh Hustinos from liquid intelligence but uh obviously the mushrooms don't have uh pectin so how do I how do I work with that what's the technique that is an excellent question uh I as a true politician would say that's an excellent question I'm glad you asked that question next question no uh that that uh that recipe was actually uh Nick Bennett's that wasn's uh my recipe and um and because I made a habit to only ever do demos of like my specs my personal specs like whenever we had to do a demo of it he always did it and I honestly I don't know how they did it.
+
+[8:30] I'm pretty sure they started with uh dried shiitakis um and I think honestly it was less of a Houstino and more of an infusion so they and then so what they would do I don't think we bought powder
+
+[8:47] Shiitake.
+
+[9:10] I think we bought just regular shiitake and maybe did like a pulse blend into it and infusion and then just spun out the solids because the the trick with um so as you rightly point out mushrooms are not made of uh pectin they're made of chitin um and I don't believe they did a like a Kiesel saw uh kita sand thing. And plus also chitin is not charged in the same that sand is it hasn't been uh uh treated um so I my guess is that it works much more just like a settling out the same way that if you were clarifying a bitters for instance, like or a spice oil which by the way is not something we push a lot but it's a good use you're making like a curry oil or something like this to get the spices out because you're not really solubilizing uh when you blend a banana you're putting banana juice into it or dates and you're putting solubilized pectin into it that you need to knock out and in this I think it's much more of a uh suspension slash infusion but that's just a guess.
+
+[10:08] Um next time I um next time we have Jack uh shram on the show I'll uh I'll try to remember to ask him to put out the or Nick Bennett, we can call Nick Bennett and have him give the uh the straight spec for it um at some point I want to post all of the old Booker and Dax recipes up uh I owe actually Blopins who gave me some beer to spin in the spinz all uh a recipe I think he wants to
+
+[10:23] The Thundernut, which also is not one of my specs but I have to post that.
+
+[10:33] Thunder. Was the stirred Bird from um one of the menus your your recipe or no? Stir Bird was not my recipe. Stirred bird was what was that?
+
+[10:45] That was eit I can't remember whether it's Jack or or Nick.
+
+[10:48] I mean remember Nick, anytime something is stirred I want to say Nick Bennett worked on it because Nick Bennet's whole like mission in life was to take all uh drinks and unshake them and so like he did stirred versions of everything but that might have been a bar wide thing as well because the entire bar was interested in kind of the you know, as everyone was at that time, the jungle bird and different um take takes on it.
+
+[11:14] But in general I mean that's not like like it's a delicious drink, but it's not my ment it's not my mental it's not my it wouldn'd be my go-to mentality jump off point not that I I mean I'd be proud if it was my spec. It's delicious but in general like uh you know I'm not a I'm not a let's see if we can dork with this to get that I'm more of a you know I'm more of a I have this weird ingredient.
+
+[11:33] What kind of a kind of a guy. But I can also really my roundabout way of asking you for the spec. But yeah yeah.
+
+[11:44] Yeah it's not uh not your drinking during during the all good during the break I have the specs one quick technical note for whoever runs the board. Um everyone sounds fine on this phone interface except for Dave who sounds like he's running through a cheap fuzz pedal Oh man. It's because he's really loud.
+
+[12:01] Um here here, how about this? I'll tell you what I love it I love a cheap fuzz pedal is like who makes PV? Remember PV?
+
+[12:09] I would probably go with the like the cheapest boss ones from the 90s would be the terrible ones? Yeah all right thanks guys I appreciate it do you know what was a really not good uh bass uh bass pedal is uh I used to have you know the Wa pedal you familiar with Wawa pedals?
+
+[12:25] They feel good Wawa pedals I had a base wah and I just never like I never loved it.
+
+[13:15] Like it took too much chunk out of the bottom of my base for me to actually enjoy it even though I wanted the wawa on the bait you like wawa don't you Matthew it'd go for a good wawa who doesn'twa Chris are you a Wawa fan not wawa hot dogs not wawa at the store from Connectic Conne is that where that'n's not where it originated I don't where it originated that's where I used to go to it anyway colour there's there's another caller yeah caller you on the air Dave how you doing it's it's from Mystic oh Jesus Matt from Mystic We owe Matt from Mystic a freaking spins all okay Matt Matt, okay so Matt from Mystic there are a couped States where it got delivered but then someone stole or it got delivered but the person was in another at the time we have one or two people like that.
+
+[13:54] from Mystic Matt from Mystic who I have personally met and spoken with enjoyed had a beer with I think I think we had a beer on the 4th of July that's right it for some reason it is his spinzall that is sitting in freaking Carson not Carson City I was m incor Carson, California and we don't know why it hasn't been shipped from Carson now what I'm gonna do Chris Witters, when are we gonna get uh more units into the country?
+
+[14:05] It should be October third.
+
+[14:08] Right, but we're uh like uh we should just we're just gonna ship you one from the from the like we have the first next group of ones that we can send so we'll just send you one direct from Hong Kong on a separate thing because I don't know what the hell happened we I liter quite literally every day I send an email to the shippers in China and I say to them what is up with this order and then they somehow conveniently never respond to that question uh Chris am I right on this that's right and I'll personally ship that product for you there you go so we we don't have like it's like um it's it's not even an issue of like uh it the frustrating thing about it is we they like we literally don't have any more or didn't have any more units to to
+
+[14:53] send other than like you know the protos that I have you know, uh, you know that we have uh at the at the house and so we haven't been able to um send like, so there's some people who also who need repairs we haven's been able to uh you know, uh RMAs on units that things wrong.
+
+[15:06] And so we literally in the past couple of days, Chris has been here in the US but his office in China has gotten a hold of uh a batch of like 10 from the factory that we's for returns that people need uh fixings on and for you because it's just freaking ridiculous. Am I right? That's correct. Yeah and I don' think it's helpful but I personally hate the people who are shipping and I wish them ill and I hope that they don't success in life and I you know I want bad things for them. I'mot gonna go so far as to say I want bads I don'll believe that's a good thing to do I don't think you should blame people's families for what people do but um close, close to that um what do you think Chris?
+
+[16:05] We're in the same path yeah yeah. So were you do you just want to make me feel bad uh Matt from Mystic or did you have another question? I wasn't calling you up to give the paper. All right.
+
+[16:20] But do you have uh a question or you just want to know where you're rightly want to know where your where your spinz all is no I figured you would let me know but uh no I was uh are you familiar with the concept of like the Vitamix whole fruiting?
+
+[16:27] The Vitamix what?
+
+[16:34] If like they call it whole fruit juicing basically i'm wondering if a Vitamix is good enough to certain things for the spend all when it eventu shows up at my door okay so first of all when you say good enough I'm trying to crush it into that share mentally I'm trying to crush that sentence into the share song, but I don't I can I maybe Dave in the booth can do it for me somehow get the share song into that song? Oh you know, are you strong enough you know that share like whenever anyone says the word strong now share pops into my head you know I shouldn't probably say this what's wrong with share? You don't like share? I don' really have a strong opinion. Nastasia has some share story stories.
+
+[17:10] But I said, you know I should probably shouldn't say this was correct that's I'm saying you probably shouldn't talk about it yeah I I shouldn't say it so I didn't I just let people know that there is a story there which is you know good.
+
+[17:21] Lee you know you're still the international woman of mystery there um so the answer is both yes and no I mean when you're juicing citrus you want to use a citrus press like period. Right. You know what I mean. When you're juicing apples vita preps are not the way to go uh it's for some reason apples are so high and pecked in that when you just juice them like they don't clarify as well for some reason. I just never had good luck with blending apples in a in a blender. Uh I always a champion for apples but almost everything else right?
+
+[17:55] I guess ginger I use um ginger I use the uh champion.
+
+[17:58] If you're doing straight horseradish juice, I used the champion, but I actually recommend uh horseradish Houstino in vodka over doing straight horseradish juice it's much better and then you can just use the vita prep.
+
+[18:11] So I also don't recommend vitaprepping or really if you're gonna clarify I don't really recommend juicing ginger.
+
+[18:21] Ginger juice doesn't clarify very well because of the starch starch that's in it um but for most fruits right with the exception of apples and citrus yeah I would say you know, I mean if you if you if you were thinking, should I get a vita prep the answer is always yes um they're great to have you know I've as I've said I think on the air several times I've never met anyone who was like you know what I should not have bought I should not have bought that vita prep that was a bad that was a bad move you know what it turns out I don't like blenders that doesn't happen.
+
+[18:44] I've never I've never heard of that happen.
+
+[19:04] Like maybe you know if someone bought a vita prep and they went bankrupt the next day they would have maybe I should have waited before I boughtrep but let me give you another hint like when someone closes a restaurant right with very very few exceptions like they they have auctions is what happens when you very very few exceptions you go in there and there's no vita preps so if you just go to restaurant auctions you might think well maybe these restaurants didn't have vita prep no it's because nobody leaves the vita prep behind because everybody wants one. You know what I mean it's like Chris what do you think the vitape everyone wants a vitap. No one wants a good blender right of course they do yeah uh it's why you also never Find Paco Jets.
+
+[19:35] I literally once bought a vita prep at a restaurant auction because what happened is they they just they didn't really close the restaurant so much as they took the entire team picked them up and shipped them to Vegas to open a restaurant on the double quick and so like all the stuff was left in the kitchen. And I was like I'll buy the Vitape and that's how I got my very first vita prep 60 bucks was a great deal bad bearing but guess what I know how to fix bearings.
+
+[20:16] Um anyway so the answer is yes, for many things the Vitaprep is a fantastic juicer but uh the champion's also a good thing to have around because champion's really good for if you ever want to like grind cocoa nibs to start doing kind of chocolate it's a very good pre-grind uh the champion is very good for uh for a pre grind on nut butters nutters um Nastasia hates making nutter remember when we used to just sit there for hours at the French culinary like first Robo cooing and first like champion.
+
+[20:29] Firsting out the bad nuts here's another for you Matt from Mystic.
+
+[20:33] Here's what people do they buy nuts, right? And then they just take the can of freaking nuts and they dump the nuts into whatever processor they're gonna use it and if you ever take the time to look at a batch of nuts every batch of nuts has a bunch of bad nuts in it. And it only takes a couple bad nuts bad nuts to ruin the whole batch, especially pistachios.
+
+[20:56] So if you're gonna buy
+
+[20:58] Pistachios literally, I I spent the money on this because I wanted people to know I was like just take take a can of nuts dump it and make a make a you know uh a nut milk with with that and then take a can of nuts pick out all the nasty shriveled yell crappy tasting ones and make a batch with that and tell me that there's not a dramatic difference between the two and of course there is so you should always pick over yeah you should always pick over your nuts before you're going to uh use them right exactly anyway uh so I mean I don'tan get you in trouble over there in Mystic uh with buying a bunch of equipment but I would definitely go for the Vita prep yeah no I got a Vitamix I was wondering if if uh the champion if you thought the champion would be necessary for spinal use.
+
+[21:24] Well you're already in it for a spinzall and a vita prep what the hell champion is like you know the least of your problems brother just like you know what does a champion cost now?
+
+[21:40] It's 150 dollars right uh I think it's closer to two, but uh it's more a space issue for me right the thing about it is I'm a I'm a I'm a big believer in keeping as much equipment on the on the counter as you can because it's gonna you're gonna use it more if it's on the counter which is true.
+
+[22:14] However, for something like the champion juicer, you never have like a refrigerator full of apples and you'd be like you know what I'm either gonna juice this or not.
+
+[22:20] So, you know, oh the juicers out. I'm gonna juice all those freaking apples that doesn't happen so what happens is you're like I'm gonna go make uh apple cider today
+
+[22:55] And then you go and you juice it so what you do there is you go get you know, you're gonna pull it out of storage so it's okay to have something that you know is only for certain tasks in storage because you know it's never like am I gonna make pasta today I don't I always have flour, but if my machine's not out I'mot gonna make it's not one of those kind of a situations I will say this I have used for apples side by side the brevel juicer and the champion juicer and the Brevel juic has it's easier to use than the champion because the champion you the champion is also like a good like fore and like you know um if you ever seen the movie Over the top with Sylvester Sallone it's it's a good kind of top workout because you're like shoving apples in like one after that in fact like I've said before on the air I once Nastasi and I just for fun did so many apples in a row that remember Nastasi it burned the unit out and you were just putting wet towels over the champion and they were like like boiling hot and then when we finally turned it off the magnet had been melted out so it didn't have a safety on it anymore and that sucker still kept on going.
+
+[23:30] That's why I love the champion I love anything that's willing to melt itself into oblivion just to produce juice for you. I mean it's like it's like to me like everything in the world should be like that everything should be willing to just turn itself into a melted pud of mess while it still is producing juice anyway uh and I think all things should produce juice um where was I champions, apples oh the brevel is easier physic to use
+
+[23:59] But it produces a juice with more pulp in it so it has uh so on the one hand you might like that because it's a higher body of juice the juice has like a like a more of a kind of a viscosity to it but I found that when we were doing when I was making cider so I'd make a five ballon gotch uh five ballon bat aga batch of cider out of a brevel versus a five uh gallon batch out of uh out of uh champion because I don't traditional press uh that I got a higher clear yield out of the champion than I did out of the brevel because I had a much higher um uh amount of pectin if that's helpful to you interest yeah yeah and also well we're on the subject of older and deck's toptail specs uh the Struggler was one of my favorites so maybe I'm I'll take that off the air.
+
+[24:36] Ooh the struggler okay so i maybe during the break if I have time I have the specs on my phone. I can find on my phone I can try to get the specs so what do we have now we have the stir bird the struggler and the champistino as requests.
+
+[24:58] Yeah you know what we should just get the old like we should we should get like a cross section of the old Booker and Dax bar team on the radio sometime and just go over it.
+
+[25:08] It'd be fun get like Nick, get Jack get like a bunch of people who are still in New York and those guys anyway s Souther Teague who who was he's supposed to come on this show and I'm supposed to come on his show but he's always working during this anyway whatever we'll work on it all right so struggler. It's on the list of ones maybe I'll try to find it over the break.
+
+[25:26] Hello? Oh, he gone, he took it off there. All right, cool. All right. Uh, so Dave, you want to take a break and come back with more cooking issues? Uh sure.
+
+[25:35] All right here we go to the Bob's Red Mill has been milling whole grain since nineteventy eight one of the nice things about Bobs Red Mill is it's the only that I know of national supplier that's easily available for lots of interesting, hard to get grains and other seed products. So, you know before became widely available you couldn's go get something like quinoa very easily or you couldn't go get spelt easily in small quantities. But now you go to any one of the huge number of stores that carry Bob's red mill and you can get smaller amounts of these really interesting fun things to play with learn more at Bobsredmill.com slash podcast we're back I'm not that good like I was hoping I could be like I could just go into my phone and type specs and then have the specs come up but uh no su no such no such love.
+
+[26:44] So uh you want to answer some actual questions Nastasia yeah you're gonna go back two weeks at least two weeks I mean I don't know how I don't know I have questions on my machine
+
+[26:49] And we'll we'll answer them.
+
+[27:10] So Scott wrote in uh I own a smokehouse with the ability to smoke a at a wide range of temperatures I've read a lot of Mariansky's home production which is the home production of quality meats and sausages I like that I've never read that book though so I can't comment on that book but uh I have a a love hate relationship with the word quality because quality can be low quality as in all of us low quality individuals right Nastasia that's the kind of quality we have yeah low quality individual you know we uh we saw someone in Boston with a low quality individual shirt and with an enemy of quality shirt really like in yeah at Harvard at the Harvard yeah.
+
+[27:47] Uh Dax actually wears the uh low quality individual shirt all the time and you know that I got a I got an Instagram that there is a taco place in Milwauke that has an enemy of quality taco which I I what's in it uh it's basically it's just you choose uh I don't why the name of it went out of my head because I know the name uh when I it just has like it's like meat meat and cheese of your choice you don't want what they chose because you don't like good things because you're an enemy of quality which is fantastic.
+
+[28:08] I need to go back to Milwauck stas we'd like to go back to Milwaukee sometime shouldn't we're gonna right right at the get go um for like meat curing questions we should just have, because we have so many of them and I'm not like you know an expert in it we should just have like like either like call in or in the studio our meat curing buddies in and just do a you know, let everybody know like two weeks in advance. We're gonna do a meat curing episode call in all of your meat curing uh stuff and and you'll see why as I as I talk about this because I think that even if I don't the answer I could probably elicit some good answers out out of people who actually do it for a living.
+
+[29:27] So we're now about uh Marianski's book home production of quality meats and Sausages but unless the book outlines an exact procedure that I want to follow I have trouble using that book it varies from densely technical to vague and often seems uh contradictory now this is a problem I think that all technical cookbooks uh have like having written a book that has like technical stuff in it and dealing with technical issues all the time like you're if you're a real practitioner of something, right, you kind of know what you know you know what you do uh and you're probably pretty good at it if you know if you're good enough at it that someone's asking you to write a book about it you're probably pretty good at it um but when you're writing a book you feel the need to say a bunch of external stuff to what you do all the time and a lot of times you know so much about something that's even kind of difficult for you to write about it and because there's so much nuanced information in your head it's very difficult very very difficult and thank God I have my wife to help me do this but like to draw a coherent through line through your knowledge to help somebody else um uh learn. So things can be contradictory and if you had the dude or you know whoever, if you had them in front
+
+[30:57] For a half hour they could explain to you why it's not a contradiction but it's very very very very very hard to write a book where that's the case and I think that in general there's also uh especially in meat meat curing especially, because there is uh a health safety aspect involved in it where people are worried that they're gonna kill you with botulism or kill you with something else uh or that they're gonna have you use too much of a curing agent or whatever it is they're worried about uh from a l not just a liability in terms of that they're gonna get sued but a liability that they don't misuse the information that they have and get hurt I mean I worry about that you know um and so because of those two things with meat curing, meating is an especially difficult thing to write uh a book about um which is why I think it's probably uh would be nice to have like like a group of people on who do it professionally and then just kind of pester them about okay what can you know what can you say what can're, what do you do versus what you're allowed to you know talk about anyway uh because as you say I have no formal training in science or food but I usually want to know per meat type per pound uh salt and cure content like one or two, although honestly you're almost always using uh the shorting the nitrite unless you're doing like whole cured cuts of meat you should pretty much always be using nitrite and not nitrate.
+
+[31:16] I mean I think and like you know, you can usually older recipes that have nitrates instead of nites so
+
+[31:23] Um I would be a little leery of anyone that uses a nitrate recipe for anything other than like a ham or you know a very thick uh cut of meat. Uh how much smoke can I safly apply at what temperature? And then you say, for example, my favorite and we uh is always smokier than mine. My smoked turkeys vary tremendously in moisture and smokiness over the year, but not knowing how all these varia has prevented me from solving these problems. Brian and Cure would probably protect the turkey enough for me to put it in the smokehouse uh instead of a grill but I don't know how to make that safe.
+
+[32:09] And by the way like if so if you read like uh you remember we had uh Meathead on the show and he has a thing on amazing ribs and he is vastly he's very worried about people doing low temperature smoke outs because he's worried that you're gonna encourage the growth of um of bacteria botulism specifically in the smoke and the real issue with it is right what if you nitrate it, it's nit it's not gonna you're not going to get botules move with nitrites because they can't grow up but whatever let's just not get into that right now the real problem is is that it's very difficult to maintain um an actual temperature on a piece of meat because of evaporative cooling so it's very hard to judge what the actual temperature on a piece of meat is whether you're keeping it in the in a kind of a safe zone or not unless you're keeping it high enough to ensure that there's no bacterial growth um even with evaporative cooling so it can be somewhat difficult which is why they have interesting new uh smokers that are controlling the whole atmosphere including the humidity that are kind of cool.
+
+[32:39] Anyway are there any good sources of rules of thumbs for controlling these variables to form formulate my own cooking processes. I get overwhelmed uh when I research these issues and find it hard to believe blogs. Uh I'd like to control for these variables uh like I do for dai's in a spreadsheet. Sorry for such a general question I'm still enjoying the show and won't buy a sous vide book until yours is out well you should buy anyone's book it's gonna be different, don't worry about it. Um but I think we really we should just get some people on the show.
+
+[33:16] I think that in general it is true that differ cuts of meat with different are going to respond differently to uh salting they're gonna respond differently to the application of heat in terms of how long it takes the heat to go through them but in general there's a relatively small number of bugs that you're trying to kill when I say bugs I mean micro organisms, relatively small amount. There's a you know relatively, you know, uh i there's multiple hurdles, right you have salt, you have nites um and you have uh salt, nites and temperature and like those variables are like, you know, you're you're pretty much always trying to hit similar numbers on those things.
+
+[33:50] And then the question is like what's the what's the you know what's the right right answer.
+
+[34:04] So I think you know we can come and we can say okay look at an oily fish and not oily fish, you know chopped up meat, not chopped up meat, you know, uh lean like a beef versus like something fattier like pork. And we could try to hash those numbers out, but I'd rather do it with um some experienced uh cure people see whether Dave uh see whether anyone in the booth wants to have a show like that where we get I don't know like uh Johnny uh
+
+[34:21] uh or like uh Olympia provisions back on and just do like a cure episode, see whether anyone's interested in that. Yeah, actually somebody is talking about that right now.
+
+[34:31] All right we'll try to set it up would like to combine Koji with my sausage and cured meats. No idea how to start. There you go well for that we'd to get uh Rich back on the uh our cook quest uh back to do uh Captain Koji to do some uh Koji stuffe Captain Koji.
+
+[34:47] Nastasia is like Koji has her Koji face on..
+
+[34:51] Oh is that what that is that's her Koji face it's a smile though, it's a smile it's a smile the Koji face uh Tim writes in for my next equipment purchase uh I'm looking at DIY a vacuum chamber for infusions uh primarily possibly hacking my old crock pot as a low temperature cooking bath and building a carbonating rig for cocktails thought on thoughts on which project to tackle first do the vacu chamber actually you know what well carbonation is so easy it's not really a project you just buy the stuff womp it together and you and it's done. The vacuum, I wouldn't do a crock pot into a into a a circulator. It's just I don't see the point. Like, you know once you buy a crock pot and you get the P ID and it's never gonna be as uh you know as as easy or as much fun as uh using a real circulator and you can get a real circulator now for a couple hundred bucks it's just I don't see the return on on time investment there unless you really really want to I mean it's not like the average person is doing a DIY on an immersion circulator it's not like they're learning how to how to you're not even learning how to tune a PID looper, you know like the the ultimate like if you want to if you're like, hey listen, I'm interested in control
+
+[35:47] Control and and control. And I want to write a PID loop. I want to learn how PID works.
+
+[36:05] I want to like learn the math behind it and like actually like tuning a system and and then yeah, then it's worth doing like but you could also just do that like theoretically on the computer like you know you can get a version of anyway my point is I would it's I don't think at this point that that's as interesting a project as the DI vacuum chamber is uh good because if you're a DIY person and you have a DIY vacuum rig, you can use it for food you can use it for drink hell you can use it for plaster you can use it for uh like degassing like uh urethane if you want to build things or like casting resins.
+
+[36:50] I use my DIY vacuff for all of those things you know what I mean like uh when I'm doing prototypes um you know I now have actually a much fancier uh you you guys know about the um you know those um those epoxies that have the long tube with the static mixers in them so that you when you press it comes out of the tip mixed it looks like a bunch of blades next to each other you know I'm talking about inside of the yeah yeah so I have a super fancy resin gun like that's like that it's like it's like uh I don't what what size did you say that is big?
+
+[37:11] It's like you it's like you're holding a big thing it's like it's like it's like if I was a
+
+[37:17] two-ye-old holding a caulk gun. That's like that's the size of it, right?
+
+[37:31] If you can picture me as a two-year-old holding a full-size caulk gun, that's the thing and it hooks up to a pneumatic thing and it in it it pre- it mixes without adding any air, uh urethane resins and deposits them witho air, so you don't need to do a degas on the resin and it's hooked up to an air compressor so it doesn't even take any any any you're you're literally like you're just like and it's like and no nothing. You know what I mean I still do pressure casting because, you know, whatever.
+
+[37:49] But um, anyway, yeah, cool. So I would do a vacu chamber. Uh, the trick with a vacuum chamber is choosing something that won's crush. So uh round Marie's stainless steel round Bane Marie's typically do not crush.
+
+[38:05] Uh Square and Rectangular Bane Marie's and hotel pants crush like mothers they just crush they crumple. In Europe they make a special one that doesn't crush but guess what it is expensive uh so I would stick with round here's some other things that don't all clad pots don't crush uh and so what you do is you just get like a you get like a refrigeration vacuum uh machine.
+
+[38:24] They have oil in them so they kind of stink and they're a little bit loud after they've been running for a while put oil in it and then uh you just stick a rubber tube you get a piece of uh of like a Lexan and you uh drill a hole in it and you put a a fitting on it with a barb you put like a little piece of uh like you adhere some uh adhesive uh silicone uh or rubber to the to the Lexan cut make sure you cut a hole in the silicone so you can see through it and this is just the easiest way there's nicer ways much nicer ways but then that can fit on any round thing that that that and you can get a uh a one foot square piece of uh lexan no you know like uh um three eighths or half inch or something from McMaster car or on Amazon that's not you know not hard and then you put that on and it fits on any lid. Sorry it acts as a lid you can fit on uh any pot or Ba Marie and I use that all the time. The one square thing that doesn't crush is um uh uh six pans small six pans tend not to crush like the six inch tall six pans they're so small and chunky that they tend not to crush. And so you can do those but yeah I'll totally do that and you can have a lot of fun with that I have a lot of fun with that I still use it because you know what a vacu machine I'm not gonna stick resin in my in my actual uh you know mini pack machine and a mini pack machine is like thousands of dollars and you can do this whole thing for like a hundred 125 bucks.
+
+[39:54] Anyway so that's what I would do no anyway um what do you think anyone anyone any thoughts no no thoughts sounds good all right Julian wrote in I'm sure Julian's already gone to Hawaii but I'm flying to Hawaii with friends soon this is like five months ago anastasia somehow this kit I'm getting shuffled around and detest detest I like anyone that doubles up on detest is a friend of mine if you double up on how much you hate something that's a strong move uh detest the
+
+[40:15] Free Mai and free is in quotes here because it's so detestable that actually they should pay they should pay him you know what I mean so it's like free in the sense that they're not charging you money but the aggravation is as though you paid money right I feel that's what the why f the word free here is in quotes. The free ties that they give you during the flight I've never been to Hawaii do they give you a free Mai on every flight to Hawaii.
+
+[40:40] No idea. Ifly like Pente do you get a a free on on that?
+
+[41:11] Doesn't seem likely it doesn't seem likely although Nastan once had to fly to Europe we were both flying to Europe and she flew emirates and I thought that was going to be a dry flight but she came off that plane soaked in liquorg she was like pickled like a freaking cher when she got off that plane wasn't you that was flying Emirates that time and you like thought I have to fly emirates and it was awesome no it wasn't Emirates it was no it wasn's an Emirates but you remember what I'm talking about yeah yeah yeah uh anyway uh I was hoping I could bring some stuff with me on the flight to assist in making a quality fun tiki-like cocktail during the flight in order to keep the free world safe as you know the TSA is gracious with a few rules um so here's the TSA rules right which I'm sure Chris you know as being an international traveler that you are Hong Kong and US uh can't bring booze uh need to use what they have on the flight now that's just to be legal I mean everybody on freaking earth knows that the actual rule is that you're allowed to bring as many of those little travel bottles that you can fit in a court container
+
+[41:32] a quart uh Ziploc bag. So my general what I do a hundred percent of the time is I go and I buy travel size things, I rinse them, which is hard.
+
+[42:00] You ever you you you ever try to rinse out shampoo bottles guys it's very hard like the the the uh what's it called the um the aromas that they put into those things and and you try to buy like opaque bottles so people can't see into it.
+
+[42:10] Head and Shoulders is a classic because it's white bottle uh and it seals pretty well. But um it they to get that smell out of the bottle is a pain in the ass. But anyway put butt pain in the butt is what I meant to say family show. Uh so that's how I bring Kiesel saw with me, Kitasan, SPL when I'm flying around because I bring them in travel size bottles because I don't checking luggage. I don't like checking luggage because uh I once had a bunch of check luggage that I needed for a demo get lost uh by the airline and they didn't get it to me in time for the demo. So now I only like to travel with stuff that I can carry in the carry on to make sure that I can do my you know whatever I'ming when I land. So you can the truth of the matter is is you can bring liquor on the freaking airplane you're just not supposed to bring liquor on the freaking airplane.
+
+[42:57] That was a long way to say that's right uh yeah. So you're any single container is three four ounces one quart, well one quart bag. I don't know that you're allowed to bring an actual quart, but you it has to all of your bottles have to fit in a single quart bag, right? Which is not the same thing
+
+[43:15] Um so with four people you get four quartz okay uh don't want to annoy my airplane neighbors with a lot of stuff or loud noises, ice shaking. You know what?
+
+[43:30] You know, airplanes are so freaking loud that like airplanes so freaking loud that like next time you're on an airplane, uh, do you remember Sam from uh CNN Video his handle Anastasia he would come to the FCI every once in a while he did a whole series where he was shaking uh on the airplane he was using ice and actually just two plastic airline cups and using them as a shaker and he was saying that no one had a problem with it.
+
+[44:11] It's like a baby's rattle yeah I mean as if I mean think of what happens on an airplane people are blowing their nose on you basically like you know like you can do all sorts of horrible things on an air the sound of shaking a cock I would be like oh thank god you know what I mean thank god someone is doing something that I like on an airplane you know what I mean it's like I don't think it's gonna bother anyone to have a shaking ice on the on the plane um so uh and don't want a bartend would like for people to be able to make their own cocktails so there that's why you don't the shaking if you don't if you want people to be able to make their own cocktails right so I would go with uh here's what you have you have a circulator you have a chamber vac, you have a spinzall or should have it by now uh kegerator uh but you're not gonna I mean in the oh to carb you can't bring carbonated stuff because you're not allowed to bring uh you're not allowed to bring chargers on an airplane and unfortunately are the ones in the in the in the life vest CO2 I don't they are
+
+[44:32] I don't they are.
+
+[44:44] I'm not sure.
+
+[45:00] You might be able to get a cracker and to raid the life vest for a charger, but I don't know what gas they use and you if you did in the unlikely event of a water landing you would be hosing whose ever one you took there is a way if you bring your own life vest by the way, you are allowed to bring the uh you were allowed to bring the chargers for your life vest and one set of spares.
+
+[45:14] That said you know how many times I once went through a series where I flew a bunch of things and then only found out later that I had a bunchers stuffed into a secret pocket in my backpack and they never found it so like you know I could have been infusing on that freaking plane or carbonating on that plane but if you were to pull a charger and the flight attendant was to see you then you would be spread eagled on the floor with like you know a g a marshall's gun on the back of your head you know, and r you know maybe rightly so um average bar equipment home kitchen.
+
+[45:43] So here's the thing but you're not gonna need any of that maybe you use this spinz all.
+
+[45:47] If you don't to uh have them shake drinks what you're talking about is a stir drink, right or a built drink so the easiest thing to do is to just make a really nice syrup for uh old fashions bring are you allowed to bring a Y peeler? I think you are allowed to bring a Y peeler on a plane.
+
+[46:03] Well you can bring a packing knife now
+
+[46:05] Really? Yeah. Regular one?
+
+[46:19] I like I I bring one with no blade I bring a no blade, but if you can bring a coonricon Y-peeler, here's what I would bring I would bring an orange or two I would bring a coonrican uh uh Y-peeler uh if you're a a cherry style of person I guess you could do bring some some cherries and then I would make like if I was going to do it I would make out of my book the coriander syrup like for a cliff old fashed but it's oh you want Mai you want tiki ooh see I'd just do old fashions. So nice. How are you gonna have someone make their own tiki style cocktail can't be done well here's what here's what I would do I would take I would make a lime cordial so it lasts right and so I have a bunch of I gave some recipes I think last week or the week before on lime cordial, especially now that you have a uh because it you what you're gonna have to do is you're gonna have to do a stirred version of a tiki so you're gonna go heavier on booze lighter on the uh on the um on the cordial but cordial and then if you really want to tiki it out uh throw like a splash of pomegranate juice in you can actually clarify I have clarified passion fruit and and pomegranate.
+
+[47:14] The issue is you don'tan the pomegranate because if you blend the pomegranite it gets bitter because the seed parts get blended so what you do is just buy a passion fruit puree just do yourself a favor and buy the freaking passion fruit puree then put the pomegranate in a container with it take a mortar and pestle or like a muddler smash the pomegranate seeds with pectanex Ultra SPL you spin that out and you can temper that back with uh clary uh lime you can make a really awesome clear kind of um clear tiki-ish
+
+[47:35] hurricane ish, like uh uh syrup thing out of that and then just put that into those freaking bottles and then just you know, glugity glug with the liquor on the thing it'll self-dilute on that freaking airplane it'll keep you going uh going and going and going and going. Don't forget to add a little salt.
+
+[47:51] What do you guys think that's all right we're just go away why can't you just m like mix club soda with something right it's a flight. The guy wants a tiki freaking cocktail. You can wait till he lands can he apparently he cannot just get drunk on the plane the old fashion way what's the old fashion way I don't like a gin and tonic and an ambient wow I don't you know what I'm not a fan of the airplane gin and tonic.
+
+[48:08] I'm a white wine on airplanes kind of a guy I'm just give me your crappy white wine and keep it clean.
+
+[48:16] Like Sutter home Chardonnay sounds great Nastasia what's your call on an airplane? Yeah white wine or red wine. Yeah because red wine I feel like it's gonna dehydrate me more and I don't want to be flying around with the red wine lip stain and I don't want to go into that bathroom. That bathroom is a horror show actually the last time I flew I did uh red wine mix with Coca-Cola whatever the Spanish call it uh what? You never heard? No, but I I I heard that was a thing Chris, in China a while ago it was like Pepsi and red wine right wasn't that a thing?
+
+[48:51] Like Pepsi in Bordeaux like uh like 10 years ago in China I heard it was a thing it was like a European thing.
+
+[48:53] It sounds like a terrible thing where no matter where it comes from it sounds like a freaking wretch idea. Yeah it'll get you drunk.
+
+[49:01] Not as fast as just the wine will make it last
+
+[49:05] These are contradictory statements..
+
+[49:11] how much red wine do you need to get drunk it depends on you doesn't it I mean but the thing is like you don't want to get dehydrated on an airplane right so you don't want any like like for me I tend to feel more dehydrated when I'm red wine and so you don't want to get overly dehydrated on an airplane and like I said I would consider Hawaii to be equival to an international flight because of its length.
+
+[49:36] Is there anything more horrifying than an international flight bathroom anything is there anything worse than like hour eight on an airplane in a bathroom and like you're like I made it this far and everyone else has defiled that bathroom done all sorts of horrible terrible things you've seen that one dude that shouldn't have eaten what he ate and he's used that bathroom like five freaking times already you've seen him that one guy and you know that by time two or three something something ain's right you know what I mean something's not right with this man's behind that he has to use the bathroom this many times and now I have to use it.
+
+[50:08] So I just want to stay away from the bathroom at all costs.
+
+[50:10] Nastasia what's your feeling on airplane bathrooms I don't care really you don't go in public that's the thing.
+
+[50:15] Do you have a phobia he has a huge phobia I do not like public restrooms where is it like a germaphobe thing or what it's not that I'm a germophobe it's specifically restrooms I don't I hate public restaurants where's the social interaction in a restroom whereas Nastasia Nastia doesn't unlesses the restroom like
+
+[50:25] Nastasia will show up.
+
+[50:34] If she comes to your house for the first time, people, she was like, where's the restaurant? That's not you she has to use it's good to have a plan when she shows up at a restaurant she's like you know what I'm gonna use the restaurant.
+
+[50:45] You're like but you just used it on the bus.. Do you not wash your hands at a restaurant?
+
+[50:49] What do you not wash your hands at a restaurant usually they have a thing outside you know what I hate is like uh the the reverse washing hands if you go in to Dave if you go into a freaking restaurant, right and you have to touch the doorknob on the bathroom heated now to leave after you wash your hands why don't you just dip your hands in poop just holding the whole poop hotel.
+
+[51:00] Mine is pooped if they have one that's what I hate. Now all these people are like oh here's a Dyson for you. Here's a Dyson, and then like, you know, just dip your hands in poop. Dyson suck. Whoa, don't be the man's a billionaire, he'll he'll fly over here like SWAT will come in and kill you should have him on the showhere uh he could talk probably for hours about his vacuums. And what do you think about his uh well I don't know what he cares about most now air blades uh he's an air moving individual right?
+
+[51:33] That's that's his thing move is moving a lot of air moving a lot of air um all right....
+
+[51:42] All right, we got it like a minute um I recent, this is from uh Julian uh I recently put a kegerator together and picked up a small half gallon keg and was wondering if you had any recommendations for a good cocktail on tap uh which would do well in the kegerator type system not degrade too much yeah so uh if you're gonna carbonate it you make sure to get all the oxygen out so it's not going to oxidize so if you're does
+
+[51:55] It has a vermouth in it, do it that way.
+
+[52:27] Also because it's gonna foam like a mother uh choose something that works well with low carbonation like Negroni is a classic one because it can age a little bit as long as it doesn't have a lot of oxy around it works well at various levels of carbonation and at various dilutions and so it's a good kind of bulletproof uh drink to to throw in that um and on that question uh since we have we have uh you uh you tie uh yao rode in and said i love making cocktails at home but can't reliably finish even a 375 milliliter bottle of vermouth I've been just accepting dumping out a portion of every bottle as a sad fact of the single man home cocktail life.
+
+[52:37] Been thinking of buying a chamber vacuum sealer from my kitchen would that be helpful here pour half the bottle into a bag suck out all the oxygen and throw it in the freezer how long would you suspect that you could hold it also uh just for Anastia's uh demographic audience scorekeeping yep another in his forties, no kids and a kitchen fill with gadgets that reflect uh reflect that including an empty space on a counter for my soon to be delivered spears all Sears all spears all my single guy drinking remove I'm gonna make a spears all next to imagine that a spears all wow like a harpoon machine that'd be intense uh yeah you're meat so uh the issue with uh vacuum bagging is that vacuum as oppos to a glass bottle vacuum bags are actually quite poor at um quite poor at uh gas permeability.
+
+[53:25] So you actually get quite a bit of oxygen into those bags versus a glass bottle with a cap. So what I would do
+
+[54:33] Is get um like eat like sm like much smaller like almost like eyedropper size bottles uh or you know one seven fives or something like this and pour the stuff all the way up to almost the top and then screw it down and then you're good uh and you're gonna be you're gonna be good from uh there on out so you're not that's the way I would solve it because glass is very good uh at gas uh permeability oxy permeability um that's what I would do but vacuum bag will work I haven't run the test to see how long it will stay but you have to use a vacuum bag that's meant for the freezer and has very low gas permeability that's the that's the the trick there and you don't it too much so you have to vacu it when it's nice and cold uh okay so okay we have Matthew thank you Matthe uh Chris is here Chris what do you want to tell him about uh the units anything you want to say on the units on the way out on spinzalls people need to know all right cooking issues, thanks for listening to Heritage radio network food radio supported by you for our freshest content and to hear about exclusive events subscribe to our newsletter enter your email at the bottom of our website heritage radio network.org connect with us on Facebook, Instagram, and Twitter at heritage underscore radio
+
+[55:04] Heritage Radio Network is a nonprofit organization, driving conversations to make the world a better, fairer, more delicious place. And we couldn'd do it without support from listeners like you. Want to be a part of the food world's most innovative community? Rate the shows you like, tell your friends, and please join our community by becoming a member. Just click on the beating heart at the top right of our homepage.
+
+[55:47] Thanks for listening.
