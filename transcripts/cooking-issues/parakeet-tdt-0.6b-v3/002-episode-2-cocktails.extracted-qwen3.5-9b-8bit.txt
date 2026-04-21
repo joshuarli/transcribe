@@ -1,0 +1,88 @@
+# Curing & Preservation
+
+### Vacuum Curing
+*   **Technique:** Packing meat in a vacuum bag with brine or dry rub accelerates cure penetration significantly compared to traditional methods.
+*   **Parameters:**
+    *   **Pork Belly:** Can achieve near-total cure penetration overnight in a vacuum bag.
+    *   **Vacuum Level:** High vacuum is generally used, though some professionals argue super-high vacuum may hinder penetration at extreme levels (unverified by host).
+*   **Ingredients:**
+    *   **Curing Powders:** Instacure or Morton's Tender Quick (Salt + Nitrates/Nitrites).
+    *   **Safety Note:** Nitrates/nitrites are natural impurities in salt deposits and have been used for millennia; not "artificial crap."
+*   **Recommendations:**
+    *   **Do Not Accelerate Long Cures:** Avoid vacuum acceleration for long-cured items (e.g., traditional hams) where flavor development depends on time.
+    *   **Equipment:** Vacuum marinator recommended for testing optimum vacuums.
+
+# Sous Vide & Low-Temperature Cooking
+
+### Chicken Breast (Skinless)
+*   **Technique:** Immersion circulator (sous vide) for precise temperature control to prevent drying.
+*   **Equipment:** Immersion circulator.
+    *   **Bagging Method:** **Do not vacuum seal.** Use Ziploc bags.
+    *   **Reasoning:** Vacuum sealing creates a "canned" texture; the meat becomes too juicy initially, then dries out during subsequent chews. Ziploc bags allow for a more natural texture.
+    *   **Water Displacement:** Seal bag almost full, dunk in water to displace air before submerging in bath.
+*   **Parameters:**
+    *   **Temperature:** 63°C (145°F) for ~1 hour.
+    *   **Adjustment:** 64°C (147°F) if a firmer texture is desired. Do not exceed 65°C.
+    *   **Oil:** Any oil works (chicken fat, olive, coconut). Olive oil may alter taste interaction; use sparingly.
+    *   **Brining:** Not strictly necessary for texture/safety in this method, but increases internal saltiness for better taste.
+    *   **Best Use:** Cold preps (salads) or chopped applications; skinless breasts are naturally soft.
+
+### Pre-batching Cocktails
+*   **Technique:** Determining exact dilution for pre-batched stirred cocktails.
+*   **Method:**
+    1.  Make a single drink using jiggers (volume).
+    2.  Weigh the drink on an accurate scale ($W_{start}$).
+    3.  Add ice, stir, strain.
+    4.  Weigh the final drink ($W_{final}$).
+    5.  Calculate water needed: $W_{final} - W_{start}$.
+    6.  Apply this ratio to the batch.
+*   **Key Concepts:**
+    *   **Shaking vs. Stirring:** Shaking creates texture (aeration/emulsification); stirring is purely chilling/diluting.
+    *   **Pre-batch Suitability:** Stirred drinks (e.g., Manhattan) are easily pre-batched. Shaken drinks (e.g., Daiquiri) are difficult to emulate without liquid nitrogen or extreme chilling.
+    *   **Dilution Timing:** Dilute before chilling; balancing at room temperature then chilling leads to off-balance drinks.
+
+# Exotic Meats & Game
+
+### Sourcing & Ethics
+*   **Sources:** Chicago butcher shop (Czimer) sources from animal brokers.
+*   **Origin:** Meat is a byproduct of animals (lions, bears, etc.) killed due to being unwanted pets or failed breeders, not slaughtered for food.
+*   **Specific Meats:** Lion, Black Bear, Raccoon, Beaver (tails), Yak.
+*   **Cooking Method:** Sous vide recommended for tough, older game meats to tenderize.
+
+### Historical Context: Fast Days & Classification
+*   **Beaver Tails:** Historically classified as "fish" (not meat) during Catholic fast days (Lent/Fridays), allowing consumption when meat/dairy/eggs were forbidden.
+*   **Whale/Seal:** Also historically classified as fish.
+*   **Yak:** Tibetan favorite; used for milk cheese, butter, and tea (butter tea).
+
+# Pâté de Fruit (Pectin Gels)
+
+### Problem: Scorching at High Temperatures
+*   **Issue:** Fruit puree burning/browning at 180°F (82°C) and 225°F (107°C) during reduction.
+*   **Root Cause:** Likely heat source issues (open flame vs. induction) rather than the temperature itself.
+*   **Solution:**
+    *   **Equipment:** Use an **induction burner** for precise temperature control to prevent scorching.
+    *   **Technique:** Cook slowly.
+    *   **Feasibility:** 225°F is safe for pectin gelation if temperature control is accurate; water removal is the goal, not just heat.
+*   **Alternative Method (Experimental):**
+    *   Use a **Rotovap** (rotary evaporator) to evaporate water at lower temperatures under vacuum.
+    *   **Requirement:** Pectin requires boiling temperatures to activate *unless* using specific modified pectins (e.g., Lomethoxyamidated pectin).
+    *   **Process:** Boil to dissolve pectin, then use Rotovap to remove water to target solids content.
+
+# Resources & References
+
+### Books & Authors
+*   **Douglas Baldwin:** Mathematician; author of *Sous Vide Primer* and upcoming book on sous vide. Provides tables for calculating time-to-temperature based on food dimensions.
+    *   *Note:* Formulas like "minutes per lb" are often inaccurate as cooking time is non-linear with size.
+*   **Nathan Myhrvold:** Mathematician/Engineer; co-author of upcoming technology cookbook. Published foundational time/temperature tables on *eGullet*.
+*   **Baruch Sharifi ("The Saffron King"):** Supplier of Mana candy and products.
+
+### Products & Ingredients
+*   **Mana:** Wild, sweet substance (dried sap or honeydew from bugs).
+    *   **Characteristics:** Chewy, breaks easily, unique flavor profile per bite.
+    *   **Candy:** Mana mixed with sugar and nuts.
+    *   **Usage:** Delicious mixed with bourbon.
+*   **Pectin:** Hydrocolloid requiring acidity and high soluble solids (sugar) to gel.
+*   **Equipment:**
+    *   **Immersion Circulator:** For precise water bath temperatures.
+    *   **Rotovap:** For low-temp evaporation.
+    *   **Induction Burner:** For precise stovetop heat control.

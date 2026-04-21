@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 
 from transcribe.podcasts import Podcast
 
-_DEFAULT_MLX_MODEL = "mlx-community/LFM2-8B-A1B-6bit-MLX"
+_DEFAULT_MLX_MODEL = "mlx-community/Qwen3.5-9B-8bit"
 _DEFAULT_LLAMA_MODEL = "unsloth/gemma-4-26B-A4B-it-GGUF"
 _DEFAULT_LLAMA_QUANT = "UD-IQ4_NL"
 _HIGH_MEM_LLAMA_MODEL = "unsloth/gemma-4-31B-it-GGUF"
@@ -35,9 +35,15 @@ def _llama_quant() -> str:
     return _HIGH_MEM_LLAMA_QUANT if total_mem_gb >= _HIGH_MEM_THRESHOLD_GB else _DEFAULT_LLAMA_QUANT
 
 
+def _mlx_model_id() -> str:
+    """Resolve the MLX model ID, falling back to the default if the env var isn't a valid repo ID."""
+    env = os.environ.get("MLX_MODEL", "")
+    return env if "/" in env else _DEFAULT_MLX_MODEL
+
+
 def model_slug() -> str:
-    if mlx := os.environ.get("MLX_MODEL"):
-        return mlx.split("/")[-1].lower()
+    if os.environ.get("MLX_MODEL"):
+        return _mlx_model_id().split("/")[-1].lower()
     llama = _llama_model_env()
     if llama.lower().endswith(".gguf"):
         return Path(llama).stem.lower()
@@ -57,7 +63,7 @@ def _extract_mlx(text: str, podcast: Podcast) -> str:
     from huggingface_hub.utils import disable_progress_bars
 
     disable_progress_bars()
-    model_id = os.environ.get("MLX_MODEL", _DEFAULT_MLX_MODEL)
+    model_id = _mlx_model_id()
     model, tokenizer, *_ = mlx_lm.load(model_id)
 
     local_path = Path(snapshot_download(model_id, local_files_only=True))
@@ -68,7 +74,13 @@ def _extract_mlx(text: str, podcast: Podcast) -> str:
         {"role": "system", "content": podcast.extraction_prompt},
         {"role": "user", "content": text},
     ]
-    prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+    # Qwen3 enables thinking by default; disable it for extraction tasks (same
+    # rationale as the llama path: structured summarization doesn't benefit).
+    is_qwen3 = "qwen3" in model_id.lower()
+    chat_kwargs: dict = {"tokenize": False, "add_generation_prompt": True}
+    if is_qwen3:
+        chat_kwargs["enable_thinking"] = False
+    prompt = tokenizer.apply_chat_template(messages, **chat_kwargs)
 
     chunks: list[str] = []
     for response in mlx_lm.stream_generate(model, tokenizer, prompt=prompt, max_tokens=max_tokens):

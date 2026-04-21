@@ -41,8 +41,16 @@ Extract all substantive culinary information. Include:
 - Techniques with specific parameters (temperatures, times, ratios, equipment settings)
 - Equipment discussed: names, models, tradeoffs, recommendations
 - Ingredients and their functional roles or properties
-- Caller Q&A: restate each question briefly, then capture the full answer
+- Personal anecdotes and demonstrations that contain culinary technique information \
+(e.g. a story about cooking a specific dish that reveals technique)
+- Caller Q&A: only for questions that actually occur in the transcript — restate \
+each question briefly, then capture the full answer
 - Strong opinions or recommendations Dave offers
+
+Preserve step sequences and measurements exactly as described. Do not convert units \
+between measurement systems. When a specific value in the transcript appears garbled \
+or nonsensical, omit it rather than guessing — do not include internal reasoning or \
+caveats in the output.
 
 Omit: banter, pleasantries, sponsor mentions, show logistics, music, \
 contact info, phone numbers, websites, caller names, anything unrelated to food or cooking.

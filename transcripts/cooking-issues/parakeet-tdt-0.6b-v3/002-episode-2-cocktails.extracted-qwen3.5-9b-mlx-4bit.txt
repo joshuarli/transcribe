@@ -1,0 +1,77 @@
+# Curing Large Cuts (Pastrami)
+*   **Technique:** Vacuum curing accelerates brine/rub penetration significantly compared to open packing.
+    *   **Parameters:** High vacuum setting recommended for speed (e.g., overnight for pork belly).
+    *   **Trade-off:** Some professionals argue super-high vacuum can hinder penetration; optimal pressure requires testing.
+    *   **Flavor Note:** Do not use vacuum machines for long-cured items (e.g., traditional hams) where time-dependent flavor development is critical.
+*   **Ingredients:**
+    *   **Curing Agents:** Instacure powder or Morton's Tender Quick (Salt + Nitrites/Nitrates).
+    *   **Function:** Nitrites/nitrates have been used for centuries/millennia (naturally occurring in salt deposits); not "artificial."
+    *   **Application:** Pack meat in brine or dry rub inside vacuum bag.
+
+# Cooking Skinless Chicken Breast (Health-Conscious)
+*   **Technique:** Immersion Circulator (Sous Vide) in a water bath.
+    *   **Method:** Do **not** vacuum bag (causes "canned" texture and excessive juiciness). Use Ziploc bags.
+    *   **Bagging Method:** Seal bag, then dunk in water to displace air (water displacement method).
+    *   **Parameters:**
+        *   **Temperature:** 63°C (145°F) for ~1 hour.
+        *   **Adjustment:** 64°C (148°F) if firmer texture is preferred.
+        *   **Limit:** Do not exceed 65°C (149°F).
+    *   **Cooking Medium:** Any liquid (chicken stock, olive oil, coconut oil). Avoid heavy-flavored olive oils if texture is the priority.
+    *   **Post-Cook:** Chill immediately. Best suited for cold preps (salads) or chopped applications.
+    *   **Brining:** Optional. Increases internal salt/texture but unnecessary for preventing overcooking in this method.
+
+# Preparing Large Lobsters (56 lbs+)
+*   **Problem:** Large lobsters have coarse, rubbery muscle fibers due to age; often overcooked by home cooks.
+*   **Preparation:**
+    1.  **Steam:** 8 minutes (kills lobster, separates meat from shell).
+    2.  **Extract:** Use metal shears to cut meat out of thick shell.
+    3.  **Slice:** Cut meat into thin discs (shortens fibers, changes texture).
+    4.  **Poach:** Quick poach individual slices in butter.
+*   **Result:** Preserves tenderness; avoids mushiness associated with long cooking times.
+*   **Myth Busting:** Lobster age does not correlate with fighting ability or Civil War era history; age estimates based on shell size are often inaccurate (e.g., a 20lb lobster is likely 60-70 years old, not 130).
+
+# Cocktail Science: Shaking vs. Stirring & Pre-batching
+*   **Shaking vs. Stirring:**
+    *   **Shaking:** Creates texture (aeration/emulsification). Hard to emulate in pre-batch without liquid nitrogen.
+    *   **Stirring:** Chilling and dilution only. Ideal for pre-batching.
+    *   **Ice Type:** Affects texture, but less critical than method for temperature/dilution outcomes.
+*   **Pre-batching Stirred Cocktails:**
+    *   **Goal:** Replicate dilution and chill without over-diluting or losing balance.
+    *   **Method (The Weighing Technique):**
+        1.  Make a single drink using jiggers.
+        2.  Weigh the finished drink on an accurate scale (Record Weight A).
+        3.  Add ice, stir, strain.
+        4.  Weigh the strained drink (Record Weight B).
+        5.  **Calculation:** Water to add = (Weight A - Weight B).
+    *   **Note:** Do not guess percentages (e.g., 25%) or dilute at room temperature before chilling (balance shifts).
+    *   **Exception:** Shaken cocktails are difficult to pre-batch accurately unless using liquid nitrogen for texture emulation.
+
+# Exotic/Game Meats (Chicago Butcher Shop)
+*   **Availability:** Sourced from animal brokers (pets/breeding stock no longer useful), not hunted for food.
+*   **Species:** Lion, Black Bear, Raccoon, Beaver (tails), Yak.
+*   **Preparation:** Sous vide recommended for tough, older meats.
+*   **Specific Notes:**
+    *   **Lion:** Meat is a byproduct of fur trade; skin is valuable.
+    *   **Beaver Tail:** Historically categorized as "fish" (allowed on Catholic fast days/Lent); distinct from beaver meat.
+    *   **Yak:** Popular in Tibet; milk used for cheese/butter (e.g., Tibetan tea).
+    *   **Warning:** Do not advocate for hunting these animals; sourcing involves animal brokers killing unwanted pets.
+
+# Pâté de Fruits (Fruit Pectin Gel)
+*   **Problem:** Fruit burning/browning at 180°F (82°C), worsened by added sugar.
+*   **Root Cause:** Likely heat source issues (open flame vs. induction) rather than temperature itself.
+*   **Solution:**
+    *   **Equipment:** Use an **Induction Burner** with precise temperature control to prevent scorching.
+    *   **Process:** Cook slowly.
+    *   **Temperature:** 225°F (107°C) is safe for caramelization if heat is controlled; water removal is key.
+*   **Water Bath Limitation:** Cannot reach boiling (212°F/100°C) in a standard water bath; requires pressure (ruins the "boil" aspect needed for pectin activation).
+*   **Alternative Technique:** Rotovap (Vacuum evaporator).
+    *   **Process:** Boil to dissolve pectin, then evaporate water under vacuum at lower temperatures.
+    *   **Requirement:** Pectin requires high soluble solids (sugar) and acidity to gel properly.
+    *   **Advanced Option:** Use **Lomethoxyamidated Pectin** (low acid requirement) to lower cooking temps, though equipment access is limited.
+
+# Sous Vide Time Estimation
+*   **Reference:** Douglas Baldwin's *Sous Vide Primer* tables (mathematical approach).
+*   **Alternative:** Nathan Myhrvold's formulas (e-gullet) are generally accurate but complex.
+*   **Recommendation:** Avoid linear formulas (minutes per lb/inch) as cooking time is non-linear with size.
+*   **Method:** Build a mental library of cook times for specific dimensions (e.g., egg ~45-60 mins, rolled chicken ~1 hr, 36-inch striped bass ~3 hrs).
+*   **Caution:** Internal thermometers can puncture bags causing leaks; rely on time/size heuristics for most home cooks.
