@@ -1,0 +1,81 @@
+# Beef Tenderloin (Home Equipment)
+*   **Target Internal Temperature:** 54.4°C (130°F) for rare. Do not exceed 56°C (133°F).
+*   **Texture Warning:** Tenderloin has no connective tissue or fat; it becomes mushy if cooked too long, even at low temperatures.
+*   **Sauce Requirement:** If cooking well-done (gray), sauce heavily with a fat-bound cream base to mask dryness.
+    *   *Sauce Components:* Onions, cassis, cream, reduced beef stock.
+*   **Alternative Method (Beef Wellington):** Sear meat, wrap in pâté, sautéed mushrooms, and shallots, encase in puff pastry, and bake in a high oven.
+*   **Oven Technique (David Kinch Method):** Mimic a circulator by moving the whole fillet in and out of the oven repeatedly to average the heat input. This crisps the outside while maintaining a low average internal temperature.
+*   **Hot Water Bath Method (Apartment Pinch):**
+    1.  Measure hot tap water temperature with an instant-read thermometer.
+    2.  Target range: 53°C to 56°C (127°F–133°F).
+    3.  If water is too hot, add a tiny bit of cold water to stabilize.
+    4.  Place tenderloin in a Ziploc bag with a little oil.
+    5.  Run a steady stream of hot water over the bag.
+    6.  **Time:** 45 to 50 minutes for standard thickness; up to 1.5 hours for very thick cuts.
+    7.  Cool slightly, then sear the outside.
+*   **Recommendation:** Cut into steaks and cook individually rather than roasting a whole fillet for home cooks.
+
+# Coffee Storage
+*   **Verdict:** Do not store coffee in the refrigerator.
+*   **Reasoning:**
+    *   **Condensation:** Temperature cycling causes moisture from the fridge air to condense on the porous beans, spoiling them.
+    *   **Odor Absorption:** Coffee picks up "stank" (bad aromas) from the fridge.
+    *   **Oxidation:** Once CO2 is exhausted, beans oxidize rapidly; cold storage does not sufficiently mitigate this if moisture is present.
+*   **Freezing Exception:** Viable only if the package is hermetically sealed with no moisture, air removed, and ideally flushed with CO2 or nitrogen.
+*   **Roasting:** Can be done at home using a pan, spoon, or air popcorn popper. Listen to sound and smell to determine doneness.
+*   **CO2 Evolution:** Freshly roasted beans release CO2 (causing bags to puff); one-way valves allow this gas to escape. Oxidation accelerates once CO2 is gone.
+
+# Red Wine Braised Beef Color
+*   **Issue:** Braised beef often turns grayish/brown rather than deep red (Concord grape juice color).
+*   **Cause:** Emulsified fat in the braise dulls the color.
+*   **Solution 1 (Skimming):** Skim fat off the surface before reducing to a glaze.
+*   **Solution 2 (Stock Choice):** Use white veal stock instead of brown beef stock to reduce color impact from browned bits, though this alters flavor depth.
+*   **Solution 3 (Colorants):** Add high-colorant ingredients like Concord grape jelly or tomato paste to "cheat" the color (flavor will change).
+*   **Solution 4 (Separation):** Create a specific sauce from scratch to accompany the braise rather than reducing the braise liquid itself.
+
+# Tannin Reduction in Liquors
+*   **Mechanism:** Tannins bind with proteins to form larger complexes that settle out.
+*   **Method 1 (Egg White):**
+    *   Mix egg white and salt (salt helps proteins act better).
+    *   Stir into the liquid.
+    *   Wait 1–2 weeks for proteins to bind tannins and sink.
+    *   Rack (pour off) the clear liquid from the top.
+*   **Method 2 (Gelatin):**
+    *   Dissolve gelatin in the liquid.
+    *   Complexes with tannins and settles over time.
+    *   Rack off the top.
+    *   *Note:* Works at any pH; wine fining agents typically work at wine pH.
+*   **Method 3 (Milk Proteins):** Can work but often requires a low pH to settle properly, which may not be suitable for walnut liqueur.
+*   **Method 4 (Chitosan):** A protein-based alternative.
+*   **Ineffective Method:** Liquid nitrogen freezing did not strongly affect tannins in this context.
+
+# Duck Breasts
+*   **Target Temperature:** 57°C (135°F) for standard Long Island Peking style.
+    *   Tougher cuts may go to 58°C (136°F).
+    *   **Max Time:** Do not exceed 1 hour; meat can taste livery and turn gray.
+*   **Preparation:**
+    *   **Scoring:** Do not score the skin manually; it creates channels for steam that overcook the meat.
+    *   **Alternative Scoring:** Use a stainless steel dog combing brush (from a pet store) to whack the skin. This renders fat without overcooking the meat.
+    *   **Bagging:** Bag with duck fat only if necessary; skin fat is usually sufficient. Do not bag with butter.
+    *   **Searing:** Do not sear before cooking. Cook sous vide (or low temp) first, then sear to crisp skin.
+*   **Salting:** Do not salt before cooking. Salt immediately before searing.
+*   **Chilling:** Chilling after cooking is acceptable.
+*   **Technique:** "Low temperature for insurance" (sous vide) ensures the meat is cooked perfectly, allowing the cook to focus solely on rendering fat and crisping skin during the sear.
+
+# Cookies (Christina Tosi/Milk Bar)
+*   **Standard Method:** Cream butter and sugar for 10 minutes to aerate the mix.
+*   **Peanut Butter Exception:** Requires only ~3 minutes of creaming.
+*   **Reasoning:**
+    *   **Natural Peanut Butter:** Contains protein that acts as an emulsifying agent.
+    *   **Stabilized Peanut Butter (e.g., Skippy):** Uses hydrogenated fat (solid at room temp) to prevent oil separation, which also aids aeration.
+    *   **Stabilized Peanut Butter (e.g., Jif):** Uses mono- and diglycerides (emulsifiers).
+    *   **Primary Mechanism:** The tiny particles in peanut butter act as a whipping agent, carving holes in the butter during creaming, similar to sugar particles.
+*   **Observation:** Peanut butter itself can be whipped into a foam with added liquid.
+
+# Equipment & Techniques
+*   **Circulator (Sous Vide):** Preferred for tenderloin (target 54.4°C) to prevent mushiness.
+*   **Instant Read Thermometer:** Essential for measuring hot tap water temperature and checking meat doneness.
+*   **Ziploc Bag:** Used for the hot water bath method.
+*   **Dog Combing Brush:** Stainless steel brush with spikes; used to score duck skin without cutting meat.
+*   **Squeeze Bottle:** Useful for dropping oil onto soup for fancy plating.
+*   **One-Way Valve Bags:** Used for roasted coffee to allow CO2 escape while keeping oxygen out.

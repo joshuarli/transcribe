@@ -1,0 +1,507 @@
+This is Dave Arnold, your Cooking Issues coming to you alive from Rocke Center on Newstand Studios in the heart of Manhattan joined as usual with Nastasia the hammer Lopez. How you doing? Good. - Yeah, your week been okay so far? Nice good got John here with me how you doing great thanks. How's the customer service life is it just everything you'd always hoped? Super swell. Yep yeah get to run to Stanford later to go to offsite storage and get some parts to mail to people. Oh snap indeed it's gonna be the best yep yeah I have been well quick side note on that actually I've been telling everyone who has an old school spinz all lid the 1 with the clear plastic bubble on the top if you're having issues with that reach out to me and we can get that fix so that you don't rip the bearing out of the lid.
+
+Oh nice yeah cool all right working the boards here we got Joe Hazen how you doing I'm doing great you guys looking s really smart today.
+
+Why? Because you loaned me your fancy reading glasses because I forgot mine that's why and of course working our international intercontinental engineering needs we got Jackie Molecules.
+
+Hey how's it going it's going well.
+
+I am excited especially to have you I'm always excited to have you Jack.
+
+I even when you're just in LA
+
+And not in Mexico. Oh by the way were you back in the BC now. Oh you're what the hell dude you had to leave so that you couldn't like have fun during all the LA Super Bowl parties Yeah I'ming radio stu with the Lion Hotel so you sound excited to do it I'm sure if they listen to this they'll be like I'm doing radios and I know yeah well it's sad to miss the Super Bowl but I love no I love it here. CC's the best.
+
+All right sure all right but the reason I am excited and I'm hoping actually that you that you kind of punch in with questions Jack because today you have you are in a privileged position to ask specific questions that I might not think of other people might of because today on the on the program we have Francisco Magoya who is l most late latest most late latest project is modernist Pizza which came out I don't know how long ago did that come out?
+
+A couple months ago a couple month ago and it's like a it's like a pamp on pizza it's like a three-page black and white Xeroxed pamphlet on how to make oh no it's like an 8,000 three-volume with a kitchen set thing that comes in a in a water jet cut metal powder coated box but it's like a giant
+
+Pizza multi-toned pizza thing.
+
+Francisco thanks. How you how you doing?
+
+I'm doing well and you're doing well.
+
+Doing well so we're gonna obvio have a lot of technical questions but Jack did the editing on your modernist Pizza podcast right?
+
+Right so I so first you want to just pitch the pitch the question everyone wants to know why do I need 3 volumes that each 1 is like bigger than a presentation bible on piza.
+
+I mean there's a difference between need and want right that the biggest pitch here would be that it's when we were doing resear for this book and we were searching for pizza books first there's not a ton of them most of them are geared for making pizza at home which is fine but when we're doing research we're trying to find also books that are for professionals for people who make pizza at home and pizza I mean sorry in restaurants, pizzeria and so forth and I maybe there was 1 or 2.
+
+And mostly when you have a book on pizza it's it focuses on 1 style so either Think crust or New York style or Neapolitan and so forth so essentially this book the intent of this book is to be all-encompassing so
+
+every actual style of Pizza that exists, any environ it can be baked or cooked in, all of those aspects were taken into consideration and yes it was 4 years of research of doing a lot of travel, a lot of R D, a lot of experimentation to get to the results that for those of us who are fam or those of you who aren's familiar with books may know, which is basically a deep dive into the world of pizza and the most popular food in the world.
+
+You'll find pizza pretty much anywhere you go you can't really say that about many foods in the book I believe you say arguably the most popular because then obviously it's an argument. You don't have to prove it. What I'm saying.
+
+Y you I mean you have to maybe not everybody believes it.
+
+Yes that there's 2 countries and I forget where they are, but there's only 2 countries where there's like no trace of pizza. Oh where's that? You forget where they are but like if a like don't go there.
+
+I mean everywhere I've there's some pizza.
+
+It might be horrific you might be you might I had a I had a sweet durian pizza in Shen once oh no.
+
+It was like it was like cafeteria style crust what I'm saying like somehow like super doughy and yet also undercooked, like they left it in for a long time but still somehow it was gummy what I'm talking
+
+And plus the durian that's like the bonus. And then the durian on top and I was like oh durian pizza. But it was like sweet like sweet.
+
+And I was like this is not like I could have imagined a world like I've had alternative pizzas like I love the I don't know what you think about it, but I love the pizza that comes with the bonito flakes waving in the breeze from the heat of the pizza cooling off like I like that what I mean like I'm open I'm open to things but the durian pizza I was just like man plus did you guys do p I don't remember it I read the I read the book a while ago did you do pizza in China or no?
+
+No we did not visit nor do a like on the ground research in China okay but it's from what I hear it's in areas that's a little bit of a sort of like a fancy event it's not as casual as it is here in the United states like it's an event to go and have pizza.
+
+I have had take pizza also in China and I wanted to get your take on they the like the gloves that they pass out at a crab boil in Maryland.
+
+In China with the takeout pizza at least when I've had it again in Shen, it the you were expected to put on rubber like not rubber, the those plastic ill fitting plastic like polyethylene LDPE gloves. to eat the pizza and I wonder whether you'd ever encountered that and whether you also believe it's an abomination to eat pizza that way.
+
+I can't I mean, the only purpose I could see for that is to just not get your hands messy but it is there's other ways of accomplishing that are not using those gloves.
+
+But I have not encountered that no what are your thoughts on former mayor former mayor de Blasio who theoretically of Italian extraction first day in office eats pizza with it with a knife and New York style pizza with a knife and fork what are your thoughts on this oh boy I mean that those are it's not something you need to do but I would say that there are parts like in Naples where pizza comes from, you will eat pizza with the fork and a knife.
+
+No, that's where it comes from and that is where people will eat it with the fork and a knife. You can choose not to. But that's because and can we start this now Neapolitan pizza is not you can't it full if it gets limp in the tip. That like you can't get around it no matter how hard you fold it the sucker's gonna get limp in the tip.
+
+I am not I appreciate a great DOP pie, but I'm gonna say it's not the be all and end all of pizza. I know you s obviously you wrote a million pages on it but it's like if I had to press a button
+
+And eradicate 1 of the famous styles of pizza or I should say if I had to could save only 1 it wouldn't be that 1.
+
+No, and that in the book we don't necessarily say that this is the best pizza in the world.
+
+I don't think we really say that about anything in fact I because there isn't such a thing as the best pizza right when people ask me what is the best pizza, the 1 you like.
+
+Except for except for, you say that people who like their own pizza, and this is, I feel like the first 150 pages of the first book is paving the way for you crapping on New Haven piza that like honestly like as a guy that lived in New Haven for years like I feel like the first maybe 150 you literally say you have a there's a section of the book people exaggerating a bit oh there's a section of the book.
+
+You are exaggerating there's a section of the book called s but what about the pizza I grew up with and in this section of the book.
+
+This is what you're validating that argument, please don's listen, listen you liken enjoying the pizza that you from where you come, right, to the Stockholm syndrome.
+
+You literally say and I was like he's talking about New Haven people.
+
+I was like he's talking about New Haven and to some extent New Yorkers because New York pizza was let's be honest with a few exceptions like straight garbage in the 80s.
+
+What I mean like it was like it was not I mean there were like the classic places were here but it's like whatever.
+
+But it all goes down to you're you paving the way for crapping on Sally's and Peppy.
+
+Go ahead and let's get it out there.
+
+I like a burnt crust and I don't feel like I'm in stockholm syndrome like area.
+
+To have it out with me. You guys flew around the world the testing. 1 of the things that is gonna be complicated about this conversation we're gonna have right now is that let's pretend I'm let's pretend you're a Republican and I'm trying to convince you to be a decr Democrat.
+
+It's just not gonna happen but I'm gonna tell you how we came to this conclusion and maybe you can hear me or maybe not it's really up to you.
+
+That what matters most is that if I eat something that is burnt as a chef, whatever it may be, whetza or a piece of fish or a piece of bread if it's burnt, if it's burnt, we call it is burnt.
+
+But if you enjoy the taste of burnt, then that is fine.
+
+we pref we prefer to not have a burnt pizza.
+
+There's dark there's char if you have a Neapolitan pizza it has a little flex on it you go to some pizza like Raza, you have these bubbles that got a little bit darker which is it's completely delicious.
+
+But when you see this blackness in the crust I don't particularly like it I also don't when the crust is unseasoned the dough should have salt in it that it's a if somebires a taste for a dough that is made with very little to no salt
+
+Again, that's fine but it's always preferable to have about 2% salt in the dough yeah well we can all I agree with you and we can all agree that Tuscan bread's the worst bread in the world go ahead.
+
+But the there's a similar there's a there's that spirit to most of the pizza doughs that are made in New Haven which is that they don't have salt.
+
+You're also going to have every top 10 list of pizza there's like a pizzeria New Haven has everybody in this that writes these articles actually go to New Haven or is it easier to just say oh New Haven is great and to have a difference of opinion it's like oh what the hell are you talking about how could you have a different opinion from mine but our opinion is not just like we like we don't like it's more about okay we compare this we tasted this it's a pizza that is not what it's hyped up to be in our opinion in a from like a culinary standpoint it has it misses a few targets but if it's what you grew up with and that's what you enjoyed I mean who are we to tell you to not eat it I mean there's other pizzas that are better seasoned that are less burnt that could be tastier and you didn't like Sally's either right you didn't like Sally's or peppies.
+
+I mean that there could be vastly improved I mean there was an interest occasion where they brought a pizza to us it would look perfectly fine and then they're like no put it back in the oven get it darker and we're like No, it could it would have been perfect at that point.
+
+But that we can talk about new haven and how much we dislike the pizza if you like, but maybe there's other things we'd like to discuss when it comes to pizza but it's not our number 1 piza it's I don't think we spend 150 pages on it no, of time there again the first thing I did was turn to I gotta be honest, and a lot of people the first thing I did was I turned to this section on New Haven and then went and read the whole book with what you said about New Haven in my mind the whole time. That's what it was and by the way, I don't think they're the being all and end all of pizza either.
+
+I agree with you in a lot of ways that like 1 of the interest about certain Americks like American styles of things like hamburgers, pizzas, certain extent, certain hot dog things, like a lot of the old school people make a point of not tasting other people's products and so it's very hard for them to grow and to t to get better.
+
+I agree. I'm just giving you a little bit of a I'm giving you a little bit of a hard time for the oldown's sake all right? Come on, man.
+
+It's all right. I there it's a bit of a sore subject here because the everybody does have an opinion on pizza right and it people there's like a very strong it's like people on their sports teams right I mean I don't know if you find this but it'
+
+People will defend the 1 style they like to the death figuratively speaking, but there are very strong emotions associated with preferences of pizza.
+
+Or dislikes too.
+
+What about I was interested, because there's certain styles of the pizza that I've never had even though they're only a couple hundred miles away from me. What's with this Old Forge I've never even heard of Old Forge Pizza before I picked up your book.
+
+I'm surprised because there's a sign at the entrance of Old Forge that says best pizza city in the world. It must be and how could you not have been there?
+
+Old Forge is it is baked on a sh like a typically baked on a full-size sheet pan alum.
+
+The dough is kind of like white sandwich bread, so it's like soft, a little bit sweet.
+
+Then most places will like put the sauce down on top of the dough directly, then like chopped onions and then the cheese.
+
+These are and some people will love it and be fans of it and it's a style. It's definitely a type of pizza that numerous pe people in Old Forge really have a liking. Huh and so and the aluminum pans are shiny is that 1 of the reasons why there's no crust development dark it's not dark at all it's like they use shiny aluminum?
+
+No it's 1 of your regular kitchen sheet pans, aluminum so it'll also bend and warp as it's baking so you don't get like that nice crispy bottom underneath the pizza sounds delightful.
+
+It's yeah.
+
+If you had to say what style of piza let's assume it's not its own stylea Pizza Hut is what is it?
+
+Pizza Hut would call New York style a distant cousin a relative that they don't see anymore but they might have a maybe some DNA in common.
+
+Huh.
+
+Maybe that.
+
+But Pizza Hut used to be good. I don't know how old you are but 50.
+
+I know that there was a point where it I don'tall or maybe it is that childhood pizza syndrome that was enough cheese enough big enough it was good enough, but I seem to recall as a kid that it wasn't as terrible. We I grew up in Mexico City
+
+And we had Pizza Hut and it was like a special thing to go on your birth and maybe I have those sorts of associations with it, but it's definitely a very different animal at this point. I believe Pizza hut like 1 of the things they do is grease the hell out of their pan so that it like almost the bottom gets kind of fried and they need to do that because they viciously overtop their pizzas.
+
+What do what are your thoughts on viciously overtopped pizzas.
+
+I know some people like them, but that the problem you have with that is that sometimes it steams whatever's underneath it and it doesn't really whatever you having, including the dough could get stay like gummy.
+
+So I don't know if you've had like Chicago stuffed crust no, I've had regular Chicago b deep dish but I've had this no I've had the stuffed guy.
+
+The stuffed crust is almost it's you wonder why they put the second layer of dough there because it almost it's it stays it doesn't it never really cooks and so it almost feels like it's more cheese but it's really raw.
+
+Again sounds delightful So those are the things that happen. We did encounter a few horrors on this trip.
+
+I had a banana topped pizza in Buenos and I only had it because I how could I not?
+
+I mean it's on the menu.
+
+We have we have to see what this banana pizza is and it's as awful as you might imagine but
+
+There were there were a few of those things that we encountered throught the research.
+
+Is that part of your Brazilian crust pizza, which I know nothing about. I'd like you to tell me a little I've never been to Brazil, so like what's that what's that all about?
+
+So yeah, we went, we were on the fence on whether we should go to South America.
+
+But when we started to see like the visual aspects of the characteristics of these different pizzas we thought it's they look like they're actual styles that we need to see document learn about and also figure out if they should get a recipe in the book and Sao Paulo alone has 2,000 pizzeria I mean that's it's a large city yes but still 2 thous of anything is pretty remarkable it is thin crust it is a it has you can have like your average normal like tomato sauce cheese topped pizza but as happens in many places you have sort of like an adaptation of toppings that depending what's available people put on pizza so some of the things that we saw very frequently is like just canned tuna fish we had hard boiled eggs there was hearts of palm shrimp is a huge 1 like together on the same pizza
+
+all of that together all of that yeah and yeah but then you also like another common was like our pepperoni they call it calabresa and it's like a it's a similar sausage so it's a sausage that is popular in Brazil that they also put on a pizza and it's wonderful.
+
+But it's thin crust it has its own rituals too i mean that is another important cultural aspect of pizza is that wherever you go it has like different cultural aspects that are important to talk about like it's a people only have pizza for dinner in Sao Paulo.
+
+There are a few places that open for lunch but it's almost to have it for lunch.
+
+But here's an to the point of eating pizza with fork and knife that's how it's eaten in Brazil.
+
+The newer pizzeria is actually encourage people to use their hands to eat pizza but people eat it with fork and knife and it's like table side it's like a little fancier.
+
+People like go have pizza and the waiter brings you your pizza to your table and puts it on a tray on the side and will serve you slices as you'reating them.
+
+It's a little bit more there's a little bit more of a ritual around it that is more of a special event but if you go to Buenos Aires it's completely different and it's a completely different pizza it's I would say that 1 might be this most similar to Pizza hut because it's baked in a pan that is oiled
+
+It's a thick crust, and the amount of cheese they put on this pizza is insane.
+
+You cut a slice of a hot pizza and there's so much cheese that it just completely wraps the slice when it melts and it just pours down and covers on top of it but it's the sort of pizza you have 1 of 1 slice and you're kind of done.
+
+I don't I like a pizza that you could have 22½ slices that I'm more of a like I prefer that yeah what I do you know what I do all the time since I turned 40 I always put salad on my pizza no matter what it is I always order a salad throw the salad on the pizza you it shove it in my face.
+
+You feel healthier I don't feel healthier to you no I don'll believe in health but I don't know something about I just like having the green crunchy I guess it started.
+
+Nasty and I used to when we went to Roberta's all the time we would want to throw fresh arugula on our pizza and they would never give it to us so we started just bringing it with us.
+
+You imagine going into a restaurant with your own arugula with your own arugula and throwing on the Rice? Because they would cause why we did it because they had it in the restaurant but wouldn let us buy it isn't that messed up anyway so like yeah we used to do that.
+
+That's what I do and I'm a Maharish. I also use an unconsurable amo crushed red pepper but that's enough of me so how did this work in the book did you guys do.
+
+The trip in the middle of writing? You could tell me. The way you started is you start like here's the styles and then here's the research but you had to have done a lot of preliminary research before you did the trip, no?
+
+We started the project towards the tail end of our bread book which came out in 20 so there was a period of time where the kitchen staff including myself were done with all of the material we had to turn in for the book.
+
+And so between that happening and starting the new publishing the hard print of modernist bread we got working on the pizza book so there was a good about year or so of RD and experimentation that occurred before we started going on trips.
+
+Because the more we read we also there were things that we learned about pizza that we didn't know like the fact that there is distinct styles of pizza in South America or how fanatical people can be about Neapolitan pizza in Toky for example all of these things that you start to learn as you start to dig deeper and deeper.
+
+So the trips occurred I would say most the bulk of the trips were in 2018 so on year 2 of the project and those really helped either clarify the vision or fine-tune recipes or completely eradicate recipes and basically rewrite them because the idea
+
+was to basically learn to go to differ different pizzeriaas and pizolas that were willing to talk to us and show us how they did their pizza there were there was some a lot of learning that came from that including that there's no 1 standard way of making like in Naples, there's like the VPN, right but nobody really folls it.
+
+There's no it nobody folls it to the T, but you sort of have to get the certification but everybody does it slightly differently or vastly differently there's many changes that people do and adapt their recipes to which we also mention the book and because there were different ways of making Neapan piza in the US you have like the long 48 hour, 24 hour cold proof in Naples it's overnight at most and then there's a VPM version so we have 3 very different Neapolitan sty recipes they're all like for a different and a differ but those were the things that we learned as we went and we just started to like insert them into the book as we saw.
+
+As a breadhead and a pizza head, do you think that the cult of hyperlong fermentations is gone like overboard in this country?
+
+That it's almost like remember like the cult of espresso where the espresso all of a sudden now is like only like 10 out of the out of the puck it's like you think that it's gone
+
+beyond like what you would need because like for me I know I have a problem. I do a lot of whole wheat stuff so like if I let my stuffo go that long it gets slack because I have too much I have too many enzymes in my dough so everything gets slack if I let it go that long.
+
+I agree that there is a sort of like a sweet spot for cold proofing which is between 24 and 48 hours but we did have a lot of pizza that are doing like 7 to 72 hours 1 guy that's doing Roman pizza like he even advertises on his menu the 96 hour cold proof it's not it I don't know that it makes things better.
+
+I don't know that cold proofing is all that important really if you're fermenting your dough properly that it I mean it slows things down you have whatever activity would happen at room temperature happens in refrigeration too just a lot slower.
+
+It does make the dough easier to handle. That there's there are some pros to cold proofing your dough but I would cut it off at 48 hours. I would say that after 48 hours you're really not going to be seeing very much improvement on your dough but if you if you do like our master Neapolitan pizza dough is a 24 hour bulk fermentation at room temperature.
+
+It never touches the refrigerator so how hard is that to titrate though how like how hard is it to get your yeast dosing exactly right
+
+to hit 24 hours at room temperature?
+
+I mean there's we had the precedent of what we learned from our bread book which was multiple experiments on percentages of yeast you more or less when you make a lot of dough there's a point where what understanding a recipe by baker's percentage that you understand what percentage how long it's going to take to ferment from point 1 the difference between.2, point three.5, how long, how much time you have, it kind of becomes this I guess second nature understanding of how much yeast is enough.
+
+But also because for example, if you think of a preferment like police, if it's a if it's a preferment that you're gonna do you know 18, 24 hours ahead of time, use a minuscule amount of yeast.
+
+Then we thought what if we just do this for the dough and we didn have to do a lot of tries to realize that was just the right amount.
+
+You rely a lot on like background work that you did beforehand to get to these numbers.
+
+And as a as a chef as a cook your go-to is what SAF Red?
+
+I know you give exhaustive ways to like go back and forth between the different yeast but I mean is there a reason for the average person even professional to use anything for pizza other than SAF red SAF Red is good because it's instant and that SAf is the brand and for those who don't know if they
+
+they find other brands of instant yeast that work fine but that's the important distinction to use instant versus active mostly because instant has more live yeast cells per g than active does because the process of producing active yeast is a little harsher on the on the yeast cells so there's more dead yeast cells which is why you have to use like hot water to kind of like wake it up and break through all the dead yeast cells to get to the living yeast cells and so that alters your dough temperature so it's kind of a mess to use active so don'll use active if you can avoid fresh is fine for those who do not know it's basically it's yeast that is in a in a in a moist form in a in a like a cake if you will it's it looks like about a lb of butter has a similar look but it's already hydrated the problem we have with fresh yeast is that not every maker will put its expiration date and you only really have like 2 or 3 weeks to work with it before starts to decline so if you have a lot of production and you do a lot sure go ahead and use fresh cake yeast but if you're doing it every now and then or if you're not sure about the shelf life of your yeast just use instant yeast.
+
+Even in professional environment though even in a professional environ I mean I don'll I mean have you've done the test so you tell me any flavor advantage to fresh I don't think so
+
+No, and that's, but people will die on their sword on it right and so that's why we wanted to make sure okay if we're gonna say it's instant then we need to back it up and so we did numerous tests on flavor is very subjective so that was the last thing we taste we tested we wanted to see if it had an effect on the rheology of the doug meaning how the dough the integrity of the dough so we would make a bunch of different percentages of yeast with both instant and fresh with different flowers, different hydration proportions and then we put it through a machine that'est call an extensograph which is a machine that is going to basically you put a strip of dough on the machine and it's like a robotic finger that goes up and down and so it basically pulls the striph and once it snaps what it's gonna tell you is how extensible the dough is basically how much can I stretch this dough before applying X amount of weight to it will make it basically rip and so we didn't see a lot of differences to that would be remarkable that would say use this yeast instead of that yeast.
+
+And the flavor part I mean like that is different from each person you really would have to bake the pizza on its own without any saucer cheese to be able to really tell the difference if there was a taste difference because that's just the nature of pizza it's bread with other stuff on it but in our triangle tests the triangle tests
+
+are tests that you do to get people's unbiased opinion on what they perceive from what they're tasting whether there's a difference between 1 thing or the other or no difference at all so we weren's were not able to detect people were not able to detect strong differences between pizzas made with 1 type of yeast versus another yeast.
+
+There's there is something to be said if you've always used fresh yeast and it's always worked for you then great you don't need to switch and if you've always used instant don't feel bad that you're not using fresh there they both can be used interchangeably if you use them in the right quantities you need a lot less of the instant because it's dry than you do of the fresh because it has water so you just need to know what the conversion is from 1 to the other.
+
+And speaking if you like conversions or if you like tests of things, you gotta check out the book.
+
+Because it's all of that stuff there's a there's a page where you guys review all the different flowers and actually surprising I's 1 of your main recommations for a lot of styles is kind my standard kind of house brand which is hackers you use a lot of hackers. What draw what draws you to them.
+
+so I started to use hackers 1 of the people that we learned a lot from is Tony Gemignani in San Francisco.
+
+And I took a few classes with him and worked at his pizzeria
+
+to basically learn how he makes pizza.
+
+And that's 1 of the ones that he uses for a specific style of pizza he likes the strength that's in it's a really it's a higher protein content flour that has a particular strength but it also stretches nicely.
+
+Because you can have flowers that are very strong that you're to extend and there's just like a rubber band that pulls back.
+
+An ideal flower is gonna have a dough that's gonna produce a strong dough but it also can yield to pressure wit the doug so you may or may not know this but heckers has another name it's also called Sarasoda not spelled like Flor name not spelled like florida spelled with a C.
+
+No.
+
+Correct. And it's the same flower.
+
+If somebody can't find Heckers for some reason Sarasoda is the one-to 1 it's made by the same company they just have 2 different names.
+
+Why do they do that it's like Hellman's mayonnaise and best made it's the same mayonnaise what the heck?
+
+Dumb I don't know.
+
+I don't know I have no idea it's a great question though so for my crew because I'm gonna have to ask the questions in from the Patreon a minute before we run out of time but for my crew things like they're gonna they're gonna love things like vacuum draining of the mozzarella you want to descriptions like that my crew might particularly enjoy.
+
+I 1 of the things that we were thinking is like when you buy fres mozzarella it comes in this ball
+
+It's about a hundred g ball on average.
+
+But every pizzeria that I know that utilizes that type of mozzarella, what they do is they have to basically cut it.
+
+There's different ways of cutting it and then they have to drain it, whether it's overnight in a like a some sort of straining environment or cheese top, what have you, because there's too much moisture in it.
+
+And so I keep wondering why doesn't somebody already sell this cheese already pre-cut and pre-drained so I can just use it.
+
+And the thing is like you can do your own if you wonder there's different ways of doing it but you can also 1 of the ways to do it is to put like the fresh mozzarella cut it in the shape that you want to cut it what works great for cutting fresh mozzarella easily is a fren.
+
+Really it cuts them into perfect yeah it cuts it into basically even size pieces of cheese.
+
+You don't have to freeze it.
+
+No, no it cuts the what I like to do is like I'll put 2 inside the French fry cutter so that the 1 behind pushes the 1 in front and so forth but you get these evenly cut pieces of cheese that what we like of that is that it'll melt.
+
+They'll melt at a similar rate.
+
+Which cutter are you using which size cutter?
+
+Oh I'll have to get back to you but it's the biggest 1 you can find and we found it, can I say where
+
+Because it's yeah, it's call the Webron store?
+
+Oh yeah but they those guys are evil but yeah sure that they have everything they're not that it's not that they're evil it's not that we I'm sorry I maybe the I'm have nothing against them other than they've swallowed up a lot of business what I'm saying sure I mean th the bower is a shadow of its former self yeah well if I was gonna say you might find it in the bowery i mean I don't how far people live that live in your or listen to your show but the Bowery would you can certainly find it there.
+
+But it's a very restaurant specific piece of equipment that it's got these like feet that are like suckers so that it can really hold on to the table.
+
+But that's the 1 we use and it cuts them to the same size. But anyway so you using like the half inch probably right the 13 millimeter cutter?
+
+That's the biggest 1 you can find.
+
+They do a wed they do a wedge cut but you're not using the wed cut right you're using a square cut no yeah square cut so it's probably there's an attachment there's an attachment for a Robo that you can also do it but a Roboc is really expensive so maybe not everybody has it French it's something that it' it was less than a hundred bucks I mean have you had luck with the roboo because it mutilates cheese when you're putting it into it what I mean it's oh I don't yeah I don't love it I like to I prefer to use the French for cutting even shapes.
+
+Because you can hand tear too but they also when you hand tear
+
+It's a pretty nice look, but the hands here, you have different pieces, different sizes, they're gonna melt at different rates.
+
+Even if we're talking about 60 seconds or even more, like because you can use fresh mozzarella on any pizza you want but if you have like very small pieces, very large pieces, they're gonna melt at different times.
+
+And also therefore brown at different times if it's like a longer, longer bake.
+
+But putting the cut mozzarella inside a carry back bag with clean paper towel, you pull a vacuum, you have an instant strain because sometimes you can forget. I mean it can happen. You have to plan ahead.
+
+And that's when we saw that we was like well people could just buy it like this why not be able to provide this sort of service if you're selling fresh mozzarella, especially if you need to you maybe you don't enough people working in your kitchen, maybe you're short stuff, maybe you don't have a bunch of time.
+
+It certainly is a convenient product that could be sold. I know some of my friends they sell like an intermediate cheese, like it's like halfway between a mozzarella and a scomorza, but it's not the same thing as cutting it and draining it what I mean it's not the same product.
+
+It melts differently it has slightly different taste for sure. And 1 more question from me before I get to them.
+
+I'm gonna get my head stabbed by John here for not getting to the proper questions but this is going into bread into back into bre bread head again, but as part of piza so
+
+How we all talk about hydration.
+
+But the hydration we always on the on the dough side before it's cooked.
+
+And you and I both know that protein is a factor, damaged starch is a factor, whether there's bran, other inclusions that have that hold on to water as a factor.
+
+And almost all of the resear that I've read focuses on the what the water does to the dough when it's still a dough including up to like the size of the buball as it's raising et cetera, et cetera.
+
+And you've done amazing work in modern spread and here showing the effect of hydration on cooked on the cooked dough structure but what does the high let's say that you could have 2 differers and you could get them rheologically identical.
+
+Again, rheology for those of is the is the is the kind of texture and pull and snapping of the dough you could get them identications what effect would that have on the cooked product that the most 1 of the things that you're looking at on a on a cooked dough is that water is going to affect how long the dough is going to take to bake as well.
+
+Because there's something that occurs inside a dough while it's cooking that is extremely interesting it's called a heat pipe effect which is that once you put your dough inside the oven
+
+What's going to be happening is on the surface the surface is what gets hot first right because it's in closest contact to this hot environment and so what occurs is the water that is on the surface the little droplets they're basically going to get hot enough that they're gonna turn into steam and then that steam has to go somewhere.
+
+The heat pipe effect is a property of steam that what it likes to do is it likes to find a cooler spot so once that dough starts to get hot on the surface the steam is not escaping what it's doing is it's digging deeper and deeper into the dough so basically when you look at the dough at a dough next time at a baked loaf of bread you'll see the crunch structure there isn't a single bubble that will be intact there is they're all basically inflating with steam they pop and then they go to the bubble directly below them or in closest contact to them and then the same thing happens again it expands and then it pops and it goes down again.
+
+Steam is finding the coldest spot and it's always going to be at the core at of the dough so once the temperature at the core of the dough starts to sort of equalize to what the temperature of the steam is then the steam is gonna start to escape from the surface.
+
+The more water that you have inside your dough the longer this process is going to take.
+
+Additionally more water is going to mean that the crust is going to take a longer time to set.
+
+If you want a crispy loaf of bread
+
+nice crusty sourdough, if it's very high in hydration, it's always worth venting, meaning either cracking your oven dough a little bit longer or if you have like an actual bread oven opening the vent for a little bit longer.
+
+You can form a nice crust on the outside of your loaf of bread.
+
+It's it has to do with the duration of the bake and with formation of crust as well.
+
+That heat pipe thing was my favorite thing from modernist bread I have to say.
+
+It's great isn's it's I love explaining it because when people first it's right the first you think, oh well heap is heat is escaping the steam is coming out as it's baking and it's actually it wants to go to where it's coldest and that's it's a very interesting phenomenon that occurs.
+
+And it answered for me a question that I had forever why does banana bread take so long to cook?
+
+Why does banana bread take so long because it doesn's that open structure on the inside.
+
+That's why it takes an hour or more to cook a banana bread, even though it's what I mean?
+
+Because everyone's like oh it's cooking at a low temperature it's like no it cooks at a low temperature because otherwise it would burn in the length of time it takes to cook.
+
+It's right i that's why what I mean it's like to me like as soon as I read that I was like it was like I had the I hit my head and I said I could have had a V 8. I love that. That's great stuff. So I have a question but also go ahead.
+
+No. And the other thing is banana bread is really dense. Banana bread is super dense and so that it's very comparable to like a rye
+
+bread. These are breads that are very dense they're gonna take long periods of time to bake.
+
+A rye loaf of bread is rye can absorb up to sixte times its weight in water.
+
+that these are why these breads they take so much longer to bake, but also why they last so long. They don't stale as quickly as other breads might because of the ability of water retention and the type of starch that you have in rye bread.
+
+That was just a quick on density well the thing about rye though that's such a pain is that you have to wait so long after it comes out of the oven it just takes so long to set.
+
+I hate that yes. The other the other is that you can't speed it up. There's no because it's so fragile that you can't vacuum speed it.
+
+If you's like a high protein flour and you want to vacu it you can vacu it and sure you might like rupture some of the stuff on the inside but you'll just destroy rye bread by throwing it in a vacu machine to cool it what I mean? Just freaking ruin it. You can't speed cool it.
+
+W 1 more question on this. Do you have a trick and I don't remember, because it've been a long time.
+
+1 of the issues that people if they think about it have with very high hydration products like whole wheat like rye is that they mold very quickly so like they don't stale but they also they mold. Is there like anything you have for that?
+
+The why do things mold is because they're sitting out in an environ that's mold finds
+
+friendly. I would say that being preemptive is probably your best solution.
+
+If you have bread and it's been sitting out for an extended period of time is because you're not eating it fast enough. Why not freeze some?
+
+I would cut the slices that I want, wrap them or putting in some sort of enclosed environment and freeze them.
+
+Because once they're sliced, they're gonna thaw a lot faster. And they'll also if you're gonna toast them, they'll toast faster and you don't cut this like frozen piece of bread. I would say that would be a way.
+
+Otherwise you're looking at adding certain ingredients to bread that are like for reducing mold.
+
+I don't know that I love adding that those like sodium benzoite like I don't know if I wan that to my because it'll kill the yeast too like there's all of these like side effects to utilizing those ingredients. No I'm with you and you can toast from frozen too. All right.
+
+Can you put on your chocolate hat for 1 minute you bet all right Justin Sherrell writes in I've been buying deodized cocoa butter for use in making chocolate bars.
+
+Most of what I have received has had some plastickish smell to it probably from storage or maybe from the deodorizing process or me I guess from not deodorizing it enough.
+
+Any chocolate I'm I any anytime I add more than a little bit of this cocoa butter to the chocolate, it takes on that same smell. Especially in milk and white I've tried several different suppliers with hit or miss results. It's not a strong smell but given it's 1 of the 3 main ingredients it matters.
+
+Can I deodorize it further or is there some way to mask or overwhelm this that initially what you should do is probably get a different source of deodrize cocoa be cocoa butter the 2 that I would recommend is cocoa berry you can and it's very convenient because it comes in like these tiny like teardrop size pieces so you don't have to like cut this huge chunk huge block of cocoa butter so it melts very easily I've had any problem with that with coco berry cocoa butter.
+
+And Valrona you can also get cocoa butter from them.
+
+I mean these are re reputable sources.
+
+I have looked for deodorized cocoa butter for other purposes just like whate brands to see what would be available that is for most people they're typically not very good and they're not a hundred percent deodorized, but these other 2 brands I would recommend.
+
+But can you stir like an adsorbent like bentonite and let it settle out will that do anything in a in a in an oil based thing or can you keep it hot for a while to flash off the volatils? Is there any other thing that works?
+
+I don't know that it's I mean I would I would say that because it's a fat soluble taste and aroma, it's going to be very hard to get rid of like if you were to infuse vanilla into like butter
+
+how do you get rid of a vanilla taste like completely.
+
+You that the amount of time that it would take to do that I mean these do these are oils that merge into each other and can't really separate them so I would say use that cocoa butter for other purposes.
+
+Get a fresh bucket of coco berry or valrona and we you won't to worry about that problem anymore.
+
+And they come in like 5 kilo tubs or something it's like a good amount so I wonder whether they stored the cocoa butter he's getting in PVC because PVC like PVC wrapping because how awful that stuff smells. What I mean like yeah it could be and any fat that it touches like when so you when someone takes a nice piece of cheese and wraps it in that stuff and then the whole freaking cheese smells like that makes so angry.
+
+Right yeah okay Roger Chi wants you to know that you are sorely missed in Poughkeepsie and your awesome Hudson chocolates are sorely missed. Are there any plans for a modernist pastry.
+
+I can't say yet that we are working on well I 1 because of the other I can't and therefore I won't.
+
+Because we're working actually on a couple of different projects right now and it will all eventually come to light but that's as much as I can say right now
+
+And then we have from Pain MJ also basically the same question. What's the ne what like what's next on your plate? Because as we know from reading your current book, you started that while you were still working on other ones. We know you're already working on something. We are so they assume that you will not reveal what you're what you're gonna do, and then link to that wants to know regardless what we on the show think you should work on.
+
+You look obvious I mean pastry is a big gap you haven't done cocktails yet you haven's stepped into my into my little corner of the universe yet but I don't know like what do you like aside from what you're working on what are you interested in thinking about right now I guess we'll put it that way.
+
+An interesting when we finally reveal what this is nobody's gonna be surprised I can say that it will be like oh okay cool but that there is a an entire world out there of baked goods that require our attention and it's something that has really interested me and therefore those of us who work here so that if we're working on anything in earn earnest it's these this particular world of baked goods. What do you think about the panotone explosion of the past 2 years?
+
+It's great mostly because whenever
+
+you or a baker would make them, let's say 6 years ago, 7 years ago.
+
+What the general audience had them to compare had to compare them to would be the junk that you get at the grocery store that's made 13 months ahead of time in some factory maybe not in Italy.
+
+And so they would say like why are you charging 50 dollars for these things when I can buy it for 5 dollars at my local deli or even my like stop and shop or whatever grocery store you have to and it also like made people they dislike it so much that what they do is they'll toast it and dunk it in coffee and like that's to me is just wrong.
+
+So I'm glad that all of this pentone exclusion is happening.
+
+We need to basically the person to thank is Roy Schwarzappel in California.
+
+He's single-handedly made this bread popular again and he's made popular to have not just for the holidays it's a year-round thing right it's like pie.
+
+Is pie supposed to only be had in Thanksgiving or can we just have pie year round? Don't get me started on pie. Don'll you like pie? I it's not that I like pieces obsessed a fanatic doesn't even begin to describe it yeah it's a good obsession to have well in fact I was gonna not get into it but like the 1 thing about the oldforge pizza is they refer to it as a cut. And my favorite guru, my pie guru to end all pie gurus also
+
+at time to time would refer to them as cuts not as slices of pie.
+
+I'm all for whatever starving vi starving violist writes in violist not violist.
+
+I'm looking forward to talking to you Francisco, I'm looking forward to hearing you on cooking issues I'm a devoted Holmes hobbyist cook and have invested what some would say is an insane amount of time and energy baking from modernist bread since it first came out my question is about hand mixing versus machine mixing no matter how thoroughly I mix my bread by hand the gluten development and resulting loaf volume never match the loaves that I make with a mixer even after adding additional stretch and folds and every trick suggested in your book, the hand mix loaves never seem to reach full gluten development. Am I missing something perhaps a temperature factor. Modernist cuisine and other reliable breads claim the hand mixing is if anything superior, but my hands tell a different story.
+
+Please help.
+
+There's a few things without having seen the process from beginning to end that I could make some assumptions on the first is make sure that you're using strong bread flour I mean that's number 1, right and the second would be that some things that could help is mixing if you're gonna just do folds I would say do your initial mix.
+
+First try Autole and by this I mean just mixing water and flour if you have a preferment you can throw that in there.
+
+Let those ingredients like just mix them
+
+to they look like a almost like a paste let them sit for half an hour then add your salt and whatever the ingredients and do a more thorough mix by hand.
+
+If you're just mixing in a bowl that could slow things down but after you do that initial mix put it on a wood table or a marble and then knead it on that you're gonna get a lot more bang for your bucks there with physical exertion and so mix it there until it starts to get some body and some stretch and some elasticity with the kneading motions that we show in the book and then something that could help develop your dough is that instead of doing your bulk fermentation at room temperature if you do it in a warmer envirment that helps to stren the dough it also is good for fermentation it's good for a bunch of other things but if you can find a place to put your dough that's about 80°F, this is gonna have a really good effect on your bulk fermentation on the doug as far as strengthening and flavor development and tenacity.
+
+And in reality if you're not doing if you're doing all the folds and that's not enough just keep.
+
+Really keep going with the folds.
+
+If it feels like the dough is getting too bubbly and gassy then at this point switch it into a cooler environment. You can basically determine the how the fermentation curve is gonna go by how well you can control the temperature.
+
+If let's say you don't have a place to keep it at 80°F Well maybe you fill a bag with warm water and the tub sits on top of that for in between folds.
+
+Maybe you have a like a 1 of these like back warmers. People put him on their back to if they have like sore muscles or whatnot that could help.
+
+Yeah there's different ways of keeping warm environs that don't require like a ton of money and if it's you need to cool it down just put an ice pack on top of it and before you give it a fall so that the cold goes disperses inside of it or maybe the tub is sitting on an ice pack just cooling down.
+
+You're basically slowing down or speeding up the yeast as you see fit but I would say if it feels if you've done 6 or 7 folds and it's still not a hundred percent there just keep going and control the temperature of your dough so all of those factors should I hope help from getting the right flour to the autolase to doing a more robust initial mix by hand and then just doing temperature control between folds from start to finish until you reach the elasticity you're looking for good tips lightning round 4 questions, 2 minutes. Mood therapist pineap on piza thoughts.
+
+it's fine I wouldn't order it but if it's what's available I'll have it and it's always better to use fresh pineap than canned pamet ooh interesting we don't have the time to get into it from Frank Mosca longtime pizza home pizza maker and enjoying modernist Pizza Podcast. Also shout out to Jackie Molecules Something I have been curious about for a long time. It seems like the Italians are the only culture who specifically talk about digestibility when describing their pizza and I find it quite common this triggers nostasi as well she hates this as if a point of pride selling point or even a defining characteristic.
+
+I guess the point is that fermentation has an impact on how our bodies process oh dude I got fifte seconds all right what's the answer is that it's a little bit of BS and there's really no way to measure digestibility because it's different for everybody all right and Quinn wants to know on the way I guess is the last 1 we're gonna get to wants to you if you have any advice on the way out for people breaking into culinary consulting especially when part of the value proposition is using modern and technical ingredients he has a good ice cream book you should look at by the way yes it's called frozen desserts and I'm the author of it nice no but like no but no I's saying no but how do you how do you get into the how do you get into this business of consulting yeah oh my god I don't know linked I mean you gotta meet people you have to go out and unfortunately meet people I don't know there's there' many different approaches a great answer thank you well Francisco thanks for coming on check out the Modernist pizza podcast edited by our own Jackie molecules check out modernist Pizza the book how much is it cost nowadays Francisco

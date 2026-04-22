@@ -101,7 +101,7 @@ def normalize_numbers(text: str) -> str:
         try:
             out.append(str(_w2n.word_to_num(" ".join(span_clean))) + trailing)
             i = j
-        except ValueError:
+        except ValueError, IndexError:
             out.append(raw)
             i += 1
     return " ".join(out)

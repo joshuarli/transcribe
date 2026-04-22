@@ -1,0 +1,132 @@
+# Gelan (Gellan Gum)
+*   **Composition:** A mix of high acyl and low acyl gellan gum produced via microbial fermentation by CP Kelco.
+*   **Functional Properties:**
+    *   **Calcium Requirement:** Requires calcium to set. Can be used for spherification if pure water is used or a sequestering agent (calcium binder) is added.
+    *   **Mouthfeel & Flavor:** Excellent mouthfeel and flavor release; used in very small quantities to create firm gels without masking flavors.
+    *   **Heat Stability:** Gels can be boiled without breaking down; suitable for very hot gels.
+    *   **Texture Control:**
+        *   *High Acyl:* Rubbery, stretchy, bouncy.
+        *   *Low Acyl:* Brittle.
+        *   *Blend:* Combining both allows for any texture in between.
+    *   **Fluid Gels:** Can form fluid gels that shear into small particles. At rest, particles adhere to form a gel; when sheared (poured, spooned, or chewed), it reverts to liquid properties.
+    *   **Application:** Used for hyper-creamy, torchable ice cream.
+
+# Deer Meat Preparation (Hunter's Question)
+*   **Context:** Hunter has a buck (older animal, potential gaminess) and plans to cut steaks from the ham/hindquarter area.
+*   **Gaminess vs. Tenderness:**
+    *   Gaminess intensifies with longer cooking times.
+    *   Older animals have more connective tissue requiring longer cooking to tenderize, which risks accentuating gaminess and drying out the lean meat.
+    *   Younger deer are less fatty and dry out instantly if overcooked.
+*   **Temperature Parameters:**
+    *   **Range:** 54°C to 57°C (130°F - 135°F).
+    *   **Lower Limit:** Do not go below 54°C for long cooks due to safety.
+    *   **Upper Limit:** Do not exceed 57°C.
+*   **Technique:**
+    *   **Salting:** Do not salt before the secondary cooking process (sous vide) to prevent texture loss.
+    *   **Searing:** Can sear beforehand, but bag in butter/oil (neutral flavor) before cooking.
+    *   **Thickness:** Cut relatively thick steaks (similar to beef steak thickness) to avoid overcooking during searing.
+    *   **Testing:** Cook a small cube at 55°C for 48 hours to test tenderness and flavor before committing to full cuts.
+        *   *Mushy:* Cooked too long.
+        *   *Not tender:* Cooked too short.
+        *   *Too gamey:* Increase temp by 1°C and reduce time significantly.
+        *   *Undercooked:* Increase temp.
+*   **Alternative Method:** Cut very thin (like pork chops), high-heat pan sear quickly. Toughness is ameliorated by sear flavor and thinness, though this is not the preferred method for proper cooking.
+
+# Steak Cooking (Strip & Ribeye)
+*   **Ribeye:** 55°C is ideal.
+*   **New York Strip:**
+    *   Considered a tougher cut than ribeye due to cartilage/fat line structure.
+    *   **Temperature:** 55°C is fine, but 56°C may be better.
+    *   **Time:** Minimum 2 hours at 55°C to soften; optimum around 4 hours.
+    *   **Resting/Re-therm:** After cooking, drop circulator temperature to 50°C (122°F) for 30–45 minutes to let the center cool before searing. This prevents overcooking during the sear.
+    *   **Searing:** Sear aggressively ("sear the bejesus out") after the re-therm step.
+    *   **Safety:** Keeping meat at 50°C for a short duration post-cook is safe.
+
+# Zabaione (Chilled)
+*   **Problem:** Liquid separation after chilling (4–6 hours).
+*   **Cause:** Undercooking. Fear of curdling leads to excessive whisking (creating foam) without sufficient heat to thicken the liquid. The foam collapses and separates upon cooling.
+*   **Solution:**
+    *   Do not fear curdling.
+    *   Whisk until the *liquid* is thick and creamy, not just foamy.
+    *   **Heat Source:** Can cook directly over a flame using a smooth-bottomed bowl with a loop handle.
+    *   **Carryover Control:** If worried about carryover heat, have a pan of cold water nearby to dip the bowl into while beating.
+    *   **Stabilizers:** Avoid starches (e.g., xanthan) as they muddy the light, ethereal flavor.
+*   **Recipe Ratios (from caller):** 4 egg yolks, 1/4 cup sugar, 1/2 to 1 cup red wine.
+
+# Methocel (E4M) in Meringues
+*   **Issue:** Fishy/chemical smell in meringues; failure to stabilize.
+*   **Properties:**
+    *   E4M (1% solution) is ~4,000x more viscous than E1.
+    *   Good for film forming and whipping aid, but poor at gelling.
+    *   **Flavor Threshold:** Tastes awful above 1% (10g/kg). Acceptable up to ~0.8% (8g/kg) with strong flavors (e.g., passion fruit, tamarind).
+    *   **Structure:** Needs bulking agents (e.g., maltodextrin) or pectin mixtures to provide structure; Methocel alone is insufficient for stable dehydrated meringues.
+*   **Dispersion Techniques:**
+    1.  Mix with corn syrup or sugar, then blend.
+    2.  **Hot-Cold Method:** Dissolve in very hot liquid, blend, then add cold liquid to hydrate.
+    3.  **Overnight Hydration:** Let mixture sit overnight to fix hydration issues.
+*   **Recommendation:** Try 0.8%–0.9%. Do not exceed 1%. Use as a whipping aid, not the primary structural agent.
+
+# Equipment Recommendations
+*   **Immersion Circulator:** Recommended for home hunters to cook game meat precisely.
+*   **Vacuum Chamber Machine (e.g., Multivax C200):**
+    *   Used for preserved lemons (target ~20 millibar).
+    *   Benefits: Rapid infusion of salt/juice; creates oxygen-free environment for anaerobic bacteria/yeast; eliminates need for weighting jars.
+*   **Large-Scale Blending (5 Gallons):**
+    *   *Vitamix:* Good for initial breakdown, but struggles with hard seeds at scale.
+    *   *Rotor-Stator Homogenizers:*
+        *   *Floor Models:* Two stacked blades in a 5-gallon drum; tilt-out design. Expensive, restaurant-grade.
+        *   *Inline Rotor-Stators:* Pre-pulp through, then annihilate through the rotor-stator.
+        *   *Sourcing:* Contact manufacturers directly to ask for units capable of specific tasks; they often sell to individuals.
+*   **Transglutaminase (Meat Glue) Setup:**
+    *   Arrange meats in concentric circles based on target internal temperatures.
+    *   **Layer Order (Outside to Inside):** Turkey skin -> Turkey breast -> Chicken breast -> Sausage forcemeat -> Duck -> Squab (center).
+    *   **Cooking Profile:** Roll into a tube, cook at 64°C (147°F) until the center (squab) reaches 56°C (133°F).
+        *   Turkey target: ~64°C.
+        *   Chicken target: ~63°C.
+        *   Sausage target: 58–63°C.
+        *   Duck target: 57–58°C.
+        *   Squab target: 56°C.
+    *   **Finishing:** Chill slightly, then deep fry the outside to crisp skin.
+    *   **Alternative:** Confit leg meats separately at 82–85°C (180–185°F) for a couple of hours, then serve side-by-side.
+*   **Hot Sauce Production:**
+    *   For finer emulsions than a Vitamix, look for large rotor-stator homogenizers.
+    *   For hard seeds, initial mechanical breakdown is required before homogenization.
+
+# Preserved Lemons
+*   **Vacuum Process:** Place cut lemons, salt, and juice in a vacuum bag/chamber. Pull to ~20 millibar. Repeat 3 times. Bag and seal.
+*   **Freezing:**
+    *   **Purpose:** Repetitive freeze-thaw cycles break down and tenderize the tough texture.
+    *   **Flavor:** Changes flavor profile (e.g., bergamot/Earl Grey notes).
+    *   **Speed:** Accelerates preservation/fermentation.
+*   **Traditional Fermentation:** Relies on symbiotic yeast (producing alcohol) and acetic acid bacteria. Takes longer than vacuum/freezing methods.
+
+# Deer Parasites & Safety
+*   **Parasites:** Deer can carry tapeworms and other parasites.
+*   **Freezing:**
+    *   Does **not** kill bacteria (bad for dry curing without a cook step).
+    *   **Does** kill trichinosis and tapeworm cysts.
+    *   **Requirement:** Hard freeze at 0°F (-18°C) or lower for well over a day.
+*   **Cooking:** Any low-temperature cooking method that kills bacteria will also kill parasites.
+*   **Risk:** Primary risk is bacterial contamination from poor slaughter/shooting, not necessarily parasites in cooked meat.
+
+# Apple Juice Concentrate & Pork Chops
+*   **High Sugar Risk:** Concentrates have high sugar content.
+*   **High Temp:** Risk of scorching/burning.
+*   **Low Temp:** Use concentrate to avoid "poached" flavor; flavor transfer occurs but may be subtle.
+*   **Post-Sear:** High risk of scorching if glazing after searing.
+*   **Note:** Apple and pork is a classic combination; burnt sugar taste is acceptable for some (e.g., BBQ).
+
+# Pecan Pralines
+*   **Texture Determinants:**
+    *   **Hard (Brittle):** Minimize crystallization. Minimal stirring before dissolution. Add nuts late (pour over nuts). Avoid stirring once crystals form.
+    *   **Fudgy:** Stir while cooling to initiate many small crystals.
+*   **Troubleshooting:**
+    *   *Too Watery/No Hardening:* Likely insufficient cooking or too much moisture.
+    *   *Too Grainy:* Add nuts much later in the process.
+    *   *Clear/Crystalline:* Ensure all crystals dissolve initially; manipulate mixture minimally before setting.
+*   **Sugar Types:** Refined, brown, demerara all tested with mixed results depending on desired texture.
+
+# French Fries (Future Project)
+*   **Status:** Dave Arnold is opening a bar concept featuring a new "Supreme French Fry."
+*   **Changes:** Increased fry size; requires multiple steps.
+*   **Availability:** Public tasting planned soon.

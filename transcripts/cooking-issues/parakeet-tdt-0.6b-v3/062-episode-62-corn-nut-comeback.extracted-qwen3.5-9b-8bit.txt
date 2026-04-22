@@ -1,0 +1,154 @@
+# Techniques & Parameters
+
+*   **Sausage Poaching (Immersion Circulator):**
+    *   **Temperature:** 140°F (60°C).
+    *   **Time:** Minimum 40 minutes; longer times are acceptable.
+    *   **Method:** Submerge sausages directly in beer or place sausages in a bag with beer and circulate.
+    *   **Purpose:** Tenderizes individual meat particles via extended cooking time; allows fat retention for moisture without needing excessive added fat for juiciness.
+    *   **Follow-up:** Can be finished on a grill after poaching.
+*   **Sorghum Popping Fix:**
+    *   **Method:** Fill a Mason jar with sorghum and add a few tablespoons of water.
+    *   **Equilibration:** Let sit at regular ambient temperature for a couple of days.
+    *   **Result:** Ensures even popping across the batch.
+*   **Nori Processing:**
+    *   **Method:** Rehydrate raw nori sheets, then dehydrate in cycles to reduce thickness/leathery texture.
+    *   **Alternative:** Chop nori, place in a mat, and dehydrate to create thin sheets (similar to laver sheets).
+    *   **Alternative:** Grind into flour to make crackers.
+*   **French Fry Optimization:**
+    *   **Variety Selection:** High solids, low moisture, starchy potatoes (e.g., Russet Burbank, Kennebec). Note: Kennebecs may not store well.
+    *   **Storage:** Older potatoes stored under optimum conditions (not shriveled) fry better than new crop potatoes.
+    *   **Enzyme Treatment:** Use Pectinex SPL to break down pectin/hemicellulose on the surface for crust formation.
+    *   **Drying:** Avoid excessive air drying after blanching to prevent "hollow fries" (loss of internal structure). For half-inch fries, reintroduce some drying to balance moisture.
+    *   **Ultrasonic Bath:** Recommended by Maxime and Chris for similar surface treatment effects.
+*   **Vacuum Concentration (DIY Aspirator):**
+    *   **Setup:** Vacuum pump connected to a flask with a magnetic stirring bar.
+    *   **Pump Type:** Aspirator pump (jet of liquid water creates vacuum).
+    *   **Water Temp:** Use ice water and recirculate to achieve maximum vacuum depth.
+    *   **Stirring:** Essential to prevent bumping and ensure good reduction.
+    *   **Limitations:** Does not distill (no cold trap to save distillate); limited vacuum depth based on water vapor pressure; slow pump-down time.
+    *   **Safety Note:** Aspirator pumps can handle ethanol/water vapor contaminants without failing, unlike cheaper pumps.
+    *   **Construction:** Plans available on DIY meth lab websites (search "DIY aspirator").
+
+# Equipment
+
+*   **Immersion Circulator:**
+    *   **Recommendation:** Highly recommended for sausage cooking and precise temperature control.
+    *   **Cleaning:**
+        *   *Stainless Steel:* Easy to clean; use CLR (lime/rust remover), degreasers, or commercial oven cleaner tabs circulated through the unit.
+        *   *Plastic:* More difficult to clean internally.
+        *   *Improvement Suggestion:* Install shoulder screws to allow easy removal of the back cover for internal cleaning.
+*   **Sauce Gun (Sauce Funnel):**
+    *   **Description:** Funnel with a stick in the bottom for accurate, fast liquid portioning.
+    *   **Cost:** Expensive ($100–$150); cheap versions exist (~$0.50–$1.50).
+    *   **Utility:** Prevents spills during high-volume service (e.g., 400 portions of soup).
+    *   **Source:** JB Prince Chef Superstore.
+*   **Super Freezers:**
+    *   **Temperature:** Around -70°C.
+    *   **Function:** Superfreeze fish/meat to the eutectic point where all water is solid, halting chemical reactions (rancidity) and preventing ice crystal recrystallization.
+*   **Thermometer:**
+    *   **Type:** Probe thermometer.
+    *   **Usage:** Insert directly through plastic wrap (e.g., when cooking a Turducken) rather than piercing Ziploc bags (risk of leakage).
+*   **Mason Jar:** Used for sorghum water equilibration.
+*   **Erlenmeyer Flask:** With takeoff cap for DIY vacuum setup.
+
+# Ingredients & Functional Roles
+
+*   **Soy Protein / Milk Powder:**
+    *   **Role:** Moisture retention, binding, extending.
+    *   **Opinion:** Do not add to juicy sausages. They act as fillers/extenders and negatively impact flavor ("taste it").
+*   **Fish Fat:**
+    *   **Property:** High in polyunsaturated fatty acids; prone to rancidity.
+    *   **Reaction:** Catalyzed by blood and other components; rancidity occurs even in freezers due to partial freezing (cell dehydration/concentration).
+*   **Potatoes (French Fries):**
+    *   **Kennebec:** White, fries blonde, poor storage stability.
+    *   **Agria:** Yellow, popular, good storage.
+    *   **Russet Burbank:** High starch, high solid, low moisture; excellent for frying.
+*   **Persimmons & Tea:**
+    *   **Property:** High tannin content.
+    *   **Interaction:** Tannins bind to proline-rich proteins in saliva, causing astringency (dry mouth).
+    *   **Synergy:** Mixing tannic persimmons with tea may synergistically increase astringency.
+    *   **Mitigation:** Bletting (ripening) allows pectin to complex with tannins, reducing astringency.
+*   **Manitol:**
+    *   **Source:** White powder on Kombu (seaweed).
+    *   **Nature:** Sugar alcohol (discovered in manna).
+    *   **Safety:** Harmless; some sweetness.
+*   **Meat Glue (Transglutaminase):**
+    *   **Types:**
+        *   *RM (Sprinkled):* Activated R.
+        *   *GS (Painted):* Paste form.
+    *   **Recommendation:** Use RM or GS for Turducken; avoid other varieties.
+*   **Corn Nuts:**
+    *   **Status:** Being revived; delicious product.
+    *   **Peruvian Giant Corn:** Larger, lighter, sometimes has papery husk.
+*   **Freeze-Dried Potatoes (Peru):**
+    *   **Description:** Taste like "unwashed goat fur."
+    *   **Status:** Recipe unknown; search term "chunta."
+
+# Caller Q&A
+
+**Caller: Matthew (Sausage Question)**
+*   **Question:** Should I add soy protein or milk powder to my bratwurst recipe for better moisture retention?
+*   **Answer:** No. If the sausage is already juicy, adding fillers/extenders is unnecessary and cheapens the product. Soy protein definitely tastes different and isn't delicious. Do not use them if you don't need binding power.
+*   **Additional Tip:** To prevent bursting/swelling, do not let sausages air dry after stuffing (this just provides extra space for the same amount of expansion). Instead, stuff them less tightly or use an immersion circulator to tenderize meat particles and retain fat naturally. Poach gently in beer before grilling.
+
+**Caller: Keith Solom (Taste Question)**
+*   **Question:** Why does so much fish taste frozen? Why is deli turkey so awful?
+*   **Answer (Deli Turkey):** It is bad because regulations force overcooking. Manufacturers add excessive fillers to restore moisture lost during overcooking and slice it preposterously thin. It is not real turkey. Recommendation: Buy from Heritage Foods.
+*   **Answer (Fish):** Home freezers do not freeze fish solid; they only freeze a portion of the water. Ice crystals form on cell exteriors, dehydrating cells and concentrating proteins/fats/enzymes. This accelerates rancidity reactions (especially in polyunsaturated fats) even at low temperatures.
+    *   **Solutions:**
+        1.  Do not store too long.
+        2.  Vacuum bag before freezing to remove oxygen (prevents oxidation).
+        3.  Superfreeze high-quality fish (sushi grade) to -70°C where all water is solid, stopping chemical reactions.
+
+**Caller: Brian (Vacuum Concentration Question)**
+*   **Question:** Thoughts on the DIY EIY style vacuum concentrating system (aspirator pump)? Can I improve it?
+*   **Answer:** It works for reduction but does not distill (no cold trap to save distillate).
+    *   **Improvements/Notes:** Use ice water recirculation for better vacuum depth. Stirring is critical to prevent bumping.
+    *   **Pump Choice:** Aspirator pumps are unique because they can handle vapor contaminants (ethanol/water) without failing, unlike cheaper pumps.
+    *   **Construction:** Can be built cheaply using plans found on DIY meth lab websites (search "DIY aspirator").
+
+**Caller: Ryan Santos (Cleaning & Astringency Question)**
+*   **Question 1:** Best way to clean an immersion circulator?
+    *   **Answer:** Depends on material. Stainless steel is easy; plastic is hard. Use CLR, degreasers, or commercial oven cleaner tabs circulated through the unit. Rinse with hot water. Suggest installing shoulder screws on plastic models for easier internal access.
+*   **Question 2:** Why did baby persimmons + green tea cause extreme astringency?
+    *   **Answer:** Both contain tannins. Tannins bind to proline-rich proteins in saliva, removing lubrication. The combination likely had a synergistic effect, increasing the affinity of tannins for saliva proteins compared to either alone.
+
+**Caller: Listener (Kombu & French Fries)**
+*   **Question 1:** Is the white powder on Kombu Manitol?
+    *   **Answer:** Yes, it is Manitol, a sugar alcohol. It is harmless and adds slight sweetness.
+*   **Question 2:** New findings on French fries (varieties, storage, enzymes)?
+    *   **Answer:**
+        *   **Varieties:** Look for high solids, low moisture, starchy potatoes (Russet Burbank, Kennebec). Kennebecs store poorly.
+        *   **Storage:** Properly stored older potatoes fry better than new crop.
+        *   **Enzymes:** Pectinex SPL breaks down surface pectin for crust. Ultrasonic baths work similarly.
+        *   **Drying:** Avoid over-drying after blanching to prevent hollow fries. Adjust drying for thicker cuts (half-inch).
+
+**Caller: Matthew (Salting Meat Question)**
+*   **Question:** Is McGee's advice against salting meat ahead of time (causing juice loss) bunk? How about salting before braising?
+*   **Answer:** McGee's debunk on "sealing in juices" is famous, but the reality is different. Salting *increases* total water content in the meat because proteins bind water better (similar to brining).
+    *   **Texture:** Salting makes meat firmer (cured texture), not mushy.
+    *   **Application:** For braises where collagen breakdown and gelatin provide moisture, salting is fine and desirable for flavor. For steaks where a firm, cured texture is undesirable, avoid pre-salting.
+
+**Caller: Joe (Turducken Question)**
+*   **Question 1:** What meat glue to use?
+    *   **Answer:** Use Transglutaminase. Prefer RM (sprinkled) or GS (pasted). Do not use other varieties.
+*   **Question 2:** Glue all layers or just skin to breast?
+    *   **Answer:** Glue all layers. Sprinkle glue every time a layer is added.
+*   **Question 3:** Where to put stuffing?
+    *   **Answer:** Use a sausage layer in the middle (between chicken and duck) as a thermal barrier. Duck cooks best at ~57-59°C; Chicken/Turkey need ~63°C. The sausage layer accommodates this range. Do not put stuffing in the core as it won't cook properly at low temps.
+*   **Question 4:** Twine vs. Plastic Wrap for shape?
+    *   **Answer:** Use plastic wrap and roll. Do not use butcher's twine with meat glue (messy). Remove plastic wrap before cooking if concerned about plastic use.
+*   **Question 5:** Thermometer through Ziploc bag?
+    *   **Answer:** Do not pierce Ziploc bags (leakage risk). Pierce plastic wrap directly. Cooperman thermometers are semi-waterproof/heat-proof but have had leakage issues in bags.
+
+# Strong Opinions & Recommendations
+
+*   **Sausage Fillers:** Never add soy protein or milk powder to juicy sausages; they are fillers that ruin flavor.
+*   **Deli Turkey:** It is fundamentally bad due to overcooking and filler usage. Buy Heritage Foods turkeys.
+*   **Freezing Fish:** Home freezers cause rancidity due to partial freezing. Vacuum bag or superfreeze (-70°C) for quality.
+*   **Sauce Guns:** They are the "greatest thing in the whole damn world" despite high cost.
+*   **Meat Glue & Twine:** Never use butcher's twine with meat glue; it's a mess. Use plastic wrap.
+*   **Thermometers:** Do not pierce Ziploc bags; use plastic wrap or specialized probes.
+*   **Potato Storage:** Older, properly stored potatoes are superior to new crop for frying.
+*   **DIY Vacuum:** Aspirator pumps are the only safe option for handling vapor contaminants in DIY vacuum setups.
+*   **Harvard Undergrads:** Universities are overly protective about underage drinking laws, preventing staff from tasting drinks even when serving students over 21.
