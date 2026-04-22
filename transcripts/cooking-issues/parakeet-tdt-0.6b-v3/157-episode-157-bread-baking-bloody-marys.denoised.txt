@@ -1,0 +1,429 @@
+Jack you well not from Brookly anymore but you still the Bushwick news right so I'm I asked. Oh the chickens? Here's the thing I want you guys to know Heritage meets whose offices are right here in Bushwake over on Siegel Street, not involved with the largest cock fighting ring in New York history that was just broken up was it yesterday the day before you read about this does the biggest cock writing thing what do you know about it Jack
+
+I used to live near some places, so I'd see all the live poultry markets kind of walk by, but I didn't realize those live poultry markets were also underground cockfighting rings. And they busted a farm in upstate.
+
+Oof. And that was that was a component of the farm bill that passed actually included some language and legislation on being tougher on animal fighting circuits so maybe that has something to do with that.
+
+Really I didn'd I did not know that. Do you have do we have any good references for people to go to on our website for our feelings as a as a network on the farm bill and what's going on absolutely, yeah tomorrow on our front page we're gonna run a piece that has opinions from Marion Nessel Michelle Nishon, the folks over at just food and a few others so we kinda sourced a whole bunch of opinions and broke down the farm bill so check the homepage tomorrow that would be Wednesday. Nice February twelfth. Nice good leading. Am I right? Am I strong. Okay, so we had a question in on the Twitter from Matt Schuster saying at Cooking issues, hey Dave, any suggestions for a food dehydrator with a timer for a small 50 seat restaurant I want to demoist things well okay I don't any like the 1 I use I use almost exclusively is the Excaliber which m most restaurant folks that I k know also use the Xcaliber but
+
+The question is how much stuff are you gonna dehydrate and on what kind of a consistent basis. The Excalibur doesn't have a timer on it but like I say I haven's with a timer. My main experience comes from either using the Excaliber or the crappy round ones now the Excaliber just beats the pants off of the crappy round ones and the reason is because it can hold a lot more than the crappy round ones can and because the way the airflow works in it, it's not coming up through the center it's kind of passed along all the racks from the back, it's a lot more even rack to rack.
+
+But and the excaliber is good because it's relatively small for the amount of stuff it can dehydrate so you can dehydrate in the small Excaliber, which is the 1 I have, you can dehydrate like 2 lb of pasta right in 1 go or things like that now, back w the kind of kings and queens of dehydration that I have met are the folks at pure at pure food and wine, Sarma Mel and Gaius's joint, and back in the day they used to run did you visit that kitchen with me Sus?
+
+No.
+
+They run they ran the entire kitchen was it was like a library of Xcalibers. Excalibers stocked on excalibers like w like whole walls of excalibers. And that I was joking with her when I visited years ago that it was the hottest
+
+kitchen I had ever been in my life even though it was like raw cooking and they didn have anything because of all those freegan dehydrators running all the time Excaliber, I believe I haven't had time to check it because I just got the tweet in, but Excaliber makes a much larger version now and I know some people that have used the Cabellas. The Cabela's dehydrator Cabela's the folks that they sell outdoor gear although I hear that I've never been to a Cabela store. I hear that they that they used to be like the life changing sports store, but now Stas has a new 1 that we need to go to what's it called Big Bass Fishing or something but you say it's like in the most amazing store you've ever been in right?
+
+The 1 in Foxborous.
+
+Where's Foxboro? In the stadium, Gillette Stadium. Where what state?
+
+Massachus. Massachus, yeah and you said it was like the greatest store you've ever visited in your life right? It is. It had like what it had that you could get mauled by a bear or something if you wanted. They had shooting, fishing they had shooting. In the store.
+
+But w 1 of those like where you hit the target with the with the not the crappy ones from the from the carnival where you they shoot all in different directions and you can't actually knock the star out. No.
+
+It was really cool. I took Booker and Dax last summer to 1 of those things and they had to try they wanted to try and shoot that pellet those horri guns at the Carney things?
+
+And like there's 1 little bit of star left and they don't get the prize I'm like kids, that's how it works. You're not supposed to win. This is like lear like but you kids don't learn. I still have a twins that I want to do those kinds of things. Did you used to play carnival games as a kid because your parents didn't you or because you just like even back then you're like I hate the carnival games. I don't just never did.
+
+Ask yourself why you need Matt a timer on your dehydrator
+
+Here's what I typically do when I'm dehydrating.
+
+And I'm sorry that my recommendations can't I don't have any personal use of larger ones what I always want to do for really large stuff now 50-60 seats if you're only doing a couple garnishes x caliber is great and then even up to the point of buying 2 X calibers I would do it that way and here's why you can have 2 different X calibers set to 2 different drying regimens and you don't then need to the brain just turned off isn't that crazy that happens sometimes the brain off you don't need to worry about whether or not 2 things are different you can have 2 things that want to go at different temperatures going at the same time if you just have 2 excalibers.
+
+I've always wanted to someone to do large scale stuff and I believe the guys at pure food did this also Feel food Galen and Fernando's place down that we did that event at they had they have like a bunch of dehydrators they had the larger excalibers right?
+
+Did you notice back in the kitchen yeah so the what I would do is get a couple of those.
+
+When you're using a dehydrator I don't know that a timer is strictally speaking so necessary.
+
+What I tend to do is I start my dehydrators fairly high because there's a huge temperature gradient that forms as you because you as you're evaporating liquid off of your foods at the get go when they're still fairly high water you get a lot of evaporative cooling around the surface of your product and so to speed dehydration I always start the dehydrator at a higher temperature and then I turn it down. A lot of times when I'm doing puff snacks the main problem is you don'tan over dehydrate because then you don't enough moisture left in the in the stuff to puff properly so what I'll do is I'll jack it to like a hundred and 35 which I don't I don't know what that is in Celsius but like 135 Fahrenheit for a couple of hours and then I'll just turn it down to low down to like a hundred or something like this, and then let it ride overnight.
+
+When the fans are going it's not going to pick up a lot of moisture unless it's extremely humid in your kitchen and it'll slowly equilibrate and come down.
+
+And then in the morning if it's a little bit too soft it won be too dry at this point but if it's still a little bit too soft then I can jack the temperature for another hour or so but I just leave them running on low overnight is typically what I do. But you have to really low so you don't overdry your products if you wanted a project the Excaliber is a fairly good case except the plastic on it tends to break is the only issue with it you could put a PID on it. I've but you could get like you could get some way of measuring humidity at those low temperatures and kind of measure the humidity in the box or maybe even if possible you could I guess do it on liquid and then drive it with a with a PID controller so that it would ramp itself down. I haven't but it's technically feasible and I'd say you could probably do it for under 200 even with the weird stuff you'd be measuring trivially less if you just want to put it on a timer and ramp silk you can go to Albert Instruments or anything like that and buy a controller that you could put on a timer and ramp soak the temperature if you didn't care about external measurements and that would be a trivial problem that would cost you like on the order of like 45 bucks to do and if you've never done 1 before it would take you probably a couple hours to figure it out. But I always wanted to do that with a bread with a bread proof we were gonna do that remember years ago we were gonna do that we never did we're gonna convert a giant bread proofer into a dehydrator someone probably does that commercially because it's a good idea and it makes sense anyway so much for dehydrators I was doing a bunch of what was I doing on my dehydrator pasta recently I was doing yeah hey, we got a caller.
+
+Caller you're on the air.
+
+Hi Dave, Nastasha, Jack, everyone, it's Brian.
+
+How are you doing? Doing well. Yourself?
+
+Good.
+
+So 2 things 1 is I have a question about bread but first is that never heard the final answer about making my own Koji from the other week.
+
+I know dude I have not gotten a hold of Ryan yet is the reason why you haven's the information yet.
+
+I need to get a hold of those guys. I've like they've been kind they haven't been MIA I've been MIA which is why you don't the final answer yet so we'll start with the other 1 and I still owe you that answer.
+
+Thank you very much I'll hold on for that but this 1 has to do with bread baking at home.
+
+I don't have a deck oven here so I have no possibility of injecting steam into my oven through the oven it itself.
+
+And so my question is I've been doing
+
+a little bit of reading and I'm looking at the a couple different books and 1 is the tartine bread book which says they use a combo cooker it's kind of like a Dutch oven basically, in which the kind of the smaller part they kind of bake essentially on the lid so it's basically like a Dutch oven as a way of kind of capturing the steam and then the other 1 You mean like lah style?
+
+Leahy style, exact. Yep all right so except that if you use what's called a combo cooker it makes it easier to not burn yourself.
+
+And then the other thing and they're made by Loach by the way.
+
+And then the other thing I'm looking at is the Bouchon bakery a cookbook from Thomas Keller and Sebastian Roxell and they're saying basically take a ridiculous amount of river stones and chain and put it in the in the bottom of the oven as a way of catching all the heat and then take a super soaker and inject a huge amount of water into the oven so it all kind of turns to steam and I'm kind of wondering what's the best way to get steam into the oven.
+
+Which of these 2 methods would be most effective for bread baking.
+
+Okay now your oven is under fired gas oven?
+
+It's standard home gas oven. Right, but the heat comes from then from below.
+
+Correct. .cause you can't like if you have like a an electric oven with upper elements and stuff like that you can't pull that lower chain the reason that the chains and whatnot on the bottom of the oven is because that's where the heat is most intense so that's like an old school bread baker's way to kind of do you know clutch having not having real steam injection.
+
+And it works the way that it obviously sounds it's gonna by literally you s you put a bunch of st stuff in the bottom with thermal mass, let it heat up, right and then and they use I look stones I'd be a little bit wary of because I everyone says like river stones aren't gonna break.
+
+I've put stones that I thought were pretty smooth in fires and had them blow up before.
+
+The ovens probably maybe not be violent enough to blow a stone apart but I don't know what I'm saying, I've put I've put many stones on fires before for various reasons and had them explode kind of expectacularly explode. It's inside of an oven, but you wouldn want to be lowering your oven and putting your face in there when you're loading something to just to have something explode on what I mean so I don'to it's that's the super soakery where you could do it from a distance.
+
+Oh yeah good idea super soak I forgot super when you said super soaker I was in my head I was thinking spray bottle because that's what I'm used to so super soaker, interesting. My kids would love it if I had to bring a super soaker home to cook with.
+
+They would absolutely love it but the so I mean that works. The I've never done a lot of the like Leahy style. That thing you call a combo cooker, is that like their camp oven? Is that the Loge camp oven?
+
+Their old school Dutch camp oven?
+
+Google combo cooker and so basically it's got a like what the lid would have a handle and you can cook on it separately.
+
+It's kind of like the lid would be the skillet and then you put the pot kind of right over it is the is the technique in this case.
+
+Oh inverted, yeah. You're not having to like try to jam the your dough into a hot Dutch oven. That's like the old camp cookers that you could flip the lids on and do stu like that they're cool. Is do you like it?
+
+I don't have 1.
+
+I'm trying out whet I should get 1 or if I should go with the with the bouchon method. Do you like the Leahy st it do you like that Leahy style, like the no need kind of very loose like large internal or regular bubble stuff cooked in a Dutch oven do you like it I've tried it in a in a Dutch oven at a friend's house and the dough and it tasted fine but the problem is you got to shape it into a bowl.
+
+Right so you can't have other shapes of bread.
+
+I mean that dough is so loose anyway that you're gonna ha it's gonna be problematic, to do I mean at least the recipes of it I've tried is very loose.
+
+I would try that it doesn't matter what i what the what the dough is necessarily it'saI guess my question has to do with the method.
+
+And I guess the other problem with that is that it is it in addition to what it does in terms of capturing steam how does it change the temper of the bread?
+
+Because then you have this kind of radiating heat source around the bread in addition to the oven.
+
+I mean I think of it mainly I haven't thought about the second aspect of it.
+
+I've really sp spent most of my kind of the mental energy on thinking about those things about the actual ability of the closed but still vented container to deliver steam to the crust over the initial portion of the bacon before the initial dehydration hits it.
+
+And look, it's effective. I you look, I tend to w when I was doing it, I used I didn't use riverstones.
+
+I had a lot of masonry at the bottom of my oven and I would throw water on it to cause kind of violent steam eruptions whenever w I when I loaded and when I when I didn't and I always had good luck with doing it that way. I never did the chains 'cause I had a lot of masonry, the reason why a lot of people don'tommend
+
+And this is the flip side putting a lot of masonry or stones or chains or stuff in chains aren's going to affect the thermal mass of your oven as much because metal heats up fairly quickly but in my the first 1 I did which had a boatload of fire brick in it would take like an hour and a half to heat up all the way.
+
+And I solve that in the last oven. I haven't modified my current well I did a little bit, but I haven't fully modified my current oven. In my last modified oven I did that I put secondary heating elements into my s into my oven and the secondary heating elements allowed me to heat up a mass of masonry fairly quickly it which now I'm using lessonry as well more nimbly with the heating elements in it.
+
+If you could get away if you like the results by doing the kind of chain and steam method the thing I like about that is it g leaves you a lot more open with loading your oven and futzing around because you're not worried about having to fit inside of some sort of Dutch oven or skillet thing you can just have your stone or if you're a steel person if you if you buy the modernist cooking story and switch to steel instead of stone for your bottom it gives you much more ability to load things in different ways that make sense?
+
+I mean it's it enables you to make different shapes.
+
+I can make baguett and things that doesn't have to be round and fit into the into the into the Dut Dutch oven.
+
+But as far as steam injuction you're not sure which is gonna be most effective.
+
+No kind of stimulating that okay no, but look I've had some people say to me, hey the steam dissipates very quickly when you just put steam in the other thing people used to do is they'd load ice cubes in on sheet trays right on the bottom of the hot oven and then they would vaporize fairly quickly because a lot of people complain that the a toss of water on the steam dissipates so quickly that you're not getting the full effect that you would want. That's the argument for the Dutch oven being the better technology because it's going to contain more steam around the bread longer than just throwing the thing in. And that's why some people used to do like kind of ice cubes on the bottom instead of water because it was guaranteeing like a longer delivery of moist to the product. I don't necessarily know I believe that. I'll tell you what I'm actually gonna do but I don't know how much you're allowed to mod modify your oven.
+
+I'm planning on getting like a there's a most ovens on the side where the control stuff is have a place where you can drill a small hole and I'm I was gonna drill a small hole in into it and then have a copper tube feeding up out of it with like a bottle that you could set like an IV drip and just have it drip water in and you could change whatever rate you want and actually add water to the oven with the door closed.
+
+And that's what I'm gonna do
+
+fairly soon.
+
+The my just handed my book manuscript in again the copy written, so I have a little more time so hope I'm gonna do that in the next couple of weeks. The other thing have you bought for loading, have you bought a super peel yet?
+
+No I haven't.
+
+You've seen it though I've it's like you kind of pull it and then the canvas kind of rolls down yeah it's freaking awesome I haven't got a chance to use it that much but it's freaking awesome I bought it for my for my kids' birth party when I was gonna do a bunch of pizza and Dag nabit it's like I used to styles you ever do that kind of baking bread and that kind of stuff I like detest loading stuff and on peels so much so that when I used to do pizza I would make the pizzas on parchment paper and then cut the parchment paper out and then just load all of my racks with pizza loaded on parchment and then cook them on the parchment paper because it's so easy to load parchment o off and on but the super peel, I like it so far.
+
+Check it out.
+
+It sounds like it's probably really good for really slack dose. Oh yeah I mean, because you's not moving it around. If you look if you've done it done any bread loading on peels before put the pros, they always make it look easy but I don't bake bread that often and I hate to shake it and then I hate over flowering or over whate you add whate your proclivities are on the bottom on the bottom I hate that then you get that little extra crap of like either flowery or like burn on the b I hate it. What I mean I hate it. And I hate the fact I thought of it sticking I hate sitting down there and scootying around with it near my oven. I hate it I hate it all. But the super peel, that's a pretty cool little piece of kit you can get it on amazon now by the way look into it.
+
+What do you think about those baking steels that modernist cuisine recommends you think that just getting the river rocks and the and the chain is just as good?
+
+The River Rocks and the chain is not to bake right on top of that's for literally just for the steam aspect of it.
+
+It's not meant to replace it's not meant to replace the way in which heat energy is delivered to the bottom of the crust on and on initial bake in breads and so the old school way of doing it which was based literally on trying to convert your oven into an old masonry oven so if you go and you read like the bread builders by oh my gosh it's by Dove and Wing Scott or think I for I forget the names of the authors, but the breaders which was 1 of the first decades ago or whatever a couple decade ago, like 1 of the first kind of really cool like here's how to build a bread oven book for folks like us and it's like mimicking a bread oven inside and that's the baking stone right now the thing about a stone is that they store heat for a long time, but they're very slow kind of at releasing it's kind of retain heat kind of technology.
+
+Whereas the guys at Modernist Cuisine and I've spoken at length with
+
+Chris Young about this who's now running chef steps, and I this was in part like his doing well at least at least 1 third in part, right, 'cause he was the second author on that book is you don't need to store up the energy for a long time you just need to deliver it fairly quickly at the beginning and so you need a thick enough piece of metal such that it can store enough heat to deliver that heat wall up to your crust. And that is the idea of the steel as oppos to the stone. And clearly it's more versatile, but I've just haven't really had an opportunity to use it because by the time that had come out I'd already invested in a bunch of stone and it cooked a bunch up but I have 1 now. I haven't really used it yet.
+
+I'm gonna see whether or not I like it when I fire up my oven ne next time but they did a lot of testing and they have a lot of testimonials around it and people are now selling those metal things at the at the houseware store so clearly it must have some e effic Yeah sounds like it but I'm wondering if it's too much for it sounds good for pizza where you want it want it quick and band to deliver all that heat but I'm wondering if for bread it might be too much and it will would char the bottom do you think?
+
+I don't know. I don't think it'll char the bottom because it's never gonna reheat up over the top of your initi of your oven temperature.
+
+If you're if you have depending on how you cook, how you bake if you if you use a ramping temperature.
+
+If you're 1 of those people that starts a little bit higher and then ramps down a little bit, they the stone will never I mean the metal will never heat above your oven temperature.
+
+Do you know what I'm saying? Wa what it will do is deliver that initial oven temperature for longer to the bottom of your crust than any other technique will.
+
+A stone will deliver a more will deliver heat for longer but once it's depleted will not heat back up to oven temperatures as quickly or at all.
+
+Right, right.
+
+Okay, this has been really, really helpful. I'll let what I end up going with and see what happens.
+
+Alright cool let us know thanks have a good week bye are you too bye Thomas Vaux wrote in at cooking issues clarifying with agar my favorite clarification seaweed you ever notice agar is like the 1 thing where like we say agar but like a lot of people technically agar like they say it twice the hydrocolloid's so nice they named it twice Agar Stas hates working with agar, don't you I do.
+
+I do.
+
+Rem that time we had to do all that grape and we d did a freestyle on it and then it didn't work and so then we had to do we had to we had to do like quick agar on like gallons and gallons and gallons and gallons of grapefruit. And then we were spinning that sucker in the centrifuge and trying to pour it off and then we kept on having to re spin it to get yield because our yield wasn's good enough and we needed to get that crap out and we had that event.
+
+And you remember what do you say to me? I'm never doing this again I believe that's a stuff I's like 3 years ago.
+
+You're like I'm never doing this again yeah
+
+You're like, as for clarification, Dave, not me.
+
+I won's you don'm mind SPL though. You would do Hustino. I'm fine with that.
+
+Clarifying with Agar. Juice has a funny medicinal taste post-Clarify.
+
+Is this normal from Agar? Any brand name recommendations? Thanks. I only use telephone brand Agar. Actually that's true. I do only use telephone brand agar. But that's because you can buy telephone brand Agar from grocery stores like Asian grocer stores.
+
+I have that oh my gosh, I have that Spotify the news thing going on my head. Asian grocery store.
+
+the but the thing is you can use any agar as long as you get used to it. I wouldn't use the prehydrated ones or the ones that don's require boiling because although I haven't used them I know friends of mine who have had bad luck with them.
+
+The I've never had an off-taste from agar to be honest.
+
+What I would do is taste your literally taste the agar powder and see whether or not you're getting any sort of off taste. What is happening is this the taste of juices changes sometimes quite radically when you clarify them. What's most likely happening because you don't specify what kind of juice that you're using is that there are some flav that the this medicinal flavor was present already in the juice but was being masked by another flavor that was removed by clearly a better flavor then was removed That was removed by the agar so just to give you an idea when you agar clarify orange juice the remaining orange juice tastes the clarified stuff tastes like sunny D. If you like sunny D, then I guess that's good, but most people want orange juice to taste like orange juice and not like I haven't decided. It tastes more like sunny D than like tang. Have you tasted as does no. W do you did you drink tan growing up? No what about Sunny D?
+
+D do you like Sunny Dm. Because you grew up with it.
+
+So anyways so it that's my feeling so when you clarify grapefruit juice with agar, it appears to get much sweeter.
+
+It's not actually getting sweeter it's just the Noringian and some of the bitter components have been stripped from it by the agar. My guess is that it's not the brand of agar you're using it's the fact that there's flavors getting stripped out of it but I could be wrong taste the agar.
+
+I'm a big believer in tasting a lot of these things at least once to see kind of what's going on and some hydrocolloids definitely do add a flavor to it but think about it when you're clarifying with agar you're adding 2 g per L that's 2 tenths of 1% of our and you could add 2 gra like 2 g of straight acid for instance wouldn't change wouldn't make a L of product that acidic what I mean lime juice for reference is around 6% acidity and this is 2 tenths of 1% or 10 times thir
+
+30 times less acid that's in lime juice it's the equivalent of putting an 1 oz of lime juice into a L of liquid anyway so I doubt that and that's a very strong acid so I'm doubting that you're getting the flavor transfer off of but I could be wrong things like methyl cell you standards tend to start tasting once the percentages get up into the 1% range things like this 8 tenth of a percent or 1% things like guar, which can have a very beanie taste. Guar if you don'll get the good 1.
+
+Fracking Guar. It that can have a beanie taste that you can taste when you get over about half a percent but not agar.
+
+I haven't had a problem with it. Oh unless you're using those weird like unpurified like agar flakelets, which might have God knows what kind of like seaweed residue left in them you like just make sure you're buying the powder the powder white powder.
+
+Should we take a break?
+
+Sure we'll take a break come back with cooking issues,.
+
+Heritage Foods USA is proud to announce our Heritage Rare Breed chicken rotation. We've partnered with Frank Reese, the country's preeminent poultry farmer to create an alternative market for non-industry bred chicken and show our customers what real chices like Frank's chickens look and taste different from commodity poultry. They've not been genetically manipulated or pumped with antibiotics to increase their growth rate. Frank breeds and hatches his own birds so he can guarantee the finest animal welfare from start to finish every 3 months Heritage Foods USA will offer a new rare breed of chicken on our website and at the Heritage meat shop our inaugural variety is the Columbian wine.these birds are good for frying and are sought after for their fine texture taste and healthy liquid fine yellow fat. Heritage Foods USA is the only place you can taste these special heritage birds.coming back with cooking issues that 1 excited you huh yeah
+
+Good anytime you got banjo music, banjo music's the best.
+
+I thought was the chickens that excited you. It's chickens plus banjos how do you beat chickens plus banjos, especially coming off of a cock fighting bus. Impossible Hey Dave we were at the Eat Drink Bloody Mary competition again this year. Oh yeah? And I enjoyed the Booker index kind of what was it pineapple curry was a wacky Bloody Mary you guys had there. Did you like it that's I liked it for our bartender our bartender Austin that was his creation only thing I helped them with is they were having some problem in the mid palette so I had him put a little tomato paste in to round out the mid palette. But yeah it did not win. I heard it did not win. Who won?
+
+The judge's choice went to Dover and then the people's choice went to extra fancy, which was like it's funny the people's choice went to the most classic kind of standard bloody Mary. And I was like of course of course. Where does the line sit? W when does what you're making cease to be a Bloody Mary?
+
+Or for that matter any class right like look you like the thing is that anything that you do this if you're gonna do classic you're gonna you're gonna do classic but people want the crap that they're that they're used to that's why like every year like last year we did the we did the tomato soup with the with this grilled cheese sandwich for our for the bloody Mary and people in general want they want what they want but they what they what they're used to it's kind of sad but like unless they're specifically going someplace to have it reinvented people in general just kind of want
+
+The 1 that won the judge's choice, was it wildly different or it was pretty different what was it had some kind of weird spices in it. I don't there were a lot to taste. I remember it being 1 of the funkier ones though. But I mean it's like is it even a Bloody Mary anymore at that point?
+
+I mean these contests right, like, here's the thing.
+
+Let's say you were gonna make a contest people in general they like a good store, this is a contest now. They like a good story and you have to reinvent it. Otherwise what's the point? It's not about, let's get 5 people in the room, we'll all make the same daiqui specs and you'll see who makes dai what I mean?
+
+Bloody Mary is a good 1 for people because everyone has their own it's kinda like barbecue sauce. Everyone has like they're like well my barbecue sauce, exactly how much brown sugar and other stuff in it do I put in it mul whatever molasses or whatever, vinegar. It's like because they're all roughly same but people are like people are like violently proud of their particular mix of the same ingredients that the next fella uses or they're like I add this 1 special ingredient that makes mine radically different.
+
+It's not really radically different they're all fairly similar what I mean and so when in contests like that th there's kind of different ways you can go in a Bloody Mary contest there's the radical difference idea and then there's where you take, hey, I'm a spic based cocktail, now where can I go with that's totally different? Or you could say I's
+
+with a very similar concept, but then I'm gonna add like my special pickle to it. I'm making little quotes fingers. And that's another way to that's another way to kind of ha handle these contests. In general someone who does something that has a flavor profile fairly similar to what people are used to tends to win.
+
+If you have like a little bit of like flair added to it, like great, but at least that's been my been my experience.
+
+Funny to see like I don't like Bloody Mary, so all the ones that I was voting for were the ones that didn't taste like Bloody Marys. You don't like Bloody Marys, what do you have against a Bloody Mary? I don't know it's too me it's like a meal.
+
+A like a meal. All right. Sas, you like Bloody Mary's not really right for real.
+
+I my phone won't'd. Is it because you don't like what don't you like about them?
+
+It's like a meal.
+
+It's heavy, yeah.
+
+I hate most kind of gloopy drinks, but that's the 1 that gets a pass for me.
+
+I don't like I'm part of this new th new thing that we're all starting where you don't eat them at night I don't you necessarily need to have the mean sorry in the in the morning.
+
+You can have 1 at night even though we started the bar with a drink called Lady of the night which was a Bloody Mary that was clarified so that you could drink it at night.
+
+You could drink it during the day. Let's not forget someone asked me this the other day and I remember when I was a kid, you weren't supposedonics
+
+in the wintertime.
+
+It was summertime only. It was the equival of where which is the which is the holiday that ends the summer stuff?
+
+Labor Day? How you're not supposed to wear white after Labor Day?
+
+Anyone remember this? It was the same way with gin and tonics. You weren't supposed to order gin and tonic after Labor Day either it's kind of when you can wear white is when you can also order gin and tonic right I mean I never wear white but the that's the point but that taboo is gone.
+
+No 1 has a stigma now walking into a bar and ordering a gin and tonic any time of year.
+
+People don't even think of it as a seasonal drink anymore and so the Bloody Mary might be going that way where it's not only seen as kind of a morning thing.
+
+Think when you think about it, people can order a corpse Revivor whenever they want. A Corpse is meant be a little hair of the dog that bit you for like heavily alcohol infused people in the morning.
+
+Wait Jack, we got a caller? We do. Caller, you're on the air.
+
+Hey Dave, it's me, Don Lee. Hey Don Lee. I'm calling in to remind you that you are bar backing for us on Sunday at a Mofad fundraiser at the Golak. I that is that is true. That is true. From what time? 5 PM to 5 PM until 7 PM. We're gonna do 8 dollar cocktails courtesy of Perno Ricard, and all proceeds will be going to the Museum of Food and Drink. Are we getting are we getting Missy Elliott to recut get your freak on with get your drink on for that or is that later that's gonna be the next fundraiser. The next fundraiser? Get your drink on get your drink on. That'd be great though. This time you get to come harass me and John Derragon barting together for the first time in 3 years and he's gonna make some Malibu drinks.
+
+I'm gonna make some Klua drinks, and we're gonna we're gonna apply molecules to make bad cocktails taste good. Oh sweet, sweet. I hate molecules. I don't like them because I don't matter. I don'll existence so I detest all forms of molecules.
+
+But what was the last time you what was the 3 years ago what'd you guys do 3 years ago we were at PDT we opened PDT together. That was only 3 years ago? That was no we opened PDT 5 years ago. That was only 5 years ago? No, yeah can you believe that? That was only 5 years ago? It seems like 8 lifetimes ago.
+
+Don Lee and John Darragon were the opening team at PDT and brought you such drinks as the Bentons.
+
+Whatons what do you call that drink? The Bentons old fashion. With the with the fat washed the fat washed with the fat wash bourbon Benton's bacon into 4 roses yell label. And for the record you're allowed to totally do bacon infuse whatever you want. I'm give you shit about that. No but I'm not I will never do it. I won't. You guys own that.
+
+It's like in fact in the cocktail book like the Maria made me put a fat wash that's my editor, made me put a fat wash drink in and so I did a take on do you remember to y Tona Palomino who was at WD 50 is now doing bar in Chicago?
+
+He had a drink on the menu at W D called old school
+
+back in like oh 7 and old school was fat washed what's it called what's that stuff called peanut butter but it was he did it en Flarage style he would like spread a thin layer of peanut butter on the bottom of a hotel pan and then pour the stuff on top and then they would let it sit in the fridge forever because he was going to carbonate it so he couldn't he couldn't mix it in because peanut butter has a lot of stuff it dissolves into liquid and doesn't cap out the way bacon does right and so yeah so he did that and then he would mix in Wel's grape jelly and then carbonate it which is awesome. I did I did a take on that 1 because I figu PB and J. And so many other people have ripped on the on the bacon that like I could I couldn't add like another there was there was no places left on the page to tear I couldn't rip on it anymore. What I mean so anyway but yeah so the for those of you should come and the re-teamed original PDT team OGPDT. Don Lee for those of you that don't keep track of Don Lee's career as I'm sure most of you do, is now doing the bar program with it is it cocktail Kingdom but is now doing the bar program. Is that temporary or is that permanent it's permanent. And so I's a cartel kingdom and I'm also doing golden Cadillac. No, at Golden Cadilla. That's permanent bar program or that's temporary? Permanent Bar Program okay so Don Lee is now running the bar program at Golden Cadillac which is a fine bar on first and first here in it's the easiest address to remember in the world first and first
+
+I couldn't remember what the street was first and first golden Cadillac and you got the awesome menus with like the with the really poorly done 70 style cutouts of the drinks on the back. I like that.
+
+We're trying classy.
+
+It's totally classy you can go there and get an overproof dairy with tell them the garnish down.
+
+A disco ball it's the Disco dackery. I have I have a couple of those. They're a little the you shouldn't can you like in the future there they're key rings. Can you get them instead with like those cheap earring settings on them so that so that the people can wear them as earrings on the way out we're instead of being the regular key ring we're getting the key ring that's more like a carabiner so it'll just clip on the side so you can clip it on to whatever you want. Oh nice all right well I'll have to come back and get some more get some more stuff so come to the Golden Cadillac on first and first on Sunday where I will be plying my barback skills between 5 and 7 PM for the Museum of Food and drink bar backing for the great John Daragon and Don Lee right?
+
+Sounds great.
+
+All right dude all right brother anything else or just doing some business? I got I got 1 thing to chime in on last week's podcast or show that you guys did. Since you give away all your great secrets I'll give you 1 of my secrets. Nice for the person who wanted to know how to get to the different science resources in the on the internet that are behind a paywall. Oh yeah okay good I want to know yeah okay cool. If you are part of a major city library system like the New York public library or Los Angel Public library, any of these big city ones, they usually have a sharing system with the university library.
+
+You can usually request a book from a university librate and they'll just send it to your local library so you can borrow it for some fixed amount of time.
+
+However if there is a reference book that the library at the university does not lend out they will give you a 1 time 1 day pass to go into the university library to see the reference book.
+
+Most science journals are considered a reference book and so they're not lent out.
+
+But if you look up on any university library system let's say NYU or Columbia for example here in New York City, through the New York public library system they will carry all the journals. Probably physical form, probably in digital form.
+
+But if you get the one-time pass once you're in the library now you're behind the paywall.
+
+You can do whate what I do is just go in for a day, scraq I can, follow all the links, all the different references, and then I'll just read them in my spare time later.
+
+Strong advice from Don Lee.
+
+Also by the way, Don and well even John in his current life are kind of like d computer data nerds am I right about this it's pulling back in pulling you back in but that's why that's why you should well I'm giving that as reason why they should know the tip and by the way Don Lee a tip from Don Lee is a guarantee because the man always like whenever there's a question and like you need some sort of hookup you just ask Don because he's already figured the hookup
+
+Am I right?
+
+I'm prepared for the zombie apocalypse yeah dude this is 1 of the things that you guys have to know about Don Lee if I could give you 1 piece of advice on this podcast is make friends with Don Lee.
+
+Seriously.
+
+All right Don I'll see you on Sunday brother see you soon right okay so we had a question in from Paris France 2 or 3 weeks ago you had 2 separations on 1 vegetable canned soup that has to be heated for a lot of pasteurization which affects the flavor and 2, how beer and soda cans are better at keeping the carbonation than plastic bottles are but doesn't soda canning require both cold temperatures to preserve carbonations and the same level of hygiene pasteurization as soup.
+
+I didn't you answer this question already no okay in that case it would it be possible to can vegetable soup at a low enough temperature so that we don't kill the flavors and respect appropriate food safety procedures do I miss some fundamental differences in the 2 type of processes best and keep up the good works stand B yeah this is very different here's the deal so when you are when you have beer and soda right in a can there you st any time you have soda the carbonation in the soda is acting to do the vast majority of the work when it comes to when it comes to killing off bacteria because carbon dioxide is extremely bacteriostatic right so
+
+in addition to that a lot of times old school sodas that can't be pasteurized at all have benz a little bit of sodium benzoate added to it, sometimes potassium sorbate.
+
+And they're added as preservatives primarily not to stop dangerous things from growing 'cause ain't nothing dangers going to grow inside of that because of the carbon dioxide, but to prevent yeast from growing and converting the sugar to alcohol and causing the flavors of the of the thing to go off right that's the primary function and that's why you pasteurize products like sodas and whatnot.
+
+But you don't have to do a sterilization on soda or on a beer the same way you would have to so you don't go to the same high pressures or temperatures, which are related to pressure.
+
+You don't same high temperatures on a beer because it's enough to kill the yeast right because you're not really worried about the bacter but to kill the yeast and any vegetative stuff because no spores are going to generate inside of the product. It's spores the spores. But on the other hand if you have soup, right, you need to heat it to a high enough temperature canning temperatures so that you can get everything in there dead because you're gonna keep on shell shelf temperature for God knows how long and you can't have nasty anaerobic things growing inside of there like botulism which could cause the cans to blow up and whatnot and kill you. They can blow up that's what I'm worried about first the camp blowing up no it'll kill you
+
+In general sodas are acidic, which is going to prevent things like that from happening and filled with carbon dioxide which definitely is gonna prevent things like that happening so they're fundamentally they're fundamentally different pasteurization problem from the soup yeah?
+
+Yep yeah all right I was like I got some more questions in on of the twitter where is it?
+
+Where is it?
+
+Oh, so this is from EC North America. They now go just by EC not EC or ISI.
+
+They just launched the rapid infusion kit that they say they say new EC rapid infusion kit just launched inspired by the creator brainchild of rapid infusion at cooking issues and they sent a Twitter feed out of it's what it looks like you want to see what it looks like nah don't really care. No.
+
+No inspired.
+
+Oh look oh my gosh you're gonna you're gonna think the look of it look at take a look at us you can't see on the line but we can post a picture of it is that does the little rubber thing freak you out a little bit yeah I mean I love the I love the EC but it's looking a little bit like a sex toy there. Jack you gotta look that up and throw that up on our thing.
+
+Last week we had a question and for some reason I can't find my old questions but we had a question on parchment paper and talking about parchment paper and kind of what it is and what's the difference between all the different kinds of parchment paper.
+
+I'll talk a little bit about that now.
+
+The thing about parchment papers is a lot of people and no 1 probably who
+
+who no 1 will know remember that remember that was no 1 will know that's Psychic Friends Network but who did that was Jay Moore who did the Psychic Friends Network pretending to be Christopher Walken and Travis my brother in law is shooting the cocktail book he's started saying that to me over and over again so now like whenever anyone says that we I love like how many times my life do we i imitate the fake imitation of somebody else right so I'm not even doing Christ walkin I'm doing Jay Moore doing Christing Christopher Todd Bridges can be at your house in your driveway no 1 will know the theory of that was that a bunch of whack jobs Tod Bridges actually was a nice guy I met him when remember when we did that show that time they're having me doing about safety or something like this and low temp meat glue and safety remember when that big thing was going around and everyone was worried about it and we did some show fox or something like this and Todd Bridges on sweet dude sweet dude Todd Bridges Willis by the way for those of you that don't remember the good the different strokes you watch Differ Strokes no really not at all no what about you Jack sorry no I don't what the hell like I feel like you guys had entirely different childhoods for the than the 1 I had.
+
+Parchment.
+
+A lot of people mistake wax paper for parchment you guys don'll make that mista
+
+You would never make that mistake. If I asked you for parchment paper you'd never show up with wax paper. Right. 'Cause it's coated with what? Wax. Wax. Parchment paper is meant to cook with wax paper is great I love wax paper but I can't tell you how many people confuse wax paper and parchment, which is ridiculous.
+
+The other 1 what people do? People are like tonic water doesn't have any sugar in it because it's like salsa right wrong tonic water has as much sugar in it as a regular soda does.
+
+As much around 10% sugar.
+
+You ever make that mistake? You never make that mistake.
+
+Nope Jack, would you ever make that mistake? No. No.
+
+They're like, I'm not gonna say it I'm like I should I don't want to deal with it so most parchment paper that you buy nowadays and by that I mean I buy Reynolds brand typically is coated with silicone. and that's really where a lot of a lot of the non stickness of it comes from.
+
+What I don't know about parchment paper, I wasn'thing kind of big on it is that I would use parchment paper on my pizzas all the time. The only issue is that my pizza oven would get well above the decomposition temperatures of silicone and so I'm wondering whether or not it was actually kind of a bad idea to put the parchment paper into a place where it's gonna get fundamentally incinerated. It used to be if I didn't cut I would have to cut the parchment paper all around the piza doug and load it in because the stuff around the sides would catch on fire otherwise. The stuff right underneath the pizza had the pizza to protect it so it's not gonna get burnt and it separates great. But the separ separates great, what am I speaking English, separates well. But the It's great but the so it's the silicone, the silicone impregnated silicone that has it work all the parchement papers that I use have that silicone. There's a new paper out there that has aluminum bonded to 1 side of it so it's aluminum foil on 1 side and parchment on the other and it's sold as baking pan liners and the theoretical advantage of it is it lays a lot flatter than parchement paper does but I can't really tell you whether how awesome it is.
+
+I used it and all I noted was that it was a lot more expensive than the other stuff but in general I'm a big fan of parchment paper and I hope that helps a little a bit okay I found my other questions from last week William McGee wrote in I didn't answer about French fry cutters did I? No. William McGee wrote and said do you have any recommendations for French fry cutters for home use I've seen models both horizontal and vertical. Also on the Kickstar for the Sears all you had a recipe book available to higher level backers. Will you have this recipe book available separately at a later date for purchase thanks William McGee Stas, will we?
+
+Yes.
+
+You just made that up? Yes.
+
+Okay so French Fry Cutters. I here's the deal avoid any plastic French fry cutter just avoid them because why?
+
+They're gonna break they're useless right I the French fry cutter that I use looks hor looks is the 1 that's kind of vertically mounted. I use it horizontally unmounted because I haven't a place to mount my French fry cutter in years
+
+But I like that I like that style the vertical mounted style with the with the thing in the front that looks like what does it look like it's hard to describe it's got like a swoopy handle you've se my French right cutter right son. It's got a swoopy handle and it's made of that's made of cast metal and then the whole things bolted together with 38 inch screws and holds the cutting plate in the front and there's a like a V say V shaped like kind of sliding shoot and then a plunger on it and the plunger actually engages the blades right and you need to replace the blades every once in while because they get they get dull.
+
+But I use that thing and I can slam through 50 I can slam through 10s with it in like 2½ 3 minutes like bang, bang, bang, bang, bang, bang, bang, bang.
+
+The best, the best is to have it mounted on a wall, right here's what you do you have it mounted on a wall and then you have your peeled potatoes in 1 container like a hotel pan full of water and then you have a hotel pan of water directly underneath the French fry cutter and this is why the wall mounted 1 is great. You have it directly underneath it and then you load the potatoes and you cut them directly into the water bop and it stops you from getting a lot of discoloration right in between the cutting time or if you're going to do a soap beforeck them between the cutting time and the and the and doing the initial water blanch assuming you do a water blanch.
+
+I'm assuming you do and also there's they make different size cutters but I've never used the shoestring 1
+
+I use 3 eighths or slightly larger half inch cutting rings for mine. I have 2 plates for mine.
+
+Anyways so cutting into water like that is fantastic and it's so neat it means there's so little mess right so typical my whole French fry production for the cutting standpoint is put the put them in the sink, fill the sink with water, throw the potatoes in stir them around with my hands, knock off all of the loose dirt roll them around in there, pull the pull the plug, get a hotel pan, peel over a bowl with some with some running water rinse it off, throw them into water. They're peeled and you've made sure you've gotten all of the reason to peel your fries by the way, 2 reasons.
+
+I know it's nutritionally a bad idea to peel fries. Do you peel your stuff before you make fries? You don't fries forget you. Do you like baked potatoes? Mm-hu anyway so I like the taste of the skin right?
+
+But when you're doing French fries, the skin kind of never gets as crunchy as the rest of the stuff. I like I like them jacketed fries, but I like potato skins that have been cooked super crunchy. The other problem is that potatoes I don't know about the potatoes you guys get but the potatoes I get potatoes. The potatoes that I get always have some like some bad spots underneath you can't see and commercially they what they do is they spray potatoes with high pressure water and it eats away all the soft parts.
+
+But I hate getting those. When you peel them you can see 'em. Jack, what's your feeling, skin on or skin off this 1? Skin on. Man sorry. Jesus.
+
+That's, but why? Because you like the taste the skins. They're not as crunchy you realize they're not as crunch And that's okay. You're okay with it. I like the taste.
+
+Prove me wrong. The taste the taste. No I understand why you did it. I'm doing today's in chaps, chaps. I'm wear cow chaps. I'm gonna steal these suckers Jack.
+
+You should yeah so anyway so you take the potatoes and you now you have them in water in a hotel pan and they're not turning to crap they're not turning because they're in water and it's getting the last it's getting the starch off the outside and it's getting the last of the dirt off it's thing to the bottom then your next hotel pan bap cut them right into it and you get going that way otherwise it gets messy and things get everywhere and it's a pain that's the best way to do it so I would go with the 1 that's meant to be mounted vertically if you cannot mount it for some reas like you don't I still use that style but you have to develop a certain there's a certain skill to using that thing when it's not mounted because it's a pain you it involves like holding the handle and then holding the base in such a way that you don't crip yourself and jerking forward and back at the same time and pounding the potatoes out and I've gotten so used to it that it doesn't slow me down to not have it mounted but I'm hoping to mount it in my new my new joint I haven't mounted it yet still it's still in the drawer but I love it I love cutting French fries and I love french fries.
+
+What's of all the things biscuits and whatnot French fries might be the weirdest thing that you don't like that's true
+
+I already answered Paul's question on which curious cook 1 to buy right? All right. Let's see whether I well actually I'm about to get kicked off the. Hey, before we close the show, I want to put an open call out for another theme song. Oh yeah, it's out of time.
+
+All right. It's been a while. Did I answer last week Rodney's question on coconut flour or not?
+
+I don't so do I have time or not? Not. Unless you can get to it in 2 minutes all right I'm gonna do it 2 minutes Rodney here you go this is Rodney from Amsterdam the Netherlands in a low carb period of my life I purchashed a bunch of coconut flour it's not really flour and I'm glad you're done with your low carb period. I've been trying for a while to make crepes with it but have not succeed so far crepe batter with 50% wheat flour and 50% coconut flour works but anything over that fails the coconut flour simply can't hold together and I'm unable to even flip it withope I'd like to make crepes with just the coconut flour the composition of the coconut flour is as follows. And then you give me the moisture 3.6 ash 3.1 fat 10 point 9 protein 12.1 and then balance carbs so it contains almost no gluten and almost no starchlus it absorbs very large amounts of water. My theory is that the carbohydrator protein network cannot be formed because there's too little starch and no gluten at all so I'm try adding pure gluten xanthan gum and more eggs not all at the same time but to no available do you have any theories? Thanks a lot yeah coconut flour doesn't work the same way normal coconut flour does coconut does I would if you want to cook with coconut flours there's a bunch of books available specifically for coconut flour I don't own them but you can check out cooking with Coconut flour, a delicio low carb gluten free alternative to whead a paperback by Bruce Fiff that you can get on the A
+
+Amazon and he's like the he's the head of like the coconut institute he does everything with cocon but I looked up a bunch of and you look on Rob's Bob's red mill what's it called I'm talking Bob's Red mill he has a bunch of coconut flour recipes and a video on coconut flour recipe but having looked up a bunch of them on the thing stuff just doesn't hold together so they recommally only subbing in about 20% to a normal recipe if you want to go ahead and use only coconut flour what they're fundamentally doing is making things that are eggs it's just eggs it's like set egg loafs and the coconut flour is just there to make it not taste like eggs and to give it the feeling that it's made like a normal baked good so if you want to do crepes or crepe style thing what I would do is this I would whip up egg whites into a meringue fold the coconut flour into it and then if you or and then if you need to or maybe do this if you want it a little bit denser I would mix the egg yolks in with the coconut flour, whip the egges to soft peaks stir them in quickly and then pour them out and bake them like that and see if it works because everything that I've relies on ridiculous of eggs cooking issues thanks for listening to this program on network.org you can find all of our archived programs on our website or as podcasts in the iTunes store by searching network. You can like us on Facebook and follow us on Twitter at heritage underscore radio you can email us questions at any time at info at HeritageRadio Network.org. Heritage Network is a nonprofit organization. To donate and become a member visit our website today.
+
+Thanks for listening

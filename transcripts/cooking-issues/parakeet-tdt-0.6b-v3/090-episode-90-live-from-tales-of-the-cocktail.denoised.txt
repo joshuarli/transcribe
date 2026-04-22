@@ -1,0 +1,307 @@
+Let's push their block party when's the block party
+
+It's on Saturda commercial on 1 of the breaks. It's a trip. It is a trip. Block party. If you like going to Brooklyn and you like block parties, 2 things I actually detest 'cause I'm being outside in the daytime and like large groups of people, like I detest when they shut down and no offense to people who love it, but I detest like street fairs in New York when they shut down whole avenues and then you like walk up and down and it's all the people you hate that too Nastasha. I hate my friends love it's it sucks.
+
+Who needs I can go to a regular store and buy a pair of socks there? But the corn the corn I must is pretty good like the corn and butter and chili sauce.
+
+They don't want to move to like a c frozen ear of corn situation. Those things are always. The frozen ear of corn, you ever had that? No.
+
+You buy the frozen ear of corn in the supermarket and then you try and cook it and you hope it's gonna be as good as corn is w in like July, August but it isn't no.
+
+No, it don't start if you haven't started already don't start now how's New Orleans I mean I literally we just got here, checked into the hotel and then d started doing the research for the show but it's like you'd expect, hot as hell. Mm-hmmid, humid.
+
+And the cocktail people have already descended. For those of you that don't know every right around now there's Tales of the cocktail which for the cocktail industry is the biggest kind of it's the biggest event of the year. I alm like a huge chunk of the kind of whatever you want to call them, cocktail intel intellight, whatever the hell you want to call 'em from all over the country, in fact the world, fly in here to learn from each other and I guess drink a lot.
+
+And they have it in New Orleans in the middle of summer because no 1 else wants to be here and only the cocktail people are dumb enough to come to New York in the mi come to New Orleans rather in the middle of the summer when it's a billion degrees and a hundred percent humidity. But the advantage is hotels are cheap right now hotels are cheap here. It's like a hundred bucks a night to stay in New Orleans right
+
+Nastasha not a big fan. Not a big fan.
+
+Not a big fan- Okay. Now. Oh calling your questions live to 718 fourine 72128 I believe we still have an open line to take a caller in, even though I am using 1 to calling from my hotel room. for yeah first question from Fred. Hey Dave, Nastasha, Jack, Indie Jesus, and all the rest, which by the way, just say Joe. You don't see all the rest. This is like this is like 1 of those situations this is 1 of those situations like with the with the with the skipper and Marian with the with the with the Gilligan's island. where all they had to do was say 1 last person and instead they just say the rest. It is Joe. But they might be on like back podcasts and they haven't caught up yet?
+
+And remember Indy Jesus is no longer part of our the old podcast.
+
+They might be catching up right but for so Indy Jesus because he hates Nastasha has quit the shift that's on Tuesdays. We m we might have to swit our radio show day to match up Indy Jesus's Sunday no it's crazy that Jesus works on Sunday though.
+
+No Fred writes in I recently picked up a turkey roaster. It's a Hamilton beach model, 32503. Is it possible to beep fry in 1 of those things how good is the temperature control? Thanks Fred. Okay so what we's ovens that e well can kind of ovens they look like giant crock pots. This 1 I looked it up it's 18 quart which is 1 of the standard sizes
+
+This particular model discontinued but they have a pan that you can pull out and wash out you throw the turkey on top of a rack into the pan and you roast your turkey and it theoretically it's faster also it frees up your oven so that you can on Thanksgiving time use your oven for all the rest of the nonsense that you need your oven for and cook your turkey in this in this kind of basically this in quotes oven.
+
+It's kind of like a Dutch it's like cooking in a in a Dutch oven with its own its own heat source. And I mentioned on the show once or twice that I had 1 of those that I bought a thrift shop from the it was from the sixties or something like that and I bought it in a thrift shop in college and I used to bake bread in it. And I loved it. It was great. It smelled horrible because there was something wrong with the insides of it but it still worked great and it made great bread. Well grape bread for that. Great bread for a dorm room, let's put it that way. I don't it' not greatbread compared to what our listenbread.
+
+Will it work as a deep fryer. It clearly gets hot enough to work as a deep fryer and I looked up the wattage on a on a representative 1 I couldn't find the exact 1 to find the wattage but the wattage is somewhere in the area of fourte watts and I you I doubt you're gonna find a fryer that plugs into a normal socket that's much higher than that like maybe it will go up to 1500 watts maybe a little bit higher but none of the electric plug in fryers really have as many watts as I would want them to have to because the key for frying is of course fast recovery.
+
+The way that these things work is there the pan that you put in the into it with the with the turkey in it rests on the plate that's actually doing the heating. You're gonna have some issue about some heat loss in between the plate and the and the pan but I'm mostly worried about stuff falling to the bottom and scorching on the bottom as the heater clicks off and on. I don't think the heating control is going to be very accurate at all but I don't think it's that necessary to have super accurate heat for deep frying but your main problem is gonna be scorching of particles on the bottom because a fryer that's really good at its job isn's gonna be heating the electrical element's not gonna be the very bottom of the unit. The element will be floating somewhat above the surface of the oil such that particles can fall underneath it and not scorch on the thing that's actually being heated way to fry, especially it doesn't matter so much if you're doing something like donuts because donuts don't off a lot of little particles. But if you're doing something like chicken in a batter and the batter's gonna fall off, those little bits of flour get burnt and are gonna get nasty against the bottom of the pan. That said it should work. I do not think anyone will actually recommend that you do it because I'm sure the insurance on a fryer is a lot more and you want to make sure you don't have it overflow and ignite and or burn you or scorch you or anything like that. I'm not going to make any claims to the safety of it, but I mean it should be able to do an okay job. Here's the other problem
+
+1400 watts is gonna be enough for a small, small fryer to get up really hot really fast but fourte watts distributed over something the size of an 18 quart roasting oven is not going to be that much power.
+
+And in the end so even though it's fairly powerful for what be a home fryer it's a lot bigger than what a home fryer would be and so it's gonna be sucking wind when you throw stuff in it. If you were to heat it up to temperature and only throw a couple little things in you might be able to get good results but I would bet that if you really loaded it down with like a whole fried chic or something like that the temperature would drop drastically and that you'd have some problems. But that's just my guess. If you if you it is powerful enough for you and you just don't think the temperature control is good enough, you could buy a simple PID temperature controller and a thermocouple and bypass the thermostat entirely just plug it, although you don't want PID. You gotta switch it turn it off of P ID, which is going to be a very accurate temperature control. And for deep frying you want on off. But most good PID controllers that you buy you can turn them into on off controllers. So aPID controller, like it's just gonna slowly get up to the temperature and not overshoot. You don't care if you overshoot a little bit you just want it to get up there fast. As soon as the temperature of the oil drops, you want it to go on full blast. But then you can have an external control that can be very accurate and well as accurate as an on off or bang thermostat can be and that wouldn't that much to the cost but you might have a power problem. What do you think, Stuzz? Is that's a good answer?
+
+Good answer? All right.
+
+From Colin, dearest y'all, could you revive this question are pressure cooked jams a good idea? I had to go back it was in May and found Colin's question on pressure cooked jams.
+
+A few weeks ago I bought a whole boatload of cumquats and made marmalade and then they wanted he wanted to know could marmal jam in jam in general be prepared in a pressure cooker to prevent the loss of volatile flavors because he realized that the smell that he was that was coming off of the pot was smell that was being lost right that's the theory. And so basically he says what I understand is happening is that the boiling temperature of the marmalade or jam solution increases as water is being boiled off and that stopping at a particular temperature in a pressure cook mean sorry stopping at a particular temperature when you're cooking a jam is equivalent to stopping at a particular hydration level or amount of water or the or the solids level that's in it and that we add extra water to a jam recipe because the pectin needs time to cook and break out and there you have it so the question is could he seal the mixture in a pressure cooker and cook the jam without losing water or volatiles and get an equivalent texture with improved flavor the boiling temperature will increase at the incre increased pressure but do you think that will affect the pectin slash pro properties of the jam overall I suppose there
+
+There could be more thermal breakdown of flavor in a pressure cooker despite the decreas loss of volatiles what are my thoughts? If you're gonna do it this first of all here's the here's the issue. If you knew I have to do some research and maybe during the commercial break I can look it up because I forgot to look it up. But you need what you need to know is the actual solids level of the jam that you're that you're shooting for.
+
+If the solids level, the bricks is reasonable, like in the on the order of 60% or thereabouts, 70% even, then you could probably just add the ingredients to a jar in a pressure cooker seal it so even if you had a non a venting pressure cooker which I don't like using, I like using non-venting pressure cookers in general because they do a better job with flavor but if you're sealing in a canning jar it doesn't make much difference.
+
+And pressure cook it at that higher temperature you could conceively get a product that will work but you have to know beforehand what the solid level of the fruit pulp is and then therefore calculate how much sugar to add to it and you'd have to get it fairly accurate. That is all doable and if I don't know maybe if Jack or Joe has the time to research while we're talking the bricks level B R
+
+X level of jam or jelly, you we could do a ball estimate of whether or not it's feasible to just add all the ingredients sugar, fruit, etcetera, into a jar and pressure cook it. But it I mean it might be possible. I don't. It would be difficult because you'd have to make sure you got it right every time. Does that make sense? You have a caller.
+
+Oh caller, you are on the air.
+
+Hey Dave, hey Jack, hey Stas, how's it going, this is Matt from this is Matt from Chicago.
+
+Howdy.
+
+Hi, I had a question about low temperature cooking of skirt steak.
+
+I tried it Sous vide with a reci I found on the web and it was as tough as had I cooked it for over a flame for hours.
+
+And I wonder if you had any ideas on how to get better results.
+
+Give me the recipe that you used.
+
+I don't remember. That's the problem. It was the 1 on the poly science website.
+
+How long did you cook it?
+
+Jeez, it seems like maybe 2 hours.
+
+And so here's the thing.
+
+If you're cooking a skirt steak, I like to do skirt steak low temp, but what temperature you cook the skirt steak to is entirely dependent upon how long you cook it. If you're only gonna cook the skirt steak for a couple of hours you're gonna need to go fairly high like 57 Celsius, let's say, which is a good number, 57 Celsius. If you're gonna do it for like an hour or 45 minutes or an hour and a half like that. Then you have to cool it down and then sear it.
+
+Because the skirt steak is so thin that if you if you were to try to sear it directly out of the circulator, just overcook and you might as well not have done lowp at all.
+
+Okay I did actually I did sear it afterwards immediat Yeah.
+
+You have to sear it afterwards really or the texture's not going to be very good. But the right go ahead.
+
+The other way to do it is to cook it down near where you'd cook a ribeye, so like 55 for a long time, like 99, 10 hours.
+
+Or e and then let it let it cool down again and then just take it and hard, hard sear it and that will actually warm up the inside and overcook the outside a little bit, but that's going to give a really, really high quality, tender skirt steak.
+
+If you're i you the alternative right is to sear it beforehand like it's a normal skirt steak and then just quickly throw it into like a bag and let it let it come up to temp in a circulator, the problem is your crust isn's gonna be that great afterwards.
+
+What's really a good candidate is it isn't a good candidate for the double sear, I take it Or is it? You can't you can.
+
+I've done a double sear on it and what the advantage of the double sear is that the second time you sear it's gonna color and crust up really quickly but then you might run the problem that something goes wrong and you and you and you dry it out a little bit. I if I would definitely not on skirt steak pre sear it before you low temp it.
+
+Because it's gonna cure through fairly quickly with the salt. I would definitely I mean pepper's fine or whatever, or whatever marinade you want, but I would not I would not salt it until right before the second sear.
+
+That's interesting.
+
+I actually use lime juice in my marinade and it just makes it absolutely delicious and I usually just do it the standard just sear it in a real hot pan after it's marinated a while and don't even bother with lowp but I figured I'd try it I've got a I've got a rig in my basement for low cook here for Sous vide and I figured I'd try it's I'm trying everything sous vide now that I got the rig.
+
+And some things have turned out really good but the skirt steak is 1 thing that did not, and I was just curious if you had any thoughts so I appreciate.
+
+Here's where it is do this and you're gonna you're gonna love this is what this is the way that I actually cook skirt steak, right I would do it's the I would not sear it beforehand. I would do your do your marinade or whatever you want to do, put it in the bag, cook it
+
+If you don'll have the time 57 for like I say, like an hour so, or like 55 for longer, like 13 whatever hours, it's gonna get more tender. Let it cool down and then you can even have it in the fridge, pull it out and do your hard sear on it just like you were cooking it normally and what you'll just have is you can focus on that crust and you just have a much more tender skirt steak on the inside than you would with a normal cooking technique.
+
+per se, the dairy molecules from the water molecules it just separates into layers as a thicker homogenized cream on the top and a more watery, less viscous liquid on the bottom.
+
+I'm doing further research and I'm finding out that glycerol monos glycer glycerol monosterate might help me out GSM, but I was wondering if you had any advice as far as to how I would implement the GSM if I were to obtain some and if I maybe using the sodium caseinate incorrectly.
+
+Okay well I mean I have a lot of experience with emulsified alcoholic beverages but not making cream liquors as such.
+
+What you're using actual cream?
+
+I star I did 1 batch with a little with a splash of cream and then I did another batch with a splash of milk.
+
+I also tried use making my own condensed cream and using conden like with I used malt powder, a little bit of sugar and milk and a little bit of vanilla and made like a condensed milk and used tried to use that. I thought maybe the sugar would be a decent buffer to help bind the dairy to this to the liquor
+
+I don't know if maybe my alcohol content is something that might be affecting it. I'm at about 22% alcohol content.
+
+I'm not sure.
+
+Are you but you're yeah, so you're not curdling at all, you're just getting phase separation.
+
+Yes.
+
+I mean I'm guessing that I mean I've never researched like Baileys or anything like that, to see like what the fat content of Bailey's is but if you're getting a phase separation it just sounds like you need an emulsifier in there.
+
+And what you're mentioning is isn't is an emulsifier.
+
+The 1 that I typically use in the drinks at Booker and axe is probably won't work for your application or it might is a mixture and this is not what the cream liqueur people use at all but is a mixture of it's gum arabic which acts as an emulsifier, and Xanthan which acts as a stabilizer.
+
+You probably want to go to kind of a more of a hardcore emulsifier when you get when you when you when the phase sep when you get the phase separation if you just rock it back and forth, does it go back together or no?
+
+It I've it does to an extent, but
+
+It's more of like the temperature that it's been sitting at for a while because all the ingredients I'm mixing them sort of like the dairies just from the fridge. I haven't gone I haven been able to sit down and test it from letting the dairy sit out at room temperature.
+
+I also found that heat became a factor in the initial combination it was important that the that the dairy was warm in order to get the emulsification to work initially and then once it cools down and it sits and it settles at room temperature for a while it eventually separates. And I can get it to come back together but then once I let it sit for about another half hour after spinning it back together it'll separate again.
+
+I'll tell what I'm gonna do I like this is an interesting thing I should know I should know this just because of what I do for a living. What I what I'm gonna do is I'm gonna figure out what they do in the industry to make cream liqueurs and whether or not the what the fat level if any is of those things and kind of figure out how they do it.
+
+And then I'll come back probably not next week because next week I don't know if I'm gonna be able to have the radio show because I'm gonna be in the air on the way to California, I think. But the week after that I'm gonna come back and a and answer that question. I'll give you a much more definitive answer, okay?
+
+And i if by chance are you are in the city right now.
+
+I'm in New Orleans, the tails of the cocktails.
+
+Oh you Oh okay. I was under the impression that you were in Manhattan there in New York City.
+
+All right.
+
+Well would you would you be able to also I mean I know that you say you're gonna be going back on the air with these answers but would there be any way you might be able to contact me directly?
+
+It's possible give when you when you go off give Jack your info or maybe we could tweet it out or something like that already All right thank you very much for your time do you la lastly do you would you think that the if I were to purchase in Gloseral Monas do you think that might be a decent avenue to approach I just don't I don't I don'll say yes or no off the top of my head without really doing the research on it.
+
+Alright thank you very much for your time all right so right before we take break right before we take the break Joel Gargano writes in, who by the way is from New Haven which is where the anyway so Jack wanted to know does anyone want the Blueto the music from my college days and we got the first person in says that they like that what he here's what he read. I wrote a few month back about soy whipped cream your advice helped and I made some adjustment it turns out that soft tofu coconut milk and some stabilizers works great right out of the siphon the whipped siphon but more importantly I want more Blueto.
+
+This crap is heavy. And do we have do we have a link to any of this anywhereck we have someone that wants.
+
+There it is right so when you return Yeah Joel, no Blue today because it's only on my iPhone and we don't have it actually copied over onto the computers so we're gonna have to go because enough of the cheesy jazz, no offense I like jazz, plus he also wants pictures of me getting my face smashed in on stage which I don't think actually exists unf unfortunately, but he wants like stage diving picks and stuff like that and then he suggestion is that we start a band where I guess he's gonna come in and start a band with us where we write about my art reactions and Agar clarification and he wants to call it my art and the reactors.
+
+He's gonna let me have bass solos in every song but he only wants to do it if we can get Indy Jesus to be the front man what do you think Jack we'll have to see that's gonna be tough he's in high demand. Indy I'm sure every band in Bushwick wants Indy Jesus as the frontman why wouldn'd yeah right?
+
+Even Nastasha would go to see Indy Jesus as a front man and she hates hipster bands loves bands.
+
+I retired that.
+
+Retired, but it's a it's a great skill it's like I can shotgun a beer very well, also a retired skill of mine. I don't go around shotgunning beers anymore. Jimmy Fallon show it wasn're it hasn't been retired. I didn't shotgun a beer at the Jimmy Fallon show.
+
+You asked if you could. Remember? I was joking. Joking. Plus they only have by the way for those of you don't know we're on Jimmy Fallon Show and 1 of their sponsors is Bud Light Platinum which is basically Bud Light where they add some extra booze to it. It's like straight up they add extra booze and they put it in like a blue bottle that looks like kind of like a Saratoga water or a tiny bottle. But you can't shotgun out of a bottle stars showell about you ask them if they had cans so that you could shot it's a joke a joke I don't I no longer shotgun although I am quite good at it I'meti.
+
+Okay so why don't we go to our first commercial break come back with more cooking issues.
+
+Oh, it's out, don't seem that far away at all the whole method and back to say it's hold Brother Joe, where'd you go see back at the Alam.
+
+It's gotta be right in somewhere nowhere to go now for this clean for your brother 3 for 2 guys maybe I'll come at home to come on me go slow
+
+White Passes is a hundred and forty-si-year-old multi-generational family farm that works in cooperation with nature to produce artisan meats that is safe, healthy, nutritious, and good to eat. Without fail, we ensure that our production practices are economically practical, ecologically sustainable, and that the animals are always humanely treated. We never falter in our determination to conduct our business in an honorable manner for more information visit whiteoak Pastures.com You're currently listening to Brothers NYC Real Long Way to Go band fronted by our very own Damon Bolti. And we're coming back Weepop is on the air Wait Damon Bolti fronts a band?
+
+I guess he's not the he's not the front man but he's the lead guitar that's his band. Is his twin also in the band?
+
+That' why they'reed brothers yeah it's hard for me to hear over the telephone I can't hear anything so we got we got weepop Soupy Pot slash BAM on the phone?
+
+ETA for by Christmas we're gonna give priority to the kick people but we're still working that out it should be the same batch.
+
+We'll see so I hear that you have something to discuss over the cooking Issues Airwave regarding this silence sorry I guess I guess not no I didn't I didn't hear you oh you have you told me you wanted to speak about Ziploc bags.
+
+Oh no so yeah we have we have a lot of emails coming in
+
+People being concerned with Ziploc bags and I feel like a lot of people still have issues with cooking in plastic.
+
+What we've been doing.
+
+Specifically zip ziplocks though, as opped to th you're not getting any calls in with questions about cooking in sous vide cook chill bags.
+
+You have people calling with questions on the wisdom of using ziploc bags for cooking lowp.
+
+A well here's m here's my thought. And the reason I guess is because on your Kickstarter campaign video there is a picture of someone putting food in a Ziplock to do the cooking with the with your device. What's your device called again?
+
+The Namiku.
+
+Namiku. NOMIKU. Namiku. Nami.
+
+My feeling on Ziplock bags. I might have told the story once, but I can tell it again. I was doing the Martha Stewart show, and they decided to just have like a bunch of like tech fools on. N Nathan was on via Miravold was on via he wasn't actually on, they showed she did a tour, Martha Stewart did a tour of his lab there and they had Grantz was on and I was on. And so I was talking to Grant backstage, Grant's of cour from Linia I was talking backstage that he was getting
+
+a lot of flack from SA Johnson Wax, a family company, which is I believe the people that make the Ziplock bag. And basically they yelled at him because he had a video on the web where he was using a ziplock to do to do his low temperature cooking.
+
+And it's really strange that they have a problem with it or that anyone has a problem with it because the Ziplock bags are rated for reheating in a nuke.
+
+I mean it says right on it that you can reheat stuff in them in a nuke.
+
+Issue is it's like a Ziplock bag and I could be wrong, but I'm not, is made out of polyethylene and food fru grade obviously polyethylene and it's the same stuff that most plastic wrap is made out of polyethylene.
+
+And what it can't do is get anywhere near the boiling because boiling point of water 10 C because i the it gets very soft there and that's very close to the melting point. However it works fine in the fifties and I never really take it above the low sixties ever because I don't I don't a need to Celsius that is but in that range they are
+
+perfectly fine and IdI can't understand any argument against using Ziploc bags for cooking low temp at those temperatures so long as you aren't assuming that you're preserving something for any length of time because you haven't vacuum seal on it, so long as you're not heating it above any other above in the 6 somewhere I can't see any argument whereby cooking in any form of plastic would be okay and not in a Ziplock under those circumstances.
+
+Do you know what I'm so they're Yeah so like the food savers and a lot of side sealers that are on the market, they're using the same kind of material and somehow those are being like promoted for used with like the Govie supreme or whatever.
+
+Right well I just cook chill bags like even cook chill I mean polyethylene is a good choice and I'm having a little trouble hearing you, but polyethylene is a good choice for food applications just because it doesn't have to have plasticizers in it and it doesn't react with food very much usually those bags that were rated to higher temperatures will have multiple plastic layers and so that they keep their integrity at higher temperatures but again like most of this is completely moot because we're keeping
+
+temperatures m very much lower than is ever going to be a problem when we're using low temperature cooking. I just I literally except for the fact that Johnson, S. C Johnson Wax doesn't I believe it's. C Johnson Wax, does not want to have any sort of liability from saying you can cook in their bags as oppos to reheating in a very specific way. Because they don't want to assume that liability, they just say you can't do it that them saying you can't do it is just getting promulgated on the on the on the on the web and by people. I don't really understand any other sort of argument. I would love to hear from somebody what that argument is but I haven's I haven's heard any good reasons.
+
+What I'm saying?
+
+And some people have been saying oh that's too low, whatever, but then for the purpose of maintaining perfect temperatures, 750 watts is way more than enough.
+
+That was the 1 question I had when I talked about it on the air was I mean like what was the reason you went 57 instead of the full thous that most of the other companies are using?
+
+That's just the type of heater that we're using
+
+And for the size that we're able to get it down to we've matched it up with 750 watts we've had some 1000 watts prototype however.
+
+But it doesn't it doesn't make doesn't make much of a difference like how fast like you can you can heat the water.
+
+What size bath were you testing on relatively the same.
+
+Just the re regular the 12 L extent?
+
+I mean the ones where like the thousand watt circulators start crapping out anytime you go above a normal full-size Lexan, and then they start they start sucking wind.
+
+So I mean it l what just what you're doing by any by any sort of power limitation what you're doing is you're m you're just capping the upper size of the water bath that you can reliably heat with it.
+
+you're also capping the recovery rate of it when you drop a large food load into it.
+
+The for instance, you simply can't maintain easily any temperature oh also it also depends on the temperatures you're trying to get to it's a lot easier to get a water bath up to 55 Celsi, let's say than it is to get a water bath up to 85
+
+Celsius, let's say, because you're there's a lot more losses to the atmosphere because you the water wants to go off a lot more as vapor at those temperatures and so you're having to put a lot more energy in you're getting you's proportionally a higher temperature relative to ambient and so you have to drive it harder because you have higher heat losses out of your out of your vessel.
+
+A normal thous circulator in a in a large lexan that's higher than the 1 that I normally recommend, I can't really get it to go above about 55 and I can't ha it doesn't really drive an accurate temperature at those levels when you drop big loads into them and so I only recommend using giant bass like that with a circulator for reheat where the temperature isn's the temperature the need for accuracy isn't as high. I if you' cooking a smaller in a smaller vessel, like a half lexan let's say, then I'm sure 700 and 50 watts is fine, but my question would be is like how would a 57 perform in a full size lexan versus a thous? I don't. I've never I've never done it. What I mean so I can't tell you.
+
+Mean but th those are just my concerns. I would bet for the for 90% of the people if you were gonna work at home very few people at home need to drive anything bigger than a half lexan.
+
+And that and that's right. That's why that's why we've designed the Namiku to work with you knows of any size from 3 quarts and up.
+
+We actually that was the size that we had in mind and 750 watts is more than adequate for those purposes.
+
+Anything bigger than the lifespan then you're going a little bit overboard.
+
+For house, yeah. Y you by the way we pop w it you're in Bangkok now right?
+
+No, I actually I'm in San Francisco.
+
+And you're coming here soon.
+
+I am I might not be so we because we pop as a product designer but also went to the French culinary Institute and worked with us so he knows that we can over st very easily overstuff a full size Lexan, but this isn't designed for that it's designed for people at home right so when are you gonna get 1 for us to play with as soon as possible.
+
+We're about we're about to go into production in China.
+
+I leave I leave San Francisco on Aug first and we'll be in China for a long time until we'll supervise everything until delivery basically.
+
+Alright well listen, congratulations on the new product and I might just miss you. I fly out when you fly, you fly back.
+
+When you get back in the country come and s come and say howdy We love we love ourselves some weepop. We will yeah.
+
+But yeah for anyone out there who's never been to a Booker and Backstays bar in New York City you need to go because not only not only that the cocktails are amazing if you take your dates there it's gonna feel the deal hey check this out we for those of you that don't know Weepop was our very first caller ever into the radio show ever and Yeah Weepop very first caller of all times and from Bangkok by the way and for those of you that go to the bar we have a Thai basil drink on the menu but I don't know why they call it basil because we're actually gonna make a holy basil drink coming up soon because we have a regular Italian glove style basil drink that we really like but we don't want to put 2 basil drinks on the menu 'cause that're but if we put 3 basilks on and turns out Nastasha grows a boatload of holy basil in her backyard.
+
+What about that Weepop?
+
+That sounds great.
+
+We're just gonna call the drink holy basil right gonna call the drink what do you think? Sounds good. I don't know what's in it yet. We gotta get the basil and play around with it but it's gonna be there. Don't worry about it. We're gonna have like we're gonna have 3 basil drinks we're gonna go basil crazy for the for the midsummer push.
+
+All basil all the time anyway
+
+All right, listen. Have a good time in China building your product. We can'n wait congratations on the new all right thank you so much.
+
+Bye all right all right so let's take 1 more quick break and come back with a little more cooking issues from Bushwick Block Party on Saturday July 28th from noon to midnight Saturday Saturdao Saturday July 28th it's a party in the street yes that in lay lao musica soft spa cookies silicone sister ice your use natural child tournament experience featuring bo breezy Sam Weiss and Boston's hip hop group gray sky appeal gang signs wild so performances by the gossip andrewk in the Robert's garden exclusive tiki disco DJortaga the third point susman Divas Water Photo by Ryan Slap Death Killer still cage match the bikini contest served by Sharker Falls Komita Momo Fush Buda Cafe Swarma Heritage Foodini broth imperial woodpecker snowball dessert by D P.
+
+Green Fitness!
+
+Or Bangra! Dr. Bobby Buka, Dermatology. Jelly GenY C. C piza from 12 to 2 while supplies last. Knitted to 1 margarita pizza per person. Acoustic performances from dear Old Pals and free advice. No sharks will be harmed in the making of this block party. Possible performance from Joe Bisho.
+
+somehow some weird thing happened with the phone guys was going sorry dogs out there. Must have been that block party commercial. Hey, we've got a fews left, Dave. We got a 1 o'clock, so. Alright cool. I only have I have 1 last question so I'll take it right now. Brian writes in, hi guys, gals, I saw on Starshif that you guys use grade C maple syrup at the bar. What does it taste like I want the smokiest, earthiest, funkiest mushroomy syrup that there is when I googled around buying some I saw that it's only for commercial applications I also saw that they may have changed the rating system so that grade C is now grade B. Also the Canadian rating system is different what's where can I get it thanks again Brian Alright Brian what I did was I called up the maple syrup producer and said hey listen, can I have some grade C maple syrup I know you have it and he said
+
+All right, don't telling 1, because I guess he didn't have a label for it or whatever. A poured it into a quart container, a quart maple syrup container to slap 2 B's on it which was the code for C grade and I bought it at the at the regular price.
+
+Those of you that didn't hear anything before that we say the C grade maple syrup is basically maple syrup when it starts its run at the beginning of the season is the lightest and kind of least has the least conjures, the least kind of flavor in it. And then as the season progresses it gets more and more conjuers and gets darker and has kind of more and more different flavors.
+
+I like the grade C, but it can be a little weird. It doesn't necessarily play nice with other ingredients the way that B does. I use B in cooking at home I use B on pancakes, I use B in drinks, and every bartender I know uses B in drinks.
+
+C was a little rough on some of the drinks that we tried out. I like it.
+
+It's really intense, but it can almost go metallic in certain in certain applications. But it's definitely something you should try to have around and hopefully that helps. This has been cooking issues.
+
+ViciousVishes.
+
+Oh, you didn't rap. Got me on this corner and I don't know thanks for listening to this program on heritageradio Network.org you can find all of our archived programs on our website or as podcasts in the iTunes store by searching network. You can like us on Facebook and follow us on Twitter at heritage underscore radio. You can email us questions at any time at info at heritageRadio Network.org.
