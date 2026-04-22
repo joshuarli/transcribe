@@ -1,0 +1,95 @@
+# Cooking Issues: Structured Culinary Notes
+
+## Legumes and Grains: Flavor Development and Off-Flavors
+*   **Raw Flavor Profile:** Dried beans and peas possess a distinctive acrid, vegetal taste.
+*   **Chemical Cause:** High levels of enzymes within the seed break down fats and fatty-related molecules (oils, phospholipids) in cell membranes.
+    *   Large fat molecules lack intrinsic aroma/flavor.
+    *   Breakdown produces smaller 6-carbon and 8-carbon molecules.
+    *   **Resulting Flavor:** A combination of leafy greens and mushrooms.
+*   **Cooking Dynamics:**
+    1.  **Initial Phase:** Heat encourages enzyme action, generating *more* flavor compounds.
+    2.  **Later Phase:** Heat kills the enzymes. Simultaneously, heat drives off volatile molecules and forces reactions with other molecules.
+    3.  **Outcome:** Flavor qualities fade into the background as volatile aromas are lost.
+*   **Long-Cooking Off-Flavors (e.g., 12+ hours):**
+    *   **Hypothesis 1 (Maillard Reaction):** Water becomes slightly alkaline over time, triggering Maillard reactions perceived as off-flavors (breadiness).
+    *   **Hypothesis 2 (Fat Oxidation):** Oxidation of remaining fats.
+    *   **Hypothesis 3 (Aroma Loss):** Loss of volatile molecules leaves less volatile, less aromatic compounds.
+    *   **Hypothesis 4 (Starch Binding):** Long cooking breaks open starch grains, releasing free starch (amylose and amylopectin) into the cooking liquid. Free starch binds aroma molecules, making them unavailable to the nose.
+    *   **Note:** Starch hydrolysis breaking down into other compounds is unlikely to be the primary cause.
+
+## Sourdough: Temperature, Hydration, and Acid Balance
+*   **System Complexity:** Sourdough involves dozens of *Lactobacillus* strains, multiple bacteria per starter, and various wild yeasts.
+*   **Variables:** Flour type, ash content, temperature, hydration, stirring technique, and aeration all affect the yeast/bacteria balance.
+*   **Yeast vs. Bacteria Balance:**
+    *   Bacterial acids inhibit yeast growth.
+    *   Goal: Balance bacteria (for flavor/properties) with sufficient yeast (for CO2 leavening).
+*   **Temperature Effects:**
+    *   **Cooler Temperatures:** Historically believed to favor yeast survival over bacteria, allowing better leavening. Recent data suggests this is variable depending on specific strains.
+    *   **Warmer Temperatures:** Generally encourage bacterial activity (acid production).
+*   **Hydration Effects:** Firmer starters are often cited as promoting lactic acid over acetic acid, though findings vary by source.
+*   **Aeration and Oxygen:**
+    *   Yeasts require oxygen to grow well.
+    *   **Technique:** Whipping or kneading a firmer starter introduces oxygen, giving yeast a "leg up" on bacteria.
+    *   **Acid Production:**
+        *   Oxygen presence increases **acetic acid** production (vinegar aroma).
+        *   Absence of oxygen (anaerobic) favors **lactic acid** (cleaner taste).
+        *   Heterofermentative lactobacilli produce both CO2 and acetic acid.
+*   **Practical Advice:** Focus first on establishing a stable, growing starter before refining the lactic vs. acetic acid ratio.
+
+## Hydrocolloids and Custard Stability
+*   **Scenario:** Maintaining set buttermilk custard (pancetta) for 3 hours at air-conditioned room temperature without refrigeration.
+*   **Safety:** Thoroughly cooked custard is safe for 3 hours in an AC room.
+*   **Setting Agents:**
+    *   **Gelatin:** May become too soft over time during transport/storage.
+    *   **Carrageenan (Recommended):**
+        *   **Kappa Carrageenan:** Sets hard; can be brittle.
+        *   **Iota Carrageenan:** Sets soft; reforms if broken (prevents cracking).
+        *   **Mix:** Using a mix (common in commercial products) balances texture.
+        *   **Softening:** Add **Locust Bean Gum** to kappa carrageenan mixtures to soften the set.
+        *   **Quantity:** Use a preposterously small amount.
+    *   **Traditional Method:** Use a small amount of starch or flour.
+*   **Safety Note on Carrageenan:** Some research suggests kappa carrageenan might be carcinogenic in very acidic systems, but buttermilk acidity is likely insufficient to trigger this risk.
+
+## Meat Science and Processing
+*   **Chicken McNuggets and Transglutaminase (TG):**
+    *   **Myth:** McNuggets are made with microbial transglutaminase.
+    *   **Fact:** McNuggets were introduced in 1980; microbial TG was not available then.
+    *   **Mechanism:** Binding is achieved via **primary bind** (myosin extraction). Salting meat chunks draws out myosin, a sticky protein that binds pieces together without TG.
+    *   **Economics:** TG is expensive and requires calcium; mechanical binding is cheaper and faster.
+*   **Surimi (Imitation Crab):**
+    *   **Process:** Deflavoring, de-aromatizing, and washing fish scraps to remove normal flavor, then regelling.
+    *   **TG Usage:** Historically made without TG. Modern applications use TG to extend gelling power in fish with low natural gelling capability.
+    *   **Allergens:** The allergen is **tropomyosin** (muscle protein). It likely persists through processing even if the meat is washed.
+    *   **Authenticity:** Using actual crab/shrimp in surimi contradicts the concept of using cheap fish scraps.
+*   **Country Ham Storage:**
+    *   **Ideal Storage:** Cool, semi-dark place (e.g., downstairs in San Francisco).
+    *   **Risks:**
+        *   **Cupboard Storage:** Attracts mites (common in cool, dark places). Mites can chew the ham.
+        *   **Refrigeration:** Causes fat to pick up fridge odors; may cause mold on cut surfaces.
+    *   **Mold Handling:** If surface mold appears (green or candida-like), cut it off and scrub. Do not worry unless mold penetrates deep enough to alter internal flavor.
+    *   **Mite Cheese:** Austrian/German *Quark* cheese aged with mites. Mites are eaten; they produce a pheromone compound that imparts a delicious aroma (not bitterness).
+*   **Raw Meat in Oil (South American Tradition):**
+    *   **Technique:** Submerging raw meat in oil (not cured like *cecina*, not cooked like *confit*).
+    *   **Safety Logic:** High water content leads to fermentation (lactic acid production) which inhibits botulism. Heat-labile pathogens are killed during subsequent cooking.
+*   **Chuno (Peruvian Freeze-Dried Potatoes):**
+    *   **Process:** Freeze-thaw cycles, burial in a well for ~70 days, dehydration, more freeze-thaw cycles.
+    *   **Flavor:** Distinctive "old veteran" potato flavor.
+    *   **Warning:** Specific anaerobically fermented versions (e.g., *Chuno Blanco*) can taste like goat's private parts/barnyard. Standard freeze-dried versions are palatable.
+
+## Exotic Meats and Ethics
+*   **Lion Meat:**
+    *   **Flavor:** Tastes like pork.
+    *   **Texture:** Extremely tough despite low connective tissue; difficult to cook even at low temperatures.
+    *   **Ethics:** If the animal is not endangered and obtained legally, there is no moral distinction between eating lion and eating pig.
+    *   **Supply Chain Issue:** Many suppliers (e.g., Zimer's) sell endangered animals (tigers, lions) as common species without DNA testing.
+*   **Factory Farming vs. Wild/Exotic:**
+    *   **Argument:** Domestic animals (pigs, cows) have a "bargain" with humans (shelter/food for early death).
+    *   **Counter-Argument:** Factory farming is worse than traditional farming regarding animal welfare.
+    *   **Utilitarian View:** If an animal is being slaughtered for other reasons (fur, byproduct), using the meat prevents waste and nourishes people.
+
+## Equipment and Techniques Mentioned
+*   **Fruit Knife:** Essential for tasting avocados and mangoes; recommended to ship or pack specifically for tropical fruit tastings.
+*   **Avocado Packing:** Suggested technique involves foaming in place to protect during transport.
+*   **Pre-scoring Avocados:** Scoring hard avocados before ripening allows for easy peeling like a banana once ripe.
+*   **Sourdough Aeration:** Whipping or vigorous kneading of firm starters to introduce oxygen for yeast growth.
+*   **Carrageenan Mixing:** Requires precise ratios; mixing kappa and iota with locust bean gum adjusts hardness and elasticity.

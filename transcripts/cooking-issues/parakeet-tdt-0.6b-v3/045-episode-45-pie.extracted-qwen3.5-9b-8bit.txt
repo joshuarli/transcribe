@@ -1,0 +1,119 @@
+# Pie Crust Techniques & Ingredients
+
+**Fat Selection & Properties**
+*   **Crisco (Hydrogenated Fat):**
+    *   *Properties:* Contains no water; unique melting characteristics create a specific texture.
+    *   *Tradeoffs:* Creates a texture some prefer, but the host is not a fan. Historically used for frying donuts to prevent greasiness upon cooling (unlike liquid oil).
+    *   *Usage:* Host notes it is not worth the effort compared to other fats.
+*   **Lard:**
+    *   *Properties:* Home-rendered lard has a solid fraction and a liquid fraction. The liquid fraction is too liquid to work properly.
+    *   *Technique:* Must use the more solid fraction. Must be **really chilled**.
+    *   *Flavor:* Adds a savory note lacking in modern pies.
+    *   *Tradeoffs:* Hydrogenated lard is good for texture but extremely soft; home-rendered requires careful temperature management.
+*   **Butter:**
+    *   *Properties:* Contains water.
+    *   *Flavor:* "Freaking delicious."
+    *   *Texture:* Theoretically inferior to lard/Crisco for texture, but preferred by the host for flavor.
+*   **Olestra (Solid Fat Application):**
+    *   *Issue:* Frying potato chips in solid fat (like solid Olestra) results in a bad taste because the solid fat is perceived.
+    *   *Solution:* Manufacturers use a "hot air curtain" to blast the surface coating of fat off the chip after frying in solid Olestra to mask the solid fat taste.
+    *   *Historical Context:* Liquid Olestra caused "anal leakage" (undigested fat passing through the system) and loss of fat-soluble vitamins. Switched to solid Olestra to prevent leakage, but the taste was unacceptable.
+
+**Methodology (Steingarten Style)**
+*   **Equipment:** Use hands and a fork. **Never** use mechanical equipment (e.g., food processor) for pie crust; it is unnecessary and can overwork the dough.
+*   **Ingredients:** Flour, fat (butter, lard, or Crisco), salt, sugar (optional, for color).
+*   **Procedure:**
+    1.  Cut cold butter into flour.
+    2.  Rub fat into flour using fingers: Rub thumb over fingers like snapping, or rub through fingers as if they were tines of a comb/fork.
+    3.  Texture goal: Coarse, crumbly mixture with pieces ranging from the size of peas to smaller.
+    4.  Add water: Does not need to be "crazy ice water." Add enough to bind quickly.
+    5.  Mixing: Stir water in with a fork, then gather into a ball with hand.
+    6.  Rolling: Roll out without much ado. **Do not re-roll** the dough.
+*   **Water Ratio:** Common mistake is using too little water, causing the crust to crumble and not roll.
+
+# Foraging & Wild Edibles
+
+**Locations & Timing**
+*   **Location:** New England seacoast (Maine, Rhode Island, Cape Cod).
+*   **Timing:** Early season; "a little early" for some items.
+*   **Environment:** Undeveloped shores and water close to the beach.
+
+**Specific Species & Properties**
+*   **Cahogs, Clams, Mussels:** Common forage items depending on location.
+*   **Orach:** Similar to lamb's quarters; excellent for salad.
+*   **Sea Beans:** Wild edible found on beaches.
+*   **Wild Sea Rocket:**
+    *   *Properties:* Similar to wild rocket/arugula but more succulent, crunchy, bitter, and mustardy.
+    *   *Growth:* Grows wild along the beach.
+*   **Beach Plum:** Available in fantastic amounts in early season.
+
+# Flavor Balancing & Umami
+
+**General Principles**
+*   **Salt:** The most important balance. If a dish tastes "flat" or low in flavor, add a pinch of salt to wake it up.
+*   **Acidity:** Essential for braises and liquid-based dishes. Often lacking unless added specifically. Add towards the end of cooking.
+*   **Sweetness:** Used to balance saltiness.
+*   **Avoid Masking:** Do not add ingredients solely to mask flavors, as this leads to an overwhelming mixture over time.
+
+**Umami Boosters**
+*   **Fish Sauce:**
+    *   *Technique:* Use as a minor component (e.g., 1 dash) to add an "ineffable quality."
+    *   *Caution:* Small amounts add depth; too much makes the dish taste "Asian."
+    *   *Recommendation:* Use milder, meatier varieties (e.g., *Ishiri* from Japan, *Ayu* from Japan) rather than traditional Southeast Asian styles which can be overpowering.
+*   **Ayu Sauce:**
+    *   *Description:* A sweet fish sauce from Japan.
+    *   *Flavor Profile:* Cross between fish sauce, bacon, and ham juice.
+    *   *Usage:* Use sparingly (1 dash) in dishes like Caesar-style salads to pop the flavor.
+*   **Colatura:**
+    *   *Description:* Anchovy oil (fermented but not a sauce).
+    *   *Flavor:* Funkiness of anchovies, intermediate between fish sauce and oil.
+    *   *Availability:* Italian specialty markets; expensive.
+*   **Miso:**
+    *   *Function:* Adds body, sweetness, and amino acid flavors.
+    *   *Application:* Can be used in non-Asian contexts (e.g., with egg yolk and lime juice) to create a flavor base similar to Parmesan without the dairy.
+*   **Soy Sauce:** Tiny bits can be used to round out flavors and add meatiness.
+
+**Dairy in Fish Dishes**
+*   **Asian Cuisine:** Historically lacked dairy due to Ming Dynasty reactions against Northern/Central Asian influences.
+*   **European/Italian Cuisine:** Lack of dairy in fish dishes stems from religious fasting rules (no meat, no dairy on fast days; fish was allowed).
+*   **Substitution:** Parmesan is very hard to substitute. Alternatives involve enzyme breakdown products (miso), acid (lime), and emulsifiers (egg yolk).
+
+# Pit Roasting a Pig
+
+**Equipment & Setup**
+*   **Heat Source:** Wood fire (charcoal possible but wood preferred).
+*   **Heat Retention:** Rocks heated in the fire.
+    *   *Safety:* Select rocks without fissures or high water content to prevent explosion.
+    *   *Test:* Throw rocks in fire, step away, and observe for explosions.
+*   **Wrapping:** Banana leaves (keeps moisture in, prevents dirt contact).
+*   **Handling:** Wrap pig in chicken wire after banana leaves to prevent falling apart during removal.
+*   **Testing System:**
+    *   *Tool:* Long thermocouples (approx. $35) and a thermocouple thermometer.
+    *   *Method:* Embed thermocouples in the ground at several points before burying the test pig.
+    *   *Goal:* Ensure temperature stays in the braising range (below boiling point) for several hours.
+
+**Temperature & Time Parameters**
+*   **Target Temperature:** Hover around **60°C (140°F)**.
+*   **Duration:** Approximately **6 hours** for a 100 lb pig.
+*   **Cooking Method:** Braising (moisture retained by leaves prevents evaporation).
+
+**Anatomical Considerations**
+*   **Problem:** Whole animals have varying muscle types.
+    *   *High Collagen:* Need long cooking to break down; benefit from this method.
+    *   *Low Collagen (e.g., Loin):* Do not exercise much; will not be prime texture after long cooking despite retaining moisture.
+*   **Solution:**
+    *   Salt areas with less connective tissue beforehand to help retain moisture.
+    *   Score meat near thick bones (thigh/leg) to reduce cooking time disparity, though this risks leaching juices even with wrapping.
+    *   Stretching the animal out may help even cooking times.
+
+# Regional & Personal Notes
+
+**Rhode Island Specifics**
+*   **Dell's Lemonade:** Famous local slushy with lemon rind pieces. Distinct from packaged versions.
+*   **Skate:** Delicious fish, historically considered "trash fish."
+*   **Foraging:** Host forages for food on beaches (cahogs, clams, mussels, plants).
+
+**Personal Preferences**
+*   **Dislikes:** Pretzel sticks (not real pretzels, not in knots), Natto (fermented soybean product), Melon (specifically Cantaloupe).
+*   **Likes:** Foraging, lard (for savory notes), butter (for flavor), hydrogenated fats for specific frying applications (donuts).
+*   **Drinks:** Prefers seltzer water; orders Corona at beach as a "light beer" substitute.

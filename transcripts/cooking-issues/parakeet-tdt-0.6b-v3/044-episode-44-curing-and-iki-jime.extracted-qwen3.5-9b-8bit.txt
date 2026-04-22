@@ -1,0 +1,78 @@
+# Pork Blade Steak (Sous Vide)
+*   **Cut Identification:** Pork blade steak is cut from the pork shoulder (front shoulder), containing the blade bone and multiple muscle groups.
+*   **Technique Challenge:** Contains varying connective tissue densities; low-temperature cooking risks some muscles becoming mushy/pasty while others remain tough if not timed correctly.
+*   **Temperature:** 38°C to 41°C (100°F to 106°F).
+*   **Time:** 24 hours recommended. Do not exceed 2 days.
+    *   *Note:* If 12 hours is too chewy, extend to 24 hours.
+*   **Salting Rule:** Do **not** salt before sous vide if storing overnight or serving later.
+    *   *Reasoning:* Salt draws out moisture and firms the meat (curing effect) during long storage, reducing juiciness.
+    *   *Exception:* Salt before searing only for "direct serve" (cook immediately after salting).
+*   **Post-Cook Finish:** Cool meat 100% before applying a hard sear to create a crust while maintaining soft interior.
+*   **Texture Warning:** Overcooking low-temperature meat does not make it dry; it turns mushy/fibrous (like a paste) upon chewing.
+
+# Smoke Injection (Smoking Gun)
+*   **Concept:** Using a modified vacuum cleaner to inject smoke under a cloche or into a sealed vessel to simulate barbecue aroma at service.
+*   **DIY Method (Historical):**
+    *   **Equipment:** Miniature electric vacuum cleaner (double-A battery powered).
+    *   **Modification:** Insert batteries backwards to reverse motor rotation (blows air instead of sucking).
+    *   **Attachment:** Screw a pot bowl onto the top.
+    *   **Fuel:** Applewood chips (instead of marijuana).
+    *   **Usage:** Inject smoke under a glass cloche covering a dish; lift cloche to release aroma.
+*   **Commercial Equipment:**
+    *   **Brand:** PolyScience (Philip Preston).
+    *   **Name:** "Smoking Gun".
+    *   **Advantage:** Robust, built for kitchenware, less prone to melting/leaking compared to head-shop versions.
+*   **Limitations:**
+    *   Static smoke settles out over time; lacks the continuous generation of actual smoking.
+    *   Head-shop versions are low quality, prone to burning out, melting, and leaking.
+    *   Requires purchasing from head shops under the guise of tobacco use.
+
+# Ikijime (Japanese Fish Killing Techniques)
+*   **Goal:** Properly bleed the fish and preserve/enhance texture by preventing rigor mortis damage.
+*   **Technique 1: Brain Destruction (Shinke Nuki)**
+    *   **Tool:** Curved knife or ice pick.
+    *   **Action:** Impale head above/behind the eye to destroy the brain immediately.
+    *   **Reasoning:** Severing the spine alone takes force/time, causing stress/flopping. Leaving the brain alive while severing the spine can negatively affect head taste.
+*   **Technique 2: Spinal Cord Severing**
+    *   **Action:** Cut spinal cord at the top (near head) and bottom (near tail).
+    *   **Effect:** Disconnects brain from muscles; severs blood vessels along the spine for efficient bleeding.
+    *   **Bleeding:** Submerge in salted ice water to flush blood out (removes "chi line" blood taste).
+*   **Technique 3: Spinal Needle Insertion**
+    *   **Tool:** Needle-thin wire/needle.
+    *   **Action:** Run needle up the bottom of the spine (not the center).
+    *   **Mechanism:** Destroys "central pattern generators" in the spinal cord that cause involuntary muscle contractions (swimming reflexes) after brain death.
+    *   **Biochemistry:** Prevents rapid depletion of ATP (energy source).
+    *   **Result:** Slower entry into rigor mortis. Prevents muscles from ratcheting tight and damaging themselves.
+    *   **Outcome:** Firmer texture, less gaping, less weeping, better aging window.
+*   **Aging:** Fish killed with Ikijime requires a longer aging period to reach peak condition compared to Western methods.
+*   **Suitability:** Best for hard-swimming fish (stripers, tuna, bass, fluke). Less benefit for flatfish like flounder.
+
+# Curing Salt & Ham Production
+*   **Curing Agents:**
+    *   **Instacure #1 / Prague Powder #1 / Morton Tender Quick:** Sodium Nitrite (Quick release). Used for short-cured items (bacon, sausage).
+    *   **Instacure #2 / Prague Powder #2:** Sodium Nitrate (Time-release). Converts to nitrite over time. Used for long-cured whole muscle items (country ham, prosciutto).
+*   **Legality:** Sodium Nitrate is **not** illegal in the US. Misinformation often claims otherwise.
+*   **Botulism Risk:** Properly dried/salted hams are sufficiently sterile to prevent botulism even without nitrites, though nitrites/nitrates ensure cured color and safety in shorter-aged hams.
+*   **Environment:**
+    *   **Prosciutto:** Low humidity, cool temperatures.
+    *   **American Country Ham:** High humidity, warm temperatures (e.g., Virginia summer, ~80°F).
+*   **Larding:** Apply lard over the meat face early in the process to prevent excessive drying on that side.
+*   **Deboning:** Can be done after initial salting/curing.
+*   **Recommended Producers (Call to verify stock/aging):**
+    *   **S. Wallace Edwards (Heritage Foods USA):** "Seriano" ham (smoked, peppered, Virginia Tidewater style).
+    *   **Nancy Mahaffey (Colon Newsoms, KY):** Aged near swamps (blue cheese note), cures once a year in winter.
+    *   **Alan Benton:** Good country hams.
+    *   **Burgers Smokehouse:** "Attic Age" (12 months old, heritage breed).
+    *   **Finchville Farms (KY):** Natural cure, nitrate-free, aged in different environments.
+*   **Pork Quality Factor:** Older animals with higher slaughter weight and better marbling (heritage breeds) age better and produce more flavorful ham due to enzyme characteristics.
+
+# Bluefish & Ikijime Application
+*   **Fish Profile:** Oily, strong swimmers, vicious teeth (require metal leaders). Flesh deteriorates quickly.
+*   **Hypothesis:** Ikijime (specifically spinal needle technique) could improve quality by managing rigor mortis in this fast-deteriorating species.
+*   **Cultural Context:** Not traditionally eaten by Japanese; Japanese do not typically use Ikijime on bluefish.
+*   **Recommendation:** Learn technique from Dave Chang's iPad app (production company: Anthony Bourdain's) and test on bluefish.
+
+# General Philosophy
+*   **Humane Killing:** Dispatching fish quickly (least trauma) results in better tasting meat.
+*   **Freshness vs. Peak:** The "freshest" fish (immediately post-mortem) is not always the best. Peak condition often occurs after rigor mortis resolves (days later for tuna).
+*   **Waste:** Obligation to treat meat well and not overcook or waste it, acknowledging the animal's life.

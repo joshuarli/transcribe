@@ -1,0 +1,86 @@
+# Sodium Hexametaphosphate (SHMP)
+*   **Chemical Nature:** A mixture of polyphosphate salts; not a single pure compound. Contains varying chain lengths.
+*   **Functional Roles:**
+    *   **Calcium Sequestrant:** Binds calcium molecules to prevent premature gelation in alginate-based spherification.
+    *   **Emulsifier:** Solubilizes proteins, allowing them to act as emulsifiers. *Note:* Shorter chain polyphosphates are typically used for meat emulsification; SHMP is less basic and used differently.
+    *   **Buffer:** Acts as a buffer in different chemical regimes depending on the specific salt used.
+    *   **Thickener/Stabilizer:** Functions similarly to hydrocolloids but requires specific knowledge of the exact salt type for the intended effect.
+*   **Basic vs. Long-chain:** Shorter chain polyphosphates are typically basic; longer chains (like SHMP) are typically not basic.
+*   **Resources:**
+    *   "Polyphosphates: Chemistry, Effects, and Importance" (available as a Word document online).
+    *   "ICL_meat.PDF" (guides on using polyphosphates in meat).
+    *   Industrial white papers from companies like Dow (for methyl cellulose) and FMC Biopolymer (for alginates).
+    *   Food Processing books (e.g., *Frying: Improving Quality*).
+    *   *Egan Press* publications by the American Association of Cereal Chemists.
+
+# Transglutaminase ("Meat Glue")
+*   **Application:** Bonds proteins by cross-linking glutamine and lysine residues.
+*   **Bonding Strength:** Comparable to the junction between two different muscles or a muscle separated by a membrane. Not strong enough to permanently fuse whole muscles or human tissue without severe medical consequences.
+*   **Setting Time:** Sets quickly at human body temperature (~98°F / 37°C).
+*   **Surface Preparation:** For optimal bonding, surfaces must be roughened (e.g., sanded) to expose fresh protein, as the epidermis is largely dead protein.
+*   **Safety Warning:** Do not use on humans. Bonding human skin/tissue would cause disfiguration and scarring upon separation.
+
+# Potatoes and Solanine
+*   **Toxin:** Solanine (glycoalkaloid).
+*   **Indicators of High Solanine:**
+    *   **Greening:** Caused by chlorophyll formation, which correlates with high solanine levels.
+    *   **Sprouting:** Sprouts contain the highest concentration.
+    *   **Bitter Taste:** A reliable indicator of high solanine; do not eat if bitter.
+*   **Distribution in Potato:**
+    1.  Sprouts (Highest)
+    2.  Green skin area (Second highest)
+    3.  Layer under the peel (High)
+    4.  Tuber flesh (Lowest)
+*   **Mitigation Strategies:**
+    *   **Cutting:** Remove sprouts and heavily green areas. Peel extensively.
+    *   **Cooking:** Boiling or steaming does **not** remove solanine.
+    *   **Frying:** Deep frying extracts some solanine into the oil, spreading the toxin rather than removing it.
+    *   **Foliage:** Never eat potato leaves, blossoms, or sprouts; they contain the highest concentrations.
+
+# Rotor-Stator Homogenizer
+*   **Mechanism:** A stationary stator and spinning rotor create a tiny clearance gap. Particles are forced against the stator and obliterated by high-speed impact.
+*   **Comparison:** Superior to standard blenders. Blenders rely on particle movement and blade impact, allowing particles to evade blades; rotor-stators force particles against a fixed surface.
+*   **Applications:**
+    *   **Emulsification:** Creates finer particle sizes, resulting in wider, more stable emulsions (e.g., aioli, "milk" made from fat and broth).
+    *   **Juice Clarification:** Reduces particle size to prevent clogging in sensitive organisms (e.g., oysters die if fed particles >10 microns; standard blenders only reach ~20 microns).
+    *   **Flavor Enhancement:** Keeps fine particles in suspension (e.g., lime juice) rather than straining them out, potentially improving flavor and yield.
+    *   **Stabilization:** Prevents settling in emulsions without needing heavy hydrocolloid additives.
+*   **Garlic Greening:** Pureeing garlic in a rotor-stator homogenizer accelerates enzymatic browning/greening. This is a 2-3 step enzymatic process involving colorless precursors converting to green compounds under specific pH or cooking conditions. No known method prevents this while retaining raw flavor.
+
+# Egg Varieties
+*   **Protein Content:** Varies by species (Hen, Quail, Duck, Pheasant, Ostrich).
+    *   Range: 71% (Ostrich) to 82% (Quail/Duck).
+*   **Research:** A 2005 study by Marti Miguels (*Comparative study of egg white proteins from different species by chromatographic and electrophoretic methods*) details protein differences but does not specify cooking impacts.
+
+# Umami Broth Optimization
+*   **Key Ingredients:** Tomatoes, dried shiitake mushrooms, kombu (kelp), star anise.
+*   **Star Anise Interaction:** Cooking star anise with sulfur compounds in alliums (onions) may release new flavor chemicals enhancing umami (research cited by Heston Blumenthal; specific study details requested by listener).
+*   **Glutamate vs. Sodium:**
+    *   Increasing glutamate (e.g., via monopotassium glutamate) allows for reduced sodium while maintaining palatability.
+    *   **Critique:** High glutamate levels without sufficient salt cause all foods to taste like *dashi* (broth), masking specific flavor profiles (e.g., Alfredo sauce tasting like soup).
+    *   **Salt Position:** Salt is primarily added for taste enhancement, not just preservation or safety. Reducing salt across the board often results in bland food that is subsequently over-salted by the consumer.
+*   **Cooking Techniques for Broth:**
+    *   **Onions:** Pressure cooking increases sweetness but decreases distinct onion flavor. Recommendation: Sauté some onions separately and add them to the pressure-cooked broth to boost fresh onion notes.
+    *   **Kombu:** High heat (pressure cooking) degrades kombu flavor. Recommendation: Pre-steep kombu in 60–70°C water, then remove before pressure cooking the rest of the stock.
+
+# Ramen Noodles
+*   **Kansui:** A mixture of potassium carbonate and sodium bicarbonate.
+    *   **Function 1:** Alkalinity strengthens gluten structure, providing "tooth" and bite.
+    *   **Function 2:** Turns noodles yellow (affects wheat protein).
+    *   **Substitution:** Baking soda can be baked in an oven to create sodium carbonate. Available at large Asian grocery stores.
+*   **Hand-Pulling vs. Machine/Cut:**
+    *   **Hand-Pulled:** Requires extensive kneading to obliterate gluten structure, resulting in a short texture that lacks the "bite" of alkaline noodles. Not traditional for ramen.
+    *   **Machine/Hand-Cut:** Extruded, steamed, and fried.
+*   **Hand-Cutting Technique (Soba style):**
+    *   Use a specialized knife (axe-like handle).
+    *   Place a board on top of the noodles.
+    *   Push the board over exactly one noodle length while keeping the blade in contact.
+    *   Pull the knife perpendicular and slice down without lifting the blade from the board.
+*   **Finishing:** Noodles must be steamed and then fried to finish dehydration.
+
+# Equipment & Tradeoffs
+*   **Rotor-Stator Homogenizer:**
+    *   *Tradeoff:* Produces finer emulsions and stable suspensions but can accelerate enzymatic reactions (e.g., garlic turning green).
+*   **Pressure Cooker:**
+    *   *Tradeoff:* Increases sweetness in onions but reduces distinct onion flavor; degrades kombu flavor.
+*   **Roberta's Biscuits:** Received a 2-star review in the NYT (tasting menu 3 stars, regular menu 2 stars, pizza/beer 1 star) due to a "homey" atmosphere, despite stellar food quality.

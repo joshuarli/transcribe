@@ -1,0 +1,66 @@
+# Methylcellulose (F50) Foam Technique
+*   **Ingredient:** Hydroxypropyl methylcellulose (specifically **F50** grade, low-to-medium viscosity).
+    *   *Note:* Not the high-viscosity type used for hot broth gels (e.g., Dow Methocell).
+*   **Ratio:** 8g per liter of liquid (fruit puree, juice, etc.).
+*   **Process:**
+    1.  Mix ingredient with liquid.
+    2.  Blend.
+    3.  Whip in a stand mixer (e.g., KitchenAid) with a balloon whisk attachment until it forms a meringue-like foam (texture similar to a Guinness head).
+    4.  Pipe onto a Silpat or acetate sheet.
+    5.  Dehydrate in a dehydrator or oven set to dehydrate mode.
+*   **Result:** Foams solidify slightly but remain airy; they "disappear" in the mouth (proteiny texture) and are vegan.
+
+# Venison Country Ham Curing
+*   **Challenge:** Venison has less fat than pork, requiring protection from drying out during long cure times.
+*   **Cure Additions:** Juniper berries or gin (optional; gin will evaporate quickly).
+*   **Technique for Fat Protection:**
+    *   Salt the meat to desired salt level.
+    *   Once the surface begins to dehydrate, apply a protective layer to the face of the meat (the side without fat).
+    *   **Method:** Mix lard with rice flour (or similar starch) and work the mixture over the meat face (Parma-style).
+    *   Cover and allow to dry out.
+*   **Alternative Cooking Method:** Use an immersion circulator to cook venison to avoid gamey flavors associated with overcooking.
+
+# Immersion Circulator Applications
+*   **Sausage Reheating:**
+    *   **Temp:** 60°C (140°F).
+    *   **Method:** Place sausage in a Ziploc bag with a little oil. Submerge in circulator bath.
+    *   **Finish:** Sear on a salamander or grill for 1 minute per side.
+    *   **Benefit:** Prevents overcooking; retains internal fat for flavor.
+*   **Mashed Potato Reheating:**
+    *   **Method:** Place mashed potatoes in a Ziploc bag. Squish flat to a thickness of ~3/8 inch.
+    *   **Temp:** 60°C (140°F) in circulator bath OR simmering water in a pan.
+    *   **Benefit:** Heats through quickly without burn spots or moisture loss.
+    *   **Prep Tip:** Make ahead, pack into bags (not vacuum sealed), squish flat, and reheat at the last minute.
+*   **Mashed Potato Preparation:**
+    *   **Ingredients:** Cream and butter mixture (avoid using butter alone for lubrication).
+    *   **Tools:** Food mill or potato ricer (avoid hand mashing to prevent chunks).
+
+# Pumpkin Seed Roasting
+*   **Prep:** Remove seeds from pulp, wash clean.
+*   **Marinade:** Squeeze lemon or lime juice over seeds and let sit briefly.
+*   **Cook:** Roast in oven with salt.
+*   **Result:** Delicious snack.
+
+# Vacuum Sealing & Sous Vide Troubleshooting (Air Pockets & Spoilage)
+*   **Scenario:** Large roast cooked at 130°F (54°C) for 36 hours resulted in an air pocket and "rancid zombie vomit" smell.
+*   **Cause:**
+    *   Bacteria (lactic acid bacteria, lactobacilli) grew in the danger zone (40–50°C / 104–122°F) during thawing or uneven heating.
+    *   Freezing does not kill bacteria; it only puts them in suspended animation.
+    *   Uneven heat distribution (e.g., meat resting on the bottom of the tank) creates cold spots where bacteria multiply, causing gas production (air pocket).
+*   **Prevention Steps:**
+    1.  **Thawing:** Thaw meat in the refrigerator or in the circulator at a low cooking temperature to kill bacteria from the start. Do not thaw at room temperature.
+    2.  **Surface Sanitization:** Before bagging, simmer the raw meat in water for ~1 minute to kill surface bacteria.
+    3.  **Bag Placement:** Ensure the bag is suspended off the bottom of the circulator tank to allow water circulation underneath and prevent cold spots.
+    4.  **Contamination Control:** Ensure knives/tools do not contaminate the interior of the meat before sealing.
+*   **Safety:** If a bag inflates unexpectedly with an off smell, discard immediately. While unlikely to cause illness, the meat will be repulsive.
+
+# Equipment & Ingredients Notes
+*   **Immersion Circulator:** Recommended for hunters to cook game meat (grouse, woodcock, venison) without turning it into jerky/sausage.
+*   **Blowtorches:**
+    *   **Propane torches:** Often leave a chemical "propane taste" due to additives used for leak detection. Fat absorbs this taste more than lean meat.
+    *   **Butane torches:** Preferred for better combustion and less odor (used for lighters/cigars).
+    *   **Recommendation:** Use a frying pan to sear meat instead of a torch if possible. If using a torch, consider a wide-flame propane torch for better browning and potentially less odor.
+*   **Methylcellulose Types:**
+    *   **High Viscosity:** Gels when heated, melts when cooled (used for hot broth noodles).
+    *   **F50 (Low/Med Viscosity):** Whips into foam, gels upon dehydration.
+*   **Speck:** Italian cured ham (rolled flat for faster curing, smoked, juniper flavor). Preferred over Austrian/German versions which can be drier.

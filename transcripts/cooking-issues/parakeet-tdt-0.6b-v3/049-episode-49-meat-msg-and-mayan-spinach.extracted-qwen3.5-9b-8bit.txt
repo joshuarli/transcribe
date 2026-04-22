@@ -1,0 +1,164 @@
+# Techniques & Parameters
+
+### Fruit Labeling (Field Testing)
+*   **Method 1: Tattoo Gun**
+    *   **Equipment:** Rabbit Tattoo Gun (model "Easy Tat") or competitor "Rabbat".
+    *   **Cost:** ~$50.
+    *   **Process:** Tattoo the fruit; rub an ink stamp over it quickly to make the mark visible.
+    *   **Observation:** Hard to see on lemons without ink; filling with ink is painful. On delicate fruits (mangoes) or oxidizing fruits (apples), the mark may be visible without ink after the skin dries and light is shone on it.
+*   **Method 2: Leaf Particles**
+    *   **Process:** Drive particles from a leaf (preferably waxy/thick) into the fruit skin using the tattoo gun.
+    *   **Note:** Requires carrying a leaf; particles may fall off.
+*   **Method 3: Carving**
+    *   **Tool:** Pen knife.
+    *   **Process:** Literally carve the name of the fruit into the skin.
+    *   **Status:** Painful but effective; twist ties and bags failed due to field conditions (sticky fruit, rain, bugs).
+*   **Method 4: Pre-numbered Bags**
+    *   **Equipment:** Ziplock bags or similar.
+    *   **Process:** Write numbers on bags with a Sharpie before field use.
+
+### Sous Vide Cooking Times & Temperatures
+*   **Short Ribs**
+    *   **Temperature:** 55°C (130°F) to 63°C (145°F).
+    *   **Time:**
+        *   55°C: ~3 days required for connective tissue breakdown.
+        *   60°C: ~2 days.
+        *   63°C: ~1 day to slightly over 1 day.
+    *   **Texture Logic:** Meat does not "overcook" (dry out/turn gray) in the traditional sense at these temperatures. Long times break down connective tissue for tenderness. Too long results in mush; too short results in lack of tenderness.
+    *   **Comparison:** 8 hours at 130°F (suggested by Chef Adam) yields a texture similar to a skirt steak.
+*   **Chicken Breasts**
+    *   **Temperature:** 63°C (145°F).
+    *   **Time:** 45 to 90 minutes.
+    *   **Note:** 2 hours (Sous Vide Supreme recommendation) is sufficient for pasteurization but unnecessary. Longer cooking degrades texture without adding benefit if served plain or cold.
+*   **General Principle:** Low temperature cooking = cooking in a water bath at the exact target internal temperature of the food, regardless of duration.
+
+### Chewing Gum Making
+*   **Base:** Chicle (latex from *sapodilla* tree).
+    *   **Source:** Can be purchased from Terra Spice or Glee Gum (~$15/lb).
+    *   **Limitation:** Chicle base does not blow bubbles well; bubblegum requires synthetic base.
+*   **Recipe Ratios:**
+    *   1/3 cup Gum Base
+    *   1/2 cup Powdered Sugar
+    *   2 tbsp Corn Syrup (regular, not high fructose)
+    *   1 tsp Glycerin
+    *   Acid (Citric acid preferred; Malic or Tartaric also used)
+    *   Flavoring (Oil-based flavors last longer; water-based fade quickly)
+    *   Optional: Pinch of salt
+*   **Process:**
+    1.  Microwave gum base, sugar, corn syrup, glycerin, and acid.
+    2.  Stir until sticky.
+    3.  Knead in powdered sugar until a ball forms.
+    4.  Knead in flavor.
+    5.  Roll out between acetate sheets (do not use a pasta machine; it ruins the machine).
+    6.  Cut into shapes (e.g., ravioli) or roll into balls.
+    7.  Dust with powdered sugar.
+    8.  To make "gum ravioli," nuke sheets slightly to make them stick together.
+
+### Vacuum Sealing Troubleshooting
+*   **Symptom:** Machine runs cycle, makes loud noise near release, restarts loop, fails to evacuate or seal properly.
+*   **Potential Causes:**
+    *   **Gas Flush Blockage:** If the machine has a gas flush feature, the line may be plugged.
+    *   **Air Release Valve:** May be broken, preventing air release.
+    *   **Solenoid Valves:** One of the venting solenoids may be broken.
+    *   **Electronics Board:** Harder to fix; can be bypassed by hardwiring to run solenoids manually.
+    *   **Pump:** If the pump is working and evacuating, it is likely not the issue.
+*   **Repair Cost Estimate:** ~$250 labor + parts cost + time to order parts.
+
+### Curing Salts (Nitrates/Nitrites)
+*   **Function:** Prevent botulism growth in cured meats.
+*   **Usage:**
+    *   **Nitrites:** Required for short-term cures (e.g., bacon) and most modern curing.
+    *   **Nitrates:** Used for long-term cures (e.g., hams); break down into nitrites over time.
+*   **Product Recommendation:** Morton's Tender Quick Salt (pre-mixed nitrite).
+*   **Warning:** "Uncured" bacon often uses celery powder (natural source of nitrates/nitrites) to achieve the same effect, labeled as "natural" to avoid additives.
+
+# Equipment
+
+### Vacuum Machines
+*   **Sous Vide Supreme:**
+    *   **Type:** Temperature-controlled water bath.
+    *   **Circulation:** Does not circulate water.
+    *   **Cost:** ~$500.
+    *   **Liquids:** Standard home units do not work well with liquids; freezing liquids before bagging is required (inefficient).
+*   **Repair:** Professional chamber vacuums start at $1,500–$2,000, up to $4,000.
+
+### Tattoo Guns
+*   **Models:** Rabbit "Easy Tat", Rabbit "Rabbat".
+*   **Cost:** ~$50.
+*   **Tradeoff:** Cool factor vs. practicality in field conditions.
+
+### Chicle Base
+*   **Suppliers:** Terra Spice, Glee Gum.
+*   **Cost:** ~$15/lb.
+
+# Ingredients & Functional Roles
+
+*   **Chicle:** Latex from *sapodilla* tree. Used as natural gum base. Does not blow bubbles well.
+*   **Corn Syrup:** Acts as a plasticizer in gum making.
+*   **Glycerin:** Plasticizer (available at pharmacies/pastry supply).
+*   **Acids (Citric, Malic, Tartaric):** Used to adjust pH; citric is preferred for ease. Water-based flavors fade quickly; extra acid helps preservation.
+*   **Oil-based Flavors:** Last longer than water-based flavors.
+*   **MSG (Monosodium Glutamate):** Sodium salt of glutamic acid (amino acid/neurotransmitter). Found in tomatoes, mushrooms, parmesan, fish, kelp, dashi. Hydrolyzed vegetable protein contains free amino acids including glutamic acid, producing the same umami effect.
+*   **Nitrates/Nitrites:** Antimicrobial agents that prevent botulism; responsible for cured meat color.
+*   **Celery:** Naturally accumulates nitrates/nitrites; used as a "natural" curing agent.
+
+# Equipment Tradeoffs & Recommendations
+
+*   **Vacuum Sealing:** Home units are not recommended for liquids. Ziplock bags with impulse sealers are preferred for home use due to speed and lack of freezing requirements.
+*   **Sous Vide Machines:** Circulating units are implied to be superior for temperature stability, though the specific model discussed (Sous Vide Supreme) lacks circulation.
+*   **Pasta Machine:** Not recommended for rolling out gum; will ruin the machine.
+
+# Strong Opinions & Recommendations
+
+*   **MSG Sensitivity:** The concept of "Chinese Restaurant Syndrome" is largely a myth based on flawed studies (high doses, masking flavors, neonatal rats). Reactions are often due to dehydration, alcohol, or the "post hoc ergo propter hoc" fallacy. Hydrolyzed vegetable protein and MSG are functionally similar regarding glutamic acid content.
+*   **Curing Salts:** "Uncured" bacon using celery powder is considered "mendacious crap" because it provides the exact same chemical function with a false health label.
+*   **Raw Milk:** Referenced via `www.realrawmilkfacts.com` for investigation into risks/benefits.
+*   **Foraging:** Do not forage in Antigua; the climate is too dry for native tropical fruits.
+*   **Biking Safety:** Fixed-gear bikes require constant pedaling; removing feet while downhill is dangerous.
+*   **Book Recommendations:**
+    *   *Sous Vide* by Keller (Good pictures, lacks explanation).
+    *   *Sous Vide Cuisine* by Roca ($158, restaurant recipes).
+    *   *Modernist Cuisine* ($500, highly recommended).
+    *   *The New Installation of Doug Baldwin's Sous Vide* (Not read).
+    *   *Victor Stanford's Book* (Temperatures are incorrect; do not buy).
+*   **Field Fruit Labeling:** Carving names with a pen knife is the most reliable method despite being painful.
+
+# Caller Q&A
+
+**Caller: Ben Bennett**
+*   **Question:** Why not use twist ties to label fruit in the field?
+*   **Answer:** Twist ties and bags fail in field conditions (sticky fruit, rain, bugs). The most effective method found was carving the name into the fruit with a pen knife. Alternatively, use a $50 tattoo gun ("Easy Tat") and rub ink over the mark.
+
+**Caller: Joshua Rosenwasser**
+*   **Question:** Are there wild edibles to forage in Antigua?
+*   **Answer:** Antigua is one of the driest islands; most tropical fruits are imported.
+*   **Question:** What are recipes for Callaloo (taro tops/spinach) besides long simmering?
+*   **Answer:** It is essentially greens simmered with alliums/spices, then blended for soup or kept chunky as a stew. Add salt pork, bacon, seafood, or crab. Note: Taro leaves (dashi) are toxic if eaten raw and must be cooked.
+
+**Caller: Chris Gibb**
+*   **Question:** How to fix a vacuum machine that cycles loudly and fails to evacuate/seal?
+*   **Answer:** Check for a blocked gas flush line, a broken air release valve, or a faulty solenoid. If electronics are the issue, they can be bypassed to run solenoids manually. The pump is the most expensive part; if it's evacuating, the pump is likely fine.
+
+**Caller: Henry Schwartz**
+*   **Question:** Why are sous vide cooking times and temperatures so varied (e.g., short ribs 2-3 days vs. 8 hours)?
+*   **Answer:** Different times/temps achieve different textures. Long times break down connective tissue for tenderness. Higher temps (within range) reduce time. Meat does not overcook (dry out) at low temps; it only becomes mushy if cooked too long.
+*   **Question:** Why does the Sous Vide Supreme suggest 2 hours for chicken at 63°C when 45-90 minutes works?
+*   **Answer:** 2 hours is sufficient for pasteurization. Longer times degrade texture without benefit.
+*   **Question:** Where to find a vacuum machine that handles liquids?
+*   **Answer:** Home units generally don't work well with liquids. Use Ziplock bags and an impulse sealer instead.
+
+**Caller: Paul Peterson**
+*   **Question:** Are hydrolyzed protein and MSG the same thing regarding sensitivities?
+*   **Answer:** They both contain glutamic acid and produce the same umami effect. If you are sensitive to one, you are likely sensitive to the other. However, true MSG sensitivity is rare and often misdiagnosed.
+
+**Caller: Pete**
+*   **Question:** What is the deal with nitrates and nitrites?
+*   **Answer:** They prevent botulism. "Uncured" bacon uses celery powder (natural nitrates) which is chemically identical to added nitrites. Use Morton's Tender Quick for short cures.
+
+**Caller: Brian**
+*   **Question:** How to make chewing gum?
+*   **Answer:** Use chicle base (from sapodilla tree), powdered sugar, corn syrup, glycerin, acid, and flavor. Microwave, knead, and roll. Oil-based flavors last longer. Do not use a pasta machine.
+
+**Caller: Dave Jac**
+*   **Question:** (Joke about Toronto, California)
+*   **Answer:** Acknowledged as a joke; Toronto is in Canada.

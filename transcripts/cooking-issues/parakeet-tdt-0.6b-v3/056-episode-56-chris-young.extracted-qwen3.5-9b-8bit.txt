@@ -1,0 +1,156 @@
+# Techniques & Parameters
+
+### Ikejime (Fish Killing)
+*   **Objective:** Prevent rigor mortis damage by depleting ATP in muscles before contraction sets in.
+*   **Procedure:**
+    1.  **Immediate Brain Spike:** Upon landing/gaffing, immediately spike the brain to stop flopping and reduce stress. (Preferred over whacking over the head or gill cutting first).
+    2.  **Spinal Cord Ablation (Shinkanuki):** Cut through the backbone to destroy the spinal column. This stops nerve signals to muscles, reducing ATP usage and preventing hard, damaging rigor.
+    3.  **Tail Cut:** Cut the tail to complete the spinal destruction.
+    4.  **Bleeding:** Do not cut the fish into chunks before bleeding. Keep the heart pumping to clean out blood. Ideally, bleed in the water at the pier. If using a cooler, ensure it is large enough for the whole fish to allow blood circulation.
+    5.  **Gutting:** Gut immediately after ikajime.
+    6.  **Cleaning Spinal Vessels:** Use a stiff brush to scrub the underside of the spine membrane where blood vessels run to remove "goopy stuff" that spoils quickly.
+    7.  **Cooling:** Pull gills out immediately and ice the fish.
+*   **Application:** Recommended for line-caught fish (e.g., bluefish, king mackerel, redfish).
+*   **Testing Protocol:** Catch two identical fish; perform ikajime on one, do not on the other. Compare texture and flavor.
+*   **Aging:** Test aging duration by tasting immediately after filleting, then again after 1 day. Most oily fish (bluefish, mackerel) should be eaten within 1 day.
+*   **Preparation Note:** Do not fillet immediately if the cooler is too small for the whole fish; keep whole to maintain blood flow during bleeding.
+
+### Low-Temperature Reductions (DIY Aspirator)
+*   **Goal:** Achieve vacuum reduction without a Rotovap (for delicate aromas/flavors).
+*   **Equipment:**
+    *   Erlenmeyer flask with sidearm and plug.
+    *   Stirring hot plate (used, ~$100).
+    *   Aspirator pump (recirculating preferred).
+    *   Aspirating nozzles (screw onto faucet, use venturi effect).
+    *   Ice bath (critical for maximizing vacuum via water vapor pressure).
+*   **Method:**
+    *   Use ice water in the aspirator to lower boiling temperature.
+    *   Recirculate water to avoid waste (unlike disposable aspirators).
+    *   Stirring is essential to prevent bumping and create a vortex for surface area.
+*   **Alternative:** DIY setup using a flowjet pump, PVC tubes, and Home Depot pump (~$80-$90), though not explicitly recommended due to safety concerns.
+
+### Milk Pasteurization (Hot Holding)
+*   **Context:** Sub-Saharan Africa (Kenya/Uganda) where cold chains are unreliable.
+*   **Method:** Heat milk to pasteurization temperatures and hold hot for several days.
+*   **Parameters:**
+    *   **Temperature:** Pasteurization temps (exact degree omitted in transcript, implied standard pasteurization).
+    *   **Duration:** Up to 3 days for acceptable taste; microbiologically indefinite.
+    *   **Flavor Profile:** Consumers prefer boiled/hot milk flavor; hot holding preserves this better than cooling then reheating.
+    *   **Energy:** Less energy intensive than cooling then reheating.
+*   **Equipment:** Low-tech heat exchangers (<$200) that resist fouling.
+
+### Hard Boiled Eggs
+*   **Method A (Cold Start):** Place eggs in cold water, bring to boil.
+    *   *Pros:* Prevents thermal shock/splitting.
+    *   *Cons:* Harder to time accurately; potentially harder to peel.
+*   **Method B (Hot Start):** Drop eggs into boiling water.
+    *   *Pros:* Accurate timing; easier to peel.
+    *   *Cons:* Thermal shock risk.
+*   **Recommendation:** If timing is not rigorous, bring water to just below boil, cover, and let sit.
+*   **Peeling Tip:** Use a blowtorch to briefly pulse heat on the dry shell after cooking to facilitate peeling.
+
+### Cartouches
+*   **Definition:** Circular parchment paper with a smaller circle cut out of the center, placed in a pot.
+*   **Theory:** Allows controlled steam escape (parachute effect) for slow reduction while maintaining 100% humidity over the food.
+*   **Verdict:** No significant benefit over a standard lid for evaporation control or preventing surface drying.
+
+### Enzymatic Peeling
+*   **Enzymes:** Pectinex Ultra SPL and Pectinex Smash XXL.
+*   **Optimization:** Pectinex Smash XXL is no longer necessary.
+*   **Ratio:** Use slightly more Pectinex Ultra SPL to achieve the same result as the combination.
+*   **Standard Dose:** ~4g per Liter of solution.
+
+### Gelatin Noodles (Meat Glue Application)
+*   **Technique:** Mix transglutaminase (meat glue) with gelatin.
+*   **Properties:**
+    *   Cross-linking prevents melting at body temperature and deep-frying temperatures.
+    *   Texture: Breaks up nicely like pasta.
+    *   Flavor Release: Good, though slightly less than pure gelatin due to cross-linking preventing complete melt. Superior to alginate (which traps flavor).
+    *   Performance: Fries better than other hydrocolloid noodles.
+
+### Low-Temperature Reductions (Rotovap Alternative)
+*   **Equipment:** DIY aspirator setup (Erlenmeyer flask, sidearm, stir plate, ice bath).
+*   **Advantage:** Can handle high vapor loads (unlike chamber vacuums/Gastrovac) without clogging.
+*   **Application:** Reducing citrus juices, delicate aromas, sweet items (vacuum frying pineapple/apple chips) to prevent caramelization.
+
+# Equipment Discussed
+
+### Aspirator Pumps
+*   **Type:** Recirculating aspirator pumps.
+*   **Cost:** Used units ~$500; new units ~$1000.
+*   **DIY Alternative:** Home Depot pump (~$80-$90) + PVC/aspirating nozzles.
+*   **Tradeoff:** High water usage (gallons) vs. ability to handle heavy vapor loads.
+
+### Stirring Hot Plates
+*   **Source:** eBay (used).
+*   **Cost:** ~$100.
+*   **Characteristics:** Slow heat-up time (30 mins to stable temp), high stability, low wattage dump.
+*   **Comparison:** Similar to French tops (spatial cooking, stable temp) but less responsive.
+
+### Gastrovac
+*   **Verdict:** Useless.
+*   **Reason:** Uses a bad vacuum pump that cannot handle vapor loads required for boiling under vacuum.
+*   **Better Alternative:** Chamber vacuum machine or DIY aspirator with ice bath.
+
+### Modernist Pantry Ingredients
+*   **Pectinex Ultra SPL:** Enzyme for peeling (4g/L).
+*   **Pectinex Smash XXL:** Enzyme for peeling (optional, can be replaced by more Ultra SPL).
+*   **Meat Glue (Transglutaminase):** For cross-linking gels.
+*   **Hydrocolloids:** Various types (alginate, gelatin).
+*   **pH Modifiers.**
+
+### French Top
+*   **Usage:** Spatial cooking (temperature varies by position on the burner).
+*   **Benefit:** High stability, low responsiveness.
+
+# Ingredients & Functional Roles
+
+*   **Gelatin:**
+    *   **Role:** Flavor release (melts at body temp, leaks moisture).
+    *   **Tradeoff:** Cross-linking with meat glue prevents melting at body temp, slightly reducing flavor release compared to pure gelatin.
+*   **Alginate:**
+    *   **Role:** Gelling.
+    *   **Tradeoff:** "Flavor thief"; traps moisture/flavor, poor flavor release unless used in very thin/soft shells or with high flavor concentration.
+*   **Pectinex Ultra SPL:** Enzyme for breaking down pectin in citrus peels.
+*   **Formaldehyde/Hydrogen Peroxide:** Historically used in Africa to extend milk shelf life; now considered unsafe/undesirable compared to hot holding.
+*   **Bluefish/Mackerel:** Oily fish; prone to rapid texture/flavor degradation; benefits from ikajime.
+
+# Strong Opinions & Recommendations
+
+*   **Ikejime:** Definitely improves texture and flavor of line-caught fish. The stress of fighting the line is unavoidable, but ikajime mitigates post-catch stress.
+*   **Bluefish:** Specifically recommended for testing ikajime due to rapid spoilage and texture issues.
+*   **Molecular Gastronomy Label:** Hate the term "Molecular Gastronomy" and the "parlor tricks" (foams, gels) that accompany it when the food isn't fundamentally good.
+*   **Canning:**
+    *   Boiling water bath for 10 minutes is **not** sterilization; it is pasteurization.
+    *   True sterilization requires pressure canning OR sufficient acidity/salt to prevent spore growth.
+    *   Uncovered pickled green beans in a jar are a potential botulism risk.
+*   **Cartouches:** Highly suspect that they make a significant difference compared to a lid; likely unnecessary.
+*   **Gastrovac:** Useless technology; do not buy.
+*   **Milk in Africa:** Hot holding is superior to cold chain logistics for smallholder farmers; matches consumer preference for boiled milk flavor.
+*   **Candy Flavors:** Artificial cherry is a "vile abomination"; Popcorn jelly beans are the worst flavor ever.
+*   **Egg Peeling:** Blowtorch method is highly effective for easy peeling.
+*   **Equipment Access:** You do not need thousands of dollars in equipment to understand modern cooking; seeing what others do with toys is educational even if you cook with a stick.
+
+# Caller Q&A
+
+**Caller: Andy (via email/phone)**
+*   **Question:** How much does ikajime improve fish caught on a rod and reel (struggling for 30s to 10 mins)? Is there a downside to cutting fish into chunks before bleeding?
+*   **Answer:** Ikajime provides a definite quality improvement even for line-caught fish, though the fish is already stressed. Cutting into chunks before bleeding is bad because it stops the heart from pumping blood out; keep the fish whole to maximize bleeding.
+*   **Question:** How long to age bluefish/mackerel?
+*   **Answer:** Test immediately and after 1 day. Likely good for no more than 1 day.
+*   **Question:** Canning safety (10 min boil vs. sterilization) and uncovered pickled green beans.
+*   **Answer:** 10 min boil is pasteurization, not sterilization. Sterilization requires pressure canning or high acid/salt. Uncovered beans in a jar risk botulism growth.
+
+**Caller: Janani**
+*   **Question:** Cold water start vs. hot water start for hard-boiled eggs?
+*   **Answer:** Cold start prevents splitting but makes timing harder and peeling potentially harder. Hot start allows precise timing and easier peeling. If timing isn't critical, use hot water just below boil and let sit.
+*   **Tip:** Use a blowtorch to loosen the shell after cooking.
+
+**Caller: Andrew (via email)**
+*   **Question:** Cartouche utility vs. lid?
+*   **Answer:** No significant benefit over a lid; slows evaporation slightly but doesn't prevent local drying significantly.
+*   **Question:** Gelatin noodles with meat glue flavor release?
+*   **Answer:** Good flavor release, though not as good as pure gelatin because cross-linking prevents melting at body temp. Still better than alginate.
+
+**Caller: Adam Lazarick**
+*   **Correction:** Does not recommend cooking short rib at 130°F for 8 hours; knows it is insufficient.

@@ -1,0 +1,191 @@
+# Cooking Issues: Structured Culinary Notes
+
+## Techniques & Parameters
+
+### Peacock Preparation
+*   **Challenge:** Historically considered dry and stringy due to cooking methods of the Roman/Middle Ages.
+*   **Solution:** Can be cooked properly with modern techniques to avoid toughness.
+*   **Context:** Dave Arnold tasted peacock during a pilot shoot for a cooking-based show (AB).
+
+### Mango Selection & Ripening
+*   **Commercial Issue:** Mangoes shipped to New York undergo heat treatment (immersion in hot water) to kill fruit flies/insects.
+*   **Consequence:** Heat treatment kills some aromas and prevents natural ripening, resulting in inferior flavor compared to tree-ripened fruit.
+*   **Tasting Methodology:**
+    *   To exhaustively taste a fruit variety, sample at least **100** types (Dave's standard for citrus, pears).
+    *   Sampling **40–50** varieties provides a good idea of the flavor range.
+    *   Dave sampled **60–80** types of mangoes in Florida.
+*   **Flavor Profiles Observed:**
+    *   Creamsicle-like flavors.
+    *   Coconut-like flavors.
+    *   Distinct categories: Indian-derived, Southeast Asian (Thai-style), Florida hybrids, and Egyptian varieties.
+
+### Papaya Self-Gelling
+*   **Phenomenon:** Stored papaya juice forms a jelly/gel at the bottom of containers.
+*   **Cause:** Activity of **pectinesterase**, an enzyme in papaya.
+*   **Mechanism:** Pectinesterase strengthens pectin molecules (does not necessarily polymerize them), causing the juice to self-gel.
+*   **Application:** Could potentially be used to make pie juices that gel on their own, though texture is unknown.
+*   **Contrast:** Dave uses the *opposite* enzyme (pectinase) to break down pectin for clarification.
+
+### Iced Coffee Steeping (Cold Brew)
+*   **Method:** Add room temperature ground coffee, stir, steep overnight at room temperature, filter through super fine mesh.
+*   **Result:** Super rich, deep coffee with top notes; supposedly less bitterness.
+*   **Container Shape:**
+    *   **Recommendation:** Use **round Cambros** (circular containers).
+    *   **Reasoning:** When decanting settled coffee, lifting a round container allows spinning without stirring up settled grounds. Square containers cause corners to mix fluid like a mixer when turned, kicking up particles.
+    *   **Impact:** Round containers improve filtration efficiency by allowing clear liquid to be poured off before particles enter the strainer.
+    *   **Note:** If stirring occurs before pouring, container shape is irrelevant.
+
+### Vegetable Sous Vide (Vacuum Sealing)
+*   **Problem:** Vegetables (e.g., carrots) float to the top of the water bath due to internal air expansion during heating, leading to uneven cooking.
+*   **Solution 1 (Hardcore Vacuum):**
+    *   Apply a vacuum for **30 seconds longer** than the standard full vacuum setting.
+    *   **Benefit:** Removes more air, helping vegetables sink; injects flavorings (oil, juice) deeper into the vegetable.
+*   **Solution 2 (Weighting):**
+    *   Add stainless steel knives, butter knives, or spoons to the bag.
+    *   **Technique:** Seal knives in a bottom section of the bag, then seal vegetables on top to prevent direct contact if desired.
+    *   **Effect:** Weights the bag down like a stone, ensuring full submersion.
+*   **Cooking Parameters:** Vegetables require high temperatures (**85°C / 185°F** and above) to break down effectively.
+*   **Time Consideration:** Cooking in vacuum bags without excess water takes longer than with excess water.
+
+### Dehydrated Fruit Sheets (Fortune Cookie Style)
+*   **Goal:** Crispy, flexible sheets that harden when cooled, retaining original color (avoiding dark brown).
+*   **Problem:** High-temperature dehydration caramelizes sugar and milk solids, turning the product dark brown. Low-temperature fruit leather remains flexible but doesn't harden.
+*   **Solution:** Switch from standard sugar to **isomalt**.
+    *   **Property:** Isomalt browns significantly less than sugar at high temperatures.
+    *   **Trade-off:** Isomalt is less sweet than sugar.
+*   **Alternative:** Use non-caramelizing maltodextrin-based bases (may reduce flexibility).
+
+### Marshmallow Non-Stick Coating
+*   **Problem:** Homemade marshmallows stick together after cutting.
+*   **Standard Coating:** 1:1 ratio of cornstarch and powdered sugar.
+*   **Issue with Standard:** Powdered sugar absorbs atmospheric moisture and marshmallow moisture, becoming tacky over time.
+*   **Recommended Technique (Industrial Method):**
+    1.  Bake pure cornstarch in the oven to ensure it is completely dry.
+    2.  Seal dry cornstarch in quart containers to cool.
+    3.  Dust marshmallows with **pure powdered sugar** first (creates a protective layer).
+    4.  Toss in the **dry cornstarch**.
+    5.  Let sit for **4–5 hours to 1 day**.
+    6.  **Mechanism:** Cornstarch acts as a desiccant to dehydrate the outer layer of the marshmallow without absorbing too much into the interior, preventing stickiness while maintaining taste.
+
+### Malt Production (Beer Context)
+*   **Process:** Barley is germinated to activate enzymes (**alpha and beta amylases**), then the sprout is killed while retaining enzymes.
+*   **Function:** Enzymes convert starch into sugar, which yeast converts to alcohol.
+*   **Types:**
+    *   **Diastatic Malt:** Contains active enzymes; used in baking to convert starch to sugar for yeast/bacteria food.
+    *   **Dry Malt Extract:** Starch fully converted to sugar; dried into powder. Retains malty flavor.
+*   **Culinary Use:** Dry malt extract is a fantastic sweetener/ingredient for non-beer applications (e.g., mashed potatoes).
+
+### Oxygen Scavengers
+*   **Function:** Packets with higher affinity for oxygen than food, preventing oxidation.
+*   **Safety:** Generally food-safe, but specific products vary.
+*   **Anecdote:** Oxygen scavengers were used in Reese's Peanut Butter Cups to prevent rancidity. Consumers disliked the taste because the characteristic flavor of the cup relies on a specific level of rancidity. Production was halted due to consumer preference for the "selective oxidation" flavor profile.
+
+### Vacuum Sealing Powders
+*   **Issue:** Fine powders (e.g., spray-dried vinegar powder, transglutaminase) can cake, pellet, or disperse during vacuum cycles and gas flushing.
+*   **Vacuum Cycle:** Generally safe; particles do not fly out of the bag as the vacuum sucks through a hole dispersed over the chamber.
+*   **Gas Flush Issue:** High-pressure gas jets can spray contents across the machine.
+*   **Mitigation:**
+    *   Use diffuser plates over gas jets.
+    *   Turn gas flow and pressure way down.
+    *   **Note:** Gas flush may not be necessary if the goal is only to prevent compaction; a tiny bit of gas might suffice.
+    *   **Result:** Without gas flush, compaction/clumping is less likely.
+
+## Equipment Discussed
+
+### Cambros (Food Storage Containers)
+*   **Types:** Square vs. Round.
+*   **Sizes Mentioned:** 4L, 7L, 2L (2 quart).
+*   **Recommendation:** Round containers preferred for decanting settled liquids (coffee, juices) to avoid stirring up sediment.
+
+### Vacuum Sealers
+*   **Model Mentioned:** MiniPack 31 X Chamber (with gas flush).
+*   **Features:** Small unit with larger chamber size relative to footprint; capable of gas flushing (Nitrogen, CO2).
+*   **Gas Flush Application:**
+    *   **Fish:** Can use CO2 or Carbon Monoxide (Dave advises against CO for home use).
+    *   **Chips:** Prevents crushing by maintaining internal gas pressure; prevents oxidation due to dry gas.
+*   **Powder Handling:** Requires diffusers or low-pressure settings to prevent spraying during gas flush.
+
+### Immersion Circulator
+*   **Usage:** Cooking vegetables sous vide.
+*   **Challenge:** Managing floating vegetables (addressed via weighting or hardcore vacuum).
+
+### Enzymes
+*   **Papain:** Protein-breaking enzyme in papaya (meat tenderizer). Can cause gelling in specific protein concentrations.
+*   **Pectinesterase:** Enzyme in papaya that strengthens pectin, causing self-gelling of juice.
+*   **Pectinase:** Enzyme used by Dave to break down pectin for juice clarification (opposite of pectinesterase).
+*   **Alpha/Beta Amylases:** Enzymes activated in malt to convert starch to sugar.
+
+## Ingredients & Functional Roles
+
+### Mangoes
+*   **Properties:** Wide flavor range (creamsicle, coconut).
+*   **Ripening:** Natural ripening is inhibited by commercial heat treatment.
+
+### Papaya
+*   **Properties:** High bioactive molecules; contains papain (protease) and pectinesterase.
+*   **Function:** Meat tenderizer; causes self-gelling of juices.
+
+### Isomalt
+*   **Properties:** Sugar substitute that browns less than sucrose at high temperatures.
+*   **Function:** Maintains color in dehydrated fruit sheets; less sweet.
+
+### Dry Malt Extract
+*   **Properties:** Powdered form of malted barley with converted starch and malty flavor.
+*   **Function:** Sweetener; yeast food; flavoring agent (e.g., in mashed potatoes).
+
+### Gelatin (Recombinant)
+*   **Source:** Genes injected into yeast to produce human-derived gelatin (no animal harm).
+*   **Properties:** Consistent quality (unlike natural gelatin which varies by source/bloom strength); no animal allergens.
+*   **Applications:** Marshmallows, Jell-O.
+*   **Vegan Status:** Unclear/Debatable (Dave notes vegans might not use it despite no animal harm).
+
+### Peanut Butter (Rancidity)
+*   **Context:** Characteristic taste of Reese's cups is linked to selective oxidation/aging (rancidity).
+*   **Implication:** Preventing all oxidation via scavengers can alter desired flavor profiles.
+
+## Personal Anecdotes & Demonstrations
+
+### Peacock Tasting
+*   Dave tasted peacock during a pilot shoot for a cooking show.
+*   **Observation:** Unlike historical accounts of dry/stringy meat, modern cooking techniques allow it to be cooked properly.
+
+### Mango Tasting Expedition
+*   Dave, Harold McGee, and Nastasha visited Florida to taste mangoes off the tree.
+*   **Event:** Caught in torrential downpour for two days; sampled 60–80 varieties.
+*   **Comparison:** Commercial NY mangoes (heat-treated) vs. Florida mangoes (tree-ripened).
+*   **Flavor Discovery:** Found flavors like creamsicle and coconut; noted distinct lineages (Indian, Thai, Florida hybrid, Egyptian).
+
+### Papaya Research
+*   Dave researched the self-gelling phenomenon after a listener (Howard) asked about it.
+*   **Discovery:** Identified pectinesterase as the cause, contrasting his usual use of pectinase for clarification.
+
+### Cambro Story
+*   Dave explains the physics of decanting settled liquids using the analogy of decanting apple juice with enzymes.
+*   **Demonstration:** Round containers allow spinning without mixing; square containers act as mixers when lifted.
+
+### Oxygen Scavenger Story
+*   Dave recounts a story from a contact at an oxygen scavenger company regarding Reese's Peanut Butter Cups.
+*   **Outcome:** Scavengers removed the desired "rancid" flavor profile, leading to consumer rejection.
+
+### Marshmallow Cereal Project
+*   **Project:** "Pigles and Beanies" (Pork rinds with bean-shaped marshmallows).
+*   **Conflict:** Tried to buy cereal marshmallows from a company; they refused to sell just the marshmallows.
+*   **Lesson:** Companies prioritize box sales over component sales; homemade marshmallows require specific dehydration techniques to avoid stickiness.
+
+### Malt Brewing History
+*   Dave used to do "all grain" brewing (making his own malt) but notes very few people do it now.
+*   **Preference:** Loves dry malt extract as a sweetener/ingredient beyond beer.
+
+### Poison Ivy Incident
+*   Nastasha mentions eating unripe berries off trees and getting poison ivy (Dave jokes about it).
+
+## Strong Opinions & Recommendations
+
+*   **Mangoes:** Commercial heat-treated mangoes are inferior; tree-ripened fruit is vastly superior.
+*   **Cambros:** Strongly recommend round containers for cold brew coffee to ensure clean decanting.
+*   **Vegetable Cooking:** Weighting vegetables (with knives) or using "hardcore vacuum" is necessary for even sous vide cooking.
+*   **Dehydrated Fruit:** Use isomalt instead of sugar to prevent browning in crispy fruit sheets.
+*   **Marshmallows:** Do not use a 1:1 cornstarch/sugar mix for long-term storage; use the "bake cornstarch, dust with sugar, then cornstarch" method to dehydrate the exterior.
+*   **Gelatin:** Recombinant gelatin offers consistency and ethical benefits (no animal harm) and could revolutionize products like marshmallows and Jell-O if price-competitive.
+*   **Papaya:** The self-gelling property of papaya juice is a unique enzymatic trait worth studying.
+*   **Rancidity:** Not all oxidation is bad; some flavor profiles (like Reese's cups) rely on it.

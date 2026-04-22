@@ -1,0 +1,93 @@
+# Guar Gum & Hydrocolloids
+*   **Perfected Guar Gum (TIC Gums):**
+    *   **Properties:** Pre-hydrated, eliminates lumps, no need for slurries/pre-mixes, virtually dust-free, flavor-free (unlike traditional guar which tastes like black-eyed pea flour).
+    *   **Usage:** 1:1 replacement for traditional guar gum.
+    *   **Function:** Thickener (not a gelling agent). Used to prevent "weep-off" (liquid separation) in gelled systems (e.g., ice cream stabilized with carrageenan).
+    *   **Hydration:** Does not require heating above 70°C to hydrate (unlike locust bean gum).
+    *   **Promo:** Order $25+ at modernistpantry.com with code **CI** for a free package.
+*   **Traditional Guar vs. Locust Bean Gum (LBG):**
+    *   **Guar:** Cheaper, hydrates without heat, distinct seed flavor.
+    *   **LBG:** More expensive, "sexier" properties, flavorless.
+    *   **Ice Cream Stabilization:** Carrageenan (seaweed) gels milk to stop crystal formation; Guar or LBG added to stop weeping.
+*   **Agglomeration:** Process where small particles are packed into coarse, "pilly" clusters (like miniature grape nuts) to facilitate easy hydration.
+
+# Bread Making (No-Knead & Whole Wheat)
+*   **Technique: No-Knead Bread (Jim Lahey Style)**
+    *   **Ingredients:** Very small amount of yeast, high hydration (lots of water per flour), enough salt to taste.
+    *   **Process:**
+        1.  Mix and let rise for a very long time (26+ hours).
+        2.  Coat in flour, move around slightly to add structure.
+        3.  Rise again in a heavily floured cloth.
+        4.  Bake in a preheated Dutch oven (traps steam, holds shape).
+    *   **Benefits:** Long rise minimizes yeast flavor, develops complex flavors (acids like acetic acid), and allows gluten to form structure without kneading.
+*   **Whole Wheat Modifications:**
+    *   **Hydration:** Whole wheat requires higher hydration than white flour.
+    *   **Flour Type:** Coarse bran affects texture. Recommend **Chapati flour** (fine whole wheat) for better texture; keep in freezer to prevent bugs.
+    *   **Gluten:** Adding 1-2% vital wheat gluten may help, but increasing hydration and extending rise time is preferred.
+    *   **Kneading:** McGee notes whole wheat doughs can benefit from kneading to produce a lighter, loftier loaf because whole grains absorb more water and create weaker gluten networks.
+*   **Cooks Illustrated Modification:**
+    *   Increases yeast content.
+    *   Lowers hydration for easier handling.
+    *   Kneads for 15 seconds to 1 minute.
+    *   Adds beer and vinegar to "fake" long fermentation flavors.
+
+# Pizza
+*   **Hydration Styles:**
+    *   **High Hydration:** Softer, Neapolitan feel.
+    *   **Low Hydration:** Firmer, American feel.
+*   **Technique: Retarding**
+    *   Rise dough overnight in the fridge.
+    *   **Old Method:** 100% water to flour ratio, rise twice, beat, add extra flour, retard.
+    *   **New Method:** Less work technique.
+*   **Reheating Soggy Pizza (Lombardi's Secret):**
+    *   **Tool:** Kitchen blowtorch.
+    *   **Method:** Turn pizza upside down on a platter. Torch the bottom crust until crunchy. Flip to melt cheese.
+    *   **Note:** Blowtorches can pick up a "torch taste" if fat is present, but pizza bottoms have little fat.
+
+# Sous Vide / Immersion Circulator
+*   **Best Uses:** Unattended cooking, steaks, reheating frozen meals, party prep (hamburgers), poaching eggs (large batches).
+*   **Not Best For:** Hyper-quick meals.
+*   **Steak Protocol:**
+    1.  Sear steak first (salt/pepper).
+    2.  Melt butter with chopped garlic.
+    3.  Place steak in Ziplock bag with butter/garlic.
+    4.  Seal bag underwater (water displacement method).
+    5.  Submerge in circulator for 45 mins to 1.5 hours.
+    6.  Finish: Flash sear in a super hot pan before serving.
+*   **Burger Protocol:** Cook in circulator for parties to ensure perfect timing during the event.
+*   **Tilapia:** Discouraged; described as bland and boring.
+
+# Goat Head (Capretto)
+*   **Edibility:** Brain is delicious (though host avoids due to Mad Cow/encephalopathy concerns; no known cases in goats/lambs). Tongue and nasal passages are favorite parts. Eyes are edible but not delicious.
+*   **Preparation Methods:**
+    1.  **Roast:** Split in half, roast whole.
+    2.  **Poach:** Simmer in flavorful broth/stock until meat falls off, then rip apart to make *testa*.
+*   **Butchering Tip:** Use eye sockets as handles to hold the head while smashing a knife through to split it.
+*   **Serving:** Can serve whole (if guests are old-school Italian) or pick meat off to make other dishes if guests are squeamish.
+
+# Equipment & Grilling
+*   **Ceramic Kamado Grills (e.g., Big Green Egg, Primo):**
+    *   **Shape:** Egg-shaped ceramic.
+    *   **Fuel:** Coal (concentrated, small amount needed).
+    *   **Features:** Chimney shape for good air draw; damper at bottom for control.
+    *   **Pros:** Stabilizes temperature over time, radiates even heat, high heat capability, low heat capability, acts as tandoor/oven.
+    *   **Cons:** Slow to move temperature in either direction; expensive (~$1400+).
+    *   **Host Experience:** Has not used one personally; loved cooking in a tandoor built for the Anthony Bourdain show.
+*   **Pan Heating (Searing):**
+    *   **Reason:** Heat pan to store massive energy ("wallop") to sear food quickly.
+    *   **Oil:** Often heated to near-smoking point to achieve this, then food is added which drops temp.
+    *   **Alternative:** If not seeking a fast crust, preheating pan/oil is unnecessary.
+    *   **Cast Iron:** Heat for a long time to store heat; can preheat oil in a side pan to just below smoking point, then dump into cast iron and immediately add steak.
+
+# Dining Recommendations (New York)
+*   **Roberta's:**
+    *   **Timing:** Come early (around 7 PM) to avoid long waits and noise issues.
+    *   **Vibe:** Very kid-friendly, many children present.
+*   **Di Paolo's (Grand Street):**
+    *   **Type:** Italian food store.
+    *   **Tip:** Go when not busy to avoid long waits with kids; ask family members for help navigating.
+*   **Sambars:**
+    *   **Tip:** Go for lunch to get duck dishes; loud enough that kids are less noticeable.
+*   **Oto's:** Very kid-friendly.
+*   **Attractions:** Walk across the Brooklyn Bridge.
+*   **Avoid:** Per Se, WD-50 (too expensive/difficult with a 3-year-old).

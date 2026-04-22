@@ -1,0 +1,108 @@
+# Cooking Issues: Structured Notes
+
+## Induction Burners & Home Kitchen Technology
+*   **Induction Burners:**
+    *   **Recommendation:** Strongly recommended for home kitchens, especially if currently using electric ranges.
+    *   **Advantages:**
+        *   Heats up almost instantly; cools off almost instantly.
+        *   Eliminates the "porpoise effect" of standard electric coils.
+        *   More efficient than gas and standard electric; does not heat up the kitchen (reducing AC costs).
+        *   Boils water faster than standard commercial gas ranges (comparing BTUs is less useful than comparing boil times).
+    *   **Disadvantages:**
+        *   **Cost:** Higher upfront cost for the unit and potentially new cookware.
+        *   **Fragility:** More fragile than gas units; gas units are described as "never gonna break."
+        *   **Power Control:** Users cannot visually see power output; requires a learning curve.
+        *   **Pot Compatibility:** Requires ferromagnetic pots. Non-magnetic pots (aluminum, clay) can be made compatible using a "slug of iron" (e.g., Kuhn Rikon brand).
+    *   **Economic Context (US):** Natural gas is extremely cheap in the US ("Saudi Arabia of natural gas"), making the economic case for switching to induction harder compared to Europe where gas is expensive and electric is competitive.
+*   **Low Temperature Cooking / Sous Vide:**
+    *   **Prediction:** Will become more popular in home kitchens as circulator prices drop.
+    *   **Benefits:** Food comes out perfect; allows the cook to be with guests; excellent for reheating without ruining food texture.
+    *   **Barrier:** High price tag (~$800 for circulators) and lack of cookbooks/recipes (chicken-egg problem).
+    *   **Equipment:** Immersion circulators.
+*   **Blenders:**
+    *   **Vita-Prep (Commercial):**
+        *   **Pros:** Extremely powerful; superior user interface (2 flap switches + potentiometer knob) allowing immediate speed control; handles small amounts of liquid better than Blendtec due to geometry; creates very smooth textures.
+        *   **Cons:** Expensive (> $1200); no secondhand market; potentiometer knob can fail after a few years.
+    *   **Blendtec:**
+        *   **Pros:** Designed for juice bars; "any monkey" can operate; good geometry at the bottom of the pitcher to get food moving.
+        *   **Cons:** User interface is complex (programming required); requires filling above blade level to start; often chokes up at the base requiring a tamper.
+    *   **Breville:**
+        *   **Pros:** Pitcher is very strong (demonstrated by stomping on it without breaking).
+        *   **Cons:** Performance compared to Vita-Prep is uncertain; author has not tested blending with it.
+    *   **C-Mac (Australian):**
+        *   **Features:** Electronically controlled; senses blending and adjusts speed automatically.
+        *   **Author Opinion:** Prefers manual control (flap switches/knob) over automatic sensing.
+    *   **General Advice:**
+        *   Do not rely on wattage ratings; they measure energy drawn from the wall, not power delivered to food.
+        *   Focus on **blade tip speed** under load.
+        *   **Test Standard:** Can the blender turn a sauce that requires straining into a silky smooth texture with particle size near 20 microns?
+        *   **Magazine Ratings:** Do not trust blender ratings from magazines (e.g., *Popular Mechanics*, *Cooks Illustrated*); they lack technical understanding.
+    *   **Liquid Nitrogen:** Recommended for outdoor parties but not for home use generally.
+    *   **Carbonation:** If carrying >1 case of seltzer/week, get a professional carbonation rig or SodaStream.
+    *   **Deep Fryers:** Commercial units (e.g., 35 lb capacity) are superior to home fryers but unlikely to be adopted by most home cooks.
+    *   **Freeze Dryers/Homogenizers:** Not recommended for home use due to lack of applications, counter space, and energy requirements.
+
+## Ultrasonic Homogenizers
+*   **Function:** Uses high-power sonic energy to cavitate (create bubbles) and rupture cells/matter.
+*   **Noise:** Extremely loud; causes people to run screaming from the kitchen.
+*   **Safety Warning:** **NEVER** stick an ultrasonic homogenizer in your mouth.
+    *   **Reasoning:** While it could theoretically clean teeth better than floss, the equipment is too powerful and dangerous.
+    *   **Alternative:** Use a dedicated ultrasonic toothbrush ($50-$80) which vibrates softly.
+    *   **Demonstration:** Author demonstrated a homogenizer probe catching fire when inserted into a dish towel due to friction.
+
+## Whipped Cream Stabilization
+*   **Problem:** Standard whipped cream does not hold shape when added to hot liquids (e.g., soup, chowder).
+*   **Solution:** Create a "flavor and texture of whipped cream" using a heat-stable fluid gel.
+*   **Technique:**
+    *   Use hydrocolloids (gelling agents) to create a fluid gel that mimics mayonnaise or hollandaise texture but is heat stable.
+    *   Whip this gel (or mix it with regular cream) using an ISI maker.
+    *   **Potential Agents:** Gelatin, Agar (sets when hot).
+    *   **Process:** Requires experimentation to find the right balance to prevent fat bleeding while maintaining mousse-like texture.
+
+## Tandoor Oven Construction & Usage
+*   **DIY Construction:**
+    *   Can be built in ~3 hours using flower pots, sand, and vermiculite (if available).
+    *   Search "flower pot tandoor" online for instructions.
+*   **Usage Demo (Pigeon):**
+    *   **Preparation:** Koshered (soaked in water, rubbed with salt, sat 1 hour, rinsed 3 times, patted dry).
+    *   **Marinade/Rub:** Cumin and fennel.
+    *   **Cooking Method:**
+        1.  Poached in chicken stock at ~140°F (60°C) to start the cook.
+        2.  Inserted into the tandoor using a coat hanger.
+        3.  Spun while cooking.
+    *   **Result:** Delicious; flesh peeled off hands easily due to heat.
+*   **Safety Note:** Extremely hot; can burn hair and skin.
+
+## Vacuum Sealer Maintenance & Usage
+*   **Maintenance:**
+    *   **Seal Bar:** Replace Teflon tape regularly (adhesive, heat-proof Teflon tape, not plumbing tape) when it starts burning through.
+    *   **Vacuum Pump (Busch brand):**
+        *   **Critical Issue:** Oil gets contaminated with evaporating liquids (water/oil), reducing vacuum levels and speed.
+        *   **Cleaning Procedure:** Run the pump with the lid open until it gets very hot (air streaming through). This boils off contaminants and clears the oil.
+        *   **Frequency:** Change oil every 6 months to 1 year if cleaned regularly.
+        *   **Monitoring:** Remove the metal plate covering the pump window to visually inspect oil condition (should not look like "salad dressing").
+*   **Bag Size to Food Ratio:**
+    *   **Full Vacuum:** Bag size matters less if there is enough liquid to seal around the product without deforming it.
+    *   **Incomplete Vacuum:** Bag size matters more; bag must extend just enough to seal around the food/oil without crunching the food.
+    *   **Visual Check:** Avoid "pillow" marks or bag creases on the food.
+*   **Vacuum Level Effects on Texture:**
+    *   **Chicken:** Over-vacuuming makes it taste like canned chicken after cooking.
+    *   **Fish:** Over-vacuuming ruins texture, making it mushy.
+    *   **Theory:** Over-compression affects texture upon cooking, likely related to boiling dynamics (author disagrees with Modernist Cuisine's specific theory on this).
+*   **Freezing Liquid Nitrogen:**
+    *   Placing liquid nitrogen in a vacuum chamber causes rapid evaporative cooling, turning the liquid into a solid foam.
+    *   **Utility:** Low; it melts immediately upon exposure to air.
+
+## Ingredients & Functional Roles
+*   **Hydrocolloids:** Used to create heat-stable fluid gels that mimic textures of unstable emulsions (mayonnaise, hollandaise, whipped cream).
+*   **Cumin & Fennel:** Spices used in the historical Jesus birth pigeon recipe.
+*   **Vermiculite:** Insulating material recommended for DIY tandoor construction.
+*   **Teflon Tape:** Essential for maintaining vacuum sealer seal integrity.
+
+## Personal Anecdotes & Demonstrations
+*   **Tandoor Build:** Built a tandoor from flower pots and sand with interns Cliff and Piper in 3 hours because commercial units were too expensive and slow to ship.
+*   **Pigeon Cook:** Successfully cooked pigeon in the DIY tandoor after poaching it; burnt hair off arm but found the process manageable.
+*   **Breville Durability Test:** At a food festival in Miami, a child asked about a Breville blender. The author stomped on the blender pitcher 3-4 times on concrete; the pitcher did not break, validating the marketing claim of durability.
+*   **Tomato Plant Vodka:** Author plans to make legal tomato plant vodka using a rotary evaporator to send to chef Chris Costow (who provided Colombian cash in exchange for the recipe). The vodka is described as "green" and "bizarre."
+*   **Harvard Lecture Demo:** Demonstrated turning liquid nitrogen into a solid by applying a vacuum to it in a commercial vacuum machine. The machine was so powerful it required bleeding air to prevent the nitrogen from exploding into foam too quickly.
+*   **Flower Pot Tandoor Search:** Confirmed that "flower pot tandoor" yields results on the internet.

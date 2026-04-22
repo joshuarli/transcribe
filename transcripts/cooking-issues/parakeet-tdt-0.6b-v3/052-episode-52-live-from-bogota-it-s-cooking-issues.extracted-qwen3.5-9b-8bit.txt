@@ -1,0 +1,82 @@
+# Calcium Hydroxide (Flake Lime)
+*   **Function:** Used for nixtamalizing corn; hardens vegetables; preserves color while cooking; keeps fruits firm.
+*   **Interaction with Sodium Alginate:**
+    *   **Safety:** No issue forming lye. Lye requires sodium attached to hydroxide initially. Calcium hydroxide is weaker and does not react with sodium alginate to form lye.
+    *   **Solubility Issue:** Calcium hydroxide has very low solubility. It saturates quickly, potentially preventing proper setting of alginate pearls.
+    *   **Taste:** Tastes like cement.
+    *   **Testing:** Drop a couple of pearls into the solution to test if they set.
+*   **Preparation:** Mix with water, let settle, pour off top layer (saturated solution).
+
+# Eggs (Low Temperature Cooking)
+*   **Composition Differences:** Chicken, duck, and quail eggs have different protein compositions.
+    *   **Reaction to Lye/Salt:** Lye denatures proteins, making them less able to bond, keeping the egg clear when cooked. This effect is stronger in duck and quail eggs than chicken eggs.
+    *   **Cooking Temperatures:**
+        *   Duck and Quail eggs remain runny at 62°C.
+        *   Quail eggs retain a specific creaminess at 63°C that chicken eggs do not.
+        *   Quail eggs cook much faster and overcook quickly.
+        *   Quail eggs are done in under 15 minutes.
+*   **Handling Quail Eggs in Circulators:**
+    *   **Technique:** Do not crack the shell. Use a tool to chop off the top and bottom of the shell, then shake the egg out.
+    *   **Reasoning:** Cracking results in losing half the egg.
+*   **Peeling Tip:** Add baking soda to cooking water. Alkalinity reduces protein bonding to the shell membrane, aiding peeling.
+
+# Juicers
+*   **Champion Juicer:**
+    *   **Mechanism:** Auger with teeth; pushes pulp through front, juice exits bottom. Pulp can be run through a second time.
+    *   **Capabilities:** Grinds peanuts and cocoa nibs for chocolate.
+    *   **Tradeoffs:** Tends to heat juice; motor can overheat/catch fire with continuous heavy use (e.g., pumping out a gallon quickly).
+    *   **Commercial vs. Home:** Commercial models have stainless steel shafts and better bearings; otherwise similar.
+*   **Green Star Juicer:**
+    *   **Mechanism:** Gears that mash produce.
+    *   **Tradeoff:** Lower yield compared to the Champion.
+*   **Centrifugal Juicers:**
+    *   **Tradeoff:** Often lack capacity for large volumes; better for small batches.
+*   **Neutrafast:**
+    *   **Description:** Professional tower-style machine with a tube.
+    *   **Tradeoff:** Extremely aggressive suction (feels like it will suck the arm in).
+    *   **Limitations:** Will not process wheatgrass or sugar cane; not for citrus.
+*   **Norwalk:**
+    *   **Mechanism:** Press.
+    *   **Tradeoff:** Expensive; good for high volume but requires consideration of heat impact vs. ease of cleaning.
+
+# Gelatin Bloom Strength Conversion
+*   **Definition:** Bloom strength is the force (in grams) required to push a plunger 4mm into a gel cured for 17 hours at 10°C with a 6.66% concentration.
+*   **Conversion Logic:** Conversion is not linear. Strength scales with the square root of the bloom ratio.
+*   **Formula:**
+    *   Multiply the weight of the original gelatin by the square root of (Original Bloom Strength / New Bloom Strength).
+    *   *Example:* To substitute 10g of 200 bloom gelatin with 41 bloom gelatin: $10 \times \sqrt{200/41}$.
+*   **Sheet Grades:**
+    *   **Platinum:** Strongest, highest bloom, clearest.
+    *   **Silver/Bronze/Gold:** Lower strength, may undergo hydrolysis (browning), heavier weight per sheet to maintain gelling power.
+*   **Nox Powder:** A powder gelatin between Platinum and Gold (closer to Platinum), highly effective.
+
+# Acids for Cocktails and Preserves
+*   **Citric Acid:** Typical of lemons; sour patch candy flavor.
+*   **Malic Acid:** Typical of apples; Warheads candy flavor.
+*   **Tartaric Acid:** Typical of grapes; provides a grapey note.
+*   **Blending:**
+    *   **Lime Flavor:** Mix 2 parts Citric Acid to 1 part Malic Acid.
+    *   **Usage:** Used to correct acidity in juices or sodas without adding fresh fruit.
+*   **Lactic Acid:**
+    *   **Flavor:** Can taste sourdough or saucy depending on application.
+    *   **Usage:** Tiny amounts; creates authentic lime juice flavor.
+*   **Ascorbic Acid (Vitamin C):** Acts as an antioxidant (e.g., for apple juice).
+*   **Quinic Acid:** Astringent; characteristic of apples (source not specified in transcript).
+
+# Vinegar Mother
+*   **Composition:** Living acetic acid bacteria and bacterial cellulose formed when alcohol (approx. 10%) is exposed to oxygen.
+*   **Formation:** Bacteria float to the top, consuming oxygen and converting ethanol to acetic acid while producing cellulose.
+*   **Culinary Application:**
+    *   **Vinegar Production:** Lift off and use to start new batches.
+    *   **Nata de Coco:** A Filipino dessert made by spreading coconut water in a thick layer with specific acetic acid bacteria. The resulting thick bacterial cellulose layer is harvested, soaked, boiled to remove acetic acid flavor, and infused with syrup.
+    *   **DIY Experiment:** Soak vinegar mother gently, boil in syrup to create a gel, and compare to commercial Nata de Coco.
+
+# Black Garlic
+*   **Description:** Dark brown/black, ooey-gooey texture, sweet taste (sugary/balsamic notes), does not cause garlic breath.
+*   **Process:**
+    *   **Method:** Keep whole garlic cloves in a non-reactive container (plastic wrap over container recommended to prevent desiccation).
+    *   **Temperature:** Maintain between 140°F and 150°F (approx. 60°C to 65°C). Do not exceed softening temperature (~80-90°C). Do not go below 90°C to avoid bacterial growth.
+    *   **Time:** Approximately 30 days. Higher temperatures reduce time.
+    *   **Environment:** Controlled humidity (do not dehydrate).
+*   **Chemistry:** Not traditional fermentation (bacterial/yeast) due to high temperatures. It is "aged garlic" where unstable compounds break down over time.
+*   **Odor Control:** Some methods suggest adding charcoal during the process to absorb odors.

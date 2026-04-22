@@ -1,0 +1,102 @@
+# Liquid Nitrogen Storage & Safety
+*   **Equipment:** Liquid Nitrogen Dewar (James Dewar flask).
+*   **Sizing Recommendation:**
+    *   For apartment dwellers (3rd floor, stairs): Start small (10L). Carrying large volumes up/down stairs is difficult.
+    *   For those with vehicle access (pickup truck ideal): 20L or 30L is fine.
+    *   **Physics:** Heat loss is roughly constant regardless of size; larger volume retains liquid nitrogen longer.
+*   **Safety Protocols:**
+    *   **Ventilation:** Must be in a well-ventilated room. Spills displace oxygen (1L liquid nitrogen expands ~500x to gas).
+    *   **Transport:** Never keep in a car trunk with windows rolled down. Risk of passing out/dying from oxygen displacement.
+    *   **Vehicle Transport:** If using a car, drive with all windows rolled down. Pickup truck is ideal; secure with bungee cords to prevent rattling.
+*   **Insulation & Used Equipment:**
+    *   Dewars are vacuum-insulated (like thermos bottles).
+    *   **Risk of Used Units:** Dropping can crack the inner vacuum seal, rendering insulation useless overnight.
+    *   **Recommendation:** Buy new if doing this regularly. Buying used is "rolling the dice."
+
+# Flavor Chemistry: Star Anise & Onions
+*   **Technique:** Combining star anise with onions to increase "meaty" flavors.
+*   **Chemical Mechanism:**
+    *   Anethaldehyde and anicidine from star anise combine with sulfur compounds from onions.
+    *   Result: Formation of sulfur heterocyclic compounds.
+*   **Specificity:** This reaction is idiosyncratic to the specific flavor compounds in star anise; other spices likely will not produce the same result.
+*   **Related Phenomenon:** Vanilla flavor in oak-aged wine comes from oak compounds similar to vanillin.
+*   **Oak Ice Cream:** Can create vanilla-like ice cream by rotovaping oak from scotch, combining with cream, and neutralizing tannins (heat or uncooked eggs/Sam Mason style).
+
+# Modernist Cuisine Book Status & Future Projects
+*   **Current Status:** Team is still working on promoting the existing book and conducting future experimentation.
+*   **Bread:** Not a major focus of modernist cuisine yet.
+    *   *Examples:* Ferran Adrià's "air baguette" (hollow); José Andrés at Bazaar (Philly cheesesteak with cheese foam injected into hollow baguette).
+    *   *Comparison:* Pastry chefs are often ahead of savory chefs in adopting modernist techniques (e.g., precise weighing of baking soda).
+*   **Cocktails:** Considered a branch of modernist cuisine but not fully covered in the book.
+    *   *Ramos Gin Fizz:* Traditional method involves shaking ingredients dry (no ice) first to start emulsification.
+    *   *Stabilization:* Use Xanthan gum and Gum Arabic (e.g., TIC Gums "Saladizer 301/310") to stabilize emulsions and body the drink.
+    *   *Equipment:* Rotor-stator homogenizers (Tony Canziani, Dave Arnold, Nathan Myhrvold) create finer emulsions than standard blenders.
+    *   *High-Pressure Homogenizer:* Used by Nathan Myhrvold.
+        *   Pressure: 30,000 psi.
+        *   Droplet Size: Reduces to ~1 micron (Blender: 15 microns; Rotor-stator: 5 microns).
+        *   *Perception:* Human tongue cannot perceive texture below ~20 microns.
+        *   *Optical Properties:* Smaller droplets scatter more light, making green liquids (e.g., parsley juice emulsified with oil) appear whiter/creamier.
+*   **Confit Fraud:**
+    *   *Claim:* Traditional confit (cooking meat in fat/oil at low temp) changes the meat uniquely.
+    *   *Finding:* Blind taste tests showed no difference between traditional confit, steamed sous vide, and other methods.
+    *   *Conclusion:* The unique texture/flavor comes from **temperature and time**, not the fat medium. Traditional confit is essentially a pre-vacuum-sealed sous vide method.
+    *   *Stall in Barbecue:* Caused by evaporation cooling the meat surface. Adding sauce keeps it wet, prolonging the stall.
+*   **Hominy:** Acknowledged as an omission in the book (process of using lime to treat corn).
+
+# Egg Peeling Techniques
+*   **Variables Affecting Peelability:**
+    *   **Temperature:** Rapidly boiling large pots maintains temperature better than ramping up from cold.
+    *   **Age:** Older eggs peel easier.
+        *   *Mechanism:* As eggs age, pH rises (becomes more alkaline). Alkaline proteins in the thin white do not adhere as strongly to the membrane.
+        *   *Commercial Practice:* Alkalize eggs with sodium hydroxide bath (above, not in) to facilitate peeling.
+        *   *Home Hack:* Add a pinch of baking soda to boiling water to increase alkalinity.
+    *   **Cooking Method:** Low-temperature cooking (60–64°C) makes eggs easiest to peel because the thin white never sets up as a release agent.
+*   **Extreme Methods:**
+    *   **Blowtorch:** Run lightly over the shell before peeling to degrade the shell.
+    *   **Liquid Nitrogen:** Roll egg in liquid nitrogen briefly before peeling (extreme cold makes shell brittle).
+
+# Effervescent Desserts & Drinks
+*   **Goal:** Create effervescence in a Chardonnay sorbet or similar dessert.
+*   **Chemical Reaction (Acid/Base):**
+    *   *Issue:* Introduces a distinct taste (like baking powder biscuits) which may not suit Chardonnay.
+*   **Alternative 1: Pop Rocks**
+    *   Use unflavored Pop Rocks powder on top.
+    *   *Pros:* Stored effervescence.
+    *   *Cons:* Different texture/taste profile than liquid effervescence.
+*   **Alternative 2: Carbonation (CO2)**
+    *   *Method:* Infuse liquid Chardonnay with CO2 using a seltzer bottle (or dry ice in a sealed bottle with caution).
+    *   *Sorbet Application:* Carbonation only works in the liquid phase.
+        *   *Technique:* Make sorbet semi-liquid (using a sorbet machine or Paco Jet) before carbonating.
+        *   *Texture:* Sorbet must be soupy enough to hold CO2; freezing it first prevents absorption.
+    *   *Dry Ice Ice Cream:* Adding dry ice pellets creates a texture resembling white bread but does not absorb much CO2.
+
+# Plastic Wrap Safety
+*   **Types:**
+    *   **Polyethylene:** Safe for heat. Common in home brands (e.g., Saran Wrap is polyethylene).
+    *   **PVC (Polyvinyl Chloride):** Found in restaurant supply and large containers. Avoid for kitchen use due to confusion over labeling and potential leaching.
+*   **Heat Limits:**
+    *   Polyethylene: Safe up to ~60°C (140°F). Above this, it becomes very soft.
+    *   Professional Use: Multi-layer bags (nylon + polyethylene) are rated for higher temperatures.
+    *   *Recommendation:* Do not use standard plastic wrap for protein cooking above 62°C unless necessary; use proper sous vide bags instead.
+*   **Contamination Risks:**
+    *   Solvents used in manufacturing may leave aromas if not flashed off properly.
+    *   Lipophilic contaminants (solvents) can transfer to fatty foods (e.g., cheese), ruining organoleptic properties.
+
+# Dinner Etiquette: Plated vs. Family Style
+*   **Scenario:** Host wants to challenge himself with plated food; Wife prefers family style to control portion size and avoid feeling left out.
+*   **Recommendation:** Compromise.
+    *   Serve entrees plated (individual) early in the meal when guests are not full.
+    *   Serve side dishes family style later in the meal.
+*   **Philosophy:**
+    *   Plating allows the chef to control presentation and execute fancy techniques.
+    *   Deconstructing a plated dish in front of the chef is often frustrating ("viciously angry") as it ruins the intended presentation.
+    *   Guests should communicate dietary preferences/allergies upfront rather than picking items out of a finished dish.
+
+# Acidic Marinades
+*   **Penetration:** Marinades only penetrate a certain distance.
+    *   Short marination (20 mins) = Surface flavor only.
+    *   Full penetration requires: Long time, injection, tumbling, or thin meat.
+*   **Effect:** Acid denatures proteins.
+    *   If penetrated fully (via injection/tumbling/time), it tenderizes the entire piece of meat and improves moisture holding capacity.
+    *   If only surface, it only affects the exterior.
+*   **Comparison:** Alkaline marinades have similar effects if fully penetrated.

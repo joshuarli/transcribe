@@ -1,0 +1,155 @@
+# Techniques & Parameters
+
+### Water Chestnut Flour Application
+*   **Technique:** Dusting fish and frying.
+*   **Source:** Nils Norrin (learned while working in China).
+*   **Function:** Provides a crispy texture similar to a raw potato without the raw starchy flavor.
+*   **Safety Note:** Fresh water chestnuts can contain parasitic worms or bacteria; they must be cooked before eating if used fresh.
+*   **Availability:** Difficult to find in the US; available in the UK.
+
+### Transglutaminase ("Meat Glue") Noodle Making
+*   **Technique:** Creating noodles from non-protein sources (quinoa, peas, peanut butter) that normally cannot be formed into sheets.
+*   **Ingredients:** Gelatin + Transglutaminase (specifically **Activa TI**, not Activar M).
+*   **Rationale:** Gelatin must link to other gelatin molecules to increase gel strength. Linking to casein (milk protein) does not increase strength. If the base ingredient (e.g., peanut butter) has high protein, gelatin should not bond to it.
+*   **Process Sequence:**
+    1.  Make a paste.
+    2.  Dehydrate the paste to remove excess water (do not make it too watery).
+    3.  Prepare a gelatin mix using the normal amount required to set the product.
+    4.  While the gelatin mix is warm (not hot), mix in the transglutaminase (Activa TI).
+    5.  Let sit for several minutes to allow cross-linking while warm.
+    6.  Whisk the mixture together with the dehydrated product.
+    7.  Sheet the mixture.
+    8.  Let sit overnight in the fridge to set.
+*   **Estimated Ratio:** Approximately **1% transglutaminase** (based on anecdotal estimation by Dave Arnold; exact recipe held by Wiley Dufrein of WD-50).
+
+### Smoking Tomatoes
+*   **Preparation:** Peel and semi-desiccate (partially dry) tomatoes before smoking.
+*   **Moisture Level:** Aim for **2/3 to 3/4 dry** before applying smoke.
+*   **Process:**
+    1.  Partially dry to reduce water content (main preservation technique).
+    2.  Smoke until desired flavor is achieved (avoid heavy/acrid smoke).
+    3.  Finish drying at a low temperature to preserve flavor.
+*   **Goal:** Reduce water content for preservation while picking up smoke flavor without altering it.
+
+### Cherry Pit Processing (for Amaretto/Infusions)
+*   **Risk:** Stone fruit pits contain amygdalin (breaks down into cyanide and benzaldehyde) and prunasin.
+*   **Ineffective Method:** Roasting removes free cyanide but does not degrade amygdalin; enzymes in the pit will still release cyanide upon digestion.
+*   **Recommended Commercial Method:**
+    1.  Grind seeds roughly.
+    2.  Soak in water for **1 to 3 days**.
+        *   *Mechanism:* Free cyanide is water-soluble; benzaldehyde (flavor) is not. Enzymes released during grinding break down amygdalin into cyanide and benzaldehyde.
+    3.  Drain.
+    4.  Cook.
+        *   *Mechanism:* Free cyanide is volatile and boils off at **78°F** (approx. 25.5°C).
+        *   *Safety:* Leave lid off; do not breathe vapors.
+    5.  Result: Significantly reduced amygdalin and cyanide content.
+*   **Alternative:** Fermentation using specific strains of yeast (tempeh type) or bacteria/fungi.
+
+### Rice Flour Applications
+*   **Types:**
+    *   **Glutinous Rice Flour (Sweet/Sticky/Mochi Flour):** 100% amylopectin, 0% amylose. No gluten. Used for mochi, puffing snacks, donuts.
+    *   **Standard Rice Flour:** Contains amylose. Used for thickening, roux, deep frying.
+*   **Thickening Power (Relative to Wheat Flour):**
+    *   Wheat < Rice < Corn < Arrowroot < Potato.
+*   **Roux:** Works well for gluten-free applications. Less finicky than cornstarch (which sets harder when cooled).
+*   **Deep Frying:** Increases crispiness without increasing hardness (unlike wheat flour proteins). Used in batters or as a dusting.
+*   **Baking:** Can replace some wheat flour to reduce wheat content; used as a dusting/anti-stick agent.
+*   **Dutch Crunch Crust Recipe:**
+    *   1.5 tbsp Sugar
+    *   4 packs of Yeast
+    *   0.5 tsp Salt
+    *   0.75 cup Rice Flour
+    *   2 tsp Oil
+    *   0.5 to 0.67 cup Warm Water
+    *   *Method:* Stir, rise for 30 minutes, paint onto bread before baking.
+
+### Low-Fat Batter Adhesion (Innovative Challenge Context)
+*   **Problem:** Low-fat batter sticks to aluminum pans and burns.
+*   **Proposed Solution (Rejected by Challenge):** Adding fat to the batter.
+*   **Reasoning:** Fat aids release (e.g., waffle irons), increases satiety, and improves satisfaction. The challenge specifically seeks solutions for *low-fat* products.
+
+### Guar Gum vs. Locust Bean Gum
+*   **Function:** Hydrocolloid used to thicken ice cream (creates stretchiness).
+*   **Flavor Profile:** Guar gum has a "beanie" taste (like black bean flour); Locust bean gum is flavorless and superior for many applications.
+*   **Market Issue:** Fracking demand caused Guar gum prices to rise from <$0.50/lb to >$3.00/lb.
+*   **Impact:** Minimal cost increase for consumers (<0.5% of final product cost).
+*   **Solution:** TIC Gums produces "flavor-free guar."
+
+### Gum Arabic in Simple Syrup
+*   **Properties:**
+    *   Unique structure: Branched molecule (ball-shaped like amylopectin) vs. linear chains of other hydrocolloids.
+    *   High solubility: Can be used at high percentages without becoming too thick.
+    *   Contains protein (essential for function; removing protein destroys thickening/emulsifying ability).
+    *   Emulsifier: Stabilizes flavors and bubbles (head in shaken drinks).
+*   **Preparation Method:**
+    1.  Powder gum arabic as much as possible.
+    2.  Dissolve in water first (dissolves at room temp, can heat to speed up).
+    3.  Add sugar to the solution to make syrup.
+    4.  *Do not* add gum to sugar first.
+
+### Pressure Cookers
+*   **Recommendation:** Do not buy used pressure cookers.
+*   **Reasoning:** Seals are likely failing; units may be clogged; requires buying new seals; potential safety hazards.
+*   **Cost:** Decent units available for under $100; high-end units cost >$200.
+
+# Equipment
+
+### Rotary Evaporators & Centrifuges
+*   **Context:** Used by Tony Cujano at 69 Colebrook Row (Islington, London).
+*   **Application:** High-tech drink preparation.
+*   **Observation:** Capable of producing high-end cocktails in a small, neighborhood-style bar setting where the technology is invisible to the customer.
+
+### Turke Ovens
+*   **Description:** Large crock-pot style ovens originally sold by General Electric or Westinghouse in the 1950s/60s.
+*   **Original Use:** Cooking turkeys on countertops to free up the main oven.
+*   **Current Use:** Baking bread in dorm rooms (low cost, approx. $2 at thrift shops).
+*   **Recipe Association:** Used in the "Dutch Crunch" bread coating technique found in the *Sunset Bread Baking Book*.
+
+### Specific Locations for Ingredients
+*   **Gum Arabic (NYC):**
+    *   Cal's (Lexington Ave, 20s).
+    *   Dual Specialty Shop (1st Ave/Avenue A, near Death & Co., downstairs).
+*   **Mochi Flour:** High-grade stuff recommended for best results.
+
+# Ingredients & Functional Roles
+
+### Water Chestnuts
+*   **Texture:** Crispy like a raw potato.
+*   **Flavor:** Lacks the raw starchy flavor of a potato.
+*   **Risk:** Potential for parasitic worms/bacteria if fresh; requires cooking.
+
+### Guar Gum
+*   **Source:** Seeds (primarily India).
+*   **Role:** Thickener in ice cream (cheap option).
+*   **Flavor:** "Beanie" taste (black bean flour-like).
+*   **Alternative:** Locust bean gum (flavorless, better performance).
+
+### Transglutaminase (Activa TI)
+*   **Role:** Enzyme that bonds proteins (cross-linking).
+*   **Function:** Allows creation of solid structures (noodles) from non-protein pastes (quinoa, peas) when combined with gelatin.
+
+### Rice Flour
+*   **Glutinous (Sticky):** 100% Amylopectin. Excellent for puffing (snacks, donuts) and mochi.
+*   **Standard:** Contains Amylose. Good thickener (roux), deep frying crispiness.
+
+### Cherry Pits
+*   **Amygdalin:** Glycoside that breaks down into Cyanide (HCN) and Benzaldehyde.
+*   **Prunasin:** Another cyanide-releasing compound.
+*   **Benzaldehyde:** Provides the desired almond flavor.
+
+### Gelatin
+*   **Property:** Melts when heated, gels when cooled.
+*   **Interaction:** Cross-links with itself to strengthen gels. Does not effectively cross-link with casein.
+
+# Strong Opinions & Recommendations
+
+*   **Bartender's Choice:** Always the best choice. Order "Bartender's Choice" and let the bartender decide what to make.
+*   **Water Chestnuts:** If you like the texture of a raw potato but hate the flavor, try water chestnut flour. If you dislike the texture, avoid them entirely.
+*   **Low-Fat Baking:** Reducing fat in baked goods (waffles, cornbread, biscuits) is generally a bad idea. Fat aids release, satiety, and satisfaction.
+*   **Japanese Cooking Media:** Films like *Jiro Dreams of Sushi* are invaluable for learning high-end Japanese techniques because traditional apprenticeship involves years of silent observation without explanation.
+*   **Pressure Cookers:** Never buy used ones; the seals are unreliable.
+*   **Biscuits:** Biscuits are delicious (especially flaky ones like those at Roberta's). Disliking them is unusual.
+*   **Plant-Based Meat:** Pat Brown's approach (making plant-based food so delicious and cheap that meat-eaters choose it voluntarily) is an interesting philosophy compared to forcing dietary changes.
+*   **Sprouts:** Sorghum sprouts are poisonous unless cooked thoroughly.
+*   **Star Wars:** Dave Arnold does not like Star Wars.
+*   **Biscuits vs. Bread:** Some people prefer bread over biscuits; Dave finds this distinction interesting but notes biscuits can be consumed in large quantities.

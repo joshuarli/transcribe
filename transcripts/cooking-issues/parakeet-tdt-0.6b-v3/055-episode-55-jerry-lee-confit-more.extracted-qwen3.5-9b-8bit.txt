@@ -1,0 +1,212 @@
+# Techniques & Parameters
+
+### Enzymatic Peeling & Clarification
+*   **Technique:** Enzymatic peeling of fruits to remove albedo (white pith) and auto-supreming.
+*   **Application:** Self-clarification of liquids (e.g., apple juice).
+*   **Equipment/Ingredient:** Centerfuge required for strawy purees (though a workaround exists).
+*   **Enzyme:** Pectanex SPL (ultra enzyme).
+*   **Process:** Mix alginate with calcium (calcium gluconate or calcium lactate recommended over chloride for flavor) to form a gel. Drip/dip into calcium bath to set.
+
+### Centrifugation
+*   **Goal:** Clarification (e.g., using Pectanex SPL).
+*   **Target Force:** ~4,000 G's.
+*   **Capacity:** 3–4 L benchtop centrifuge preferred.
+    *   *Reasoning:* Spins ~3 L at a time; allows spinning two buckets simultaneously (one with product, one with sugar as weight) for balance.
+    *   *Avoid:* Small units (e.g., 1.5 L capacity) requiring excessive batches.
+*   **Temperature Management:** Refrigeration helpful but not strictly necessary for 1–2 batches. Continuous use generates heat via friction; products can heat up drastically.
+*   **Safety:** Calculate G-force based on rotor and RPM using online calculators.
+*   **Cost:** New units ~$8,000; used/refurbished ~$1,000–$1,200; Dave's unit acquired for <$100 + shipping via misspelled eBay auction.
+
+### Tincture Infusion (Rapid vs. Traditional)
+*   **Rapid Infusion:** Accelerates infusion by ~10%.
+*   **Time/Pressure Regimes:**
+    *   *Rapid:* 1–5 minutes.
+    *   *Extended:* 8 hours to overnight (under pressure) to mimic traditional percolation and air displacement.
+*   **Alcohol Proof:**
+    *   *US Limit:* 51% ABV (100 proof).
+    *   *Higher Proof:* Requires travel to NJ/CT for Everclear or sourcing lab/perfume grade (195 proof USP).
+    *   *Flavor Note:* Higher proof extracts differently; ratios of compounds may vary.
+*   **Outcome:** Rapid infusion yields different flavor profiles than traditional steeping; testing required.
+
+### Confit vs. Steaming
+*   **Theory:** Fat acts as a gentle, low-temperature liquid medium (dry cooking medium) that prevents evaporation loss compared to roasting. It does not significantly add flavor or moisture.
+*   **Test Method:**
+    1.  Use a combi oven.
+    2.  Run one duck in steam at 85°C.
+    3.  Run one duck in traditional fat confit in the same cavity, same time, same temperature.
+    4.  Compare results.
+*   **Conclusion:** No appreciable difference in outcome between steaming and confiting.
+
+### Meat Cooling (Juice Reabsorption)
+*   **Problem:** Rapid cooling (ice bath immediately after braising) prevents juice reabsorption.
+*   **Critical Threshold:** Juices stop reabsorbing once meat drops below ~50°C.
+*   **Recommended Sequence (Bruno Goussot Method):**
+    1.  Leave on counter in air: 20 minutes.
+    2.  Tap water (room temp): 20 minutes.
+    3.  Ice bath: Until chilled.
+*   **Alternative:** Counter (20 min) -> Ice bath (acceptable marginal difference).
+*   **Avoid:** Direct plunge into ice bath.
+
+### Cheese Sauce Stability (Mornay)
+*   **Problem:** Cheeses break (fat separates from protein/water matrix) or become grainy/ropy when heated.
+*   **Solution:** Use emulsifying salts to create a stable "processed cheese" base before adding to Mornay.
+*   **Ingredients:**
+    *   *Emulsifying Salts:* Sodium citrate (~1% of cheese weight) or monosodium phosphate.
+    *   *Acidifier:* Citric acid or lemon juice (to counteract alkalinity of salts and maintain pH).
+*   **Process:**
+    1.  Grate cheese finely.
+    2.  Mix with emulsifying salt.
+    3.  Add liquid/fat if needed to match ratios of melting cheeses (e.g., Gruyère, Velveeta).
+    4.  Heat until a smooth curd set forms.
+    5.  Incorporate into Mornay sauce.
+*   **Reference:** University of Guelph dairy science resources.
+
+### Fat Washing (Rancidity Prevention)
+*   **Risk:** Residual fat can go rancid over time.
+*   **Prevention:**
+    *   Freeze fat-washed alcohol and strain.
+    *   Add Vitamin E (tocopherol) as a fat-soluble antioxidant.
+*   **Stability Factors:**
+    *   Fat type matters (Cocoa butter is highly stable; lobster fat less stable than duck/bacon fat).
+    *   Shelf life of the original fat affects the product.
+    *   Proof of spirit may influence stability.
+
+### Sauerkraut Flavoring
+*   **Technique:** Add lactic acid powder to quick-pickled cabbage to mimic sauerkraut flavor.
+*   **Trade-off:** Lacks the complex flavors of actual fermentation but provides the acidic profile.
+*   **Form:** Powder preferred over liquid (easier to handle).
+
+### Induction Cooktops
+*   **Brand:** CookTech (US brand, Illinois).
+*   **Issues:**
+    *   Early units burned out when placed over ovens (electronics failure).
+    *   Shattering under heavy impact (dropping pots/pan).
+*   **Configuration:** Dual units (side-by-side or front-back) allow stacking like a range.
+*   **Status:** Problems largely solved in last 4–5 years.
+
+### Vacuum Sealer Maintenance
+*   **Oil:** Commercial machines use vacuum oil for sealing.
+*   **Maintenance:**
+    *   *Cleaning:* Run pump to heat oil and boil out water contaminants.
+    *   *Changing:* Run pump to heat oil -> loosen bolts -> move pump -> drain old oil (check for grit) -> fill with fresh oil (<1 quart).
+    *   *Frequency:* Not often; only when contaminated.
+*   **Source:** Industrial supply (McMaster, Grainger, MSC Direct).
+
+---
+
+# Equipment Discussed
+
+| Equipment | Details / Tradeoffs / Recommendations |
+| :--- | :--- |
+| **Centrifuge** | **Model:** Zhuan C12/C14 (approx). **Size:** 3–4 L benchtop. **Cost:** <$100 (used/auction) to ~$1,200 (used/refurb). **Pros:** Economical time-wise, handles large volumes, allows dual-bucket balancing. **Cons:** Heat generation during continuous use. |
+| **Induction Cooktop** | **Brand:** CookTech. **Pros:** Configurable (dual/front-back), high heat. **Cons:** Susceptible to shattering under impact; early models failed over ovens. |
+| **Pectanex SPL** | **Type:** Ultra enzyme. **Use:** Clarification, enzymatic peeling. **Promo:** Free domestic shipping with code **CI55**. |
+| **Transglutaminase** | **Code:** **CI53**. |
+| **Vacuum Pump Oil** | **Type:** Industrial vacuum oil. **Source:** McMaster, Grainger, MSC Direct. **Volume:** <1 quart. |
+| **Emulsifying Salts** | **Types:** Sodium citrate, Monosodium phosphate. **Use:** Stabilizing cheese sauces. |
+| **Vitamin E (Tocopherol)** | **Use:** Antioxidant for fat-washed alcohol to prevent rancidity. |
+| **Lactic Acid** | **Form:** Powder (preferred over liquid). **Use:** Flavoring pickles. |
+| **Combi Oven** | **Use:** Testing confit vs. steam at 85°C. |
+| **Ice Pick** | **Brand:** Cocktail Kingdom (Greg Bohm). **Feature:** Ergonomic for holding/tapping. |
+
+---
+
+# Ingredients & Functional Roles
+
+*   **Pectanex SPL:** Enzyme for peeling (removes albedo) and clarification.
+*   **Calcium Gluconate / Calcium Lactate:** Salts used in spherification (alginate + calcium = gel). Gluconate/Lactate preferred over Chloride for flavor neutrality.
+*   **Sodium Citrate / Monosodium Phosphate:** Emulsifying salts; bind fat and protein in cheese to prevent breaking/graininess.
+*   **Vitamin E (Tocopherol):** Fat-soluble antioxidant; prevents rancidity in fat-washed spirits.
+*   **Lactic Acid:** Provides sauerkraut-like acidity; can be added directly to quick pickles.
+*   **Everclear (190/195 proof):** High-proof alcohol for rapid infusion; requires sourcing outside NY or lab grade.
+*   **Cocoa Butter:** Highly stable against oxidation (unlike some other fats).
+*   **Polyethylene:** Common plastic wrap material; generally safe at low temps (contains ethyl vinyl acetate/polybutene but no plasticizers).
+*   **Polycarbonate:** Contains BPA; avoid for cooking, acceptable for drinking vessels.
+*   **PVC:** Contains plasticizers/phthalates; avoid for cooking.
+*   **Nylon:** Used in cooking bags; considered inert.
+
+---
+
+# Caller Q&A
+
+**Caller: Colin**
+*   **Question:** Regarding the "Caveman" dish theme at the Museum of Food and Drink event.
+    *   *Part 1:* Did Wiley use fresh or dried Anoki mushrooms for the "twigs"?
+    *   *Part 2:* What makes Quantro's spherification kit different (beyond marketing/gold dust)?
+*   **Answer:**
+    *   *Mushrooms:* Wiley bought **fresh** Anoki mushrooms, seasoned them, and dried them. Recommendation: Always use fresh mushrooms for this technique.
+    *   *Quantro Kit:* Likely uses alginate and calcium gluconate/lactate. The "gold dust" adds shimmer. Designed for untrained bar staff to make "tiny balls." Likely not reverse spherification due to difficulty.
+
+**Caller: Alvin**
+*   **Question:** Where to buy a centrifuge? Will you be at Starchef IC?
+*   **Answer:**
+    *   *Buying:* Look for misspelled auctions on eBay. Price range: <$100 (Dave's) to ~$1,200 (good used). New units ~$8,000.
+    *   *Starchef IC:* Dave and Nastasha will not be participating/workshops this year. Dave plans to attend as a spectator, drink wine/beer, and watch demos.
+
+**Caller: Gary (New York)**
+*   **Question:** Can rapid infusion/fusion techniques be used for tinctures to reduce the 6-week wait?
+*   **Answer:**
+    *   *Yes:* Rapid infusion accelerates extraction by ~10%.
+    *   *Caveat:* Flavor profile may differ from traditional steeping due to different compound ratios under pressure/time.
+    *   *Alternative:* Extend rapid infusion time (8 hours to overnight) to better mimic traditional percolation.
+    *   *Alcohol:* NY limit is 51% ABV. Higher proof (195 proof USP) available in NJ/CT or lab grade.
+
+**Caller: Anonymous (Apartment Dweller)**
+*   **Question:** Substitute for chicken/vegetable broth when out of stock?
+*   **Answer:**
+    *   *Option 1:* Use high-quality broth cubes (e.g., Broto) but adjust salt levels (do not pre-salt).
+    *   *Option 2:* Make your own stock. Buy whole chickens, save bones/backs/necks in freezer.
+    *   *Method:* Pressure cook bones + veg for ~20 minutes. Freeze in ice cube trays, then bags.
+    *   *Strategy:* Maintain 3 layers of protection (freezer bones, ice cube stock, broth cubes).
+
+**Caller: Johnny**
+*   **Question 1:** Changing oil in commercial vacuum sealers.
+    *   *Answer:* Run pump to heat oil -> drain (check for grit) -> refill with fresh industrial oil (<1 quart). Clean by boiling out water contaminants periodically.
+*   **Question 2:** Does steaming produce the same result as confit?
+    *   *Answer:* Yes. Fat is a gentle liquid medium preventing evaporation, not a flavor enhancer. Test confirmed no difference between 85°C steam and fat confit.
+*   **Question 3:** Safety of low-temp cooking in plastic bags (Sous Vide).
+    *   *Answer:* Concerns are valid but difficult to prove harm.
+    *   *Risks:* BPA (Polycarbonate - avoid for cooking), PVC (plasticizers - avoid).
+    *   *Safe:* Polyethylene (wraps), Nylon (cooking bags).
+    *   *Alternatives:* Glass jars in pressure cooker, foil pouches, direct cooking in stock/fat.
+    *   *Mechanism:* Fat-soluble substances cross-contaminate plastics (e.g., cheese absorbing plastic smell).
+
+**Caller: Chris Beer**
+*   **Question:** Rancidity in fat-washed alcohol (ISI infusions) and nut oils?
+*   **Answer:**
+    *   *Fat:* Small amount of fat is soluble in alcohol. Add Vitamin E (tocopherol) to prevent rancidity.
+    *   *Stability:* Depends on fat type (lobster < duck/bacon) and proof of spirit.
+    *   *Experience:* PDT (Don Lee/John Daragon) reported no rancidity issues in bacon bourbon, though anecdotal evidence exists.
+    *   *Nut Oils:* Potential for rancidity at room temp; freezing recommended.
+
+**Caller: Matthew**
+*   **Question 1:** Adding lactic acid to quick-pickled cabbage for sauerkraut flavor?
+    *   *Answer:* Yes, add lactic acid powder. Will mimic flavor but lack fermentation complexity.
+*   **Question 2:** Does shocking braised meat in ice bath affect juice reabsorption?
+    *   *Answer:* Yes, it prevents reabsorption. Cool slowly: Counter (20m) -> Tap Water (20m) -> Ice.
+*   **Question 3:** Temperature-stable cheese sauce (Mornay) with Cheddar?
+    *   *Answer:* Pre-process cheese with emulsifying salts (Sodium Citrate/Phosphate) and acidifier (Citric/Lemon) to create a stable curd base before adding to sauce.
+
+**Text Message: Don Lee**
+*   **Topic:** Rancid fat wash.
+*   **Details:** Tasted rancid fat wash caused by leaving fat slightly above room temp for 48 hours without freezing/straining. Longest safe duration observed: 12 hours at room temp before freezing.
+
+---
+
+# Strong Opinions & Recommendations
+
+*   **Do NOT** use an ultrasonic homogenizer as a toothbrush or for cleaning teeth.
+*   **Do NOT** attempt to use Quantro spherification kits for complex molecular mixology; they are designed for basic "tiny balls."
+*   **Avoid** "Molecular Mixology" as a term; find it gross and dumb.
+*   **Induction:** CookTech is a fine brand, but beware of shattering under impact and early electronic failures over ovens.
+*   **Tinctures:** Rapid infusion is faster but yields different flavors; test before relying on it for specific recipes.
+*   **Broth:** Do not be "provincial" about broth cubes; they are valid ingredients globally.
+*   **Vacuum Oil:** Changing oil is simple (drain/refill) but requires heating the pump first.
+*   **Confit:** The fat does not add flavor; steaming is a valid alternative.
+*   **Plastics:** Avoid Polycarbonate (BPA) and PVC for cooking. Polyethylene and Nylon are generally safe at low temps.
+*   **Cheese Sauce:** Adding emulsifying salts and acid is necessary for stability, even if it feels like a "shortcut."
+*   **Cooling Meat:** Never plunge hot meat directly into ice; it ruins texture/juiciness. Follow the Goussot method (Air -> Water -> Ice).
+*   **Fat Washing:** Add Vitamin E to prevent rancidity; freeze immediately after straining.
+*   **Sauerkraut:** Adding lactic acid is a valid way to get the flavor without the time commitment of fermentation.
+*   **Museum Event:** Tickets are sold out; beg and plead or email Nastasha for exceptions.
+*   **Starchef IC:** Dave will not be working/participating this year.
