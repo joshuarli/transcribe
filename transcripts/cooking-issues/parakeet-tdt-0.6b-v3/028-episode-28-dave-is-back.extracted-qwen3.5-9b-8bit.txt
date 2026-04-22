@@ -1,0 +1,69 @@
+# Fish Gelatin vs. Regular Gelatin for Jellies
+*   **Issue:** Fish gelatin sets at a much lower temperature than regular gelatin, requiring significantly longer cooling times in the fridge.
+*   **Strength:** Fish gelatin is lighter on a per-weight basis and is not as strong as regular gelatin.
+*   **Acid Sensitivity:** Fish gelatin is more sensitive to acid than other gelatins, though orange juice acidity should not be an issue.
+*   **Recommendation:** If avoiding red meat or BSE (Bovine Spongiform Encephalopathy) concerns, consider switching to a vegetable-based product.
+    *   **Ingredients:** A mixture of **carrageenan** and **locust bean gum**.
+    *   **Properties:** Sets much faster than fish gelatin; texture is fairly similar to gelatin.
+    *   **Limitation:** Does not melt in the mouth the same way gelatin does.
+    *   **Availability:** Available from **CP Kelco**; some kosher gelatins may be carrageenan-based.
+*   **Future Tech:** Microbial-based gelatin (produced by specific strains of yeast and bacteria) exists but is not yet commercially available.
+
+# Hydrocolloids in Chocolate Chip Cookies
+*   **Goal:** Reduce spread to keep cookies thick and chewy without creating a cakey texture.
+*   **Challenge:** Cookies are low-water systems (approx. 20% water from butter + water from eggs). Most hydrocolloids require a water phase to hydrate and thicken.
+*   **Potential Solutions:**
+    *   **Clarified Butter Method:** Clarify butter, add back 20% water containing a hydrocolloid, then mix into the recipe.
+    *   **Recommended Hydrocolloids:**
+        *   **Xanthan Gum:** Has a yield point; decreases spread; does not affect taste when chewed.
+        *   **Methyl Cellulose:** Gels when heated. Can be incorporated into the egg white phase. When the cookie bakes, it sets to prevent spread; upon cooling, it returns to a non-gelling state.
+*   **Alternative Adjustments (Non-Hydrocolloid):**
+    *   **Butter-Sugar Ratio:** Increased butter and sugar increase spread.
+    *   **Flour:** Increased flour decreases spread but increases cakiness.
+    *   **Leaveners:** Decreasing leaveners can help reduce cakiness.
+    *   **Temperature:** Using a very cold batter and dropping it directly into the oven can set the structure before spreading occurs.
+
+# Champagne Pouring and Carbonation
+*   **Phenomenon:** Champagne bubbles over quickly in an empty glass but pours faster into a glass containing another liquid (e.g., orange juice for a mimosa).
+*   **Factors:**
+    *   **Dilution:** Adding liquid dilutes the percentage of dissolved CO2, resulting in fewer total bubbles coming out.
+    *   **Foaming vs. Bubbles:** Distinction between foam (head) and bubbles within the liquid.
+    *   **Nucleation Sites:** New glasses have dust specs and imperfections that act as nucleation sites. Hypercleaning glasses (e.g., with sodium dichromate) removes these sites, reducing bubbles.
+*   **Recommendation:** American sparkling wines are often overcarbonated compared to Champagne. This makes them excellent choices for mimosas as they retain more residual CO2 after dilution.
+*   **Reference:** *The Science of Champagne* by **Hilaire Belloc**. (Equation-free, recommended read on champagne physics).
+
+# Coconut Milk "Breaking" (Curdling)
+*   **Observation:** Cooking canned coconut milk until it separates ("breaks") improves curry texture, preventing a gelatinous or unpleasing mouthfeel.
+*   **Variable:** Canned coconut milk takes longer to break than fresh coconut milk.
+*   **Hypothesis:** The canning process may involve additives or structural changes making it less sensitive to breaking than fresh milk.
+*   **Fresh Coconut Milk Method:** Grate coconut, blend with hot water, squeeze.
+*   **Status:** Specific chemical mechanism for the difference between canned and fresh breaking points requires further research.
+
+# Centrifuges for Food Production
+*   **Function:** Separates products based on density using high-speed rotation (centripetal force).
+*   **Applications:**
+    *   Separating oil from nuts.
+    *   Clarifying juices.
+    *   Making nut milks (high yield).
+    *   Separating serum from red blood cells (medical use).
+*   **Safety:** Must be thoroughly cleaned (bleached) and pressure-cooked before use with food, assuming previous use with hazardous materials (e.g., blood).
+*   **Cost/Benefit:** High-quality used centrifuges cost approx. **$7,700**. The increase in yield for expensive ingredients (nuts, juices) can pay for the machine quickly.
+*   **DIY Repair:** Refrigeration units in centrifuges can be repaired using a DIY **PID temperature controller** (approx. $30–$40) rather than replacing the board ($1,000+).
+
+# Ancient Roman Fish Sauce (Garum)
+*   **Modern Equivalent:** **Ishiri** (from Ishikawa, Japan), made from squid guts.
+*   **Characteristics:** Tastes like fish sauce mixed with canned meat; distinct from standard fish sauce.
+*   **Historical Context:** Closely resembles the high-end *garum* used during the time of Apicius, made entirely from fish guts.
+*   **Source:** Samples provided by **Sally Granger** (Roman expert, PhD candidate).
+
+# Blue Corn Drink Challenge (Failed Experiment)
+*   **Goal:** Create a drink that transitions from cloudy to clear and is blue.
+*   **Problem 1 (Color):** Blue corn contains **anthocyanins**, which are pH-dependent.
+    *   Acidic environment (drinks) = Red.
+    *   Basic environment = Blue/Green.
+    *   The pH range required for blue is not palatable.
+*   **Problem 2 (Smell/Taste):** Blue corn juice has a vile, indescribable smell and bad taste.
+*   **Problem 3 (Nixtamalization):** Nixtamalized blue corn is delicious for tortillas but did not solve the drink issue.
+*   **Conclusion:** Using low-quality ingredients (like Blue Curacao) solely for color is unacceptable if they ruin the flavor profile.
+*   **Outcome:** The project required resorting to blue food coloring, which the host considers a failure of culinary integrity.
+*   **Lesson:** Do not say "yes" to projects unless you are confident in the delivery.

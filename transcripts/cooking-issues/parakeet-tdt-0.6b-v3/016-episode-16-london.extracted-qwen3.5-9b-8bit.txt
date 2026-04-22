@@ -1,0 +1,85 @@
+# Equipment & Tools
+
+*   **ISI Cream Whippers:**
+    *   **Types:** Two distinct models exist: those for whipped cream and those for soda water (siphons).
+    *   **Tradeoffs:** Soda siphons have a smaller neck with an internal tube to force liquid through the nozzle (preventing spray-back). Cream whippers have a larger neck, allowing easier addition of ingredients.
+    *   **Cartridge Compatibility:** Both models accept the exact same N2O (whipping) and CO2 cartridges.
+    *   **Recommendation:** Use the cream whipper for carbonation tasks rather than the soda siphon due to the larger neck capacity.
+*   **Rotary Evaporators:** Mentioned as equipment used for demonstrations in London.
+*   **Lab Circulators:** Used for sous vide; one caller reported buying a used unit.
+*   **Smoke Application:**
+    *   **Peat:** Can be burned on a grill to impart smoke flavor.
+    *   **Chips:** Can be used to make a grill smoky.
+*   **Clarification Equipment:** Required to clarify lime juice for tonic water (recipe available on cookingissues.com).
+
+# Ingredients & Functional Roles
+
+*   **Mangoes:**
+    *   **Allergens:** Two types of reactions exist.
+        1.  **Urushiol-like chemical:** Found in skin/sap; causes contact dermatitis (rash). Mitigation: Wear gloves and peel thickly to avoid sap contact.
+        2.  **Proteins:** Found in the fruit flesh; causes systemic allergic reactions (throat closing). These proteins are heat-stable in raw fruit but theoretically destroyed by cooking.
+    *   **Cooking:** Theoretically, cooking destroys the protein allergens, making the fruit edible for those with protein allergies, provided the reaction is not full anaphylaxis.
+*   **Pears:**
+    *   **Varieties:** 500+ varieties exist with diverse flavors (e.g., rose water) and textures.
+    *   **Cooking Pears:** Some varieties remain hard like rocks when raw and require cooking to develop flavor and texture. Unlike cooking apples (which are tart), these are useless raw.
+*   **Quinine Sulfate:**
+    *   **Function:** Provides bitterness in tonic water.
+    *   **Properties:** Anti-malarial (medicinal doses are 2x higher than culinary); phosphorescent.
+    *   **Safety:** Overdose causes cinchonism. Taste is cumulative; small additions can rapidly make a drink too bitter.
+    *   **Sourcing:** USP grade available from lab supply houses (e.g., Spectrum Chemical). Previously available OTC for leg cramps; now prescription-only in many regions.
+    *   **Dosage:** Legal limit in tonic water is <83 ppm.
+*   **Acids for Tonic Water Flavor:**
+    *   **Ratio:** 2 parts Citric Acid (lemon) : 1 part Malic Acid (lime).
+    *   **Additive:** Pinch of Succinic Acid (provides authentic lime taste; available from chemical supply houses).
+    *   **Alternative:** Clarified lime juice.
+*   **Peat:**
+    *   **Function:** Used for smoking food to impart flavor. Not used directly in food.
+*   **Game Birds (Woodcock, Grouse, Teal, Wigeon, Snipe):**
+    *   **Woodcock Preparation:** Often served whole with guts intact. The head should be split open to suck out the brains.
+    *   **Texture:** Described as distinct from other poultry.
+*   **Pop Rocks / Fizzy Products:**
+    *   **Mechanism 1 (Pop Rocks):** Molten sugar infused with high-pressure CO2 (8,000–10,000 psi), set into blocks. Melting releases CO2.
+    *   **Mechanism 2 (Acid-Base):** Granules containing citric acid and a base (e.g., baking soda) that react in the mouth to create fizz.
+*   **Bitters Ingredients:**
+    *   **Base:** Overproof alcohol (e.g., Spiritus, Everclear) recommended for faster, more complete extraction. Can be watered down post-infusion.
+    *   **Herbs:** Sourced from specialty shops or online.
+
+# Techniques & Parameters
+
+*   **Carbonating in a Cream Whipper (CO2):**
+    1.  Chill contents and bottle extremely cold (add ice).
+    2.  Insert 1st CO2 cartridge.
+    3.  Shake vigorously.
+    4.  Vent completely to remove air (headspace air is the main enemy) and initial foam.
+    5.  Insert 2nd CO2 cartridge.
+    6.  Shake.
+    7.  Let stand for a couple of minutes for bubbles to settle.
+    8.  Slowly vent excess CO2.
+    9.  Unscrew and pour out.
+*   **Bittering with Quinine:**
+    *   Dissolve quinine sulfate in water or alcohol.
+    *   Add incrementally to avoid overshooting the bitter threshold.
+*   **Sous Vide Pulled Pork:**
+    *   **Texture Issue:** Sous vide softens connective tissue but does not render it out or break down fibers sufficiently for traditional "pulled" texture.
+    *   **Smoke/Bark Issue:** Low-temp cooking prevents the Maillard reaction needed for bark.
+    *   **Workaround:**
+        1.  Sous vide for tenderness.
+        2.  Apply smoke flavor (cold smoke or liquid smoke) or smoke the meat after cooking.
+        3.  Apply high-heat dry finish (grill/oven) to crisp the exterior and create bark.
+        *   *Result:* Delicious but texturally different from traditional barbecue.
+*   **Infusing Bitters:**
+    *   **Traditional Method:** Slow infusion over time. Best for authentic historical profiles.
+    *   **Modern Techniques:** Faster results but produce a different flavor profile. Not necessarily "better," just different.
+    *   **Recommendation:** Use traditional methods for recreating old recipes (e.g., Angostura, Peychaud's). Use modern techniques for experimental flavors.
+*   **Peat Smoking:**
+    *   Burn peat on a grill to transfer flavor to food via smoke.
+
+# Strong Opinions & Recommendations
+
+*   **Mango Allergies:** If the allergy is to the skin sap (urushiol), wear gloves and peel thickly. If the allergy is to the fruit protein, cooking is the only theoretical solution, but caution is advised for severe reactions.
+*   **Carbonation:** Do not use soda siphons for carbonating liquids other than soda water; use cream whippers. Always vent the first CO2 charge to remove air.
+*   **Bitters:** Do not expect modern infusion techniques to replicate the exact flavor of traditional slow-infused bitters. Stick to old recipes for authenticity.
+*   **Quinine:** Be extremely careful with dosing; the taste is cumulative. Use USP grade only.
+*   **Pears:** There is a vast, underappreciated world of pear varieties, including hard cooking pears that require heat to develop flavor.
+*   **Game Birds:** Woodcock brains are edible and should be sucked out of the head.
+*   **Tonic Water:** Clarified lime juice is superior to artificial mixes for authentic flavor.

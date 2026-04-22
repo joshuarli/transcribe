@@ -1,0 +1,74 @@
+# 3D Food Printing
+*   **Application:** Printing masa dough (nixtamalized corn) to create textured shapes resembling shredded wheat.
+*   **Equipment:** 3D printer (syringe-based extruder moving in 3 dimensions).
+*   **Technique:** Extrude paste at a precise rate.
+*   **Philosophy:** Printing random shapes (e.g., Mickey Mouse) is unnecessary; molds and silicone spreading are superior for specific shapes. The process should not remove humans from the cooking process.
+
+# Cheese Storage and Tempering
+*   **Storage Recommendation:** Do not store cheese in the refrigerator unless necessary. Use a wine cooler instead.
+*   **Mozzarella:** Can sit in a cool spot for a whole day without refrigeration if used within that timeframe.
+*   **Tempering (Soft Cheeses like Vacherin Mont d'Or):**
+    *   **Method 1 (Preferred):** Cut into slices, cover with plastic wrap, and chamber (warm) rapidly.
+    *   **Method 2 (Subway Method):** Place cheese in a Ziploc bag, remove air by immersing the bag in running tap water, then place the sealed bag in running tap water.
+    *   **Target Temperature:** Mid-80s°F (slightly below body temperature, warmer than standard tap water which is 50–70°F).
+    *   **Goal:** Rapid chambering without water contact or overheating.
+*   **Microwave/Oven Warning:** Avoid using microwaves or ovens to temper cheese as they ruin a significant portion of the product.
+*   **Cellar Temperature:** Some sources recommend serving cheese at wine cooler temperatures; the host disagrees with this general practice.
+
+# Ice and Salt Thermodynamics
+*   **Principle:** Melting ice requires heat (heat of fusion), approx. 80 calories per gram.
+*   **Entropy vs. Enthalpy:** At 0°C, the energy required to melt ice balances the entropy gain. Adding salt increases the number of disorder states available to water molecules.
+*   **Result:** The freezing point of the solution drops. To melt the ice into salt water, heat is required. This heat is drawn from the ice block itself, causing the ice and resulting brine to become colder than 0°C.
+*   **Road Application:** The ice initially gets colder before melting, provided the ambient temperature is below the new freezing point of the saturated salt solution (approx. -10°C / 14°F).
+
+# Raw Milk Debate
+*   **Historical Context:** 19th-century American milk was often raw; Mark Twain preferred it.
+*   **Pasteurization:** Originally implemented to prevent tuberculosis.
+*   **Safety:** Pasteurized products stored incorrectly are often the source of dairy-related diseases. Natural cultures in unpasteurized milk can protect against certain pathogens.
+*   **Taste/Quality:** Great cheeses worldwide are often made with unpasteurized milk. Raw milk from good farms can be fantastic.
+*   **Feasibility:** Recreating 19th-century milk is difficult due to modern processing (homogenization, breaking up) and lack of specific cow breeds in mass production, though micro-reproduction is possible.
+*   **Regulation View:** The host finds current laws absurd and suggests warning labels rather than bans, noting consumers would likely seek out labeled raw milk products.
+
+# Sauces and Flavor Building
+*   **Resource:** Book *Sauces* by James Peterson (James Peterson).
+*   **Technique 1 (Coconut Milk Base):**
+    *   Pre-cook onions, shallots, garlic.
+    *   Toast spices (e.g., coriander, cardamum, cumin).
+    *   Add nuts (cashews) and optionally tomato paste.
+    *   Add coconut milk, heat, blend.
+    *   Correct with lime, soy, or other flavorings.
+*   **Technique 2 (Cheese/Herb/Oil Base):**
+    *   Fry onions and garlic.
+    *   Add cheese, herbs, and oil.
+    *   Blend.
+*   **Technique 3 (Pan Sauces):** Deglaze based on pan contents.
+*   **Emulsified Bases:** Hollandaise and Béarnaise are excellent bases for building other flavors.
+*   **Spice Handling:** Fry dry spices and nuts before adding liquids to release aromas/toast base notes. Do not cook green herbs.
+*   **Equipment:** High-quality blender (e.g., Vita Prep) is essential for emulsifying sauces.
+
+# Oil Management and Reuse
+*   **Freshness Paradox:** Fresh oil is not ideal for frying; slight breakdown creates polar components that improve frying performance.
+*   **Oil Enemies:** Oxidation, breakdown, overheating, temperature cycling, dark color, burnt particles, high liquid content, and excessive salt.
+*   **Professional Oil:** Commercial 5-gallon/30-lb fry oil with antioxidants lasts significantly longer than supermarket oil.
+*   **Filtration Process:**
+    1.  Cool oil completely.
+    2.  Filter through a strainer.
+    3.  Filter through napkins or cloth to remove fine particles.
+*   **Storage:** Store in a dark, cool place to prevent oxidation. Avoid temperature cycling.
+*   **Testing Oil Quality (Bread Fry Test):**
+    1.  Heat a small amount of oil.
+    2.  Fry a piece of white bread.
+    3.  Eat the bread.
+    4.  **Result:** White bread is neutral; if it tastes like the oil, the oil is degraded and should be discarded.
+
+# Equipment Recommendations
+*   **Immersion Circulator:** Essential for modern cooks; highly recommended for wedding registries.
+*   **Vita Prep Blender:** Highly recommended for sauce making and emulsification.
+*   **Pots:** Invest in a good set of pots (e.g., all-clad style).
+*   **Knives:** Get a good set of knives.
+*   **Charcoal for Ovens:**
+    *   **Type:** Binchotan (Japanese charcoal) burns cleaner than standard US charcoal or Kingsford briquettes.
+    *   **Safety:** Requires excellent ventilation due to carbon monoxide risk.
+    *   **Setup:** Elevate on a grate, use a heat shield/deflector above the flame, do not overload.
+    *   **Goal:** Add 100–200°F to oven temperature (e.g., reaching 550–600°F).
+    *   **Warning:** Do not use in rental properties without landlord approval; ensure adequate hood ventilation.

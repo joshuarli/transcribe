@@ -1,0 +1,97 @@
+# Cooking Issues: Structured Culinary Notes
+
+## High-Pressure Starch Tablet Formation
+*   **Technique:** Compressing starches (potatoes, tubers, yucca, melanga) into tablets without binders (e.g., egg).
+*   **Moisture Content:** Critical parameter. Requires approximately **10% total moisture** in the starch.
+*   **Pressure:** Compression is severe, typically on the order of **18,000 psi** (psi).
+*   **Equipment:** Metal dies (dye) shaped to desired tablet form. Smaller dies require less physical tonnage.
+*   **Additives:** Lubricants are often added to prevent heat buildup and improve flow during compression.
+*   **Starch Properties:**
+    *   Type of starch matters significantly.
+    *   Milling size (fine granules vs. larger pieces) affects the finished tablet.
+    *   Native starches are often modified (pregelatinized, acid-modified) in commercial settings to alter hardness or break-up properties.
+*   **Reference:** Paper by C.E. Boz (1977) titled "Native Starch in Tablet Formations: Properties on Compaction."
+
+## Mutation Breeding (Irradiation)
+*   **Application:** Used to create new fruit varieties (e.g., Kinno L.S. mandarin) by inducing mutations to reduce seed count.
+*   **Process:** Fruits are exposed to high levels of gamma radiation, X-rays, or other mutagens/teratogens.
+*   **Safety Clarification:**
+    *   Food does not become radioactive.
+    *   Cancer risk from consumption is not supported by evidence.
+    *   Texture destruction is a valid concern; preservation (sterilization) is another application.
+*   **Context:** Similar to NMR (Nuclear Magnetic Resonance) being renamed MRI (Magnetic Resonance Imaging) to avoid public fear of the word "nuclear."
+
+## GMOs (Genetically Modified Organisms)
+*   **Health Status:** No studies found proving GMOs are detrimental to human health.
+*   **Legal/Economic Issues:**
+    *   **Patent Infringement:** Farmers can be sued if patented GMO genetics contaminate their fields (e.g., via pollen drift or seed mixing), even if they save their own seeds.
+    *   **Monoculture Risk:** Widespread adoption of a single resistant variety could lead to total crop failure if a new disease emerges.
+*   **Comparison:** GMOs are a tool similar to traditional breeding; the criticism often targets the tool's misuse (e.g., corporate patents) rather than the technology itself.
+
+## AeroPress Coffee
+*   **Flavor Profile:** Generally perceived as "flat" compared to French press due to the paper filter absorbing coffee oils.
+*   **French Press Comparison:** French press yields a brighter taste with the same beans.
+*   **Mitigation Strategy:**
+    *   **Pre-wetting:** Run the filter through water multiple times to saturate it and reduce oil absorption.
+    *   **Alternative Filter:** Use the **Coava Disc** (metal adapter filter) to retain oils and improve flavor.
+*   **Resources:** CoffeeGeek.com forums.
+
+## Latte Art & Espresso Ratios
+*   **Technique:** Free pour requires micro-foam (no big bubbles) and espresso with good crema.
+*   **Trend:** Shift toward "hyper-ristretto" shots.
+    *   **Old Standard:** ~13–14g coffee for 1.5–1.75 oz shot.
+    *   **New Standard:** ~16g coffee for 1 oz or less.
+*   **Result:** Tiny wisps of coffee at the bottom of the cup; delicious but requires high volume consumption.
+
+## Duck Egg Yolk Sheets
+*   **Goal:** Create firm, drapable sheets of yolk.
+*   **Temperature Parameters:**
+    *   **63.8°C:** Too low for firm sheeting (results in gooey consistency).
+    *   **66°C:** Recommended target.
+    *   **55°C:** Too low (gooey).
+*   **Procedure:**
+    1.  Cook yolks (whole or separated) at ~66°C for **1 hour**.
+    2.  Chill.
+    3.  Smash yolks together.
+    4.  Roll between plastic wrap.
+    5.  Cook out further if necessary.
+*   **Handling:** Freezing briefly helps cut/handle, but sheets soften quickly at room temperature.
+*   **Separation vs. Whole:** Cooking yolks separately does not yield the same texture as cooking whole eggs then removing yolks.
+*   **Texture Modifiers:**
+    *   **Transglutaminase:** Can firm up yolks.
+    *   **Salt:** Do not add before cooking (prevents firming); add after cooking to create an "icing" appearance.
+*   **Duck vs. Chicken:** Duck yolks are slightly fattier and have different proteins (easier to make transparent with lye), but specific texture differences at set temperatures require further testing.
+
+## DIY Smoker Setup
+*   **Hot Smoking (Low Cost):**
+    *   **Equipment:** Modified **Weber** barrel or drum.
+    *   **Heat Source:** Cheap electric hot plate (e.g., from CVS) or scavenged element.
+    *   **Fuel:** Soaked wood chips in aluminum foil on the heating element.
+    *   **Control:** PID controller to adjust draft/vents or use a fan to extract smoke.
+*   **Cold Smoking:**
+    *   **Requirement:** Separate smoke generator from the food cabinet.
+    *   **Setup:** Fireproof box for generator connected via galvanized duct pipe to food cabinet (e.g., refrigerator).
+    *   **Cooling:** Extend pipe length or wrap pipe in ice/water to cool smoke.
+    *   **Heating:** If cooking simultaneously, a separate heating element is needed in the food cabinet.
+*   **Entry Level Equipment:** **Little Chief** smoker (box with bottom heating element). Can be hacked for lower temperatures.
+
+## Binchotan Charcoal
+*   **Characteristics:** Japanese charcoal; low smoke output; long burn time; expensive; aesthetic shape.
+*   **Comparison:** High-quality American hardwood charcoal chunks perform similarly in terms of heat and smoke generation if managed correctly.
+*   **Smokeless Myth:**
+    *   Japanese technique involves embedding skewers in sand next to the charcoal (radiant heat) to prevent fat drips.
+    *   **Flare-ups:** Fat dripping onto charcoal causes combustion (flare-ups), which creates smoke and flavor.
+    *   **Flavor:** Lack of smoke/flare-ups may result in less flavor compared to traditional methods.
+*   **Recommendation:** High-quality American hardwood charcoal in a sand pit setup can replicate the results without the cost.
+
+## Canadian Goose Preparation (Jugged Haie)
+*   **Meat Characteristics:** Breast meat has low connective tissue; long cooking times do not tenderize it significantly.
+*   **Temperature/Time Data Points:**
+    *   **60°C for 45 mins:** Too tough.
+    *   **50°C for 7 hours:** Too tough.
+*   **Proposed Method:**
+    *   Treat like chicken.
+    *   Target temperature: **57°C – 63°C**.
+    *   Duration: **45 minutes**.
+    *   *Note:* 58°C may be too low depending on meat darkness.
+*   **Equipment Recommendation:** Hunters should own a **circulator** (sous vide machine) for cooking game meats.

@@ -1,0 +1,99 @@
+# Dorm Room Cooking Solutions
+*   **Induction Burners:** Recommended despite potential RA restrictions. They do not heat unless a pan is present and pose no open flame hazard.
+    *   *Strategy:* Persuade the RA that induction units are safe.
+*   **Microwave/Toaster Oven Combinations:** Devices that look like microwaves but contain infrared heaters to function as toaster ovens.
+*   **Westinghouse Turkey Oven:** 1950s countertop oven resembling an overgrown crock pot.
+    *   *Source:* Thrift shops or eBay (approx. $2).
+    *   *Function:* Cooks turkey while freeing up the main oven; safe enough to bake bread in a dorm.
+*   **Sous Vide (Immersion Circulator):**
+    *   *Function:* Heats liquid to accurate temperatures for repeatable results in small spaces.
+    *   *Equipment:*
+        *   *Commercial:* PolyScience (available at Williams Sonoma, ~$800).
+        *   *DIY:* Build your own for $50–$200.
+        *   *Components:* Immersion coffee heaters (3–5 units for ~1000W), aquarium pump, temperature controller with thermocouple.
+        *   *Supplier:* Auber Instruments (Auber.com).
+        *   *Time:* 1 hour for experienced builders; 4 hours for beginners.
+        *   *Warning:* DIY units may leak electricity (shock hazard).
+    *   *Packaging:* Ziplock bags (vacuum sealer not required).
+*   **Microwave Searing Plate:**
+    *   *Materials:* Silicon carbide sharpening stones + insulating fire bricks (or Corning ware).
+    *   *Process:* Place stones in microwave, insulate, run until glowing red hot (~10 mins).
+    *   *Capability:* Sear meat, melt metal (metal smelting possible).
+    *   *Safety:* Do not light dorm on fire.
+
+# Sous Vide Pot Roast Parameters
+*   **Sauce Preparation:** Over-reduce sauce *before* bagging. Meat releases juices during cooking, which would otherwise water down the sauce.
+*   **Temperature Range:**
+    *   *Low End:* 57°C (possible but less preferred).
+    *   *Happy Medium:* 60°C – 62°C (retains moisture, slight pinkness, traditional braise texture).
+    *   *High End:* Up to 71°C (loses some low-temp benefits, but retains more moisture than traditional braising).
+    *   *Avoid:* 65°C+ (squeezes out too much water).
+*   **Time Recommendations:**
+    *   *Short Rib:* 60°C for 48–50 hours.
+    *   *General Rule:* 60°C–63°C for approximately 2 days (48 hours).
+    *   *Adjustment for Grass-Fed Beef:* May require slightly longer time (e.g., 2 days at 60°C) to achieve softness compared to conventional beef.
+*   **Flavor Enhancement:** Add roasted scrap meat to the bag for high-temperature flavor notes.
+
+# Career Advice: Food Science & Research
+*   **Profile:** Requires curiosity, ability to absorb information, focus on specific problems, and reading comprehension.
+*   **Pathways:**
+    *   *Writing/Media:* Writing is a strong entry point (e.g., Wiley Dufresne, Editor-in-Chief of Food Network Magazine, attended French Culinary Institute).
+    *   *Consultancy/High-Tech Catering:* Allows focus on research without daily service pressure.
+    *   *Corporate R&D:* Opportunities exist (e.g., Cuisine Solutions) for low-temperature research roles.
+*   **Restaurant Chef:** Discouraged for those lacking organization or desire for daily service grind.
+*   **Skill:** Ability to read and understand technical literature is crucial.
+
+# Ingredient Safety & Testing
+*   **Heritage Chicken (Sulfur/Rotting Smell):**
+    *   *Cause:* Blood in the bag or age.
+    *   *Action:* If the smell is strong/rotten, do not serve to others.
+    *   *Test:* Rinse briefly in water/vinegar; smell again.
+    *   *Rule:* If it makes you nervous, cook and eat it yourself first. Do not serve to friends/family if unsure.
+*   **Bear Meat (Trichinosis):**
+    *   *Risk:* Trichinosis (worms in muscle).
+    *   *Mitigation:* Cooking kills the parasite.
+    *   *Advice:* Eat if safe and cooked properly.
+
+# Sauce Storage & Reheating
+*   **Method:** Vacuum seal sauces in freezer-grade, oxygen-impermeable bags.
+*   **Benefits:** Prevents water loss/free burn; allows direct reheating in hot water bath without scorching.
+*   **Capacity:** Multiple bags can be reheated simultaneously in the same water bath.
+*   **Emulsions:** Freezing is possible if stabilized with stabilizers; requires experimentation to prevent breaking.
+*   **Application:** Excellent for large quantities and flat storage.
+
+# Tomato Selection & Evaluation
+*   **Varieties:**
+    *   *Aunt Ruby's German Green:* Large, green, pinkish-red blush at the bottom when ripe.
+    *   *German Stripe:* Red/yellow stripes.
+    *   *Everlast:* Resembles Aunt Ruby's but is more yellow.
+*   **Ripeness Check:** Inspect the **bottom** of the tomato first (where it detached from the plant). Look for softening and pink blush there before the top.
+*   **Quality Control:**
+    *   Heirloom tomatoes vary wildly by farmer/soil/location; "heirloom" label alone is insufficient.
+    *   Avoid farmers who squeeze/mangle tomatoes to check ripeness.
+    *   Specific farmer recommendation is necessary (e.g., Stokes Farm).
+
+# Hydrocolloids Resources
+*   **Primary Recommendation:** *Hydrocolloids* by Egan Press (Association of American Chemists).
+    *   *Cost:* ~$60.
+    *   *Content:* Tables, charts, flow charts for mixing and selection.
+    *   *Availability:* Kitchen Arts and Letters (NYC).
+    *   *Bundle:* 1-year subscription to all Egan Press books for $99 (includes *Fats*, *Sugars*, *Emulsifiers*).
+*   **Secondary Resource:** *The Handbook of Hydrocolloids*.
+    *   *Cost:* ~$200.
+    *   *Format:* Ingredient-by-ingredient (chemical formulas, properties).
+    *   *Verdict:* Too technical for most cooks; less useful than Egan Press.
+
+# Cocktail Physics: Ice & Dilution
+*   **Fundamental Rule:** "There is no chilling without dilution, and there is no dilution without chilling."
+*   **Ice Size vs. Temperature:**
+    *   *Large Ice:* Less dilution, but temperature rises faster (e.g., from -4°C to ~5°C).
+    *   *Small Ice:* More dilution, maintains lower temperature longer (e.g., -4°C to -0.5°C).
+*   **Shaking vs. Stirring:**
+    *   *Shaking:* Violent action reaches equilibrium quickly (12–15 seconds). Technique differences (straining, pushing gate) matter more than ice size.
+    *   *Stirring:* Slower equilibrium (1–2 minutes). Technique (speed, duration, ice size) significantly affects final dilution and temperature.
+    *   *Equilibrium Test:* Stirring to a specific temperature (e.g., -0.6°C) yields identical dilution regardless of time taken (30s vs. 1min).
+*   **Freezer Ice vs. Counter Ice:**
+    *   *Temperature Drop:* Freezer ice only chills the drink ~0.5°C more than counter ice (0°C).
+    *   *Chilling Speed:* Counter ice (0°C) may chill a drink faster than freezer ice (-20°C) due to energy transfer dynamics (melting is a large energy sink).
+    *   *Duration:* Freezer ice warms to 0°C very quickly (<20 mins) in a drink; does not maintain sub-zero temps long.
+*   **Recommendation:** If shaking and serving on the rocks, use the same ice used for shaking (with surface water removed) to avoid extra dilution from surface water on fresh ice.

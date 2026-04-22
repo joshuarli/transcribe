@@ -1,0 +1,110 @@
+# Techniques & Parameters
+
+### Sous Vide Shrimp/Prawns
+*   **Goal:** Infuse flavor, prevent leaching, avoid mushy texture caused by endogenous enzymes.
+*   **Temperature & Time:**
+    *   **High Temp Method:** Near boiling water (approx. 100°C/212°F). Used by chefs like George Pralus.
+    *   **Low Temp Method:** 65°C (149°F) for 20–12 minutes. Yields a soft texture akin to butter-poached lobster (lower side of done).
+    *   **General Rule:** Keep total time under 12 minutes to prevent enzymes from breaking down the meat into a paste.
+*   **Post-Cook:** Cool down quickly. Flash finish on high heat to develop Maillard reaction/crust on the outside.
+*   **Shell Considerations:** Cooking with shells on does not significantly change cooking times.
+*   **Bag Safety:** Shells and heads often pop vacuum bags. Wrap shells or use protection to prevent air from rushing back into the chamber.
+
+### Apple Chip "Freeze-Drying" via CO2 Puffing (Patent Pending)
+*   **Goal:** Achieve foamy, porous texture similar to freeze-drying without expensive freeze-dryer equipment.
+*   **Process:**
+    1.  **Partial Dehydration:** Reduce fruit water content to ~60% (retain 20–60% water). Achieved via standard dehydration or osmotic dehydration (intense sugar syrup).
+    2.  **Vacuum:** Apply full vacuum to the fruit slices.
+    3.  **Pressurization:** Introduce CO2 and pressurize to >200 psi (minimum 220 psi per patent literature).
+    4.  **Soak:** Hold under pressure for 60 minutes. CO2 penetrates cells.
+    5.  **Vent:** Release pressure over 30 seconds. Rapidly escaping CO2 removes remaining water and puffs the fruit.
+    6.  **Finish:** Further dehydration in a standard dehydrator if needed.
+*   **Safety Warning:** Use pressure vessels rated for the pressure (e.g., Schedule 80 pipe; Schedule 40 is unsafe).
+
+### Alginate Bath Stability (Reverse Spherification)
+*   **Goal:** Prevent alginate bath from reacting prematurely with calcium or degrading.
+*   **Duration:** Can last a long time if stabilized; host typically uses for 2–3 days.
+*   **Stabilization:** Add a sequestrant to bind free calcium.
+    *   **Recommended:** Sodium hexametaphosphate (SHMP). A few hundred grams provides a lifetime supply.
+    *   **Alternative:** Sodium citrate (less effective, also acts as a buffer).
+*   **Application:** Used for "reverse spherification" (dropping calcium into alginate bath) to create liquid-filled spheres that do not solidify immediately.
+
+### Banana Soustino Clarification
+*   **Goal:** Clarify a blend of bananas and spirits (rum or bourbon) without a centrifuge.
+*   **Standard Method:** Blend 5 bananas per liter of spirit; spin at 4,000 G for 15 minutes.
+*   **Agar Method:**
+    *   **Ratio:** 4g agar per 2L of liquid mixture.
+    *   **Hydration:** Hydrate agar in the water portion of the mix (do not add directly to alcohol).
+    *   **Cooking:** Boil and simmer the agar/water mix for a couple of minutes.
+    *   **Combination:** Temper the spirit and banana mixture back into the hot agar gel.
+    *   **Setting:** Allow to set, then break up and pass through cheesecloth.
+    *   **Yield:** Lower than centrifuge method; some loss expected.
+    *   **Note:** Quick agar clarification may be necessary if liquid nitrogen is unavailable for freezing the spirit.
+
+### Ascorbic Acid (Vitamin C) Usage
+*   **Function:** Antioxidant to prevent browning and retain fresh apple flavor/color.
+*   **Dosage:**
+    *   **Juice Application:** ~3g per liter.
+    *   **Dehydration Application:** ~6g per liter.
+    *   **General Kitchen Use:** ~1 tsp per quart (added by eye).
+*   **Flavor Impact:** Minimal compared to citric acid.
+*   **Sourcing:** Buy pure powder/pills. Avoid blends with rose hips or other flavorings.
+*   **Distinction:** Do not confuse with Citric Acid (tastes like lemons, no antioxidant power).
+
+### Lobster Stock Clarification & Flavor
+*   **Problem:** Boiling shells too long causes a "calcium taste" (chewing on shells).
+*   **Pressure Cooker:** **Do not use.** Higher temperatures increase the release of calcium compounds, worsening the off-flavor.
+*   **Clarification:** Gel clarification does not significantly damage flavor.
+*   **Flavor Maximization Technique:**
+    1.  Break shells (roast or unroasted).
+    2.  Circulate butter through shells to extract oil-soluble flavors (create a lobster butter reserve).
+    3.  Make stock with water-soluble extraction.
+    4.  Reduce stock.
+    5.  Emulsify the lobster butter back into the reduction at the end.
+*   **Alternative Order:** Butter poach shells before roasting, then roast, then stock.
+
+### Vacuum Chamber Construction (DIY)
+*   **Compressor Type:** Air conditioner compressors are often rotary pumps (good for low vacuum) or piston pumps (poor for low vacuum).
+*   **Operation:**
+    *   Keep the thermal overload switch on; if it cuts out, the pump is safe.
+    *   Ensure oil does not drain out.
+    *   Monitor for overheating (pump is exposed).
+*   **Safety:**
+    *   Do not cut compressors with a saw (filings damage the pump).
+    *   Do not release Freon into the environment (legal/environmental hazard).
+*   **Jar Usage:** Quart and larger canning jars with glass lids and rubber gaskets withstand full vacuum (14 psi).
+    *   **Technique:** Remove metal hardware. Place lid on jar. Apply vacuum. When air returns, the lid seals tightly against the rubber gasket.
+    *   **Gas Flush:** For crisp items (chips), suck air out, inject neutral gas (Nitrogen/CO2), seal, then let air back in. Prevents crushing.
+
+### Hydrocolloid Blending (Agar Elasticity)
+*   **Problem:** Agar gels are brittle.
+*   **Solution:** Add a gum to modify texture.
+    *   **Locust Bean Gum (LBG):** Most effective softener. 1 lb can soften 200–300 lbs of agar gel.
+    *   **Guar Gum:** Cheaper alternative but tastes terrible unless "flavor-free" (e.g., TIC Gums brand).
+
+### Garlic Cooking Chemistry
+*   **Bitterness:** Burning garlic creates acrid flavors due to sulfur compounds and enzymes (Alliin/Alicin) reacting.
+*   **Pressure Cooking:** Destroys pungent sulfur compounds. Allows for high garlic content (up to 50% of sauce) without strong flavor.
+*   **Roasting:** Mellow flavor; still releases sulfur compounds through pores.
+
+### Country Ham Production (Virginia/Kentucky)
+*   **Feed:** Peanut-fed hogs (historically) vs. Acorn-fed Spanish hogs.
+    *   *Spanish Hogs:* Acorns provide unsaturated fat, creating a specific "aw" (water activity) and flavor profile impossible to replicate otherwise.
+    *   *American Hogs:* Historically peanut-fed; enzyme profile in older/larger hogs differs from younger ones, affecting taste.
+*   **Curing:** American curing is distinct from Prosciutto/Serrano.
+*   **Aging:** Older hogs allow for longer aging (1+ years).
+*   **Smoke:** Traditional Virginia hams often have heavy smoke.
+
+### Countertop Height for Tall Chefs
+*   **Recommendation:** 42-inch counters.
+*   **Benefit:** Eliminates hunching (bad for back/neck).
+*   **Adaptability:** Shorter staff can use adapters; generally preferred by most except very short individuals.
+
+### Equipment & Materials
+*   **Vacuum Pumps:** Rotary pumps preferred over piston pumps for low vacuum applications.
+*   **Canning Jars:** Glass lids with rubber gaskets (old style) preferred over thin metal lids for vacuum sealing.
+*   **Sequestrants:** Sodium hexametaphosphate (SHMP).
+*   **Hydrocolloids:** Agar, Locust Bean Gum, Guar Gum.
+*   **Enzymes:** Pectanex SPL (used for clarification in Soustino).
+*   **Antioxidants:** Ascorbic Acid (Vitamin C).
+*   **Pressure Vessels:** Schedule 80 pipe recommended for high-pressure CO2 puffing.

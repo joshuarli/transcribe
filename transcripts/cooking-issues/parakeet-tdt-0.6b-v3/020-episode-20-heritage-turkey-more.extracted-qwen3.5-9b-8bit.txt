@@ -1,0 +1,126 @@
+# Thanksgiving & Heritage Turkey (Narragansett)
+*   **Bird Selection:** Heritage breed (Narragansett), approx. 15 lbs.
+*   **Preparation:**
+    *   Boned inside out.
+    *   Constructed an aluminum skeleton with leg bones cut to have holes drilled through them (sprinkler system).
+    *   Hooked skeleton to a sous vide circulator.
+    *   Piped hot oil through the leg bones to cook legs from the inside out.
+*   **Cooking Parameters:**
+    *   **Circulator Setting:** 60.75°C (141.35°F) target for final leg temperature.
+    *   **Duration:** Approx. 1 hour 20 minutes in oil bath.
+    *   **Fat Bath:** Transferred whole bird (still pumping) into duck fat.
+    *   **Fat Temp Profile:** Started at 66°C, dropped to 65°C, finished at 64°C.
+    *   **Cooling:** Cooled in fat (confit style).
+*   **Finishing:**
+    *   Oven finish at 500°C (932°F) with convection.
+    *   Used a clay baking sheet (Rumford style) to brown the bottom.
+    *   *Note:* Clay sheet shattered under high heat; drippings smoked heavily.
+*   **Brining:** Light brine only.
+*   **Result:** "Best damn turkey ever made," intense meaty flavor, no gravy needed.
+
+# Hydrocolloid Course (FCI)
+*   **Cost:** $1,500 (plus travel/hotel).
+*   **Duration:** 2 days.
+*   **Instructors:** Dave Arnold, Nils Noran.
+*   **Philosophy:**
+    *   Focus on principles and "how to think" rather than strict recipes.
+    *   Goal: Enable students to develop new recipes independently using ingredients like sodium alginate and calcium carbonate.
+    *   Rigorous approach to techniques (e.g., spherification) compared to general availability.
+*   **Technical Content Covered:**
+    *   **Sodium Alginate:** Seaweed-derived gelling agent.
+        *   Forms gel upon contact with free calcium.
+        *   Gel is heat-stable and permanent.
+        *   Poor flavor profile (tastes "wretched").
+        *   **Acidity Issue:** High acidity prevents setting.
+        *   **Solutions for Acidity:** Use sequestrants (e.g., sodium hexametaphosphate) to bind freed calcium, or buffering agents (e.g., sodium citrate).
+    *   **Flavor Development:** Alginate gels absorb flavor; never eat the gel itself.
+
+# Spherification & Texture Modification
+*   **Caller Question:** How to make alginate spheres (oyster soup) more pearlescent/shimmery and less "solidified snot" texture.
+*   **Method 1: Visual Only (Not Recommended)**
+    *   Add food-grade pearlescent powder or metal dust (e.g., silver leaf/powder) to the bath.
+    *   Reference: Kike de Costa's technique (adding silver dust).
+    *   *Tradeoff:* Improves look but adds no flavor benefit; potential flavor impact concerns.
+*   **Method 2: Texture & Visual Improvement (Recommended)**
+    *   **Technique:** Emulsify oil into the alginate base *before* dropping.
+    *   **Mechanism:** Oil breaks up the solid gel structure, making it softer and easier to chew.
+    *   **Visual Result:** Creates a "salad dressingy" shimmery look.
+    *   **Critical Constraint:** Alginate must be the continuous phase (emulsify oil *into* alginate, not vice versa) to maintain integrity.
+
+# Pectinex & Juice Reduction
+*   **Application:** Clarified fruit juices (Apple, Strawberry, Blood Orange) reduced to syrups or used in candy bases.
+*   **Process:**
+    *   Clarify juice using Pectinex.
+    *   Reduce in rotary evaporator (preferred to preserve flavor) or stovetop.
+    *   **Example:** Reduced clarified strawberry juice to ~33% solids, stirred into cooled candy base.
+*   **Heat Stability:** Pectinex is stable enough for reduction; some flavor cooking is acceptable.
+*   **Sweet Potato Caramelization Idea:**
+    *   **Goal:** Extract sugars from sweet potato starch to make caramel.
+    *   **Proposed Method:**
+        1.  Juice sweet potato immediately (to free enzymes).
+        2.  Add brewer's alpha/beta amylase to convert starch to sugar (like brewing wort).
+        3.  Clarify the liquid.
+        4.  **Crucial Step:** Spin out/clarify starch *before* gelatinization occurs.
+        5.  Cook down the clarified sugar liquid.
+    *   **Alternative:** Treat pulp with Pectinex and re-juice.
+    *   **Yield:** Juicing yields more liquid than chipping/canning.
+
+# Whipped Cream Makers (EC/ISI)
+*   **Recommendation:** Do not buy the "Seltzer" model; buy a "Cream" model.
+*   **Models:** Profi Whip, Gourmet Whip, etc.
+*   **Feature:** Newer models have silicone grip rings (older ones do not).
+*   **Thermal Whip:**
+    *   Insulated, smaller capacity (0.5L vs 0.75L standard).
+    *   **Use Case:** Maintaining hot/cold products for service without fridge/bain-marie access.
+    *   **Tradeoff:** Higher cost per unit, lower capacity, but cheaper per recipe run due to smaller volume.
+*   **Scaling:** Recipes typically written for 0.5L; can scale up to 1L containers.
+*   **Infusion Capability:**
+    *   **Pineapple + Alcohol:** Works to infuse both liquid and fruit.
+    *   **Comparison:** Less effective than vacuum infusion but close.
+    *   **Caveat:** Must use Nitrous Oxide (N2O) chargers.
+        *   Avoid CO2 chargers (causes carbonation in fruit).
+        *   N2O prevents boiling off of alcohol during the process.
+        *   Pineapple aroma is fleeting; do not store infused fruit long-term.
+
+# Sous Vide Equipment
+*   **Sous Vide Supreme:**
+    *   **Type:** Non-stirred water bath cooker.
+    *   **Accuracy:** Limited accuracy due to lack of circulation; relies on long periods to equalize.
+    *   **Recommendation:** Not as accurate or even as an immersion circulator.
+    *   **Price:** ~$200 less than a circulator.
+    *   **Verdict:** Save the money for a high-quality immersion circulator.
+    *   **DIY Alternative:** Preferred over buying the Supreme; can build a home circulator.
+    *   **Hack:** Add an aquarium pump to a Sous Vide Supreme to circulate water and fix accuracy issues (~$25 solution).
+*   **Immersion Circulators:**
+    *   Accuracy: +/- 0.2°C across the bath.
+    *   Versatility: Various sizes, space-efficient.
+
+# Carbonation (Savory & Sweet)
+*   **Equipment:** Twist & Sparkle (EC unit).
+*   **Savory Applications (Sauces/Broths):**
+    *   **Feasibility:** Possible but difficult.
+    *   **Constraints:**
+        *   Must be served cold (heating loses carbonation).
+        *   Must taste good carbonated (CO2 can make savory dishes taste fermented).
+        *   **Foaming Risk:**
+            *   No milk products (foams over).
+            *   No particles/solids (foams and sprays everywhere).
+            *   Liquid must be clear.
+    *   **Test:** Try a small batch (50ml) first.
+
+# Dr. Pepper Infusion
+*   **Caller Goal:** Infuse Dr. Pepper flavor into neutral grain spirit (distilled).
+*   **Dave's Advice:**
+    *   **Direct Infusion:** Buy Dr. Pepper syrup (high sugar concentration). Mix with liquor, dilute to drinking strength, carbonate. Fastest method.
+    *   **Distillation/Clarification:**
+        *   Clarifying syrup won't remove sugars/bittering agents effectively.
+        *   Redistilling yields only aroma, not the full flavor profile.
+        *   **Complex Approach:** Reverse engineer flavor profile (prunes, spices, acids).
+        *   Use white prunes (e.g., Brignol) for dried fruit flavor without purple color.
+        *   Add plum essence.
+        *   Result: Clear liquid mimicking the flavor balance.
+*   **Soda Consumption Note:** Diet soda drinkers use it as a hydration technique (multiple small sips) rather than for sugar.
+
+# Miscellaneous
+*   **Smoke Detectors:** Standard plastic "defeaters" are annoying; ideally, detectors should have a switch to disable temporarily (like virus protection).
+*   **Simpsons Episode:** "Pig is flying" (vegetarian Homer) or "Krusty Goes to Jail" (censorship/Itchy & Scratchy).

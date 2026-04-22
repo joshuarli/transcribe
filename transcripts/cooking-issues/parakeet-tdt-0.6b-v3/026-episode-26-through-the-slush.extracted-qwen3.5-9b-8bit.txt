@@ -1,0 +1,116 @@
+# Gelatin Science and Application
+
+**Bloom Strength Standards**
+*   **Definition:** A measure of gel strength determined by pushing a 0.5-inch diameter plunger 4mm into a gel surface.
+*   **Test Parameters:**
+    *   Solution concentration: 6.67% gelatin.
+    *   Temperature: 10°C.
+    *   Curing time: 17 to 18 hours.
+    *   Measurement: Weight in grams required to depress the plunger.
+*   **Grade Strengths:**
+    *   **Bronze:** 125–155 bloom (fairly soft).
+    *   **Silver:** ~61 bloom.
+    *   **Gold:** 91–220 bloom (most common usage).
+    *   **Platinum:** 65–125 bloom (highest strength).
+*   **Functional Note:** Bloom strength measures gel concentration strength, not performance in specific applications (e.g., clarification vs. marshmallows). Gelatin acts as a whipping agent and emulsifier due to its protein makeup.
+
+**Production and Extraction**
+*   **Source Material:** Collagen from connective tissue (skin, bones).
+*   **Processing:**
+    *   Bones are washed in acid to leach calcium, creating a spongy mass.
+    *   Raw material is treated with acid or base to break protein cross-links.
+    *   Extraction via hot water yields multiple gels; the first water extract is highest strength/quality, with quality decreasing down the line.
+*   **Form Differences:**
+    *   **Sheet Gelatin:** Dehydrated solution spread, dried, cut, and boxed.
+    *   **Powder Gelatin:** Extruded into noodles, dried, and pulverized.
+    *   **Equivalence:** No inherent difference in quality between powder and sheet forms.
+
+**Fish vs. Animal Gelatin**
+*   **Animal (Pig/Cow):** High strength; standard for most applications.
+*   **Fish:**
+    *   **Cold Water Fish:** Produces very poor gelatin (barely gels) due to amino acid makeup of connective tissue.
+    *   **Warm Water Fish:** Produces acceptable gel strength but melts at lower temperatures, making it difficult to work with.
+    *   **Recommendation:** Avoid fish gelatin for reliable results.
+
+# 3D Food Printing
+
+**Technology Overview**
+*   **Mechanism:** Syringe-based extruder controlled via computer for X, Y, Z axis movement.
+*   **Control:** Regulates speed of paste extrusion; supports multiple syringes for different materials.
+*   **Material Requirements:** Must be a "pasty goop."
+    *   *Current Capabilities:* Gel paste, meat paste.
+    *   *New Capabilities:* Pasta dough, masa dough.
+
+**Applications and Limitations**
+*   **Ideal Uses:**
+    *   Decorative icing (e.g., 3D character faces on cupcakes).
+    *   Non-food items (epoxy, silicone rubber).
+    *   Novel textures (e.g., spongy mats from masa).
+*   **Limitations:**
+    *   Inherently a prototype application; inefficient for mass production.
+    *   **Better Alternative:** Create silicone molds for repeated shapes (e.g., 20–30 space shuttles) and use an offset spatula rather than printing individually.
+*   **Future Goal:** Develop a "killer app" producing a new, delicious food impossible to make otherwise.
+
+# Raw Food Challenge and Techniques
+
+**Sprouting and Fermentation**
+*   **Purpose:** Enzymes break down starches during sprouting, making grains more digestible for raw consumption.
+*   **Tested Ingredients:**
+    *   Mung beans (tasted like poison/pesticide).
+    *   Oat groats.
+    *   Adzuki beans.
+    *   Lentils (black-eyed peas excluded due to toxicity).
+    *   Wheat berries (tasted okay).
+    *   Rye berries (attempted but not completed).
+*   **Rejuvelac:** Fermented wheat berry water used as a kick for other dishes.
+*   **Nut Mousse/Cheese:**
+    *   **Method:** Soak raw nuts (macadamias, pistachios, sunflower seeds, almonds) to remove anti-nutrients.
+    *   **Processing:** Run through a juicer to extract oil and create a paste.
+    *   **Result:** Good texture; oil separated allowing for ball formation.
+    *   **Critique:** Expensive, labor-intensive, lacks the specific texture/taste of dairy cheese.
+
+**Enzymatic and Low-Temp Techniques (Simulating Raw/Vegan)**
+*   **Partial Dehydration:** Marinate vegetables (e.g., mushrooms) and partially dehydrate to simulate roasted flavor and texture.
+*   **Rotovap Usage:**
+    *   Low-temperature distillation of sweet booze (never heated).
+    *   Low-temperature fruit reductions.
+*   **Clarification:** Use pectinase enzymes to break down pectin for clarification without heat.
+*   **Thickening/Suspension:**
+    *   Goal: Strengthen nut pastes and suspensions without heat.
+    *   **Enzyme:** Transglutaminase (microbial-based, no maltodextrin, no casein/gelatin).
+    *   **Status:** Tested; successful for vegan applications.
+
+# Equipment and Procurement
+
+**Centrifuge**
+*   **Function:** Clarifying liquids (e.g., lime juice) using agar; churning butter.
+*   **Procurement Strategy:** Buying broken units on eBay to save money.
+*   **Cost Analysis:**
+    *   Working new units: $1,200–$1,500 (basic) to $7,000–$10,000 (high-end).
+    *   eBay Purchase: ~$300–$350 total (including shipping).
+*   **Repair Process:**
+    *   Diagnosis: Motor spins freely, tachometer works, power up successful.
+    *   Failure Point: Carbon brushes (transfer electricity from winding to motor).
+    *   Fix: Replace brushes ($16 for two sets).
+*   **Tradeoffs:** Buying broken units requires technical skill to repair (checking wires, replacing brushes) but offers significant cost savings.
+
+**Dehydrator**
+*   **Model:** Excalibur.
+*   **Usage:** Essential for raw food preparation (sprouts, partial dehydration).
+*   **Setup Issue:** Stored in a high, inaccessible location (top of printer) due to lack of space; operated via iPhone camera to read the dial.
+
+# Personal Anecdotes and Demonstrations
+
+**Martha Stewart Appearance**
+*   **Context:** Dave Arnold appeared on the Martha Stewart show to demonstrate cocktails.
+*   **Demonstration:**
+    *   Pulverized grapefruit and blood orange vesicles (seeds) using liquid nitrogen.
+    *   Clarified lime juice using a centrifuge and agar.
+*   **Outcome:** Failed to complete the full cocktail demonstration due to an interruption by Martha Stewart asking a personal question ("How did you meet your wife?").
+*   **Post-Show:** Martha Stewart requested a centrifuge for her home.
+*   **Resolution:** Dave provided a refurbished eBay unit for ~$300, repaired by replacing carbon brushes. Martha agreed to the bargain price despite the unit's history.
+
+**Raw Food Taste Test**
+*   **Dave's Opinion:** Most sprouts (mung, alfalfa, pea shoots) taste like poison/pesticide due to inherent starchy sweetness.
+*   **Exception:** Wheat sprouts were acceptable; Rejuvelac was good.
+*   **Peer Validation:** A chef confirmed the sprouts were edible, validating Dave's dislike as a personal preference rather than objective quality.

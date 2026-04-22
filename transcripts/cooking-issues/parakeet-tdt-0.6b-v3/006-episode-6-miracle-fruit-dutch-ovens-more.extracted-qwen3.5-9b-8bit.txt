@@ -1,0 +1,102 @@
+# Culinary Techniques & Parameters
+
+### Flavor Inversion (Miracle Fruit)
+*   **Active Principle:** Miraculin (protein).
+*   **Mechanism:** Binds to sweet receptors; causes acidic/sour substances to activate sweet sensors. Acidity remains chemically present.
+*   **Application:**
+    *   Coat entire tongue; do not swallow immediately.
+    *   **Duration:** 15 minutes to 30 minutes.
+    *   **Recommended Acids:** Lemons (rapid fire consumption), vinegar, hot peppers (jalapeños), radishes, cheap tequila.
+    *   **Warning:** Effect does not remove acid; continued consumption damages enamel, lips, and stomach.
+*   **Counter-Technique:** Gymemic acid (sugar destroyer).
+    *   **Effect:** Erases sense of sweetness; sugar tastes preposterously acidic.
+    *   **Flavor Profile:** Described as tasting like "licking the bottom of a rabbit's cage."
+    *   **Availability:** Harold McGee Lecture series at the French Culinary Institute (October/November).
+
+### Pasta Cooking
+*   **Standard Method:**
+    *   **Water Temp:** Boiling. (Salt does not significantly raise temp).
+    *   **Salt:** Added primarily for flavor, as pasta has low internal salt content.
+    *   **Timing:** Pull pasta slightly early to allow sauce integration during final cooking.
+    *   **Equipment/Shape:** Bronze-dyed pasta holds sauce better than machine-dyed.
+*   **Advanced Technique (Risotto-Style):**
+    *   **Source:** Chef Cesare Casella.
+    *   **Process:** Fry pasta slightly in oil/water mixture (like risotto sauté). Add liquid slowly to absorb starches.
+    *   **Result:** Creamy texture without losing starch to cooking water.
+*   **Pre-Soaking Dry Pasta:**
+    *   **Goal:** Reduce cooking time/energy.
+    *   **Risk:** Over-soaking leads to sogginess and loss of *al dente* texture.
+    *   **Guideline:** Soak time varies by thickness; thinner pasta gets soggy faster.
+    *   **Flavor Transfer:** Boiling soaked pasta in large water quantities leaches flavor.
+    *   **Alternative:** Infuse soaking water with flavor (e.g., mozzarella water) or use risotto-style cooking to retain starch.
+
+### Meat Tenderization & Safety (Low Temp Cooking)
+*   **Target:** Turkey and Beef (for populations requiring high tenderness and safety).
+*   **Technique:** Low-temperature cooking (Sous Vide or Combi/CVAP oven).
+*   **Parameters:**
+    *   **Temperature:** 60°C to 65°C (140°F - 149°F).
+    *   **Safety:** 65°C is sufficient for safety if held long enough; lower temps possible with extended time (refer to temperature-time charts).
+    *   **Result:** Extremely juicy, safe, and tender meat without overcooking.
+*   **Equipment:**
+    *   **Sous Vide Circulator:** Safest method; prevents recontamination.
+    *   **Combi Oven:** Accurate temperature control.
+    *   **CVAP Oven:** Holding oven with bain-marie (water bath); maintains 100% humidity. Ideal for KFC-style holding or low-temp roasting.
+
+### Mineral Water Formulation
+*   **Constituents Tested:**
+    *   **Calcium Chloride:** Bitter taste; "tastes like death" in high concentrations.
+    *   **Magnesium Chloride (Bittern/Nigari):** Sweet, milky taste.
+    *   **Sodium Chloride:** Salty.
+    *   **Magnesium Sulfate (Epsom Salts):** Sweet, refreshing; purgative effect in large quantities.
+    *   **Calcium Sulfate (Gypsum):** Less chalky than carbonate; purgative in large quantities.
+    *   **Calcium Carbonate:** Chalky taste unless dissolved; modifies bubbles to look less effervescent but smoother.
+    *   **Sodium Bicarbonate (Baking Soda):** Pleasant in small amounts.
+    *   **Potassium Bicarbonate:** Tasted separately; potential for further experimentation.
+*   **Solubility Fix:** Added phosphoric acid to dissolve calcium carbonate and prevent chalky texture.
+*   **Carbonation:** Hypercarbonated water (nitrous CO2) noted as delicious; flat water described as an "abomination."
+
+### Nut/Fruit Juice Clarification
+*   **Equipment:** 3L Benchtop Centrifuge (Swinging buckets, ~4000 Gs).
+*   **Application:**
+    *   Making fresh nut oils (cured olives).
+    *   Clarifying fruit juices (strawberry, peach, apricot, plum) after enzymatic blending.
+*   **Acquisition:** Found on eBay (Thermo Scientific model) for ~$100 (originally ~$2000).
+*   **Maintenance/Cleaning:**
+    *   **Sterilization:** Soak buckets in chlorine; pressure cook buckets for 20 minutes (ensure buckets are fully submerged to avoid air bubble traps).
+    *   **Troubleshooting:** If unit does not power on at all, it is likely a blown fuse (easy fix). If it powers on but fails mid-spin, troubleshooting is difficult.
+    *   **Safety:** Imbalance sensor must be connected; unbalanced spinning causes catastrophic failure.
+
+# Equipment Discussed
+
+| Equipment | Model/Type | Notes/Tradeoffs |
+| :--- | :--- | :--- |
+| **Dutch Oven** | Le Creuset, Staub | Both enameled inside. Plastic knobs on Le Creuset chip but are unscrewable/replaceable. Enameled cast iron risks popping if overheated on open flame. |
+| **Centrifuge** | Thermo Scientific 3L Benchtop | "Sweet spot" for chefs. ~$2000 new, found on eBay for ~$100. Requires rigorous cleaning (chlorine soak + pressure cooking) if sourced from non-food environments (e.g., blood lab). |
+| **Ovens** | Combi Oven, CVAP Oven | CVAP invented for KFC; holds accurate temp with 100% humidity. Better than regular ovens for low-temp roasting to prevent evaporative cooling. |
+| **Cookware** | Cast Iron (Standard) | Non-enameled. Different heat properties than enameled; requires care regarding heat management. |
+
+# Ingredients & Functional Roles
+
+*   **Miraculin:** Protein that binds sweet receptors, altering perception of acidity to sweetness.
+*   **Gymemic Acid:** Erases sweet taste perception, making sugars taste intensely acidic.
+*   **Transglutaminase (Meat Glue):** Enzyme (soil-derived) binding proteins.
+    *   **Usage:** Sprinkle powder on meats; binds cuts together in ~4 hours.
+    *   **Safety:** Destroyed by cooking; natural; part of human blood clotting/skin creation.
+    *   **Sourcing:** Sold by the kilo (approx. $50-$80). Requires freezer storage (moisture ruins enzyme).
+*   **Mineral Salts:**
+    *   *Calcium Chloride:* Bitterness.
+    *   *Magnesium Chloride:* Sweet/Milky.
+    *   *Magnesium Sulfate:* Sweet/Refreshing/Purgative.
+    *   *Calcium Carbonate:* Chalky (unless acidified).
+    *   *Phosphoric Acid:* Solubilizes calcium carbonate.
+*   **Pasta:** Bronze-dyed varieties hold sauce better than machine-dyed.
+
+# Strong Opinions & Recommendations
+
+*   **Miracle Fruit:** Highly recommended for controlled experiments; suggests rapid-fire consumption of limes to test limits (acknowledging danger).
+*   **Dutch Ovens:** Dismisses Food Network endorsement of Le Creuset as a quality indicator (likely free product placement); recommends checking the Cooking Issues website for cast iron myths.
+*   **Pasta:** Recommends bronze-dyed pasta for sauce adherence.
+*   **Meat Safety:** Asserts Sous Vide is the "safest" cooking technique if done properly. Strongly recommends CVAP ovens for low-temp roasting of turkey/beef to ensure safety and juiciness.
+*   **Ice Physics:** Debunks the myth that large ice cubes keep drinks colder with less dilution. States: "There is no chilling other than through dilution." Large ice is less efficient at chilling due to lower surface area-to-volume ratio but melts slower.
+*   **Centrifuges:** Encourages buying used/refurbished lab equipment on eBay if it doesn't power on (likely a blown fuse). Emphasizes the importance of cleaning non-food grade equipment thoroughly before culinary use.
+*   **Mineral Water:** Expresses strong dislike for flat water ("abomination"). Notes that knowing ingredients (e.g., sodium bicarbonate) can negatively influence taste perception.

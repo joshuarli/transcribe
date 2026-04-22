@@ -1,0 +1,160 @@
+# Techniques & Parameters
+
+*   **Nitrous Oxide Infusion (Whipped Cream Charger Method)**
+    *   **Equipment:** Whipped cream maker (canister), nitrous oxide (N2O) chargers.
+    *   **Process:**
+        1.  Place porous flavoring (herbs like cilantro/Thai basil, ginger, cocoa nibs) and liquid (liquor) into the canister.
+        2.  Charge with N2O.
+        3.  Swirl for approximately **1 minute**.
+        4.  Release pressure to force liquid into the porous food; release pressure again to boil the liquid back out, creating a quick infusion.
+    *   **Application:** Works for liquids and solids (e.g., mozzarella).
+    *   **Safety Note:** N2O is laughing gas; misuse for intoxication is common among non-cooks.
+
+*   **Microwave Dehydration**
+    *   **Application:** Making crisp bread crumbs/croutons or dehydrated potato chips.
+    *   **Process:**
+        *   **Bread:** Slowly microwave thin slices. Water heats and boils off, drying the bread evenly.
+        *   **Potato Chips:** Microwave slices in **30-second intervals**, checking frequently to prevent browning before crispness is achieved.
+    *   **Mechanism:** Microwaves focus on water; once water is gone, the area heats rapidly.
+    *   **Risk:** Brown/burnt areas absorb microwaves ferociously, leading to rapid scorching. Requires constant monitoring.
+    *   **Comparison:** Superior to oven drying for small quantities; superior to baking for crispness.
+
+*   **Fat Washing (Bacon Infusion)**
+    *   **Equipment:** Freezer.
+    *   **Ingredients:** Smoky bacon fat (e.g., from Alan Benton's Tennessee bacon), liquor (vodka, whiskey).
+    *   **Process:**
+        1.  Mix bacon fat with liquor.
+        2.  Chill until fat solidifies.
+        3.  Remove solidified fat from the top.
+    *   **Result:** Bacon-infused liquor.
+    *   **Distillation Note:** Distilling meat flavors often leads to rancidity; infusion is preferred for stability.
+
+*   **Blanching**
+    *   **Application:** Preventing enzymatic browning in mint or basil.
+    *   **Process:** Briefly boil herbs to kill enzymes.
+    *   **Trade-off:** Changes the fresh flavor profile.
+
+*   **Supercooling**
+    *   **Application:** Creating instant ice slush from soda or water.
+    *   **Process:**
+        1.  Chill liquid well below 0°C in extremely clean glassware (no nucleation sites).
+        2.  Agitate or introduce nucleation sites (bubbles) to trigger rapid freezing.
+    *   **Soda Specifics:** Uncapping releases CO2, reducing freezing point depression and providing nucleation sites, causing instant freezing.
+    *   **Limitation:** Cannot freeze a solid block of water; typically freezes ~1/4 to 1/3 of the volume into slush.
+
+*   **Vacuum Evaporative Cooling (Nitrogen Snow)**
+    *   **Equipment:** Liquid nitrogen, vacuum machine.
+    *   **Process:**
+        1.  Place liquid nitrogen in a container.
+        2.  Apply vacuum for several minutes.
+        3.  Evaporation cools the remaining liquid nitrogen further, forming solid nitrogen snow on the surface.
+        4.  Releasing the vacuum removes the ice.
+
+*   **Knife Cutting for Herbs**
+    *   **Technique:** Roll leaves and slice with an **extremely sharp, thin knife**.
+    *   **Reasoning:** Minimizes cell rupture to reduce enzymatic browning. Soft cutting with a dull knife causes more damage.
+
+# Equipment
+
+*   **Whipped Cream Maker:** Used for N2O infusion.
+*   **Silicon Carbide Cutting Stone:**
+    *   **Use:** Searing plate in a microwave.
+    *   **Performance:** Tested and works fantastically for super-high heat searing.
+*   **Microwave:**
+    *   **Recommendation:** Essential for college students lacking ovens.
+    *   **Usage:** Dehydrating bread, making croutons, making potato chips.
+*   **Vacuum Machine:** Used for creating nitrogen snow and potentially vacuum infusing ascorbic acid (theoretical).
+*   **Liquid Nitrogen:** Used for supercooling demos and creating nitrogen snow.
+*   **Tandoor:** Specialized high-heat oven (vase-shaped) required for authentic naan and tandoori chicken. Difficult to replicate at home.
+*   **Centrifuge & Liquid Nitrogen:** Required for high-tech low-calorie desserts (e.g., peach puree mimicking pumpkin pie).
+
+# Ingredients & Functional Roles
+
+*   **Nitrous Oxide (N2O):** Propellant for infusion; forces liquid into porous solids.
+*   **Bacon Fat:** Flavor carrier for fat washing; provides smoky notes.
+*   **Potatoes:**
+    *   **Raw/Starch:** Base for ice cream (creates stretchy/chewy texture via starch interaction with freezing/dehydration).
+    *   **Dehydrated:** Can become chewy (like raw hide) or crisp (chips) depending on moisture removal level.
+*   **Sugar:**
+    *   **Function:** Structural component in meringues (whipping capability), not just sweetener.
+    *   **Caloric Density:** High on volume basis, but low on weight basis compared to fats.
+*   **Honey:**
+    *   **Property:** Hygroscopic (pulls water in).
+    *   **Limitation:** Unsuitable for chocolate confections (causes weeping) or 100% honey confections (sucks moisture from air).
+*   **Ascorbic Acid (Vitamin C):** Antioxidant to prevent browning; limited effectiveness in basil/mint unless vacuum-infused.
+*   **Xanthan Gum, Carrageenan, Guar Gum:** Bulking agents used in low-calorie/diabetic foods to mimic sugar structure.
+*   **Artificial Sweeteners:** High-intensity, zero-calorie sweeteners used with bulking agents for zero-calorie desserts.
+*   **Light Sweetener:** A specific sugar substitute that whips like sugar but has no sweetness or calories (used for savory marshmallows).
+*   **Ghee:** Melted butter; standard base for Indian cooking.
+*   **Basmati Rice:** Preferred rice for Indian dishes.
+*   **Cashew Nuts:** Used in Navratan curry for texture and flavor.
+*   **Coconut Milk:** Base for Navratan curry; allows vegan adaptation.
+*   **Pineapple:** Ingredient in Navratan curry blend.
+*   **Tomato Paste:** Base for Navratan curry sauce.
+
+# Personal Anecdotes & Demonstrations
+
+*   **Stretchy Potato Ice Cream:** Dave and Nastasha make ice cream by blending steamed potatoes into the base. Freezing causes ice crystals to form and withdraw water from the starch complex, resulting in a chewy, stretchy texture. Dave theorizes this is a dehydration phenomenon similar to microwave drying.
+*   **Microwaved Bread Scorching:** Dave recalls a taqueria where they reheated bread in the microwave, creating hard interior pockets. He notes that burnt bread areas absorb microwaves rapidly, causing them to grow and scorch the rest of the bread.
+*   **Microwaved Potato Chips:** Dave mentions a vegan blog (possibly "Jugalando") that details making dehydrated potato chips in a microwave. He states he prefers fried chips (30%+ oil) over baked ones, calling baked chips an "abomination."
+*   **Bacon Martini Experiment:** Dave tried a bacon martini (bacon vodka + tomato juice) without salt. He found it "flat" and "flabby" on the palate. He recommends adding salt and a hint of sugar to brighten the flavor.
+*   **Beef and Tomato Distillate:** Dave made a beef and tomato distillate once. He found it not delicious as a standalone drink but excellent as a small shot next to grilled tuna sinew.
+*   **Mint Cutting:** Dave explains that cutting mint with a dull knife mashes cells, causing rapid browning. A sharp knife ruptures fewer cells.
+*   **Mpemba Effect Origin:** Observed by a schoolboy in Africa in the 1960s; he was laughed out of school for claiming hot water freezes faster than cold water.
+*   **Supercooled Soda:** Dave demonstrates freezing soda by taking it out of the freezer just before it freezes, uncapping it, and watching it instantly turn to ice due to CO2 release and nucleation.
+*   **Nitrogen Snow Demo:** Dave performed a demo where vacuuming liquid nitrogen created solid nitrogen snow on the surface.
+
+# Caller Q&A
+
+**Caller: Ryan Santos**
+*   **Question:** Does the nitrous oxide infusion technique work with solids?
+*   **Answer:** Yes. While Ryan hasn't tried it, Alex and Aki at *Ideas in Food* used it with mozzarella. Many others are using it to infuse solids with flavor.
+
+**Caller: Sam Lichtenstein**
+*   **Question:** Do you agree with Chris Onstad's statement that if hash browns are chewy, you should just give the person a raw potato?
+*   **Answer:** Dave agrees hash browns should not be chewy, but notes potatoes can be chewy and good (e.g., stretchy potato ice cream). He theorizes chewy hash browns result from microwaving, which dehydrates the potato quickly along a large surface area. He suggests that if one wants chewy potatoes, a microwave or dehydrator used to partially dehydrate (not crisp) them is the method.
+
+**Caller: Don (Marietta, Georgia)**
+*   **Question:** Ideas for using bacon-infused vodka?
+*   **Answer:** Dave suggests making your own via fat washing using smoky bacon fat. He notes distilling meat flavors often leads to rancidity. He recommends adding salt and a pinch of sugar to bacon cocktails (like a martini) to cut the "flat" flavor of the fat.
+
+**Caller: Julio (Priscilla Morgan's friend)**
+*   **Question:** What desserts can I have on a diet that excludes sugar?
+*   **Answer:** Dave advises focusing on volume and air rather than just sugar/calories.
+    *   **Whipped Cream:** Primarily air; luxurious feel with low calories.
+    *   **Meringues:** Fat-free; sugar acts as a structural component. On a volume basis, they aren't as calorie-dense as they appear.
+    *   **Strategy:** Use bulking agents (no calories) and high-intensity sweeteners (no calories). Mentioned "Light Sweetener" as a sugar substitute that whips like sugar.
+    *   **Honey:** Not recommended as a primary sweetener for confections due to hygroscopic properties (pulls water in).
+    *   **Philosophy:** Focus on quality and taste rather than strict nutritional counting.
+
+**Caller: Anonymous (Indian Food Enthusiast)**
+*   **Question:** Advice on starting to cook Indian food at home?
+*   **Answer:**
+    *   **Avoid:** Dishes requiring a tandoor (naan, tandoori chicken) initially.
+    *   **Read:** Authoritative Indian cookbooks to understand the "flow" (e.g., sautéing onions/ghee, then spices, then adding liquids).
+    *   **Recipe:** Try **Navratan Curry**: Sauté onions, spices (coriander, cumin, ginger, hot pepper), and cashew nuts. Add tomato paste, coconut milk, and pineapple. Blend and toss with steamed vegetables. Can be made vegan with olive oil.
+    *   **Sourcing:** Use specific rices (Basmati) and make your own spice mixtures (garam masala) for freshness and customization.
+    *   **Mindset:** Understand the regional variations and the cooking process rather than just following a recipe.
+
+**Caller: Jesse**
+*   **Question:** How to slice mint without it turning black?
+*   **Answer:**
+    *   **Primary Cause:** Cell rupture releasing enzymes.
+    *   **Solution 1:** Use an **extremely sharp, thin knife** and roll the leaves before slicing.
+    *   **Solution 2:** Blanch briefly in boiling water to kill enzymes (trade-off: flavor change).
+    *   **Solution 3:** Cut under alcohol (useful for beverages).
+    *   **Chemical:** Ascorbic acid has limited effect unless vacuum-infused.
+
+# Strong Opinions & Recommendations
+
+*   **Hash Browns:** Should never be chewy. If they are, the cooking method is fundamentally wrong.
+*   **Microwave Croutons:** A superior technique to oven drying for small quantities, provided the user monitors closely to prevent scorching.
+*   **Baked Potato Chips:** An "abomination." Fried chips (30%+ oil) are superior.
+*   **Dieting:** Don't worry too much about sugar calories; fat and bulk are often the real issues. Focus on eating smaller quantities of truly delicious food rather than large quantities of bland food.
+*   **Meringues:** Sugar is a structural component, not just a sweetener. Volume-based eating makes meringues seem higher calorie than they are.
+*   **Indian Cooking:** The recipe is less important than understanding the "mentality" and flow of the cooking process. Make your own spice blends.
+*   **Knife Skills:** A dull knife mashes herbs; a sharp knife slices cleanly.
+*   **Whole Foods Market:** Congratulated on their 80th birthday (Dave jokes about the math).
+*   **Harold McGee's *The Curious Cook*:** Highly recommended as a companion to *On Food and Cooking* for learning how to think about cooking variables. Unfortunately out of print.
+*   **Supercooling:** Likely just a gimmick, though cool to watch.
+*   **Nitrogen Snow:** Cool visual, but ultimately a "pain in kitchen technology."

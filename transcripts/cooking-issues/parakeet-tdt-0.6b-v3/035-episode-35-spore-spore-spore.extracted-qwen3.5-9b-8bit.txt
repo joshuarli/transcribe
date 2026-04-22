@@ -1,0 +1,144 @@
+# Salt-Rising Bread
+
+*   **Leavening Agent:** *Clostridium perfringens* (anaerobic bacteria).
+    *   **Note:** This is a pathogen/foodborne illness bacteria. The vegetative cells are killed by baking, but spores survive. No reported cases of illness from the finished bread.
+    *   **Mechanism:** Produces gases (hydrogen and hydrogen sulfide) rather than just carbon dioxide.
+    *   **Aroma:** Characteristic "cheesy" smell due to butyric acid (smell of rancid butter, Parmesan cheese, or vomit).
+*   **Starter Preparation:**
+    *   **Base:** Liquid mix with cornmeal (or similar feed).
+    *   **Additives:** Salt, baking soda, or Campden tablets (yeast inhibitor).
+    *   **Goal:** Inhibit yeast; allow only *C. perfringens* to grow.
+    *   **Temperature:** Maintain at ~100°F (38°C).
+    *   **Equipment:** Excalibur dehydrator (used as a proofer).
+    *   **Duration:** Overnight (until foamy and aromatic).
+*   **Dough Process:**
+    *   Add water and flour to the spongy starter.
+    *   Let rise again for many hours.
+    *   Bake.
+*   **Texture/Appearance:** Very white crumb, finer bubbles, distinct texture from standard bread.
+*   **Dave's Experiment Notes:**
+    *   **Issue:** Bread was under-proofed (thrown in oven too early).
+    *   **Result:** Under-risen, no crust treatment (no egg wash).
+    *   **Post-Bake Handling:** Immediately placed into a metal box after removal from oven.
+    *   **Future Plans:** Experiment with alternative grains (rye) and longer proofing times.
+
+# Sous Vide & Low-Temperature Cooking
+
+## Brisket / Corned Beef
+*   **Texture Goal:** Equated to short rib texture.
+*   **Temperature Threshold:** Do not cook below 57°C (135°F).
+    *   **Reasoning:** Below 57°C, meat remains too rare/bloody for most palates.
+    *   **Safety Note:** If cooking below 57°C, perform a quick dip in simmering water (15–30 seconds) to kill surface bacteria before bagging, OR pre-sear. Prevents lactic acid bacteria growth if bags touch.
+*   **Time/Temperature Ranges:**
+    *   **57°C:** 48–60 hours.
+    *   **60°C (140°F):** ~48 hours (Dave's preference for "beefier" flavor).
+    *   **63–64°C:** Shorter time.
+    *   **>64°C:** Cook traditionally (higher temp, shorter time).
+    *   **Warning:** >72 hours at low temps results in mushy texture (loss of bite).
+*   **Bagging Instructions:**
+    *   **Spices:** Apply spices directly to meat; reduce quantity slightly if vacuum sealing tightly.
+    *   **Liquid:** Minimize liquid in the bag to avoid a "poached" taste. Reduce any liquid added.
+
+## Pork Shanks
+*   **Comparison:** 70°C for 36 hours is roughly equivalent to 61°C for 48 hours.
+*   **Recommendation:** Cook at 61°C for 48 hours OR 63°C for 56–57 hours.
+
+## Beer Cooler Sous Vide (Whole Fish)
+*   **Safety:** Safe to cook whole fish in a beer cooler.
+*   **Challenge:** Temperature drop due to thermal mass of meat.
+*   **Procedure:**
+    1.  **Calibration:** Drill a hole for a long-stem thermometer. Fill with water, measure cooling rate over 1.5–2 hours. Target stability within 5–10°C drop.
+    2.  **Strike Temperature Calculation:** Calculate initial water temperature based on meat weight, meat starting temp, desired final temp, and water volume.
+        *   *Analogy:* Use brewer's "strike water temperature" calculator (e.g., brewheads.com).
+        *   *Example:* If cooking at 57°C (135°F) for 1.5 hours with a 10°C drop, start water at ~145°F (63°C).
+        *   *Formula Logic:* `(Water Mass × Water Temp) + (Meat Mass × Meat Temp) = Total Mass × Target Temp`.
+*   **Equipment:** Standard 5-gallon homebrew cooler (e.g., Geo TT).
+
+## Chicken Breast (Ziploc Bag)
+*   **Liquid Usage:** Adding liquid leaches flavor into the bag.
+*   **Reuse Strategy:**
+    *   **Stock:** Strain and freeze stock. Repeated freeze/thaw cycles do not diminish quality if oxygen exposure is minimized and fat content is low.
+    *   **Alternative (Dave's Method):** Add a small amount of milk (just enough to seal the bag) + sugar (as a brine substitute).
+        *   **Result:** Liquid becomes a salty soup base (diluted chicken flavor).
+*   **Steak:**
+    *   **Do Not Add Water/Stock:** Avoids dilution.
+    *   **Recommended Additive:** Melted butter + chopped garlic.
+    *   **Post-Cook Sauce:** Strain garlic from butter. Whisk meat juices into the butter. Pour over garlic bread and toast.
+
+# Equipment & Tools
+
+## B. Braun Thermomix (Thermal Mixer)
+*   **Description:** Old-school European circulator (blender/heater/mixer/scale). Distinct from modern Vitamix-style thermal mixers.
+*   **Status:** Discontinued; hard to find new units.
+*   **Maintenance:**
+    *   **Failure Mode:** Bearing failure (unsealed bearings from the 80s).
+    *   **Fix:** Lubricate bearings with WD-40 (non-food grade, but effective for extending life).
+    *   **Calibration:** Check against ice water bath (should read 0°C).
+    *   **Cleaning:** Can be difficult if oil baths were used previously.
+*   **Dave's Unit:** 1419 model, "B. Braun Green," built in early 80s, acquired from a naval salvage at Pearl Harbor.
+
+## AeroPress
+*   **Dave's Experience:** Mixed results.
+*   **Issue:** Produces a flat cup.
+*   **Cause:** Paper filters restrict oils/flavor.
+*   **Recommendation:** Use a metal filter to improve extraction and flavor profile.
+*   **Comparison:** Similar technique to Clover machines (piston extraction), but AeroPress theoretically generates slight pressure.
+
+## Coffee Brewing
+*   **Preference:** Clover machine (independent coffee shop) preferred over AeroPress for flavor extraction.
+
+# Ingredients & Functional Roles
+
+*   **Salt in Salt-Rising Bread:**
+    *   Function: Inhibits yeast formation (allows bacterial leavening).
+    *   Quantity: Does not require high salt content (this specific loaf was undersalted).
+*   **Butter in Steak Bag:**
+    *   Function: Flavor carrier; creates a sauce base when combined with meat juices.
+    *   Usage: Melted with garlic, cooked with steak, strained, and used for garlic bread.
+*   **Sugar in Chicken Bag:**
+    *   Function: Brine substitute.
+*   **Milk in Chicken Bag:**
+    *   Function: Sealant (minimal liquid needed).
+*   **Barley Malt:**
+    *   **Kilning:** Typically kilned to ~31°C (Dave notes this might be too high for "raw" beer concepts).
+    *   **Alternative:** Use unmalted/sprouted grain (e.g., corn) for raw beer experiments.
+
+# Caller Q&A
+
+**Caller: Norm (Seattle)**
+*   **Question:** Seeking pointers for using a restored B. Braun Thermal Mixer to cook a cured corned beef brisket.
+*   **Answer:**
+    *   **Equipment Check:** Verify calibration with ice water. Lubricate bearings if squealing/grinding.
+    *   **Cooking Method:** Treat like short rib. Target 60°C (140°F) for ~48 hours for optimal texture/flavor. Avoid going below 57°C without surface sterilization (simmer dip or sear).
+    *   **Bagging:** Apply spices directly; minimize liquid to prevent poaching effect.
+
+**Caller: Mike (Brewer)**
+*   **Question:** Feasibility of brewing "raw beer" using saliva amylase (chewing starch) instead of enzymatic mashing, avoiding high temps that kill enzymes.
+*   **Answer:**
+    *   **Feasibility:** Theoretically possible but problematic.
+    *   **Issues:**
+        *   Enzyme profiles differ from commercial malt enzymes; conversion may be incomplete.
+        *   Cannot boil the wort (kills enzymes).
+        *   Sterile filtration is difficult (filters clog).
+        *   Lactobacillus thrives at low temps (11–18°C), causing souring before starch conversion.
+        *   Barley is typically kilned too high for raw processes.
+    *   **Suggestion:** Investigate using unmalted/sprouted corn or alternative grains.
+
+**Caller: Mike (Portland)**
+*   **Question:** Source for coriander roots (for Thai cooking).
+*   **Answer:** Rare in standard markets. Dave grows his own. Nastasha to investigate sourcing.
+
+**Caller: Lee**
+*   **Question:** Time/temperature guidance for pork shanks (compared to lamb shanks at 70°C/36h and pork shoulder at 61°C/48h).
+*   **Answer:** 70°C/36h ≈ 61°C/48h. Recommend 61°C for 48h or 63°C for 56–57h.
+
+**Caller: Anonymous (Beer Cooler User)**
+*   **Question:** Safety and temperature management for sous vide whole fish in a beer cooler.
+*   **Answer:** Safe. Must calculate "strike temperature" to account for thermal mass drop. Use brewer's strike water calculator. Ensure water temp is high enough to offset cooling over the cooking duration.
+
+**Caller: Anonymous (Ziploc Chicken/Steak)**
+*   **Question:** Reusing stock from sous vide chicken bags; adding liquid to steak bags.
+*   **Answer:**
+    *   **Stock:** Safe to strain and freeze repeatedly if oxygen/fat issues are managed.
+    *   **Chicken:** Can use small amount of milk/sugar mix; liquid is edible as a base.
+    *   **Steak:** Do not add water/stock. Use melted butter + garlic. Strain garlic, whisk juices into butter, serve on toast.

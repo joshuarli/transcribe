@@ -1,0 +1,77 @@
+# Umami Without Meat
+*   **Mechanism:** Umami is a sensation triggered by taste receptors detecting protein breakdown products, primarily glutamic acid (an amino acid).
+*   **Vegetarian Sources:**
+    *   **Cooked Mushrooms:** High in umami.
+    *   **Aged Dairy:** Parmesan cheese and other aged products where breakdown forms free amino acids.
+    *   **Tomatoes:** Contain free umami; cooking concentrates it.
+*   **Additives:** Monosodium glutamate (MSG) is a natural option for spiking dishes.
+
+# Sous Vide for Vegetables
+*   **Application:** Useful for vegetables even without meat.
+*   **Benefit:** Prevents flavor leaching from vegetables (e.g., carrots) and prevents external flavors from entering, accentuating the vegetable's natural flavor rather than altering it.
+
+# Modern State of Punch
+*   **Current Trend:** Modern bars feature punch bowls, but recipes often taste like "really big cocktails" that are too pungent for all-day consumption.
+*   **Original Intent:** Historically, punch was consumed bowl after bowl until intoxication ("artificial wine").
+*   **Flavor Profile:** Modern versions often rely heavily on bitters, Chartreuse, vermouth, and herbal elements, which become cloying after 4–5 small cups.
+*   **Consumer Expectation:** Modern consumers expect punch to taste like a cocktail rather than a strong, long-lasting beverage.
+*   **Evolution:** Punch originally functioned as "artificial wine" (similar to California Cabernet); the goal is to shift perception toward a lighter profile (Burgundy style).
+
+# Dilution and Ice Techniques
+*   **Standard Rule of Thumb:** Shaking or stirring with ice should add 25% to the volume (diluting by that amount).
+*   **Measurement Method:** The only accurate way to determine dilution is to weigh the drink before and after mixing to calculate added water.
+*   **Shaking vs. Stirring:**
+    *   **Shaking:** Dilutes very fast. 15–20 seconds is sufficient; longer yields diminishing returns on chilling. Shaken drinks (e.g., Sours) are inherently more dilute due to citrus and syrup.
+    *   **Stirring:** Takes upwards of one minute to reach the same dilution level as a 15–20 second shake. Offers more room for error and artistry.
+*   **Ice Preparation for Stirring:**
+    *   **Fine Cracked/Snow Ice:** Provides fast dilution and chilling (surface area dependent).
+    *   **Cracking Large Ice:** Bartenders crack large draft cubes during stirring to expose new, dry surfaces. This increases surface area for faster chilling without adding extra water.
+    *   **Large Cubes:** Good for maintaining temperature over long periods without watering down, but poor at initial chilling.
+*   **Historical Context:** 19th-century bartenders used different ice sizes for different effects (shaved, cracked, cubes) rather than relying solely on machine-cut cubes.
+
+# Molecular Mixology
+*   **Definition:** Creating new, fun, and different drinks using technology.
+*   **Pitfall:** Becomes pretentious if treated as "technological genius" requiring white lab coats or measuring in Joules.
+*   **Goal:** Create drinks with "legs" (repeatability) that people want to order again, not just one-off novelties.
+*   **Example:** A clarified plum juice cocktail with bourbon, water, and simple syrup. The technology (clarification) creates a drink people will order repeatedly.
+*   **Recommendation:** Keep it fun and unpretentious. Do not disguise the effort or make the drinker feel bad.
+
+# Craft Distilling
+*   **Current Landscape:** A renaissance in US micro-distilling, partly due to deregulation.
+*   **Critique of "Fake" Craft:** Many new distillers buy neutral spirit (e.g., from ADM), add botanicals, and bottle it quickly. This is business, not craft.
+*   **True Craft Distilling:**
+    *   **Process:** Mashing grain on-site, distilling multiple times (e.g., 3 times) in restored ancient-style stills.
+    *   **Aging:** Traditional aging takes years; capital is tied up. Speed aging in tiny barrels is possible but lacks the seasonal expansion/contraction effects of traditional barrel aging.
+    *   **Example Product:** *Old Shidam Original Single Malt Genever* (Holland).
+        *   **Composition:** 2/3 rye malt, 1/3 barley malt, juniper berry.
+        *   **Method:** 18th-century style, handcrafted, coal-fired (implied by style), aged in floor pits for fire prevention.
+        *   **Profile:** Grainy, smooth, clean, silky, light age, botanicals present but low. Unique nose.
+*   **Future Outlook:** Excitement lies in new spirits from unused grains and handcrafted liqueurs (e.g., fresh brandy flavored with oranges) rather than replicating existing gins and vodkas.
+
+# Punch Recipe (Dave Arnold's Favorite)
+*   **Preparation:**
+    1.  Peel 3 lemons using a swivel-bladed peeler to minimize white pith.
+    2.  Place peels in a bowl with 6 oz (3/4 cup) super-fine sugar.
+    3.  Muddle and let sit for 1 hour to extract oils and create a thick lemony paste.
+    4.  Add 6 oz lemon juice and stir.
+    5.  Add 1 bottle of cognac (or dark/navy rum).
+    6.  Add ice and about 1 quart of water.
+    7.  Garnish with nutmeg.
+*   **Batching:** Citrus/sugar mixture and water can be pre-batched and aged (flavor becomes mellower), though fresh is sharper. Liquor is often added fresh.
+*   **Social Aspect:** Designed for fellowship; ensure nothing is left in the bottom of the bowl.
+
+# Equipment and Resources
+*   **Books:**
+    *   *Imbibe!*: Focuses on 19th-century American bartending history, techniques, and recipes.
+    *   *Punch: The Delights and Dangers of the Flowing Bowl*: Upcoming book on punch history and recipes.
+*   **Ingredients:**
+    *   200-proof ethanol: Can be purchased cheaply (~$16/L) and diluted to 40% for high-quality vodka.
+*   **Bars Recommended (New York/Brooklyn):**
+    *   Death & Company
+    *   Pegu Club
+    *   PDT (Please Don't Tell)
+    *   Clover Club (Brooklyn)
+    *   19th Street (Manhattan)
+    *   Rye House (Manhattan)
+    *   Painkiller (Lower East Side - Tiki style)
+*   **Historical Reference:** Jerry Thomas's *Bartender's Guide* (1862).

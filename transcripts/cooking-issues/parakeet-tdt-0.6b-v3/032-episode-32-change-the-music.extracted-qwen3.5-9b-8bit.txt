@@ -1,0 +1,114 @@
+# PID Controllers
+*   **Function:** Proportional, Integral, Derivative algorithm for accurate temperature control without overshooting. Used in immersion circulators and coffee machines.
+*   **Cost Trend:** Prices dropped significantly; previously cost hundreds, now available for ~$35.
+*   **Recommended Brand (Budget):** Auber Instruments (~$35).
+*   **Recommended Brand (High-End):** Dwyer Instruments, Fuji, or Watlow (~$200+).
+*   **Critical Feature:** Look for a **solid-state relay** output instead of a regular relay for quieter operation and longer lifespan.
+*   **Current Rating:** Must handle at least **10 amps** (approx. 1000 watts) for immersion circulators.
+*   **Connectivity:** Plugs into a standard 110V socket.
+
+# Making Crème de Violette
+*   **Problem:** Commercial versions are unavailable in Ohio; home infusions often brown.
+*   **Base Spirit:** Do not use 151 proof (75.5% ABV) as it is often low quality. Use **95 proof (47.5% ABV)** or higher. Ideally **85–90% ABV** straight neutral grain spirits or high-proof liquor from a lab supplier.
+*   **Flavoring Agents:**
+    *   **Violet Flowers:** Pack a large quantity into high-proof liquor. Macerate for **several weeks to one month**. Taste periodically.
+    *   **Iris Root (Alternative):** If violet flowers are unavailable, use iris root (has a violet nose/aroma).
+    *   **Warning:** Do not use iracetral poison (likely a transcription error for a chemical name or confusion with iris root).
+*   **Process:**
+    1.  Macerate flowers/root in high-proof spirit.
+    2.  Decant.
+    3.  Add sugar to taste.
+    4.  Dilute with water to desired ABV.
+*   **Historical Note:** 1871 recipe by Pierre Dupré used iris root, cochineal (red dye), and blue food coloring. 1950s studies found commercial versions often adulterated with dyes.
+
+# Kalua Pig (Hawaiian Underground Oven)
+*   **Equipment:** Pit in the ground, **igneous rocks** (volcanic).
+*   **Rock Safety:**
+    *   Sedimentary (sandstone) and metamorphic rocks can explode due to porosity or inclusions.
+    *   Igneous rocks are less porous but can still explode if heated suddenly or if they have internal inclusions.
+    *   **Mitigation:** Heat rocks well in advance (1+ hour) to allow even heating; risk of explosion decreases significantly after they are hot. Do not stand directly over rocks while heating.
+    *   **Alternative:** Korean stoneware bowls (gobdols) used for bibimbap are excellent heat-retaining stones.
+*   **Cooking Method:**
+    1.  Heat rocks until very hot.
+    2.  Cover with green vegetation to generate steam (similar to a clam bake).
+    3.  Wrap the pig in **banana leaves** (available at Asian markets) or tea leaves.
+    4.  Bury in the pit.
+*   **Food Safety:** Use a temperature probe. Cook to high internal temperatures.
+*   **Liquid:** Maintain enough liquid in the pit to prevent drying out.
+
+# Oil Slicks in Cocktails (The "Loosh" Effect)
+*   **Cause:** Dilution decreases the solubility of dissolved oils (e.g., in absinthe, ouzo, caraway/fennel infusions), causing them to pop out of solution.
+*   **Stabilization Options:**
+    *   **Shaking:** Often sufficient to re-suspend oils if they haven't fully separated.
+    *   **Emulsifiers:**
+        *   **Gum Arabic:** Effective, minimal viscosity change.
+        *   **TIC Gum Saladizer 210s:** A mixture of gum arabic and xanthan gum. Highly effective for emulsified syrups (e.g., butter, pecan) but noticeably changes the drink's texture/body. Avoid unless necessary.
+*   **Timing:** Can hold off dilution until serving, but balancing the whole bottle is preferred.
+
+# Rotovap Reductions
+*   **Port Syrup:** Reduce to the consistency of **maple syrup**.
+    *   *Warning:* Reducing port too far (high vacuum/low temp) causes tannic, weird flavors. Taste frequently; stop at the "edge."
+*   **Dessert Wine Syrup (3-Cheese Course):**
+    *   Reduce to **maple syrup consistency**.
+    *   Technique: Break the vacuum seal occasionally to taste the liquid directly.
+    *   Visual Cue: Watch the liquid fall from the spinning evaporator to judge viscosity.
+*   **Strawberry Syrup:** Can reduce to higher temperatures (50s–60s °F equivalent at vacuum) without issues.
+
+# Egg Tempering
+*   **Technique:** Slowly adding hot liquid to eggs to prevent coagulation.
+*   **Necessity:**
+    *   **Large Batches:** Tempering is a **time-saving** measure. Heating the milk first allows quick temperature rise, then slow incorporation into eggs.
+    *   **Small Batches (e.g., Alfredo):** Not strictly necessary. Can mix cold eggs into cold cream and heat slowly while stirring.
+*   **Conclusion:** Primarily a convenience step for large batches; technically, slow heating of a cold mixture works fine for small quantities.
+
+# Yogurt Making
+*   **Milk Selection:** Use **whole milk**. Reduced-fat (1% or 2%) milk tastes poor and affects texture.
+*   **Pasteurization:**
+    *   Pasteurized milk still contains bacteria; heating is recommended.
+    *   **Temperature:** Heat to **180°F (82°C)**.
+    *   **Reasoning:** Kills surface bacteria, pre-agglomerates whey proteins (improving texture), and stops curdling ability from rennet casein.
+*   **Cooling:** Cool to **115°F (46°C)** before adding culture.
+*   **Incubation:**
+    *   Stable location (e.g., oven with pilot light) ensures consistency.
+    *   Time: Overnight (8+ hours).
+*   **Straining:** To achieve "Greek-style" thickness, strain finished yogurt through cheesecloth or muslin in a colander overnight in the fridge to drain whey.
+
+# Crystallizing Flower Petals
+*   **Process:** Dip petal in adhesive, brush with super-fine sugar, dry.
+*   **Adhesives:**
+    *   **Egg Whites:** Fast, sanitary enough for dried product.
+    *   **Gum Arabic:** Tree exudate, highly branched molecule. Creates a clear, hard, glue-like coating when dry. Allows for high solids content syrups that resist bacterial growth.
+*   **Comparison:** Gum Arabic is more sanitary and stable than egg whites for storage. Egg whites are faster for immediate use.
+*   **Terminology:** The result is a "crystallized" appearance, though no actual sugar crystals form in the adhesive layer itself.
+
+# Vacuum Sealing Chicken
+*   **Issue:** Bone-in chicken breasts weep blood/red liquid after cooking (e.g., sous vide at 60°C/140°F).
+*   **Causes:**
+    *   **Hollow Bones:** Vacuum pressure forces marrow/blood out of hollow bones.
+    *   **Texture:** Vacuum affects chicken texture.
+    *   **Temperature:** 60°C is low for fully rendering bone marrow; 64°C (147°F) for 1 hour is better.
+*   **Recommendations:**
+    *   Remove bones if possible.
+    *   Use a mild vacuum (Ziplock bag method without strong suction).
+    *   Cook to higher temperatures (70s–80s °F) if bones must remain to render contents.
+
+# Blanching Garlic in Milk
+*   **Observation:** Common practice to blanch garlic in milk (or horseradish) to reduce pungency ("bite").
+*   **Chemistry:** Garlic bite comes from sulfur compounds (thiols).
+*   **Status:** No definitive chemical reason identified for using milk vs. water. Pressure cooking alone removes pungency.
+*   **Action:** Requires further research; noted as an expensive practice.
+
+# Lye Safety (Sodium Hydroxide)
+*   **Incident:** Accidental contact with unlabeled lye caused severe burns, bleeding, and loss of taste buds on half the tongue.
+*   **Reaction:** Instant, violent chemical burn (equivalent to eating 100 buttons).
+*   **Safety Protocol:**
+    *   Treat lye as extremely dangerous; do not taste.
+    *   Keep away from children.
+    *   Store in clearly labeled containers.
+    *   Have emergency washing procedures ready.
+*   **Usage:** Safe for cooking (e.g., pretzels, nixtamalization) if handled with extreme care.
+
+# Atomic Testing and Corn
+*   **History:** Post-WWII nuclear testing at the Bikini Atoll involved exposing corn cobs to atomic blasts.
+*   **Result:** Seeds were planted to test germination.
+*   **Outcome:** Produced "nuclear sweet corn" with cobalt content.

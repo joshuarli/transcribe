@@ -1,0 +1,194 @@
+# Techniques & Parameters
+
+*   **Oyster Safety:**
+    *   Avoid oysters from warm water (specifically Gulf oysters) due to *Vibrio* risk.
+    *   **Pasteurization Method:** Ultra-high pressure pasteurization (UHP) is used on Gulf oysters to kill bacteria.
+    *   **Note:** The host has never tasted UHP-treated oysters.
+*   **Soufflé Stabilization (Pre-made):**
+    *   **Problem:** Soufflés must be started and finished at service; pre-making is difficult.
+    *   **Failed Attempt:** Using an ISI Thermo Whip with 4 egg whites and 2 nitrous oxide containers resulted in no foam.
+    *   **Solution:** Use a stabilizer.
+    *   **Ingredients:** Carrageenan or Xanthan gum.
+    *   **Process:** Make base traditionally, stabilize, cut into pucks, bake.
+    *   **Mechanism:** The stabilizer sets the initial base but releases/melts when heated (above ~102°C / 215°F), allowing expansion via steam and bubble expansion.
+    *   **Commercial Example:** Cuisine Solutions has a commercial preparation based on carrageenan and Xanthan gum.
+*   **Clam Purging:**
+    *   **Method:** Feed clams a soup with the same salinity as the ocean (e.g., bacon and onion soup).
+    *   **Outcome:** Clams eat the soup and absorb the flavor.
+    *   **Cornmeal Role:** Presumed to dissolve starch to aid eating, while undissolved parts sink; specific studies cited as unavailable.
+*   **Snail Purging/Fattening:**
+    *   **Rosemary Method:** Feed snails rosemary for a long period (classic Spanish style).
+    *   **Milk Method:** Fatten snails on milk (old Roman technique).
+    *   **Success Rate:** Host and friend Johnny Azzini had only marginal success with both methods.
+    *   **Alternative:** Feed snails in the garden (host's experience in San Diego).
+    *   **Safety Check:** Research genus for poison before eating wild snails.
+*   **Avocado Oxidation Prevention:**
+    *   **Pit Myth:** Putting the pit in puree does not work.
+    *   **Citrus:** Lime juice (3/4 lime to 1 avocado) is common but can be too acidic.
+    *   **Ascorbic Acid (Vitamin C):** More effective antioxidant than citrus; less acidic taste.
+        *   **Source:** Buy straight 100% Vitamin C powder (avoid pills with fillers like calcium/chalk).
+        *   **Mechanism:** Ascorbic acid stops browning; pH level is not the primary preservative.
+    *   **Sodium Metabisulfite:** Also works as an antioxidant.
+    *   **Packaging:** Oxygen-proof bags are better than standard plastic wrap.
+*   **Pepper Heat Reduction (Habaneros):**
+    *   **Goal:** Remove capsaicin to taste floral aroma.
+    *   **Surgical Method:** Cutting out the inner skin/veins (painful, high risk of contamination).
+    *   **Enzymatic Method:** Using SPL (Peelzyme) to melt the inner skin.
+        *   **Issue:** The mesocarp (meat) is dissolved by the enzyme; contamination ruins the whole pepper.
+    *   **Alternative:** Use *aji dulce* (Venezuelan/Peruvian/Ecuadorian pepper).
+        *   **Profile:** Looks like habanero, similar aroma/taste, requires no manipulation.
+*   **MSG Usage:**
+    *   **Quantity:** Do not use in quantities comparable to salt or spices.
+    *   **Application:** Avoid using in soup (too easy to taste/sense). Good for other dishes.
+    *   **Natural Source:** Glutamic acid is drained from giant kelp (traditional Asian method).
+    *   **Safety:**
+        *   Body produces more glutamic acid (neurotransmitter) than can be consumed via MSG.
+        *   "Chinese Restaurant Syndrome" (headache/flushing) is largely debunked or linked to unfamiliar food psychology.
+        *   **Contaminant Theory:** Historical reactions may be due to impurities from microbial fermentation (purification techniques have improved since the 1960s/70s).
+        *   **Salt Sensitivity:** Studies show salt-sensitive individuals do not react to other sodium compounds (e.g., baking soda) in the same way.
+*   **French Fry Preparation:**
+    *   **Texture:** Crisp but friable outside; inside like mashed potatoes (not too thick).
+    *   **Alternative Texture:** Hollow inside (like a rectangular baton/potato chip).
+    *   **Fat:** Horse fat provides the best fries.
+        *   **Availability:** Found in Paris supermarkets packaged like butter.
+        *   **Legal Note:** Eating horse meat is illegal in the US.
+
+# Equipment
+
+*   **Blenders:**
+    *   **Vita-Prep:** Excellent for blending/smoothies. High tip speed.
+    *   **Waring Commercial:** Comparable or slightly more power than Vita-Prep; pulverizes ingredients in seconds.
+        *   **Usage Tip:** Hold down the top to prevent spillage.
+    *   **KitchenAid:** Not recommended for high-performance blending compared to the above.
+    *   **Selection Criteria:**
+        1.  **Tip Speed:** Determines force applied to product.
+        2.  **Blade Pitch:** Important for some applications.
+        3.  **Pitcher Design:** Must ensure good product movement to avoid improper mixing and cavitation (air pockets).
+    *   **Price Points:**
+        *   Champion Juicer: ~$200 (good for apples/carrots, not wheatgrass/sugarcane).
+        *   Vita-Prep: ~$100-$300.
+        *   NutriBullet: ~$5000 (described as a "monster" that eats apples instantly).
+*   **Juicers:**
+    *   **Champion:** Recommended for juicing (apples, carrots).
+    *   **Vita-Prep:** Can be used for blending juice, but not a dedicated juicer.
+    *   **Neutra:** High-end centrifuge/enzyme juicer (very expensive).
+*   **ISI Thermo Whip:**
+    *   **Usage:** Nitrous oxide chargers to foam liquids.
+    *   **Limitation:** Cannot effectively foam straight egg whites.
+*   **Rotary Evaporator:**
+    *   **Suggestion:** Mentioned as a potential tool for removing heat/capsaicin from peppers (though host noted he was told not to mention buying one).
+*   **Hand Blender:**
+    *   **Invention:** Host invented a hand blender with 24,000 RPM tip speed, variable speed trigger, and high power. Comparable to Vita-Prep.
+
+# Ingredients & Functional Roles
+
+*   **Carrageenan & Xanthan Gum:** Stabilizers for foams (soufflés). Melt above ~102°C to allow expansion.
+*   **Gelatin:** Helper protein for cross-linking vegetables with transglutaminase (non-vegetarian).
+*   **Transglutaminase ("Meat Glue"):**
+    *   **Function:** Glues proteins together.
+    *   **Applications:** Strengthening tofu, yogurt/dairy systems, creating vegetable noodles (requires gelatin helper).
+    *   **Host Opinion:** Never eaten anything made with meat glue that was worth eating. Most common use is creating even cooking portions (e.g., flat iron steak with cartilage removed).
+*   **MSG (Monosodium Glutamate):**
+    *   **Function:** Flavor enhancer (same as glutamic acid from kelp).
+    *   **Properties:** Provides roughly 1/3 the sodium of table salt by weight.
+    *   **Production:** Microbial fermentation.
+*   **Cornmeal:** Used in clam purging soup (presumed starch dissolution aids consumption).
+*   **Horse Fat:** Renders best for French fries.
+*   **Aji Dulce:** Pepper variety from Venezuela/Peru/Ecuador. Habanero-like aroma/taste without heat.
+
+# Personal Anecdotes & Demonstrations
+
+*   **Iron Chef America:**
+    *   **Impact:** David Kinch (The Bazaar, Los Gatos) reported never having an empty seat after appearing on the show.
+    *   **Host Experience:** Judge on the show. Found food generally good but often "yuppie food" (surprising combinations, small pieces, intense flavor).
+    *   **Specific Contest:** Mario Batali vs. Wiley Dufresne (Dave's brother-in-law).
+        *   **Challenge:** Tilapia (described as a "vile" fish).
+        *   **Mario's Approach:** Covered small pieces of tilapia with flavorful stuff (smart play).
+        *   **Wiley's Approach:** Tried to work with the fish itself/textural tasting (less successful).
+        *   **Outcome:** Mario won. Dessert was the deciding factor; Wiley's dessert (chocolate/licorice smear, coffee couscous) was disliked by judges.
+        *   **Judging Incident:** A live tilapia was killed on set; a piece served to a judge was inedible/tough. Host believes Mario used a live fish that was tough, but the judge didn't mark him down for it.
+    *   **Opinion:** "Yuppie food" is made to surprise; conventional delicious food doesn't always win.
+*   **Developing a Palate:**
+    *   **Advice:** Eat everything you can. Eat new things with natives who know what they are doing.
+    *   **Host's Journey:** Became a "perfect omnivore" (except insects and Indian desserts initially).
+        *   **Insects:** Ate deep-fried bamboo worms in Thailand (ignored the face on the end).
+        *   **Indian Desserts:** Ate home-cooked meals in Punjab; found them delicious when made right (specifically mentioned *Barfi*).
+*   **Snail Farming:**
+    *   **Experience:** Lived in San Diego, garden infested with snails. Researched genus/poison before eating.
+    *   **Book:** Visited a farm north of Tuscany (*La Chocula*). Read a book on snail farming (Italian viewpoint, wretched English).
+    *   **Variety:** *Rigatello* (small, pinwheel-shaped, Etruscan variety). Tasted good.
+    *   **Comparison:** Similar to Burgundy snails.
+*   **Peeling Potatoes:**
+    *   **Story:** David Bouley supported a Salvadorian family by having them peel tiny fingerling potatoes for his hot potato puree.
+    *   **Outcome:** One of the peelers went to Harvard and won a Nobel Prize.
+    *   **Host View:** Kitchen work is dehumanizing but necessary for the "zen" of cooking.
+*   **Horse Fat:**
+    *   **Story:** After writing an article on horse fat fries, a research assistant for Patricia Wells (Alex Carawan/Shelley) found sticks of horse fat packaged like butter in a Paris supermarket.
+
+# Caller Q&A
+
+**Caller: Greg (Email)**
+*   **Question:** How seriously do you take *Iron Chef America*? Is it just a faux competition for publicity?
+*   **Answer:** Taken seriously. Host judges chefs from outside NY to avoid destroying their local reputations. Criticizes *Iron Chefs* specifically when they do something awful.
+    *   **Example:** David Kinch won fame and never had an empty seat in Los Gatos after appearing.
+    *   **Opinion:** Good chefs (like Kinch) benefit; bad ones get exposed.
+
+**Caller: Patrick Martin (Voice recognized)**
+*   **Question:** Food myths: "Oysters in months without an R" and "White wine with fish."
+*   **Answer:**
+    *   **Oysters:** Myth is about warm water. Avoid Gulf oysters due to *Vibrio* risk. UHP pasteurization exists but host hasn't tasted them.
+    *   **Wine:** "White wine with fish" is silly. White wine is too weak/soft for steak; red wine goes with fish.
+
+**Caller: Unnamed (Palate Development)**
+*   **Question:** How do you develop your palate? Is it active or passive?
+*   **Answer:** Eat everything you can. Eat new things with natives to understand the food. Use taste words to distinguish flavors.
+    *   **Host's Method:** Intense program to become a "perfect omnivore" (ate bamboo worms, Indian desserts).
+
+**Caller: Matthew (Airport)**
+*   **Question:** How good is the food on *Iron Chef* compared to top NYC/LA restaurants?
+*   **Answer:** Very good, but "yuppie food" designed to surprise.
+    *   **Comparison:** Mario Batali (conventional, delicious) vs. Wiley Dufresne (mental/textural, less successful).
+    *   **Judging:** Mario won despite tough tilapia because he covered it; Wiley lost on dessert.
+    *   **Incident:** Tough live tilapia served to a judge was inedible but didn't affect scoring.
+
+**Caller: Private Chef (Soufflé)**
+*   **Question:** Can I pre-make a soufflé using an ISI Thermo Whip with egg whites?
+*   **Answer:** No, straight egg whites don't foam well in an ISI.
+    *   **Solution:** Use stabilizers (Carrageenan/Xanthan gum). Make base, stabilize, cut into pucks, bake.
+    *   **Reference:** Restaurant *La Regourd* in Paris used a technique where the soufflé rose, sank, rose again (not delicate).
+
+**Caller: Unnamed (Clam Purging)**
+*   **Question:** How to purge clams?
+*   **Answer:** Feed them bacon and onion soup (ocean salinity). They eat it and absorb flavor.
+    *   **Snails:** Tried purging snails with rosemary (failed, snails died/smelled bad). Tried fattening on milk (marginal success).
+
+**Caller: Unnamed (Avocado)**
+*   **Question:** How to prevent avocado oxidation without excessive lime juice?
+*   **Answer:** Use straight Ascorbic Acid (Vitamin C) powder. It has more antioxidant power and less acid taste than lime. Sodium metabisulfite also works. Oxygen-proof bags are better than plastic wrap.
+
+**Caller: Jason (Brooklyn)**
+*   **Question:** Best blender/juicer for smoothies and juice?
+*   **Answer:**
+    *   **Blending:** Vita-Prep or Waring Commercial (high tip speed, good pitcher design).
+    *   **Juicing:** Champion Juicer (~$200) for apples/carrots. Neutra for high-end.
+    *   **Note:** Blenders are not great juicers; dedicated juicers are needed for liquid juice.
+
+**Caller: Michael (Herbavaraceous)**
+*   **Question 1:** Applications for transglutaminase ("meat glue") with vegetables?
+*   **Answer:** Can glue vegetables together, but requires gelatin as a helper protein (not vegetarian). Wiley Dufresne tested this for vegetable noodles.
+*   **Question 2:** Can melons be compressed without a vacuum machine?
+*   **Answer:** No.
+
+**Caller: Kent Kirschenbaum (NYU)**
+*   **Question:** MSG reactions (Chinese Restaurant Syndrome) and salt sensitivity studies.
+*   **Answer:**
+    *   **MSG:** Historical reactions likely due to fermentation impurities (purification improved). Brain damage studies on rodents used absurd doses and were debunked. Natural glutamic acid is the same as MSG; differences lie in contaminants or psychology of unfamiliar foods.
+    *   **Salt:** Studies on salt sensitivity often measured weight, not moles. Public health campaigns conflate salt and sodium.
+    *   **Intra Study:** Massive worldwide study (1989) showed no correlation between salt intake and blood pressure in normal populations after eliminating extreme low-salt societies (e.g., Yanomami).
+    *   **Conclusion:** Much nutrition science is "crap based on other crap."
+
+**Caller: Ben (Littlewing)**
+*   **Question:** What makes the perfect French fry? Opinion on horse fat?
+*   **Answer:**
+    *   **Texture:** Crisp/friable outside, mashed potato-like inside. Or hollow inside (chip-like).
+    *   **Fat:** Horse fat is best. Found in Paris supermarkets. Illegal to eat in US.

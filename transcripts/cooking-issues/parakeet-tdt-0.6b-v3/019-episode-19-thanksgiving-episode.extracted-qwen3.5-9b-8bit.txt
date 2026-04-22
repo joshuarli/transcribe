@@ -1,0 +1,91 @@
+# Candy Making: Pumpkin Maple Caramel
+*   **Alcohol Addition:** Adding bourbon to caramel does not negatively affect texture if cooked to the target temperature.
+*   **Evaporation:** At high temperatures (approx. 240°F), 99% of alcohol evaporates.
+*   **Texture Determinant:** Candy texture is determined by water content, which is guaranteed by reaching the specific target temperature, not the initial amount of water or alcohol added.
+*   **Target Temperature:** Standard caramel is cooked to 240°F (approx. 115°C). Pumpkin puree may lower this slightly, but the target remains in the 200–240°F range.
+*   **Smoking:**
+    *   **PolyScience Smoking Gun:** Can be used to inject smoke into cooling caramel. It is a "beefed up" version of a vacuum cleaner.
+    *   **Recommendation:** For a traditional smoked flavor rather than a hint, use a cold smoker.
+    *   **Cold Smoker Setup:** Remove the smoke source from the chamber and run smoke through a pipe packed with ice or cooled by running water over it.
+
+# Sous Vide Sweet Potatoes
+*   **Enzyme:** Beta-amylase converts starch to sugar.
+*   **Process:**
+    1.  Cut sweet potatoes into pieces.
+    2.  Vacuum seal in a bag (with optional oil).
+    3.  **Safety Note:** This pre-treatment is not safe for consumption until the temperature is ramped up to kill potential bacteria.
+    4.  **Step 1 (Activation):** Cook at 40–45°C (104–113°F) for 4.5 hours to activate beta-amylase and break down starch.
+    5.  **Step 2 (Enzyme Release):** Pectin methylesterase (cell wall strengthening enzyme) requires 60–65°C (140–149°F) to liberate and touch cellular tissues.
+    6.  **Step 3 (Cooking):** Slowly ramp temperature from 45°C to simmering to cook the potato through.
+*   **Time:** Cooking in a bag takes longer than roasting or boiling due to the absence of excess water; expect times similar to roasting.
+*   **Result:** Potatoes retain shape (no shriveling), have no flavor loss/addition, and increased sweetness.
+*   **Equipment:** Immersion circulator.
+
+# Transglutaminase ("Meat Glue")
+*   **Function:** Enzyme that glues different proteins together.
+*   **Application:** Can glue chicken skin to chicken breast, chicken skin to skirt steak (for chicken-fried steak), etc.
+*   **Usage:**
+    *   Sprinkle powder on pieces of meat.
+    *   Press pieces together.
+    *   Rest for 4 hours.
+*   **Storage:** Store in freezer; lasts >1 year.
+*   **Testing:** Smell of raw meat should smell like a "wet wool sweater" during reaction (smell dissipates upon eating).
+*   **Brand/Source:** Activa RM by Ajinomoto. Available at Aji Foods USA, Le Sanctuare, Terra Spice.
+*   **Cost:** Approx. $80/kg.
+
+# Microwave Physics & Experiments
+*   **Visualization:** Neon lamps in foam core can visualize electromagnetic wave patterns and energy intensity distribution.
+*   **Load Effect:** Placing water (a load) inside changes the radiation distribution pattern.
+*   **Uneven Heating:** Microwaves create standing waves; carbonized areas absorb energy preferentially, leading to hot spots and fire risk.
+*   **Speed of Light Calculation:**
+    *   **Method:** Place a slab of chocolate in microwave on high to establish a standing wave.
+    *   **Measurement:** Measure distance between melted grid points (high power regions).
+    *   **Calculation:** Distance = half wavelength. Wavelength = 2 × distance. Speed of light = Frequency × Wavelength.
+    *   **Result:** Can calculate speed of light within 3% accuracy using a household ruler, microwave, and chocolate.
+*   **Frequency:** Microwaves operate at approx. 2.4 GHz.
+*   **Safety Warning:** Do not experiment with microwave doors or mesh integrity.
+
+# Centrifuge Safety & Operation
+*   **Risk:** Aluminum buckets fatigue and can blow apart at high speeds (e.g., 4,000g).
+*   **Standard Safety:** Never run centrifuges with lids open.
+*   **Dave Arnold's Method (For Video):**
+    *   Equipment: Labconco Centrovap (clear top, stroboscope).
+    *   Modification: Defeated safety mechanisms.
+    *   Reinforcement: Secured top with 0.5-inch thick Lexan and 4,000 lb rated ratchet straps.
+    *   Observation: Used stroboscope with variable speed to freeze bucket motion.
+
+# Thanksgiving Turkey: Food Safety & Aging
+*   **Historical Context:** Hanging birds at ~50°F (10°C) for days was a traditional aging technique to tenderize meat via enzyme action and improve flavor.
+*   **Spoilage Factors:**
+    *   Cool, dry air (low humidity) encourages a dry pellicle coating, inhibiting bacterial growth.
+    *   Garlic has minor antimicrobial properties.
+    *   Salt on the skin helps preservation.
+    *   Proper butchering leaves muscle relatively sterile.
+*   **Warning:** Do not hang birds shot with lead pellets penetrating intestines.
+*   **Stuffing Safety:**
+    *   **Problem:** Stuffing inside a bird increases cook time, risking undercooking the center.
+    *   **Solution:** Pre-cook stuffing separately.
+    *   **Technique:** Place stuffing in a Ziploc bag (compressed to <1 inch thickness).
+    *   **Parameters:** Circulate at 57°C (135°F) for 1 hour to 1 hour 20 minutes.
+    *   **Outcome:** Pasteurizes eggs and other ingredients without damaging texture/flavor.
+    *   **Execution:** Stuff the bird with hot stuffing directly from the bag. This gives the bird a "jump start" on cooking.
+    *   **Cavity Prep:** Salt the inside of the bird cavity to kill bacteria and enhance flavor.
+
+# Advanced Turkey Cooking Technique (Dave Arnold)
+*   **Preparation:** "Glove boning" – remove all bones, leaving the turkey whole (a sack).
+*   **Goal:** Reduce cook time to ~2 hours to prevent fibrous texture from low-temp cooking.
+*   **Temperature Targets:**
+    *   Legs: 65°C (149°F).
+    *   Breasts: 64–65°C (147–149°F).
+*   **Method:**
+    1.  Create an aluminum skeleton inside the boned turkey.
+    2.  Pump hot oil through the skeleton to cook the interior/legs first (approx. 1 hour).
+    3.  Drop the whole bird into hot fat.
+    4.  Cook at slightly lower temperature.
+    5.  Cool down.
+    6.  **Finishing:** Spray with hot fat and crisp in a fryer.
+*   **Equipment:** Two immersion circulators (one for inside/skeleton, one for outside).
+*   **Bird Type:** Heritage breed (e.g., Narraganset).
+    *   **Characteristics:** Slower growth, better meat quality, lower feed conversion ratio.
+    *   **Sourcing:** Small farms, processed nicely, shipped frozen.
+    *   **Cost:** Higher due to labor and small-scale production.

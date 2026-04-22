@@ -1,0 +1,86 @@
+# Marijuana Infusion Techniques
+*   **Goal:** Extract THC into fat using an immersion circulator instead of a double boiler.
+*   **Temperature:** Set immersion circulator to **85°C**.
+*   **Equipment:**
+    *   Immersion circulator.
+    *   Vacuum bag (recommended to inject fat more effectively into the leaf).
+*   **Method:**
+    1.  Finely ground marijuana and fat (e.g., butter) inside the vacuum bag.
+    2.  Squeeze the bag repeatedly to create agitation (agitation is critical).
+    3.  Submerge in water bath at 85°C.
+*   **Science/Notes:**
+    *   No specific temperature is cited for extraction; increasing temperature increases extraction rate.
+    *   High-temperature storage for too long may degrade THC (according to some sources).
+    *   Higher temperatures may increase potency by acid decarboxylating THC-COOH into THC (according to other sources).
+    *   Double boiler method is fine but less efficient than vacuum bag agitation.
+
+# Potato Gratin Troubleshooting (Gray/Blue Discoloration)
+*   **Problem:** Potatoes turning bluish-gray/blackish-blue in CorningWare gratin.
+*   **Cause:** Heat not reaching potatoes fast enough before enzymes cause enzymatic browning. CorningWare transmits heat slower than metal if not preheated.
+*   **Solutions:**
+    1.  **Preheat the dish:** Preheat the CorningWare before adding potatoes to ensure rapid heat transmission.
+    2.  **Minimize Oxygen:** Coat all potato pieces in sauce before assembly to limit oxygen exposure.
+    3.  **Water Submersion:** Keep potato slices submerged in water until ready to cook (standard technique).
+    4.  **Chemical Treatment:**
+        *   Use **Ascorbic Acid (Vitamin C)**: Small amount required; flavor impact is minimal.
+        *   Use **Sodium Metabisulfite**: Available at dehydrator supply stores; acts as an antioxidant.
+        *   Avoid Lemon Juice: Will mar the flavor of the dish.
+    5.  **Blanching:** Pre-blanch slices (effective but considered a hassle).
+
+# Soda Stream Modification for Carbonating Wine
+*   **Problem:** Excessive foaming when carbonating white wine (alcohol absorbs more CO2 and has surface-active properties).
+*   **Preparation:**
+    *   Wine must be **ice cold** (not just fridge cold).
+    *   Use a larger CO2 system (e.g., intermediate size canister systems) if possible, though standard Soda Stream works with modification.
+*   **Equipment Modification:**
+    *   **Tube Extender:** Slip a piece of **rubber tubing** over the existing CO2 wand/tube to extend its length.
+    *   **Placement:** Position the extended tube closer to the **bottom** of the container to carbonate a smaller volume of liquid.
+*   **Technique:**
+    1.  Fill bottle with wine to a level where the *extended* tube can reach the bottom without touching the surface excessively.
+    2.  **Degassing Step:** Hit the unit a couple of times with CO2 to bubble out trapped air (which causes foaming). Do not fully carbonate yet.
+    3.  **Carbonation:** Hit with maximum CO2.
+    4.  **Settling:** Pick up the unit and shake it slightly, then let it settle completely before venting.
+    5.  **Repetition:** Carbonate multiple times (unlike water, which is often done once) to ensure saturation and remove nucleation sites.
+
+# ISI Infusion Technique (Flavored Oils)
+*   **Application:** Infusing oils with cacao or coffee.
+*   **Equipment:** ISI cream whipper (pressurized canister).
+*   **Gas:** Nitrous oxide (N2O).
+*   **Method:**
+    1.  Place porous ingredient (e.g., cacao, coffee) and liquid (oil or water-based) into the whipper.
+    2.  Pressurize with N2O.
+    3.  Shake vigorously to force fat/liquid into the porous product.
+    4.  Rapidly vent.
+*   **Result:** Flavor is "boiled out" into the liquid.
+*   **Ratio Note:** Use a **lot more product** when infusing oils compared to alcohol, as oils do not absorb flavor as readily.
+*   **Alternative Idea:** Placing the ISI whipper inside a water bath to extract herbal oil essences (e.g., marijuana).
+
+# Tele-Gio (Spray Cheese) Preparation
+*   **Goal:** Create a pressurized spray cheese (Tele-Gio style) using an ISI whipper.
+*   **Challenge:** Achieving the correct texture to prevent graininess (common in gunned cheese sauces).
+*   **Status:** No specific recipe provided in transcript; expert consultation pending (Wiley Dufrain).
+*   **Context:** Easy Cheese (spray cheese) sprays slowly; historically used for long road trips.
+
+# Salt Substitutes and Brines
+*   **Potassium Chloride (KCl):**
+    *   **Ratio:** Often used 50-50 with Sodium Chloride (NaCl).
+    *   **Taste:** Described as having a **nasty metallic bitter taste**.
+    *   **Functionality:** Provides similar functionality to NaCl in brines and bread scenarios (likely due to ionic strength).
+*   **Magnesium Chloride (MgCl2):**
+    *   **Taste:** Sweeter than KCl; preferred by some.
+    *   **Chemistry:** Divalent cation; requires more quantity than monovalent salts.
+    *   **Flavor Note:** Can taste nasty after carbonation (e.g., in sparkling water).
+*   **General Salt Philosophy:**
+    *   Salt is the "universal delicious maker."
+    *   Reducing salt in processed foods often leads to increased **umami** (e.g., potassium monopotassium glutamate) to maintain palatability.
+    *   **Result of Reduction:** Products taste like **dashi** (brothy, mushroomy, parmesan, tomato notes) due to added glutamates.
+    *   **Health Claim Rebuttal:** Data linking salt directly to hypertension in the general population is considered flawed; historical diets contained much more salt.
+    *   **Recommendation:** Do not force foods to taste like dashi; salt should be used liberally within reason.
+
+# Scientific Method in Cooking
+*   **Concept:** Cooks should think like scientists.
+*   **Approach:**
+    *   Try to **disprove** hypotheses rather than prove them.
+    *   Pay close attention to what actually makes food better or worse.
+    *   Avoid rushing to explanations.
+*   **Reference:** Article "The Truth Wears Off" by Joan Alaire in *The New Yorker* (discusses how scientific results often degrade upon replication).

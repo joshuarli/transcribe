@@ -1,0 +1,108 @@
+# Vietnamese Egg Soda
+*   **Technique:**
+    *   Add sweetened condensed milk to the bottom of a glass.
+    *   Crack an egg yolk into the milk and stir to combine.
+    *   Top with soda water.
+    *   Stir vigorously to create foam.
+*   **Science/Properties:**
+    *   **Cooking:** The egg yolk is **not cooked** by the soda water. Do not assume bacteria is killed by this method; use pasteurized eggs if serving pregnant individuals or those with immune issues.
+    *   **Foaming:** Egg yolks contain proteins and emulsifiers (lessithin, phospholipids) that stabilize air bubbles in water emulsions, similar to egg whites but with different mechanisms.
+    *   **Safety:** Salmonella contamination in eggs is rare (approx. 1 in 2,000 to 1 in 8,000).
+
+# Sous Vide: Wagyu and Searing
+*   **Wagyu vs. Standard Beef:**
+    *   **Fat Rendering:** Wagyu fat (less saturated) may render at lower temperatures than standard beef, but significant rendering does not occur in the typical sous vide range (54°C to 57°C / approx. 130°F to 135°F).
+    *   **Texture:** Highly marbled meat handles sous vide similarly to lower-grade cuts; the primary difference is the amount of internal fat, which keeps the meat juicy.
+    *   **Philosophy:** Sous vide is excellent for lower-grade cuts to prevent drying out, but it does not turn a "crappy cut" into a high-quality cut.
+*   **Searing Protocol (Pre- and Post-Sear):**
+    *   **Recommendation:** Sear **both before** and **after** sous vide for optimal results.
+    *   **Preference Data:** In blind taste tests, 75–80% of people prefer meat seared both before and after compared to searing only after.
+    *   **Benefits of Pre-Sear:**
+        *   Kills surface bacteria (safety).
+        *   Initiates Maillard reaction (color and flavor) inside the bag.
+        *   Creates a head start for crust formation.
+    *   **Benefits of Post-Sear:**
+        *   Creates a dark, flavorful crust (meat coming out of the bag has no crust).
+    *   **Procedure:** Chill the meat after the pre-sear before placing it in the bag.
+
+# Nitrous Oxide (ISI) Infusion
+*   **Equipment:** ISI whipped cream chargers (nitrous oxide).
+*   **Process:**
+    1.  Place porous ingredient (e.g., cocoa nibs, star anise) and liquid (e.g., liquor) in a container.
+    2.  Hit with nitrous oxide chargers.
+    3.  Pressurize and let sit for 1–3 minutes (time depends on product).
+    4.  Vent quickly to release pressure, causing gas to bubble out and extract flavor rapidly.
+*   **Science:**
+    *   Nitrous oxide is highly soluble in liquids, unlike nitrogen used in laboratory cavitation.
+    *   Infusions often taste better after sitting (5–15 minutes) because the gas remains dissolved longer.
+*   **Troubleshooting Cocoa Nibs:**
+    *   **Raw Nibs:** Do not use raw, unroasted cocoa nibs; they taste acrid, sour, or like "a donkey's behind."
+    *   **Toasting:** Nibs must be toasted.
+    *   **Brand Recommendation:** Valrhona cocoa nibs yield the best results due to porosity.
+    *   **Bar Chocolate:** Not recommended for this technique due to low porosity. Alternative: Melt chocolate with liquor, freeze, and separate fat (similar to fat washing) to extract bitterness.
+
+# Sichuan Peppercorns (Tingling Effect)
+*   **Goal:** Concentrate the numbing/tingling sensation (not the flavor).
+*   **Distillation:** Likely **not possible**. The tingling sensation is not volatile enough to distill (unlike horseradish or wasabi pungency).
+*   **Recommended Methods:**
+    1.  **Tincture:** Infuse in high-proof alcohol.
+    2.  **ISI Infusion:**
+        *   Use high-proof liquor.
+        *   Hit with 2 chargers.
+        *   Swirl, let sit 1 minute, swirl again, let sit 1 minute.
+        *   Vent, let stand 5 minutes, strain.
+    3.  **Alternative Ingredient:** Sancho peppers (Japanese green peppercorns).
+        *   Look for "double balls" (two green spheres inside).
+        *   Flavor profile is intermediate between Sichuan peppercorns and Sichuan buttons (less aggressive than buttons).
+*   **Sichuan Buttons:** Generally discouraged by the host; too aggressive ("tongue on a car battery") and long-lasting effects make them difficult to serve.
+
+# Elderberry Vinegar
+*   **Context:** Daniel Patterson (Qua, SF) and perfumer Mandy are developing elderberry vinegar after finding elderberry wine unpalatable.
+*   **Application:**
+    *   Acidity level is currently lower than high-proof vinegar.
+    *   **Suggested Use:** Sweeten and carbonate to make a soda.
+    *   **Recipe Idea:** Pour vinegar soda over fig ice cream.
+
+# Immersion Circulators (PolyScience)
+*   **Model 71 (Old School Analog):**
+    *   **Calibration:** Requires external digital thermometer and thermocouple. Dial until heating light stabilizes.
+    *   **Over-temp Thermostat:** Located on the back. Default setting is too low for water baths.
+    *   **Adjustment:** Turn up to 200°C (approx. 400°F) or higher to prevent clicking off during normal operation.
+    *   **Maintenance:** Bearings may squeal after months/years; lubricate with WD-40. Motor failure is eventual.
+*   **New Digital Models:**
+    *   **NYC Compliance:** Sand off the "Sous Vide" label on the front plate to avoid health inspector issues.
+    *   **Calibration Risk:** Users can accidentally change the offset (calibration) by pressing buttons, throwing the unit off by ~3°C (e.g., turning a perfect 62°C poached egg into a raw 59°C egg).
+    *   **Feature:** Dual unit display (Fahrenheit/Celsius).
+
+# Xanthan Gum
+*   **Function:** Stabilizer and thickener for water-based systems; creates body.
+*   **Usage Rates:** 0.25% to 0.4% (1/4 to 3/4 of 1%). Higher amounts cause a "snotty" texture.
+*   **Limitations:**
+    *   **Oil:** Xanthan gum **will not thicken oil**. It is a polysaccharide that does not interact with oil.
+    *   **Agar Substitution:** Not a good straight substitute for agar gels.
+*   **Oil Thickening Alternatives:**
+    1.  **Mono- and Diglycerides:**
+        *   Sold as flakes (e.g., Glec by Feron Texturas).
+        *   Melts out when hot; best for cold preps.
+        *   Requires high concentration (~10%) for spreadable texture, which tastes nasty.
+    2.  **Emulsion:** Mix mono- and diglycerides with water, then emulsify into oil.
+    3.  **Mayonnaise:** The best method to thicken smoked oil.
+
+# Astringency Reduction
+*   **Mechanism:** Dehydration (freezing or drying) can bond tannins with other compounds, reducing astringency.
+*   **Fruits:** Persimmons and apples lose astringency when frozen/thawed or dried.
+*   **Walnut Liquor:**
+    *   **Freezing:** Hard to freeze high-proof liquor; may work if low-proof.
+    *   **Source:** Astringency comes from walnut skins.
+    *   **Alternatives:**
+        *   Use walnut strains with low-tannin red skins.
+        *   Skin walnuts before infusion (painful process).
+        *   Try ISI infusion on cracked/smashed walnuts to extract flavor without tannins (though pecan infusions via ISI still yielded tannins).
+        *   Liquid nitrogen freezing (dehydrates) followed by slow thaw.
+
+# Clarification of Juices
+*   **Agar:** Works on canned pineapple juice and bottled orange juice.
+*   **Enzymatic Clarification:**
+    *   Use Pectinex Smash XXL or Pectinex SPL.
+    *   **Orange Juice:** Can be clarified directly enzymatically if not highly acidic.
+    *   **Pineapple Juice:** Contains proteolytic enzymes that attack gelatin; agar is required (cooking the juice first deactivates enzymes).

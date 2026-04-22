@@ -1,0 +1,100 @@
+# Whole Wheat Flour Substitution
+*   **Problem:** Dough becomes dry, volume reduces, texture becomes dense and crumbly.
+*   **Causes:**
+    *   Bran and germ presence.
+    *   Bran has 0% gluten.
+    *   Bran/fiber inhibits gluten network formation, weakening air-holding capacity.
+*   **Techniques:**
+    *   **Pre-soaking:** Hydrate the whole wheat portion in all liquid ingredients first. Let sit for a long time (minutes to hours) to allow soluble components to hydrate.
+    *   **Liquid Adjustment:** Add a little more liquid overall because high-fiber products absorb more moisture.
+    *   **Fat Addition:** Add oil or fat at discretion to soften texture (does not fix dryness caused by lack of hydration).
+    *   **Gluten Reinforcement:** Add vital wheat gluten to counteract low gluten content and weakened network.
+    *   **Development:** Knead/develop dough longer to strengthen the gluten network.
+*   **Recipe Example (Pancakes):**
+    *   Ingredients: >50% non-white flour (whole wheat), wheat germ, oatmeal, cornmeal, buttermilk, eggs.
+    *   Method: Add all liquid ingredients (buttermilk, eggs) at the outset. Let soak for minutes.
+*   **Reference:** *High Fiber Ingredient Handbooks* (Egan Press series). Available via American Association of Cereal Chemists (subscription or individual purchase).
+
+# Stuffed Pig Trotter (Zampone)
+*   **Technique:** Low-temperature poaching.
+*   **Parameters:**
+    *   Temperature: 60°C to 63°C (Dave recommends 62-63°C).
+    *   Time: 48 to 72 hours (Dave suggests testing a piece of skin first to determine exact time needed for collagen/gelatin breakdown; traditional Zampone boiled at simmering temps for 2-4 hours).
+*   **Ingredients & Functions:**
+    *   **Pig Trotter:** Source of skin and collagen. Must be unslit (found in Chinese butcher shops) to hold filling.
+    *   **Meat:** Finely divided meat (shoulder, knuckles, ankles).
+    *   **Flavorings:** Ras el hanout, exotic morotic spice blend.
+    *   **Binder:** Activa (meat glue/transglutaminase) used as insurance to bind meat and skin, especially if skin is damaged or large chunks are used.
+    *   **Luxury Add-in:** Foie gras pieces.
+*   **Preparation:**
+    *   Bone out the trotter completely.
+    *   Turn skin inside out to remove bones/meat/connective tissue, creating a "glove."
+    *   Stuff with meat mixture.
+    *   Vacuum seal (or roll in plastic if vacuum bags are unavailable).
+*   **Cooking Goal:** Gelatinize starch and collagen in the pig foot; meat inside is finely chopped and cooks quickly.
+
+# Caramelization in Pressure Cookers (No Liquid)
+*   **Technique:** Pressure cooking chopped root vegetables (e.g., carrots) with no added water.
+*   **Mechanism:**
+    *   High concentration of sugars in the vegetables themselves.
+    *   Possible role of fructose (caramelizes at lower temperatures than sucrose).
+    *   Possible acid inversion (though not confirmed if acid was added).
+    *   Localized high temperatures in gas-fired pressure cookers (electric cookers regulate temperature better).
+*   **Safety:**
+    *   No significant safety risk regarding pressure relief valves or gaskets (rated up to ~500°F).
+    *   Primary risk is scorching vegetables.
+    *   Plastic components may melt before gaskets fail.
+*   **Equipment:** American Canner (large), Coon Recons (smaller, faster to pressurize).
+
+# Tomato Skins and Digestion
+*   **Fact:** Tomato skins pass undigested through the digestive tract.
+*   **Composition:** High in insoluble fiber (hemicellulose, lignin).
+*   **Process:** Insoluble fiber is not water-soluble and is not damaged by bacteria in the large intestine.
+*   **Context:** Often mistaken for parasites (e.g., *Echinostoma revolutum*) by individuals examining stool samples, particularly after using colon cleansers which decrease transit time.
+
+# Yeast vs. Chemically Leavened Breads
+*   **Yeast Bread:**
+    *   Leavening: Aeration of yeast producing CO2 over a long period.
+    *   Structure: Relies on a pre-formed gluten network to trap air.
+    *   Texture: Stringy, chewy.
+    *   pH: Minimal change unless combined with bacteria (sourdough).
+*   **Chemically Leavened (Quick) Bread:**
+    *   Leavening: Rapid aeration via acid-base reaction or decomposition (e.g., baking soda/powder) at or near baking time.
+    *   Structure: Not reliant on gluten for primary structure; relies on other air-trapping networks (e.g., pentazans in rye).
+    *   Texture: Crumbly.
+*   **Salt Rising Bread:**
+    *   Leavening: Bacterial action.
+    *   Texture: Crumbly (similar to soda bread).
+    *   pH: Radical pH shift affects gluten, making it slack.
+
+# Sensory Modifiers
+*   **Genistein (Genemic Acid):**
+    *   Function: Inhibits sweetness.
+    *   Source: Ayurvedic shops, Calustian's, Dual Spice Specialty Shop.
+    *   Effect: Can "obliterate" the sense of sweetness.
+*   **Miraculin:**
+    *   Function: Turns sour taste into sweet.
+    *   Effect: Works regardless of the sour agent used.
+*   **Bitter Blockers (e.g., Adenosine Monophosphate):**
+    *   Function: Reduces bitterness.
+    *   Limitation: Bitterness has >50 receptor types; blockers are often dose/time-dependent and may not completely eliminate bitterness (unlike genistein for sweetness).
+
+# Beef Aging and Finishing
+*   **Grass-Fed vs. Grain-Fed:**
+    *   Grain-finishing fattens cows quickly, tenderizing meat and reducing aging time needed.
+    *   Grass-fed beef typically lacks a large fat cap, leading to rapid moisture loss during dry aging.
+*   **Dry Aging Grass-Fed Beef:**
+    *   Challenge: Moisture loss due to lack of external fat cap.
+    *   Solution: Prefer dry aging for flavor development, but expect higher yield loss.
+*   **Visual Issues:**
+    *   **Purple Color:** Caused by lack of oxygen (vacuum bagging). Fix: Remove from bag and let dry out (convert to dry aging).
+    *   **Flabbiness:** Caused by excess moisture retention. Fix: Dry aging process removes water.
+*   **Recommendation:** Grass-fed beef should be dry-aged for best flavor, despite cost/yield implications.
+
+# Equipment & Resources Mentioned
+*   **Books:**
+    *   *Modernist Cuisine* by Nathan Myhrvold ($450).
+    *   *Ideas and Food* by Alex Talbot Nackie ($20 retail, $5 extra with Modernist Cuisine).
+    *   *High Fiber Ingredient Handbooks* (Egan Press series).
+*   **Pressure Cookers:** American Canner, Coon Recons.
+*   **Ingredients:** Activa (meat glue), Genistein, Miraculin, Adenosine Monophosphate.

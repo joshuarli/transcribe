@@ -1,0 +1,92 @@
+# Raw Food Challenge & Ingredients
+*   **Challenge:** Dave Arnold will eat exclusively raw food for one week if a listener can produce a raw chocolate bar that is delicious and does not leave a bad aftertaste.
+*   **Enzyme Denaturation:**
+    *   Common belief: Enzymes are destroyed at 108°F (42°C).
+    *   Scientific reality: Enzyme denaturation depends on both temperature and time; there is no "magic brick wall" at 108°F. Many enzymes survive well above this temperature.
+    *   Functional role: Dave argues preserving enzymes in food offers no proven benefit, as many are deactivated in the gut anyway, and some enzymes cause damage.
+*   **Raw Chocolate Constraints:**
+    *   **Cocoa Butter:** To achieve chocolate consistency from raw nibs, cocoa butter must be added. Pressing cocoa butter typically requires temperatures above 108°F.
+    *   **Roasting:** Raw chocolate lacks roasted flavors because the beans are never roasted.
+    *   **Ben Ripple / Big Tree Farms:** A supplier in Bali offering "certified raw" cocoa products. Dave notes this is likely a niche market strategy to increase value rather than a strict adherence to raw food ideology.
+*   **Dietary Restrictions for Dave:**
+    *   **Sashimi/Carpaccio:** Permitted.
+    *   **Parmesan Cheese:** Not permitted. The curdling process involves temperatures higher than 108°F.
+    *   **Unpasteurized Milk:** Difficult to source in New York City; may be impossible to find unpasteurized milk.
+    *   **Vegetarian/Vegan:** Dave is willing to go vegetarian but finds unpasteurized milk difficult to source, making a strict vegan week problematic.
+    *   **Goal:** Create truly delicious raw food that is not an imitation of cooked food (e.g., no hyper-processed products made solely to meet the 108°F rule).
+
+# Hydrocolloids & TIC Gums
+*   **Company:** TIC Gums (Headquarters: Beltsville, Maryland).
+*   **Product Type:** Manufacturer of hydrocolloids (thickening and gelling agents).
+    *   **Shift in Usage:** Moved from industrial cost-saving/shelf-life extension to legitimate high-cuisine ingredients for special effects and quality.
+    *   **Sales Model:** Sells to individuals; offers a "Chef's Kit."
+    *   **Product Naming:** Products have obscure names (e.g., "Saladizer 210S," "Tickloid").
+    *   **Formulation:** Often blends proprietary mixtures rather than selling raw materials (unlike Dow Chemical). Exact composition of blends is not disclosed.
+*   **Specific Product: Saladizer (210S or 310S)**
+    *   **Composition:** Mixture of Gum Arabic and Xanthan Gum.
+    *   **Function:** Stabilizes oil-in-water emulsions.
+    *   **Applications:** Simple syrups with oils/fats, salad dressings, sauces.
+    *   **Usage:** Effective in cold applications; easy to use; not finicky.
+*   **Contact Information:**
+    *   **Gum Guru:** A hotline/system on the TIC Gums website where users can describe a problem (e.g., "my salad dressing separates") and receive specific product recommendations.
+    *   **Scott Riefler:** Former East Coast rep (now West Coast/Asia rep). Dave suggests contacting him for East Coast contacts.
+
+# Chemical Reactions & Browning
+*   **Maillard Reaction:**
+    *   **Definition:** Browning reaction involving reducing sugars and proteins, typically accelerated by heat.
+    *   **Alkaline Acceleration:** Speeded up by alkaline conditions (high pH).
+        *   **Examples:** Pretzels (cooked in alkaline water), egg whites (alkaline nature causes browning during long cooking/pressure cooking).
+        *   **Baking Soda:** Adds alkalinity, speeding up Maillard reactions.
+    *   **Distinction:** Maillard reactions are not responsible for the browning of vibrant green vegetables in broth; that is enzymatic or chlorophyll degradation.
+*   **Chlorophyll Degradation (Green Vegetables):**
+    *   **Mechanism:** Over time or with acid, magnesium in chlorophyll is displaced by hydrogen ions, turning chlorophyll olive-drab/brown.
+    *   **Baking Soda Effect:**
+        *   **Pros:** Preserves green color by preventing magnesium displacement (alkaline environment).
+        *   **Cons:** Breaks down pectin and hemicellulose in cell walls, causing vegetables to become mushy quickly.
+        *   **Exception:** Acceptable for purees where texture is irrelevant.
+    *   **Storage:** Storing soups at lower temperatures helps preserve color.
+*   **Thai Red Lime Paste:**
+    *   **Composition:** Calcium Hydroxide (Limestone) + Turmeric (likely added for red color, though Dave is unsure).
+    *   **Function:**
+        *   **Bananas:** Vacuum-injected into bananas to preserve cell walls, keeping them firm during cooking (e.g., Bananas Foster) without mushiness.
+        *   **Batters:** Keeps fried batters (e.g., tempura) crispy longer than regular water.
+    *   **Chemistry:** Calcium strengthens pectin via cross-linking, making cell walls resistant to heat breakdown.
+    *   **Connection to Nixtamalization:** Similar to the process of soaking corn in calcium hydroxide to make masa/hominy.
+
+# Caramel & Sugar Chemistry
+*   **Inversion:**
+    *   **Process:** Acid breaks sucrose (disaccharide) into glucose and fructose (monosaccharides).
+    *   **Effect:** Inverted sugars do not harden the same way upon cooling, resulting in a softer product.
+    *   **Application:** Dragon's Breath candy (cooked with acid at the start).
+*   **Cooking Time vs. Temperature:**
+    *   **Standard Sugar Syrup:** Final temperature is a function of water content.
+    *   **Caramel Complexity:** Texture is affected by more than just final temperature.
+        *   **Variables:** Milk solids, fats, and other ingredients alter boiling points and final texture.
+        *   **Observation:** Some chocolatiers report that cooking faster (to higher temperatures) yields harder caramels, while cooking longer (slower) yields softer ones. This contradicts the simple inversion theory and suggests milk solid conversion or fat interaction is a factor.
+    *   **Status:** Dave notes this is a complex problem requiring further research (potentially with Harold McGee).
+
+# Equipment & Ingredients
+*   **S. Wallace Edwards & Sons (Surrey Farms):**
+    *   **Product:** Family-raised, pasture-raised, antibiotic-free pork.
+    *   **Products:** Serrano-style hams, prosciutto-style hams, bacon, sausage.
+    *   **Supply Chain:** Uses Heritage Foods USA for livestock.
+    *   **Dave's Opinion:** American ham is delicious and has a unique cultural tradition; US cure masters are skilled, but the quality of available pork is often inferior to Spanish pork.
+*   **TIC Gums Products:**
+    *   **Saladizer 210S/310S:** Gum Arabic + Xanthan Gum blend.
+    *   **Thai Red Lime Paste:** Calcium Hydroxide + Turmeric.
+*   **Raw Chocolate:**
+    *   **Ben Ripple / Big Tree Farms:** Supplier of certified raw cocoa from Bali.
+*   **Egg Substitutes:**
+    *   **Dave's Knowledge Gap:** Limited knowledge on single-ingredient egg replacers for omelets/scrambles.
+    *   **Hydrocolloid Substitutes:**
+        *   **Thickening/Binding:** Xanthan gum.
+        *   **Aeration:** Methylcellulose.
+        *   **Emulsification:** Soy lecithin.
+    *   **Status:** Question deferred to next week's show for deeper investigation.
+
+# Techniques & Experiments Planned
+*   **Raw Food Week:** Dave plans to attempt a week of raw food, focusing on developing new techniques and recipes rather than buying pre-made products.
+*   **Nixtamalization Experiment:** Dave plans to use Thai Red Lime Paste (Calcium Hydroxide) to perform nixtamalization on corn (using cow stored in the fridge) to see the results.
+*   **Tempura Batter Test:** Dave plans to test Thai Red Lime Paste in tempura batters to verify if it increases crispiness compared to regular water.
+*   **Vegetable Texture Test:** Investigating if Calcium Hydroxide can create vegetables that are both green (via pH) and crunchy (via calcium cross-linking pectin).
+*   **Broth Storage Test:** Dave plans to store a non-chlorophyl broth at 70°C (158°F) for 12 hours to test browning rates.

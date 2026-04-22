@@ -1,0 +1,97 @@
+# CVAP (Convective Vacuum Assisted Performance) Ovens
+*Originally designed by Winston for Kentucky Fried Chicken; functions as a bain-marie in the bottom of a holding oven with separate controls for water temperature, oven temperature, and humidity.*
+
+*   **Accuracy:** Independent tests by Nathan Mirvold and Chris Young show accuracy of ±2°C over the long haul. Smaller ovens are more accurate.
+*   **Fish (Direct Service):**
+    *   **Technique:** Cook fish *not* in a bag.
+    *   **Temperature:** Set 10–15°C higher than the target internal temperature.
+    *   **Time:** 10–12 minutes depending on portion size.
+    *   **Note:** Frequent opening/closing causes air exchange ("sucking wind"), requiring slightly increased cook times.
+*   **Hamburgers:**
+    *   **Technique:** Excellent for holding; requires post-searing to restore exterior texture.
+*   **Tortilla Chips:**
+    *   **Technique:** Hold chips in low humidity settings to prevent drying out (counterintuitive use of water bath).
+*   **Prime Rib:**
+    *   **Status:** Dave Arnold has developed a specific formula for prime rib in CVAPs.
+*   **Advantages:** Less expensive than combi ovens; no venting or drain requirements; lower power consumption.
+*   **Rep Contact:** Howard Richardson (company representative).
+
+# Immersion Circulators (Sous Vide)
+*   **Cleaning & Sterilization (Used Equipment):**
+    *   **Preparation:** Remove all deposits (oil, calcium) using a toothbrush.
+    *   **Calcium Removal:** Circulate CLR (Calcium Lime Rust) tablet solution.
+    *   **Sanitization:** Soak in a fairly concentrated bleach solution.
+    *   **Final Step:** Wipe down entire surface with bleach (ensure unit is unplugged).
+    *   **Boil Test:** Circulate water up to boiling to ensure biological kill.
+*   **Maintenance:**
+    *   **Bearings:** If bearings squeak/squeal, apply WD-40 (not food grade) or food-grade lubricant to extend life by a few months.
+    *   **Electrical Connections:** Open the back; file clean spade terminals to prevent corrosion/resistance which causes heat generation and failure.
+    *   **Triacs:** Some older Lauda units suffer from triac failure (more complex repair).
+*   **Model Mentioned:** VWR circulator (acquired for ~$50).
+
+# Low-Temperature Chicken (Thighs/Legs)
+*   **Target Temperature:** 64–65°C (Do not go below 64°C).
+*   **Vacuum Level Warning:** Do not use very high vacuum.
+    *   **Reason:** Chicken bones are hollow and contain red "gunk." High vacuum pulls this out, staining the meat permanently red ("persistent pinking").
+    *   **Symptoms:** Meat looks red but is cooked; diners reject it.
+*   **Mitigation Strategies:**
+    *   **Faster Cook:** Increase temperature to ~70°C and cook for 30–35 minutes.
+    *   **Bone Removal:** Bone the meat, flatten it, and cook quickly to avoid the issue.
+*   **Time:** Approx. 45 minutes at 64–65°C for pieces not clumped together.
+
+# Beets (Low-Temperature Roasting)
+*   **Preparation:** Peel beets before bagging to prevent earthy skin flavors from leaching into the flesh.
+*   **Fat:** Add a neutral fat (solid or liquid); avoid olive oil as it flavors the bag.
+*   **Method:** Simmer in a pot of water (bagged).
+    *   **Timing:** Similar to or longer than roasting time.
+    *   **Doneness Test:** Pinch with fingers; sides of the bag should not touch the pot edge (risk of melting).
+    *   **Benefit:** Preserves bright, clean vegetable flavors; prevents moisture loss.
+*   **Finishing:** Sear in a pan with oil at 450–500°F to add caramelized/roasted flavors.
+*   **Applicability:** Works well for carrots and other root vegetables.
+
+# Milk Skins / Yuba
+*   **Formation Process:**
+    *   Heat milk (or soy milk) in a wide, shallow pan.
+    *   **Temperature:** >60°C, ideally 80–90°C (just under boil).
+    *   **Condition:** Surface must be placid (no boiling bubbles).
+    *   **Mechanism:** Heat denatures proteins; they float, aggregate on fat droplets, lose moisture via evaporation, and polymerize into a film.
+*   **Layering Dynamics:**
+    *   **First Layers:** Most delicate, highest protein content, considered highest grade.
+    *   **Subsequent Layers:** Thicker, higher sugar content, less protein/fat remaining in the batch.
+*   **Technique:** Do **not** wait for a thick skin to form. Remove the first few fragile skins immediately. Leaving them alters the chemical composition of the remaining milk.
+*   **Related Product:** Tofu (highly recommended to make at home for flavor control).
+    *   **Resource:** *The Book of Tofu* by William Shurtleff.
+    *   **Byproduct:** Okara (pulp) can be used in muffins/pancakes.
+
+# Pressure Cooking Asabuco (Veal Shank)
+*   **Feasibility:** Possible, but results differ from slow braise (fibers more distinct).
+*   **Time:** Approx. 25 minutes at 15 psi (second ring).
+*   **Recipe Adaptations:**
+    *   **Sauce:** Make thinner than usual to prevent scorching/sticking of tomatoes.
+    *   **Pre-cooking:** Sear meat, ensure sauce is boiling and stirred before closing the pot.
+    *   **Venting:** Do **not** force vent; allow natural pressure release to prevent drying/blowing apart the meat.
+*   **Collagen Breakdown:** Meat toughens initially as collagen breaks down; tenderness returns once collagen converts to gelatin. Overcooking leads to mushiness or drying out.
+
+# Knives & Sharpening
+*   **Preferences:**
+    *   **Style:** Japanese Western style (thin blade) or Traditional Japanese (single bevel/chisel edge).
+    *   **Avoid:** Comparing grit sizes between American and Japanese systems (not 1:1).
+    *   **Edge Type:** Japanese stones create a "mirror edge" (polished); American grits may leave micro-serrations helpful for aggressive cutting (e.g., tomatoes).
+*   **Sharpening Tools:**
+    *   **Diamond Stones:** Composite flat diamond stones (e.g., DMT/DMZ). Can be used dry or with water/oil.
+    *   **Edge Pro System:** Good for volume sharpening (maintains contact angles/burr removal), but overkill for single knives.
+    *   **Leather Strop:** Recommended for refining the edge.
+*   **Technique:**
+    *   Sharpen one side until a burr forms (feel with finger).
+    *   Flip and remove burr.
+    *   Progress to finer grits.
+    *   Strop.
+*   **Recommendation:** Traditional Japanese knives (e.g., Deba, Yanagi) from Corin K-O-R-I-N.com (~$100).
+    *   **Maintenance:** Sharpen almost every use.
+    *   **Caution:** Fragile; do not cut bones.
+
+# Restaurant Career Advice (Staging)
+*   **Strategy:** Work for free (stage) at a well-known restaurant (e.g., Attica) to build contacts.
+*   **Networking:** Leverage the "small world" nature of the industry; chefs know each other and extend professional courtesy.
+*   **Action:** Work hard ("break your back"), then ask a chef/Sous Chef directly for referrals to target restaurants (e.g., Townhouse, WD-50, Moto, Linea).
+*   **Requirement:** Willingness to work gratis is the primary entry point.

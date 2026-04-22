@@ -1,0 +1,96 @@
+# Wild Food Foraging
+*   **Recommended Reading:**
+    *   *Stalking the Wild Asparagus* and *Stalking the Wild Scallop* by **Yule Gibbons** (late 1960s/early 1970s).
+    *   **Paul Stamets** website for mushroom guides (authorities on fungus).
+*   **Safety & Technique:**
+    *   **Identification:** Beginners must distinguish between edible and poisonous look-alikes. Mistakes can be fatal.
+    *   **Local Knowledge:** Foraging guides are often dated; what is safe in one region may be poisonous in another.
+    *   **Best Practice:** Do not collect mushrooms or wild plants alone for the first time. Join local mycological societies for guided tours.
+    *   **Experience:** The safest method is to learn from an experienced forager who can teach identification by sight, touch, and smell in the field.
+*   **Specific Ingredients & Locations:**
+    *   **Lamb's Quarters (*Chenopodium album*):** A wild green growing in vacant lots in New York City (e.g., Lower East Side).
+    *   **Sea Rocket:** A wild, spicy, slightly bitter green found in Maine (similar to arugula).
+    *   **Sea Beans:** Salty wild greens found in Maine (reduce need for added salt).
+    *   **Seaside Lamb's Quarters:** A seaside variant of the inland green.
+    *   **Mussels and Sea Urchins:** Harvested from water in Maine.
+    *   **Oklahoma:** Unknown specific wild ingredients, but local foraging is guaranteed to yield something.
+
+# Extracting Pine Needle and Bark Flavors
+*   **Extraction Methods:**
+    *   **Alcohol:** Pine needle flavor extracts extremely well into alcohol using a vacuum machine.
+    *   **Oil:** Feasible but untested by the host; requires caution regarding flavor profile.
+    *   **Water:** Can be extracted using a vacuum machine.
+    *   **Equipment:** Vacuum concentrator (Rotovap) or vacuum sealer/whipped cream maker (ISI whipper).
+*   **Flavor Profile & Risks:**
+    *   **Pine Varieties:** Different pines offer different profiles (e.g., sprucey vs. "duck fur" flavors).
+    *   **Psychological Barrier:** Many people associate pine with "Pine-Sol" (bathroom cleaner) or "Pine-Salt." This association can make delicious pine flavors unpalatable to some.
+    *   **Yew Warning:** Yew trees look like pine but are poisonous.
+    *   **Bark:** Wood extracts (e.g., oak water) are potent, sour, and barky. Results via vacuum machine are untested but likely potent.
+*   **Preparation:**
+    *   **Tea:** Classically made by boiling pine needles.
+    *   **Oil:** Can be made by infusing oil with pine needles.
+
+# Smoking vs. Vaporizing Equipment
+*   **PolyScience Smoking Gun:**
+    *   **Mechanism:** Combusts material (wood chips, herbs) to create smoke.
+    *   **Usage:** Injects smoke into containers or vacuum chambers.
+    *   **Flavor Profile:** Smoke particles settle out over time; flavor differs from continuous smoking. Useful for infusing aroma without direct combustion of food.
+    *   **History:** Evolved from reverse-engineered handheld vacuum cleaners.
+*   **Herbal Vaporizers (e.g., Volcano):**
+    *   **Mechanism:** Heats a chamber to a temperature below combustion to vaporize material without burning it.
+    *   **Flavor Profile:** Produces cleaner flavors with less tar/nasty chemicals compared to combustion.
+    *   **Culinary Application:** Used by Grant Aikatz at *Linia* restaurant to infuse aromas (e.g., vaporizing herbs).
+    *   **Portable Butane Vaporizers:** Cheaper alternatives to the Volcano; function similarly (vaporization vs. combustion).
+*   **Comparison:** Combustion (Smoking Gun) vs. Vaporization (Volcano). They are not equivalent; vaporization offers a cleaner, less smoky profile.
+
+# Sugar Reduction and Meringue Stabilization
+*   **Maltodextrin:**
+    *   **Function:** Bulking agent and caloric reducer.
+    *   **Structure:** Short chains of glucose units (starch broken down).
+        *   Longer chains = less sweet, more bland.
+        *   Shorter chains (e.g., 2 glucose units = maltose) = sweeter.
+    *   **Caloric Impact:** Has calories like starch, but used in smaller quantities due to high bulking power, resulting in reduced caloric intake.
+    *   **Diabetic Friendly:** Does not cause insulin spikes (unlike sugar).
+    *   **Density:** Extremely low density (fluffy). 1 lb can expand to the size of a bean bag chair.
+    *   **Oil-to-Powder Conversion:** Specific tapioca maltodextrin (**EnsoRite** from National Starch Corporation) is used to turn oils into powders.
+        *   **Mechanism:** Starch helix structure is hydrophobic inside (holds oil) and hydrophilic outside (dissolves in water/mouth).
+        *   **Note:** Not all maltodextrins are suitable for this; EnsoRite is specific.
+*   **Methylcellulose:**
+    *   **Source:** Modified cellulose (not found in nature, but not "ungodly").
+    *   **Properties:** Gels when heated; acts as a whipping agent.
+    *   **Application:** Used in meringues to replace egg whites (protein) for structure.
+    *   **Process:** Whip fruit purees (bulked with pectin/solids) + Methylcellulose + Sweetener (non-sugar) -> Dehydrate.
+    *   **Limitation:** Highly hygroscopic (sucks up moisture); does not last long outside.
+*   **Recipe Modification:**
+    *   Combine maltodextrin (bulking) + Xanthan gum (thickening) + Methylcellulose (whipping) to create low-sugar meringues.
+
+# Infused Vodka and Reduction Techniques
+*   **Habanero Vodka:**
+    *   **Green Habaneros:** Flavor is fairly stable over time.
+    *   **Red Habaneros:** Flavor is unstable. Lasts 2–6 months before degrading to a "greener," jalapeño-like taste.
+    *   **Storage:** Freezing extends shelf life.
+    *   **Proof:** Stable at ~100 proof (50% alcohol).
+    *   **Culinary Use:** Excellent in sauces; provides habanero aroma without the heat (capsaicin).
+*   **Vodka Reduction in Sauces:**
+    *   **Purpose:** Adding vodka releases volatile aromas.
+    *   **Reduction:** Boiling removes some ethanol but not all.
+    *   **Technique Question:** Why reduce vodka after adding it?
+        *   **Host Opinion:** Reducing to remove alcohol is pointless if the goal is aroma release. Adding a smaller amount later might achieve the same result.
+        *   **Hypothesis:** Reduction may be unnecessary for aroma release; timing of addition is key.
+
+# Equipment and Anecdotes
+*   **Vacuum Machine Transport:**
+    *   **Event:** Mark Ladner (Del Posto) donated a 500 lb, partially functional vacuum machine to the French Culinary Institute.
+    *   **Challenge:** Located 2.5 miles away (16th St to Hudson River); no lift gate for truck.
+    *   **Solution:** Host pushed the machine manually on the hottest day of the year to avoid truck rental costs.
+    *   **Philosophy:** Extreme cheapness and resourcefulness (e.g., biking to Brooklyn, buying cheap equipment) vs. spending on high-quality ingredients.
+*   **Clarified Concord Grape Drink (Vogue Event):**
+    *   **Process:**
+        1.  Ice crush grapes.
+        2.  Add **SPL** (pectin-breaking enzyme from CookingIssues.com).
+        3.  Grind in chocolate grinder (set high to avoid crushing seeds, which cause bitterness).
+        4.  Spin in centrifuge.
+        5.  Add lemon juice and maple syrup.
+        6.  Chill with liquid nitrogen and water.
+    *   **Base:** Rye whiskey (for future version, switch to Maker's Mark).
+    *   **Volume:** ~400 drinks sold in one hour.

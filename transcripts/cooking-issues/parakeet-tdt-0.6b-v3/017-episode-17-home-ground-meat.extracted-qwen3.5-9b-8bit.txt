@@ -1,0 +1,67 @@
+# Vacuum Sealing & Equipment
+*   **Chamber vs. External Vacuum:** Commercial chamber vacuums (e.g., FoodSaver commercial grade ~$1500) evacuate the entire chamber, preventing external air pressure from forcing liquids into the bag straws. External vacuum machines (standard home FoodSaver) suck air through crisscross lines in the bag; external pressure forces liquids into these lines, sucking them out of the bag.
+*   **Home Workarounds:**
+    *   Freeze sauces before bagging to prevent liquid suction.
+    *   Use Ziploc bags for 90% of home tasks (sauces, fish, chicken, eggs).
+    *   **Ziploc Water Displacement Method:** Seal the entire bag, leaving one unsealed section. Submerge the bag in water; water displaces air. Snip and seal the last section just before the bag sinks entirely.
+    *   **Caution:** Do not use hard vacuum on fish or chicken; it damages texture and causes a "canned" flavor. Do not use Ziploc bags for boiling temperatures.
+*   **Circulator Calibration:**
+    *   **Issue:** Users often set the "offset" (intended for Fahrenheit/Celsius switching) to 2-3°, causing temperature errors.
+    *   **Calibration:** Fill a bath with ice and water. Set circulator to -10°C. Run for 10 minutes. Adjust offset to 0° to calibrate.
+
+# Hydrocolloids & Gelling Agents
+*   **Agar:** Dave's favorite hydrocolloid. Natural, versatile, easily available.
+*   **Vegetarian Marshmallows:**
+    *   **Do not use agar:** It is porous and weeps (synoeresis).
+    *   **Recommended Mix:** Kappa carrageenan + Locust bean gum.
+    *   **Specific Product:** Genutine X9303 (manufactured by CP Kelco). Available via La Sanctuary (California) or direct contact.
+    *   **Function:** The mix softens the brittle kappa carrageenan to mimic gelatin structure.
+
+# Tofu Production
+*   **Soaking:** 8–10 hours. Verify soak through without over-soaking.
+*   **Yield:** ~1.5 cups dry soybeans yields ~15–16 cups water total.
+*   **Process:**
+    1.  Blend soaked beans with 2 cups hot water (Vita-Prep recommended).
+    2.  Pour into 7.5 cups hot water (near boil).
+    3.  Boil, then strain through a cloth sack to remove pulp (okara).
+    4.  Remix okara with 3 cups boiling water, boil, strain again.
+    5.  Use remaining ~1 cup liquid with solidifier.
+*   **Solidifiers:**
+    *   **Nigari:** Traditional Japanese seawater derivative. Dave has had poor luck with it.
+    *   **Epsom Salts (Magnesium Sulfate):** Dave's preference. Use ~2 tsp. Available at drugstores.
+    *   **Alternatives:** Calcium chloride (~2 tsp) or Magnesium chloride (~2 tsp). Calcium chloride tastes bad; others are less noticeable.
+*   **Coagulation:** Add solidifier in stages (stir some, pour some over top). Wait minutes for curd formation. Press down gently; do not agitate to avoid breaking curds.
+*   **Store-Bought vs. Homemade:** Store-bought tofu is often leached of flavor by excess water. Homemade tofu retains delicate bean flavor. Best used fresh (soft tofu for soups) or fried heavily.
+
+# Meat Grinding
+*   **Preparation:**
+    *   **Trimming:** Most critical step. Remove sinew, cartilage, and visible bone chips. Buy whole muscle cuts to inspect bone structure before cutting.
+    *   **Par-freezing:** Freeze meat until stiff with a slight crunch on the outside (not solid).
+*   **Equipment:** Ensure cutters are sharp to prevent pasting fat and overheating.
+*   **Technique:** Pass through grinder once or twice depending on desired texture.
+*   **Safety:** Thoroughly clean and sanitize the grinder to prevent bacterial contamination.
+
+# Enzymes & Clarification
+*   **Pectinex SPL:** Enzyme used to break down pectin, hemicellulose, and other cell wall components.
+*   **Application:** Used to chemically supreme blood oranges (removing membranes without knife contact) to prevent juice leakage. Also used for clarifying fruit juices and making French fries.
+*   **Source:** Novozymes. Available via cookingissues.com.
+
+# Sugar Work & Confectionery
+*   **Dragon's Beard Candy:**
+    *   **Ingredients:** Sugar, corn syrup (invert sugar), vinegar (inverts sugar to prevent crystallization), water.
+    *   **Temperatures:** Cook to ~103°C. Pull at ~132°C.
+    *   **Process:** Form into hockeypuck shapes. Nuke in microwave for 10 seconds to make pliable. Form into donuts. Pull repeatedly (13–14 times, doubling strands each time) while dredging in cornstarch (or rice flour).
+    *   **Technique:** Front hand holds still; back hand pulls. Reverse grip and pull. Watch hands, not faces.
+    *   **Oil Infusion Attempt:** Tried tapioca maltodextrin (specifically EnsoRit M from National Starch Corp) and freeze-dried raspberry/almond flour. Texture was poor compared to cornstarch.
+*   **Liquid Nitrogen:** Used to freeze citrus vesicles instantly. Hitting frozen citrus with a rolling pin breaks vesicles while keeping them whole for garnish.
+
+# Produce & Specific Items
+*   **Parsnips:** Contain significant starch. Juicing and heating causes starch functionalization/thickening. Storing parsnips converts starch to sugar (increasing sweetness).
+*   **Pears:**
+    *   **Narunbarun:** Tastes/smells like quince, no astringency, very juicy. Rare (found in Statale collection, Kent).
+    *   **Nimrod:** Tastes like candy.
+    *   **Status:** Both difficult to find; seeking sources.
+*   **Country Ham:**
+    *   **Recommendation:** Do not cook if possible. Slice on meat slicer and serve like prosciutto.
+    *   **Sponsors/Brands:** Wallace Edwards, Finchville Farms (Kentucky, Robertson family), Colonel Newsom's (Kentucky), Alan Benton (Tennessee), Burger Smokehouse (Missouri, offers "attic age" ham).
+    *   **Philosophy:** Dry curing is the "height" of what can happen to a pig.

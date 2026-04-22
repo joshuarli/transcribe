@@ -1,0 +1,122 @@
+# Culinary Notes: Cooking Issues Podcast
+
+## Techniques & Parameters
+
+### Poached Eggs (Immersion Circulator)
+*   **Runny Poached Egg:**
+    *   **Temp:** 62°C (143.5°F)
+    *   **Time:** 1 hour (can be reduced to 45 minutes)
+    *   **Holding:** Can drop temp to 60°C/59°C and hold for hours; thin white separates from thick white upon cracking.
+*   **Creamy Poached Egg:**
+    *   **Temp:** 63°C (145.5°F)
+    *   **Time:** 1 hour
+    *   **Holding:** Drop to 60°C; yolk is creamy but still runs (good for consommé).
+*   **"Hard-Boiled" Style (Soft Yolk):**
+    *   **Step 1:** Simmering water for 4–5 minutes.
+    *   **Step 2:** Transfer to 70°C (158°F) water.
+    *   **Time:** 1 hour.
+    *   **Result:** Yolk is perfectly yellow and creamy; not overcooked.
+*   **Serving:** Pass through simmering water immediately before service to brighten the white (applies to 95% of eggs).
+*   **Note on Oven Method:** Evaporative cooling in an oven drops internal egg temp by 2–3°C, allowing 65°C (149°F) to yield a runny yolk (contrary to Ervatis's claim that 65°C is perfect without this factor).
+
+### Sous Vide Searing Methods
+*   **Pre-Sear Strategy:** Sear before water bath to kill bacteria and start crust development; re-sear after water bath to restore crust (which is lost during low-temp cooking).
+*   **Temperature Management:** Drop water bath temp significantly before searing to prevent overcooking meat while achieving high surface heat.
+    *   *Example:* If cooking steak to 130°F, drop bath to 50°C (122°F) for 30 minutes prior to searing.
+*   **Blowtorch Usage:**
+    *   **Gas Types:**
+        *   *Acetylene:* Too hot; imparts fuel taste (e.g., "god awful" taste on fish). Not recommended.
+        *   *Propane/Butane:* Commercial grades often contain odorants (methylmercaptan/ethylmercaptan). Incomplete combustion leads to "torch taste" (sulfur smell), especially on fatty meats.
+        *   *MAPP Gas:* Hotter; available at Home Depot; odorant status unknown but potentially cleaner.
+        *   *Clean Butane:* Pipe lighters/cigar lighting butane have fewer odorants and smell less.
+    *   **Combustion Control:**
+        *   Use a grid (e.g., chinois) or Nichrome wire to heat up and ensure complete combustion, eliminating torch taste.
+        *   *Warning:* Heating a chinois ruins it; requires buying separate Nichrome wire.
+    *   **Roofing Torch:** Can achieve complete combustion with no torch taste but scorches work surfaces and creates uneven crusts. Risk of fire.
+    *   **Crust Depth:** Hyper-intense heat may not produce the same Maillard products as normal heat. Requires a specific depth of crust; torching risks incinerating the top before achieving thickness or creating uneven spots.
+    *   **Recommendation:** Use torch only for touch-ups (e.g., around bird thighs/wings), not as primary searing method.
+
+### Hydrocolloid Stabilization (Preventing Curdling)
+*   **Context:** Preventing dairy curdling in high-acid environments (e.g., Lilikoi/passion fruit).
+*   **Carrageenan & Locust Bean Gum (LBG):**
+    *   **Iota Carrageenan:** Pudding-like texture; suitable for high acid.
+    *   **Kappa Carrageenan:** Rigid texture; **avoid** in high acid (potential carcinogenic concerns at very low pH, though unproven; also undesirable texture).
+    *   **Ratio:** Use Iota + LBG for structure without excessive firmness.
+*   **Cornstarch:**
+    *   Effective at preventing egg yolk curdling when overheated (e.g., Hollandaise).
+    *   Can be mixed into dairy before combining with acid.
+*   **Pre-gelling:** Pre-gel the dairy before adding acid.
+
+### Chocolate Tempering (Sous Vide)
+*   **Method:** Place chocolate in temper in a sous vide bag, vacuum seal, and submerge in water bath set to exact melting point.
+*   **Temperature Control:** Maintain accuracy within 0.1°C to keep chocolate in temper.
+*   **Execution:** Move bag around to execute temperature ramps if needed.
+*   **Caution:** Ensure no water contacts the chocolate upon removal. Use a pastry bag instead of a standard bag for easier handling.
+
+### Rapid Infusion Equipment
+*   **Whippers vs. Soda Siphons:**
+    *   **Recommendation:** Buy whippers only. Soda siphons are specialized, have thin necks (hard to fill), draw from the bottom (risk of losing carbonation via spray head), and are harder to clean.
+    *   **Capacity:**
+        *   *1L:* Better for making many drinks; requires more CO2 chargers.
+        *   *0.5L:* Standard for recipes/tests; sufficient for home use.
+    *   **Usage Note:** If using a 1L whipper with small product volume, add an extra CO2 charger.
+
+### DIY Immersion Circulator Specs
+*   **Control Loop:** Must use **PID Control** (Proportional-Integral-Derivative) to prevent overshooting and oscillation.
+    *   *DIY Tip:* Use Arduino code (search "Sylvia PID Arduino") or buy a pre-made PID controller (~$35).
+*   **Pump:** Aquarium pumps or small recirculation pumps (~$15). Can bubble air or pump water.
+*   **Heater:**
+    *   Target: ~1000 Watts.
+    *   Higher wattage = faster response time.
+    *   Ensure electrical outlet can handle amperage (standard 15-amp plug limit).
+*   **Precision/Accuracy:**
+    *   **Accuracy:** Within 0.3°C of target.
+    *   **Precision:** Dead on within 0.1°C (repeatability).
+*   **Relay Type:** Use **Solid State Relay** (~$20) instead of mechanical relay to avoid audible clicking and wear.
+
+## Equipment Discussed
+
+| Equipment | Details / Tradeoffs |
+| :--- | :--- |
+| **Immersion Circulators** | Commercial units (e.g., PolyScience) are accurate and precise. DIY versions often suffer from shock hazards (cheap coffee heaters) or electrical issues. |
+| **Whippers** | Superior to soda siphons for carbonation and infusion. Available in 0.5L and 1L sizes. |
+| **Soda Siphons** | Thin necks, difficult to fill, carbonation loss during dispensing, hard to clean. Only useful for long-term storage of seltzer. |
+| **Blowtorches** | **Propane/Butane:** Risk of "torch taste" due to sulfur odorants unless using clean gas or ensuring complete combustion (via grid/Nichrome). **Acetylene:** Too hot, fuel taste. **MAPP Gas:** Hotter option. **Roofing Torch:** High fire risk, uneven heat. |
+| **Water Jet Cutter** | Mentioned as equipment at Modernist Cuisine lab (Nathan Myhrvold/Chris Young). |
+| **Scanning Electron Microscope** | Available at Modernist Cuisine lab (and Myhrvold's home). |
+| **Ultrasonic Cleaner** | Used by Modernist Cuisine team for French fries. |
+
+## Ingredients & Functional Roles
+
+*   **Agar:** A chemical (derived from seaweed); often confused by laypeople.
+*   **Carrageenan (Iota vs. Kappa):**
+    *   *Iota:* Pudding texture, stable in acid.
+    *   *Kappa:* Rigid, unstable in acid, potential safety concerns at low pH.
+*   **Locust Bean Gum (LBG):** Stabilizer used with carrageenan in ice creams.
+*   **Cornstarch:** Thickener/stabilizer; prevents egg yolk curdling in emulsions (Hollandaise).
+*   **Methocel F50:** Whipping agent; creates dense mousses (like shaving cream); acts as an egg substitute.
+*   **Preserved Lemons:** Flavor derived from specific strains of **yeast** that survive high salt environments.
+*   **Tropical Fruits (South Dade):**
+    *   *Chipoticaba:* Grape-like, musky, grows on tree bark.
+    *   *Canistel:* Sweet potato taste, egg custard texture; excellent for ice cream.
+    *   *Black Sapote:* "Chocolate pudding fruit"; dark, creamy; excellent for ice cream.
+    *   *Lilikoi (Passion Fruit):* High acid; requires stabilization (carrageenan/LBG or starch) for custards/creme brûlée.
+
+## Personal Anecdotes & Demonstrations
+
+*   **Miami South Beach Fo & Wine Festival:** Dave and Nastia hosted a science exhibit for the Liberty Science Center alongside Chris Young. They answered questions from children (e.g., "Is Agar a chemical?") and visited rare fruit locations.
+*   **Fruit & Spice Park (Miami Dade):** Highly recommended over South Beach. Features 75+ varieties of jackfruit and hundreds of citrus/mango varieties.
+*   **Modernist Cuisine Cookbook:** Dave visited Nathan Myhrvold's lab in Bellevue, WA. The book is 6 volumes, weighs ~40 lbs, printed by only 2 factories on earth. Sold over half the initial printing.
+*   **Egg Experiment:** Dave demonstrated that Ervatis's claim of 65°C being perfect for poached eggs is flawed due to evaporative cooling in ovens vs. circulators.
+*   **French Fries:** Dave tested "ultrasonic French fries" (Myhrvold's technique) vs. his own "SPL" (Sous Vide Lye) technique. He prefers his own half-inch SPL fry but acknowledges the ultrasonic fry is good. Plans to combine techniques.
+*   **Lilikoi Soufflé/Crème Brûlée:** Aaron Melvin (Hawaii) struggled with curdling. Dave suggested carrageenan/LBG or cornstarch. Aaron successfully made Methocel F50 meringues with Lilikoi.
+
+## Strong Opinions & Recommendations
+
+*   **Fruit:** Visit the Miami Dade Fruit & Spice Park immediately if in South Dade; avoid South Beach if possible.
+*   **Equipment:** Buy whippers, not soda siphons. Buy a 1L whipper only if making many drinks; otherwise, 0.5L is fine.
+*   **Cooking:** Do not use acetylene torches for food. Avoid kappa carrageenan in acidic dishes.
+*   **Books:** The *Modernist Cuisine* cookbook is exceptional; everyone should buy it.
+*   **Music:** James Brown is excellent for treadmill syncing, but the podcast might switch to Merle Haggard or Phil Collins in the future.
+*   **Pizza:** Dave loves pizza but admits he is "weird" about Vegas.
+*   **DIY Circulators:** Avoid cheap coffee heaters due to shock risk. Use solid-state relays for silence. Accuracy (0.3°C) is less critical than precision (0.1°C repeatability) for recipe replication.

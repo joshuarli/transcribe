@@ -1,0 +1,88 @@
+# Techniques & Parameters
+
+*   **Rotovap Distillation (Fresh Herbs):**
+    *   **Goal:** Distill fresh herbs (e.g., Thai basil, cilantro, cucumber, orange) immediately after distillation to preserve volatile aromas that degrade in water-based distillates.
+    *   **Temperature:** Set chiller as low as possible. For alcohol, set around **-20°C**.
+    *   **Method:** Do not use automatic distillation; constantly force the distillation to achieve the fastest rate.
+    *   **Post-Process:** Immediately drink or use the distillate.
+*   **Rotovap Distillation (Peppers):**
+    *   **Selection:** Choose fresh, floral red peppers to capture floral notes that do not degrade through the process.
+    *   **Horseradish:** Distill to capture the pungent principle, which creates an intensely pungent, long-lasting product.
+    *   **Cleaning:** Must completely break down and clean all grease from rotovap joints between batches to prevent contamination, especially when switching from pungent/aromatic ingredients.
+*   **Yogurt Making:**
+    *   **Pre-heating:** Heat milk to **180°F (82°C)** for **30 minutes**.
+    *   **Purpose:** Denatures whey proteins (lactoglobulin), providing body and water-retaining ability. Without this step, the yogurt will curdle and lack thick consistency.
+*   **Sausage Smoking:**
+    *   **Target Internal Temperature:** Keep sausage below **140°F (60°C)** during smoking to prevent overcooking and juice loss.
+    *   **Method:** Water bath at **140°F (60°C)**, then finish by grilling, frying, or pan-searing to create a crust.
+*   **Pork Belly Sous Vide:**
+    *   **Temperature Range:** **145°F–149°F (63°C–65°C)**. Lower temperatures (e.g., **140°F/60°C**) require longer times (3–5 days) for tenderness.
+    *   **Rind:** Leave the rind on; do not trim. Crisp the skin after cooking.
+    *   **Preparation:** Compress the pork belly slightly before cooking to create a flat surface for crisping.
+    *   **Muscle Identification:** Identify the oval-shaped muscle (Chinese 5 fingers) which becomes mushy/dry with long cooking; remove and cook separately.
+*   **Sweet Potato Film (Ovolato):**
+    *   **Acid Addition:** Add vinegar to hot sweet potato puree before drying.
+    *   **Effect:** Acid causes limited hydrolysis of starch, creating smaller sugar molecules and starch pieces that plasticize the film, preventing brittleness.
+    *   **Boiling Vinegar:** Acetic acid volatilizes at a rate similar to water; pH remains relatively constant during boiling.
+*   **Bacon Curing:**
+    *   **Time Guideline:** Days per inch of meat thickness.
+    *   **Vacuum Bagging:** Accelerates cure penetration.
+    *   **Brine Strength:** Adding water (e.g., maple syrup) reduces theoretical brine strength, requiring longer cure times.
+*   **Beef Brining & Cooking:**
+    *   **Sequence:** Brine raw meat first; do not brine after cooking (causes desiccation).
+    *   **Sous Vide Temperature for Brisket:** **131°F (55°C)** is low; higher temperatures are preferred for texture.
+    *   **Post-Cook Shocking:** Do not shock cooked meat in an ice bath; it prevents reabsorption of expelled juices.
+    *   **Enzymes:** Brining unknits muscle fibers; effect on tenderizing enzymes is unknown but brining before cooking is standard.
+
+# Equipment
+
+*   **Rotary Evaporator (Rotovap):**
+    *   **Usage:** Best for fresh herbs, peppers, and horseradish.
+    *   **Tradeoffs:** Water-based distillates have fugitive aromas that degrade quickly; requires immediate use.
+    *   **Settings:** Manual control preferred over automatic for speed. Chiller set to minimum (approx. -20°C for alcohol).
+*   **Circulator:** Highly recommended for precise temperature control in sausage and pork belly cooking to avoid overcooking.
+*   **Vacuum Bags:** Useful for accelerating marinade/brine penetration and sous vide cooking.
+*   **Jacquard Injector:** Allows for rapid flavor penetration into meat.
+
+# Ingredients & Functional Roles
+
+*   **Reduced Fat Milk:** Often supplemented with whey solids (lactoglobulin). Heating denatures these proteins, improving body and water retention compared to full-fat milk where casein curdles.
+*   **Marinade Components:**
+    *   **Finely Comminuted Ingredients:** Ground or minced spices/aromatics provide more direct contact and flavor release than whole/chopped items.
+    *   **Acids:** Penetrate friable meats (e.g., chicken) but can denature surface proteins excessively if overused, creating a mushy layer. Best used in sauces rather than long marinades unless vacuum-sealed.
+    *   **Salts:** Break down into ions, easily penetrating meat to alter water-holding capacity.
+    *   **Flavor Molecules:** Larger than salt ions; do not penetrate meat easily; best added to the sauce.
+*   **Walnuts:**
+    *   **Seed Coat Color:** Lighter seed coats indicate lower tannins/astringency. Darker coats indicate higher tannins.
+    *   **Red Walnuts:** Contain anthocyanins instead of tannins; less astringent, delicious, but stain hands.
+    *   **Freshness:** Critical factor; older nuts lose quality.
+*   **Almonds (California):** Generally lower in oil compared to European varieties; likely due to agronomic yield priorities rather than quality intent.
+*   **Pink Salt (Instacure #1):** Contains nitrite, not nitrate. Essential for curing bacon.
+*   **Maple Syrup:** Can substitute for water/sugar in wet cures but reduces brine strength.
+*   **Bitumen/Shilajit:** Medicinal exudate from Himalayas/Dead Sea; historically mistranslated as "mummy" (ground human remains). Used in Ayurvedic medicine.
+*   **Rhubarb:** Paired with Shilajit (mummy) as a historical medicinal combination (Francis I of France).
+
+# Personal Anecdotes & Demonstrations
+
+*   **Thai Iced Tea:** Dave Arnold admits he cannot answer the specific spice blend question due to lack of current taste memory and avoids giving researched answers without verification. Recommends David Thompson's books (*Thai Cooking*, *Street Food*) or Pim's site.
+*   **Roka Family Oyster:** Recalls an oyster in jelly flavored with "earth" (dirt) created by the Roka family. Notes the flavor was unbalanced and tasted like dirt rather than forest, likely due to incorrect concentration of the distillate and the use of a water-based distillate that didn't fix well.
+*   **Frankincense Distillation:** Mentions a past event with Mandy Aftel where they rotovaped Frankincense with Martel.
+*   **Walnut Trees:** Recalls playing with immature walnuts as a child; they stain hands badly and have a distinct aroma compared to dried nuts.
+*   **Red Walnuts:** Tried red walnuts at a farmer's market; found them good but less flavorful than pale ones due to freshness issues in that specific batch.
+*   **Salt Tasting Study:** Recalls a controlled triangle test with ~40 professionally trained tasters (including Jeffrey Steingart) tasting 20 different salts in 0.8% solution. Only one person correctly identified all differences; results were inconclusive/fluke.
+*   **Mummy Medicine:** Explains the historical mistranslation of "mummi" (bitumen) to "mummy" (human remains), leading to the trade of ground cadavers. Notes Francis I of France carried Shilajit and rhubarb as medicaments.
+*   **Zuppa Alapavese:** Mentions a dish invented for Francis I of France during captivity by Charles V: bread with an egg cooked in broth, served on Parmesan shavings.
+
+# Strong Opinions & Recommendations
+
+*   **Thai Iced Tea:** Do not guess the recipe; consult David Thompson or Pim's site.
+*   **Rotovap Usage:** Use only for things you can do no other way (fresh herbs, specific peppers, horseradish). Clean grease thoroughly between batches.
+*   **Yogurt:** Pre-heating milk to 180°F for 30 minutes is non-negotiable for proper texture.
+*   **Marinades:** Put acidic flavors in the sauce; put functional ingredients (salt, sugar) in the marinade/brine. Avoid over-marinating with acid unless vacuum-sealed or sous vide, as it makes meat mushy.
+*   **Sausages:** Never overcook. Target internal temp <140°F (60°C). Water bath then sear.
+*   **Pork Belly:** Compress before cooking. Remove the specific oval muscle that gets mushy. Leave the rind on.
+*   **Beef Brining:** Brine raw meat, not cooked meat. Do not shock cooked meat in ice baths.
+*   **Walnuts:** Seek light-skinned or red walnuts for lower astringency. Check freshness.
+*   **Almonds:** European almonds are superior in oil content and flavor to California almonds.
+*   **Salt:** Many salts taste different in solution (0.8%), but trained tasters struggle to distinguish them consistently.
+*   **Museum Fundraiser:** Theme is "Food as Medicine," featuring Shilajit (mummy) and rhubarb.

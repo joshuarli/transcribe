@@ -1,0 +1,95 @@
+# Stirring vs. Shaking Cocktails
+*   **Shaking Efficiency:** Shaking style and ice quality (within reason, assuming no surface water) have minimal impact on final temperature and dilution.
+*   **Shaking Parameters:** Shake for **12 to 15 seconds** to reach equilibrium.
+*   **Stirring Complexity:** Stirring is less efficient at chilling than shaking.
+*   **Ice Temperature Myth:** Ice from a freezer is not significantly colder or more effective than ice at melting point. Most chilling/dilution occurs via ice melting, not temperature difference.
+*   **Stirring Parameters:** Can take up to **1 minute or longer** to reach equilibrium. Stirring duration significantly alters the drink.
+*   **Rule:** No dilution without motion; no chilling without motion.
+
+# Food Aging and Flavor Development
+*   **General Rule:** Some foods taste better after sitting (e.g., tomato sauces, lentil soups, stews); others taste worse (e.g., potatoes, certain meats).
+*   **Negative Aging (Oxidation):**
+    *   **Potatoes:** Develop "cardboardy" off-flavors when stored.
+    *   **Meats:** Develop "warmed-over" flavor when chilled and reheated due to fat oxidation of polyunsaturated fats.
+    *   **Mitigation:** Vacuum bagging ameliorates oxidation issues.
+*   **Positive Aging Mechanisms:**
+    *   **Pizza:** Reheating properly recrisps the crust by driving off water migrated to the dough during initial baking.
+    *   **Lasagna:** Pasta reabsorbs water from the sauce as it cools, concentrating the sauce.
+    *   **Volatiles:** High-note volatile compounds in strong sauces (tomato, stew) flash off during cooling and rewarming, creating an "evening out" effect.
+    *   **Chemical Breakdown:** Volatiles created during cooking degrade/hydrolyze differently in the fridge vs. on heat, leading to a leveling of flavors upon reheating.
+    *   **Penetration:** Spices may penetrate deeper into ingredients (e.g., beans) over time.
+
+# Freezing and Thawing Techniques
+*   **Freezing as Dehydration:** Water crystallizes out of cells, removing it from the product.
+*   **Drip Loss:** Hallmark of improperly frozen products (damaged cells). Rapid freezing minimizes drip loss.
+*   **Liquid Nitrogen:**
+    *   Preserves quality; significantly reduces drip loss.
+    *   **Technique:** Suspend food *above* liquid nitrogen for minutes to pre-freeze (preventing hyper-brittleness) before immersion.
+*   **Salted Ice Slush:** Alternative to liquid nitrogen. Mix ice with **25% salt by weight** to create a slush for rapid freezing with small ice crystals.
+*   **Thawing Physics:**
+    *   Ice conducts heat better than water. As food thaws, the outer layer becomes water (poor conductor), slowing the process.
+    *   Thawing takes longer than freezing.
+*   **Fast Thawing Method:** Place food in a bag and submerge in **running water**.
+*   **Crock Pot Usage:**
+    *   Safe to cook frozen meat directly.
+    *   Long cooking times render out water and gelatin, compensating for initial dehydration.
+    *   Does not significantly alter cooking times unless meat is very thick.
+
+# Sauce Stabilization (Freeze-Thaw)
+*   **Ineffective Stabilizers:** Gelatin and Agar are *not* freeze-thaw stable (they weep fluid upon thawing; useful for clarification).
+*   **Effective Stabilizers (Thickeners):**
+    *   **Locust Bean Gum:** Effective stabilizer (must be heated).
+    *   **Guar Gum:** Effective stabilizer; note that standard guar has a bad flavor unless using high-quality, flavor-free guar (e.g., TIC gums).
+    *   **Xanthan Gum:** Acts as a stabilizer to prevent weeping.
+    *   **Starches:** General category of thickeners that help stabilize gels.
+
+# Pepper Heat Reduction (Habaneros)
+*   **Goal:** Remove capsaicin while preserving floral aroma.
+*   **Proposed Methods Discussed:**
+    *   **Mechanical Removal:** Removing veins, seeds, and inner skin (labor intensive, high contamination risk).
+    *   **Vodka Maceration:** Alcohol preferentially absorbs capsaicin, but may also extract floral aromas.
+    *   **Distillation:**
+        *   **Rotovap:** Preferred method (low temperature, ~40°C).
+        *   **Stovetop Distillation:** Feasible alternative using a pot, ice, and bowl, but operates at higher temperatures (~80°C), risking aroma loss.
+    *   **Peelzyme:** Enzyme that breaks down tissue into mush; not recommended for texture preservation.
+    *   **Oleophilic Agents:** Potential to bond with fats (capsaicin is lipophilic); untested.
+
+# Exotic Meats (Cooking Issues Experiment)
+*   **Lion:**
+    *   **Flavor:** Similar to pork chop but more savory (carnivore diet).
+    *   **Texture:** Tough if old; requires long cooking.
+    *   **Parameters:** Cooked at **57–60°C** for **1–2 hours** (resulted in tough meat). Recommendation: Cook for **10 hours** at **60°C**.
+*   **Black Bear:**
+    *   **Flavor:** Bloody, mineral aftertaste; not enjoyed.
+    *   **Texture:** Tender before cooking, tough after.
+    *   **Parameters:** Cooked at **57°C** for **1 hour**.
+    *   **Safety:** Trichinosis killed by cooking; however, food poisoning occurred.
+*   **Raccoon:**
+    *   **Flavor:** Disappointing; high fat content.
+    *   **Texture:** Tough.
+    *   **Parameters:** Cooked at **60°C** for **4.5 hours**.
+    *   **Recommendation:** Cook to **63°C** for **24 hours**, then shred for stew.
+*   **Beaver:**
+    *   **Tail Meat:** Delicious, woody aroma.
+    *   **Parameters:** Soaked in vinegar water, salted, cooked at **60°C** in butter for **24 hours**, then shredded.
+    *   **Flapper (Tail Skin/Fat):** Rendered at **80°C** for a couple of hours, then fried. Too much fat inside. Future plan: Remove fat, dehydrate skin to make chicharrones.
+*   **Yak:**
+    *   **Flavor:** Savory, duck-like, tuna-like notes.
+    *   **Texture:** Similar to short rib.
+    *   **Parameters:** Cooked at **60°C** for **24 hours** (overnight). Result: Texture of skirt steak.
+
+# Grain Cooking: Farro
+*   **User Issue:** Cooking at 3:1 water ratio for 50 minutes resulted in poor texture.
+*   **Recommendations:**
+    *   **Soaking:** Soak grains initially to help soften tough seed coats.
+    *   **Equipment:** Use a **rice cooker** (prevents scorching) or a **pressure cooker** (pushes liquid into seed coats).
+    *   **Pressure Cooker Method:** Cook for **30–40 minutes** with excess liquid. Keep grains submerged in liquid to prevent hardening. Reduce leftover liquid for use.
+    *   **Risotto Style:** Fry grains initially, then add liquid gradually while stirring until absorbed (takes much longer).
+*   **Source:** Cesare Cosella (Dean of Italian Studies) and Louis DiPaolo (DiPaolo's) cook farro risotto style.
+
+# Microwave Safety
+*   **Door Shield:** Perforated metal grate prevents microwaves from escaping. Holes are sized to block wavelengths while allowing light through.
+*   **Risk:** Placing eyes directly against the metal grate allows short-distance energy penetration.
+*   **Leakage:** Can occur if latch fails, door material is compromised, or grounding is poor.
+*   **Detection:** Microwave detectors (meters) can identify leakage.
+*   **History:** Microwave technology derived from radar; anecdotal reports of engineers melting candy bars or blinding themselves from radar exposure.

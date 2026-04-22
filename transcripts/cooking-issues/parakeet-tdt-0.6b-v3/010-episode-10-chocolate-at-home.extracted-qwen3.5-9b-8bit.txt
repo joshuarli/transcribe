@@ -1,0 +1,142 @@
+# Techniques & Parameters
+
+### Meringue Sugar Reduction
+*   **Concept:** Replace a portion of sugar with a high-intensity sweetener mixed with a bulking agent (non-nutritive sweetener with sugar-like properties).
+*   **Goal:** Reduce caloric density while maintaining volume and sweet sensation.
+*   **Status:** Investigation pending; host hesitant due to quality concerns but promised to research.
+
+### Kale Preparation
+*   **Prep:** Chop kale. Remove only the end of the stem; do not remove the central vein.
+*   **Cooking Method:** Sauté.
+    1.  Sauté onion first.
+    2.  Add garlic at the last minute.
+    3.  Add kale (provides its own moisture as it cooks down).
+*   **Seasoning:**
+    *   Add sufficient salt.
+    *   Add acid (e.g., vinegar, lemon) after cooking to brighten.
+    *   Optional: Add sweetener.
+*   **Alternative (Hearty Greens):** Cook greens with meat (sausage, bacon), beans (white beans), and acidity (mustard, vinegar, lemon).
+
+### Chocolate Making (From Beans)
+*   **Ingredients:**
+    *   Cocoa nibs (roasted beans).
+    *   Cocoa butter (deodorized recommended).
+    *   Sugar.
+    *   Powdered lecithin (emulsifier, <0.5%).
+    *   Vanilla (use whole beans or vanilla sugar; avoid extracts containing water).
+    *   *Note:* Cannot make chocolate from nibs alone; requires added cocoa butter.
+*   **Equipment:**
+    *   **Champion Juicer:** Used to grind nibs into a paste. Grind until warm and liquefied.
+    *   **Santhal (Chocolate Melanger):** Small machine with two stone wheels rolling on a round stone surface.
+*   **Process:**
+    1.  Grind nibs in Champion Juicer until paste forms and warms.
+    2.  Add melted cocoa butter, sugar, lecithin, and vanilla.
+    3.  **Volatiles Management:** Run machine with lid off for a short time to release volatiles and flash off extra water.
+    4.  **Tempering/Texture:** Cap the machine and run for **23 days** to achieve correct texture and smoothness.
+*   **Particle Size:** Target **20 microns** or smaller.
+*   **Cost:** Initial investment approx. **$500** (Santhal + Champion Juicer).
+*   **Resources:** Website `chocolatealchemy.com`.
+
+### Lemoncello Cloudiness (Uzo Effect)
+*   **Phenomenon:** Cloudiness occurs when oils precipitate out of solution due to dilution or temperature drop.
+*   **Mechanism:** Oils soluble in high-proof alcohol become insoluble when alcohol level drops or temperature decreases, forming oil droplets.
+*   **Hypothesis on Temperature:**
+    *   Adding warm syrup may create smaller, more stable oil droplets, potentially retaining more lemon oil and increasing bitterness.
+    *   Adding cold syrup may create larger droplets that coalesce and settle out over days, potentially clarifying the drink.
+*   **Status:** Unproven; host has not conducted definitive tests.
+
+### Velveting Meat
+*   **Ingredients:** Egg white, cornstarch, wine, salt, baking soda (optional).
+*   **Process:**
+    1.  Marinate small chunks of meat in the mixture.
+    2.  Set the coating via hot oil or boiling water.
+    3.  Proceed to stir-fry.
+*   **Scientific Mechanisms:**
+    *   **Moisture Retention:** Egg white coating may protect meat, causing water to evaporate from the egg first rather than the meat.
+    *   **Alkaline Tenderization:** Egg whites age to become alkaline (pH up to 9). Alkaline conditions increase protein/collagen breakdown rates. Baking soda also tenderizes via alkalinity and ionic character.
+    *   **Porosity:** Baking soda decomposes when heated, forming CO2 gas and creating a porous structure interpreted as tenderness.
+    *   **Water Holding Capacity:** Salt increases the amount of water proteins can hold.
+    *   **Browning:** Alkaline conditions increase browning rates (e.g., pretzels boiled in lye/baking soda). Rapid browning may signal doneness earlier, preventing overcooking.
+    *   **Interaction:** Wine acidity may counteract the tenderizing effects of baking soda/egg white alkalinity.
+
+### Frozen Slushies (Supercooling)
+*   **Concept:** Supercooling a liquid below its freezing point without ice nucleation, then triggering crystallization.
+*   **Constraints:**
+    *   **Nucleation Sites:** Mint leaves (crushed) act as nucleation sites, preventing supercooling.
+    *   **Lime Juice:** Causes cloudiness/nucleation; should be added last.
+*   **Procedure:**
+    1.  Mix drink (water, sugar syrup, alcohol, salt) without lime juice.
+    2.  Charge with gas (Nitrous Oxide or CO2) in a cream whipper/siphon. Gas lowers freezing point, allowing deeper supercooling.
+    3.  Chill mixture to approx. **-8°C to -10°C**.
+    4.  Invert whipper/siphon immediately to release gas (bubbles act as nucleation sites) and foam the drink.
+    5.  Pour into cup.
+    6.  Stir in lime juice.
+*   **Guarantee:** Not guaranteed to work; depends on cleanliness and lack of nucleation sites.
+
+### Pre-Diluted Shaken Cocktails
+*   **Problem:** Shaken drinks are more diluted and aerated than stirred drinks. Pre-diluting and chilling loses the texture.
+*   **Solutions Tested:**
+    *   **Blender:** Failed (bubbles too large).
+    *   **Liquid Nitrogen:** Close approximation (adds small bubbles as N2 boils off).
+    *   **Freezer + Shaking:** Dilute drink, chill in freezer (do not freeze solid), then shake in a cocktail shaker without ice.
+    *   **Freezer + Core Container + Springs:** Shake pre-diluted frozen drink in a core container (takeout container) with Hawthorne strainer springs removed.
+*   **Results:**
+    *   Shaking in a core container with springs produced the most aeration (some preferred least intense).
+    *   Shaking in a quart container or standard shaker produced results very close to fresh shaking.
+    *   Density/Intensity preferences varied by taster.
+*   **Method:** Store pre-diluted cocktails in core containers in the freezer. Shake vigorously before serving.
+
+### Carbonating Cocktails
+*   **Equipment:**
+    *   **Preferred:** 20-lb CO2 tank with ball fittings (homebrewer style).
+        *   Cost: ~$90 for tank, ~$30 for regulator, ~$0.13/ft for hose. Total system under **$81**.
+        *   Benefit: Fine-tuned pressure control (e.g., 30-35 psi vs 40 psi changes flavor profile).
+    *   **Alternative:** Cream whipper or Soda Siphon.
+        *   Limitation: Fixed increments of CO2 (7-8g cartridges); less fine control.
+*   **Technique (Whipper/Siphon):**
+    1.  **Vent Air:** Charge with 1st cartridge, shake briefly to displace air/nucleation sites, then vent completely.
+    2.  **Carbonate:** Add 2nd cartridge (drink must be ice cold; ice cubes help). Shake for carbonation.
+    3.  **Settle:** Let sit for a couple of minutes.
+    4.  **Pour:** Slowly vent and pour.
+*   **Science:**
+    *   CO2 is more soluble in alcohol than water.
+    *   **Rule:** Higher alcohol content requires higher pressure to achieve equivalent carbonation effect.
+    *   **Air Space:** Enemy of carbonation; must minimize headspace.
+*   **Recommendations:**
+    *   Avoid carbonating rum drinks (personal preference).
+    *   Good candidates: Gin drinks, Negronis.
+    *   Avoid: Manhattan-style drinks, bitters (flavor distortion).
+
+# Equipment Discussed
+
+| Equipment | Purpose | Notes/Tradeoffs |
+| :--- | :--- | :--- |
+| **Champion Juicer** | Grinding cocoa nibs into paste. | Also makes peanut butter. Grinds until warm/liquefied. |
+| **Santhal (Melanger)** | Refining chocolate particle size. | Two stone wheels on a round stone. Requires 23 days of running for texture. |
+| **20-lb CO2 Tank** | Carbonating drinks. | Cheaper long-term than cartridges. Allows precise pressure control. |
+| **Cream Whipper** | Carbonating drinks / Supercooling. | Uses Nitrous Oxide. Good for displacing air before final charge. |
+| **Soda Siphon** | Carbonating drinks. | Less preferred than whipper. Fixed cartridge increments. |
+| **Core Container** | Shaking pre-frozen cocktails. | Takeout containers. Used with strainer springs for aeration. |
+| **Hawthorne Strainer (Springs removed)** | Aeration tool. | Used inside core container to shake frozen drinks. |
+
+# Ingredients & Functional Roles
+
+*   **Tanat (Grape Variety):** High in procyanidins; associated with cardiovascular health benefits in studies.
+*   **Cocoa Butter:** Essential for chocolate making; provides fat to coat cocoa particles. Deodorized preferred.
+*   **Egg White:** Alkaline (pH up to 9 when aged); acts as tenderizer and moisture barrier in velveting.
+*   **Baking Soda (Sodium Bicarbonate):** Alkaline tenderizer; creates porosity via CO2 release when heated; accelerates browning.
+*   **Salt:** Increases water-holding capacity of meat proteins.
+*   **Lime Juice:** Contains oils that cause clouding (Uzo effect) and acts as a nucleation site for freezing. Add last.
+*   **Vanilla:** Flavoring. Use whole beans or sugar; avoid extracts (water content).
+*   **Lecithin:** Emulsifier (<0.5%).
+
+# Strong Opinions & Recommendations
+
+*   **Wine Name:** "Booza" is the best name for a wine; genius.
+*   **Meringues:** Good snacks for sweet tooth due to high air content and low caloric density per volume.
+*   **Kale:** Do not eat raw; prefer sautéed with onion, garlic, acid, and salt.
+*   **Chocolate Making:** "Crap in, crap out." Quality of nibs is critical.
+*   **Baking Soda on Meat:** While it browns meat fast (like pretzels), the taste is "god awful terrible" in large amounts.
+*   **Carbonation:** Air is the enemy. Minimize headspace. Higher alcohol = higher pressure needed.
+*   **Pre-made Cocktails:** Shaking a pre-diluted, frozen cocktail in a core container with strainer springs is a viable alternative to fresh shaking.
+*   **Lemoncello:** The cloudiness issue is likely due to oil precipitation (Uzo effect), but the exact relationship between warm vs. cold syrup addition and bitterness is unproven.

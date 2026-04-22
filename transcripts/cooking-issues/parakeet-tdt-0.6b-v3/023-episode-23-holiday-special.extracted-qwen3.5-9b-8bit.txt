@@ -1,0 +1,106 @@
+# Low-Temperature Cooking: Short Ribs
+*   **Technique:** Sous vide (thermal circulator) followed by searing and sauce integration.
+*   **Temperature & Time Parameters:**
+    *   **5°C (41°F):** 6–72 hours. Result: Fork-tender, falls apart, but lacks "beefy" taste; fibers overcooked.
+    *   **57°C (135°F):** Medium-rare zone. Slices like a steak, not shreddable.
+    *   **58°C (136°F):** Rare.
+    *   **60°C (140°F):** Recommended target.
+        *   24 hours: Texture of skirt steak.
+        *   48 hours: Firm but tender short rib (Ideal).
+        *   72 hours: Too mushy, lost texture.
+    *   **55–56°C (131–133°F):** Re-therm range after searing (2–4 hours).
+*   **Sauce Preparation:**
+    *   Must **over-reduce** sauce before bagging (consistency: "almost gloppy").
+    *   Reason: Meat releases juices in the bag; if sauce is thin, it becomes diluted ("pot of fur" taste).
+*   **Post-Cook Process:**
+    1.  Chill bag (do not chill immediately; let sit on counter ~20 mins first to allow meat to reabsorb juices).
+    2.  Optional: Soak in tap water ~20 mins (improves taste per Bruno Gous/independent tests).
+    3.  Ice bath to cool.
+    4.  Open bag, scrape out rendered sauce.
+    5.  Warm sauce, correct taste/temperature, defat, add acidity/seasoning.
+    6.  Return sauce to Ziploc bag with meat.
+    7.  Sear meat quickly from cold to create crust (looks green/weird initially).
+    8.  Return to bag, re-therm at 55–56°C for 2–4 hours to reabsorb sauce.
+*   **Texture Comparison:**
+    *   **Traditional Braise:** Fibers overcooked, collagen fully rendered into gelatin, incredibly unctuous sauce, cannot be sliced.
+    *   **Low-Temp:** Collagen softens but does not fully render into sauce (visible strands), slices cleanly like steak, less unctuous sauce, fat does not render out (must be trimmed).
+*   **Recommendation:** Do not pit the two against each other; serve low-temp short rib differently (e.g., sliced presentation) to compensate for lower beefy flavor. Add rendered cooked meat to the sauce beforehand to boost flavor.
+
+# Beef Tenderloin vs. Rib Steak (Sous Vide)
+*   **Beef Tenderloin:**
+    *   **Temperature:** 30–40°C (86–104°F). Ideal: ~40°C (104°F).
+    *   **Time Limit:** Max ~1.5 hours.
+    *   **Risk:** No connective tissue; cooks too long (>1.5h) becomes fibery.
+    *   **Technique:** Pre-slice, sear, bag.
+    *   **Application:** Beef Wellington (cook whole tenderloin low-temp, then finish in oven with puff pastry).
+*   **Rib Steak (Standing Rib Roast sliced thick):**
+    *   **Temperature:** 50–56°C (122–133°F).
+        *   55°C: Good middle ground.
+        *   56°C: Can be too tight for rare eaters.
+        *   50°C: Good for "squeamish" people (looks underdone, tastes good).
+    *   **Time Window:** 1.5 hours to 4.5–6 hours (forgiving window).
+    *   **Technique:**
+        1.  Slice thick, remove bone, render bone for stock.
+        2.  Sear **longer** than usual to create heavy crust (minimal meat loss due to thickness).
+        3.  Bag with butter and garlic (use butter for garlic bread later).
+        4.  Cook at 55–56°C.
+        5.  **Finishing Trick:** 1 hour before service, drop bath temp to 50°C (122°F) to lower internal temp.
+        6.  Sear individual steaks just before serving to raise surface temp without overcooking center.
+        7.  Serve with olive oil and flaky salt (Italian style).
+
+# Reverse Spherification (Peach)
+*   **Ingredients & Ratios:**
+    *   **Bath:** Sodium Alginate (0.5% – 0.9% depending on strength).
+    *   **Spheres:** Peach puree + Calcium Lactate Gluconate (2.0% – 2.5%).
+        *   *Note:* Use Calcium Lactate Gluconate (tasteless). Do not use Calcium Lactate (has taste).
+        *   Warm puree slightly to dissolve calcium salt (not boiling).
+*   **Process:**
+    1.  Drop puree into alginate bath.
+    2.  Wait time: Depends on alginate strength (skin grows over time).
+    3.  Remove carefully (do not let spheres touch; they will glue).
+    4.  Rinse in water to remove excess alginate.
+    5.  Brief dip in calcium bath to ensure set.
+*   **Thawing/Storage:**
+    *   **Do NOT** store in alginate bath (skin keeps growing).
+    *   **Do NOT** store in plain water (osmosis leaks sugar/flavor/color/acidity quickly).
+    *   **Do** store in the peach puree itself (isotonic environment).
+    *   **Do** thaw inside the serving vessel (e.g., champagne flute) if possible.
+    *   **Shelf Life:** Up to 1 week in isotonic puree (until puree spoils).
+
+# Equipment & Resources
+*   **Thermal Circulators:**
+    *   **Philip Preston (PolyScience):** Recommended.
+    *   **PID Control:** Essential for accuracy (within 0.1°C / 0.2°F).
+    *   **Usage:** Set below 63°C (145°F) 90% of the time (e.g., 60°C for general, 55°C for steak, 57°C for duck, 63–65°C for chicken).
+*   **Slow Cookers:**
+    *   **Temp:** ~165°F (74°C) on "Warm".
+    *   **Application:** Too hot for standard sous vide, but excellent for **Confit** (e.g., Duck Confit) if using Ziploc bags.
+    *   **Constraint:** Ziploc bags (polyethylene) cannot handle boiling temps, but can handle 74°C.
+    *   **Method:** Salt cure duck overnight, add fat/herbs, bag, cook in slow cooker.
+*   **Lab Sales:**
+    *   **eBay:** Search for broken/fixable units (Rotovaps, circulators). Market fluctuates.
+    *   **LabX.com:** Website for lab equipment.
+    *   **Restaurant Auctions:** Best source for used equipment (check NY Times help wanted ads or local listings).
+*   **Tablet Press:**
+    *   **Purpose:** Compress acid/base mix into fizzy tablets.
+    *   **Cost:** Manual hand press ~$50; Hydraulic/Kick press ~$100–$150.
+    *   **Chemistry:** Acid (Citric/Malic/Tartaric) + Base (Sodium Bicarbonate).
+    *   **Ratio:** Excess acid is acceptable (provides tang); Excess base causes salty aftertaste.
+    *   **Salt Choice:** Sodium salts preferred over Potassium salts (Nastasha dislikes potassium taste).
+
+# Other Techniques & Ingredients
+*   **Hot Ice Cream:**
+    *   **Feasibility:** Highly dubious.
+    *   **Theory:** Use methylcellulose (forms fluid gel when hot, firm when cold) + Transglutaminase (binds proteins).
+    *   **Status:** No successful recipe exists that mimics the "bite" and chilling effect of real ice cream. Considered the "philosopher's stone" of new cooking.
+*   **Maltodextrin vs. DE19:**
+    *   **EnsoRite Tapioca Maltodextrin:** Long glucose chains, non-sweet, bulking agent. Good for turning oils to powders.
+    *   **DE19 (Dextrose Equivalent 19):** Shorter chains, ~19% sweetness of sugar. Used for savory ice creams (e.g., goat cheese).
+    *   **Marshmallows:** Neither is ideal substitute for sugar structurally. **Isomalt** recommended (half sweetness, cooks like sugar, causes digestive issues in large quantities).
+*   **Goose Cooking:**
+    *   **Problem:** Greasy/Tough.
+    *   **Method 1 (No Circulator):** Treat as Peking Duck. Separate skin, apply hot liquid, air dry with fan, render fat.
+    *   **Method 2 (With Circulator):** Separate breast and legs.
+        *   Breast: 57–58°C for 45 mins, cool, sear skin.
+        *   Legs: Confit style (higher temp/longer time).
+    *   **Alternative:** Deep frying.

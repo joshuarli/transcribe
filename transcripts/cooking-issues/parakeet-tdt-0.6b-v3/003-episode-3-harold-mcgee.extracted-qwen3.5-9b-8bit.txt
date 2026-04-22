@@ -1,0 +1,99 @@
+# Sous Vide Ribs
+*   **Goal:** Cook ribs until soft/yielding but still attached to the bone for finishing on a grill.
+*   **Temperature:** 60°C (140°F).
+    *   *Note:* 44°C (111°F) is too rare/weird; 80°C (176°F) is traditional but higher than needed. 60°C is the "magic number" (easy to remember as 41°C + 19°C offset logic, though transcript says "41, it's easy to remember" likely referring to the metric value or a mnemonic).
+*   **Time:** 4 to 56 hours (Transcript garbled: "4 to 56 hours").
+    *   *Texture Progression:*
+        *   24 hours: Texture of skirt steak.
+        *   24–30 hours (total): Texture of short ribs.
+    *   *Caller's Issue:* Tried 12–24 hours (insufficient); feared >48 hours would lose structural integrity.
+    *   *Resolution:* Even at 48+ hours, meat stays on the bone enough to toss on a grill without falling into the rack.
+*   **Equipment:** Sous vide machine (specifically mentioned "Sous Vide Supreme").
+*   **Method:** Seal meat in a bag; use water bath for accurate temperature control.
+*   **Trade-off:** Low temp cooking prevents meat from shredding/breaking apart, keeping it on the bone.
+
+# Herb Preservation (Cilantro)
+*   **Problem:** Cilantro turns to mush; aromatics (specifically decanal) are fugitive and leave quickly.
+*   **Liquid Nitrogen:**
+    *   Can freeze herbs ultra-cold to preserve aromatics.
+    *   *Downside:* Thawing ruptures cells, turning herbs black and causing off-aromas unless blanched first.
+    *   *Blanching:* Blanch in boiling water, shock, then powder. Preserves better than raw freezing but loses some fresh-off-plant flavor.
+*   **Drying:**
+    *   Physical drying with paper towel is not equivalent to fresh.
+    *   *Technique:* Dry as gently as possible to minimize cell damage.
+    *   *Storage:* Do not wrap tightly; use bags allowing air circulation to prevent rotting/muddiness in the fridge.
+*   **Aqueous Ozone:** Caller reported success preventing rot by washing with aqueous ozone.
+*   **Blanching for Berbs/Herbs:** Quick blanch and shock recommended to kill surface contaminants and stabilize, though some flavor loss occurs.
+
+# Gas Solubility in Beverages
+*   **CO2 (Carbon Dioxide):**
+    *   Highly soluble in water, alcohol, and liquid fats.
+    *   Creates carbonation/bubbles.
+    *   Tasting profile: Sour.
+    *   *Risk:* Over-carbonation can be physically painful ("rip your face off").
+*   **N2O (Nitrous Oxide):**
+    *   Soluble in alcohol and water.
+    *   Tasting profile: Sweet.
+    *   *Function:* Used as a balancing agent to create a "lively" beverage with many bubbles without excessive sourness.
+*   **Nitrogen (N2):**
+    *   Relatively insoluble in liquids.
+    *   *Function:* Adds pressure to push liquid out of kegs (e.g., beer gas mixtures) without increasing bubble load significantly.
+    *   *Example:* Guinness widget forces bubbles to create a creamy head without increasing total CO2.
+*   **Other Gases:** Sulfur-containing gases dissolve well but taste "god awful."
+*   **Application:** Only CO2 and N2O are readily available food-grade gases for significant flavor/bubble effects in beverages.
+
+# Meat Science & Processing
+*   **Ultrasound for Marbling:**
+    *   Used to check fat content/marbling in live cattle.
+    *   *Mechanism:* Lean muscle and fat have different ultrasound propagation speeds (>20,000 cycles/sec).
+    *   *History:* Used since at least the 1980s.
+*   **Water Quality for Stocks:**
+    *   Distilled water vs. Tap water: No detectable difference in flavor once other ingredients are added.
+    *   *Exception:* Japanese chefs use soft/bottled water for delicate kombu stock; European water hardness can negatively impact kombu stock.
+    *   *Reasoning:* Minerals in tap water become negligible compared to stock ingredients quickly.
+*   **Low-Temp Fat Rendering:**
+    *   Fat does not render appealingly at low temperatures (results in "hammy" texture).
+    *   *Solution:* Pre-sear meat for flavor/color, then cook low temp.
+    *   *Alternative Technique:* "Low temp for insurance purposes."
+        1.  Cook meat to desired internal temp (e.g., 54°C/130°F for pork).
+        2.  Chill completely.
+        3.  Finish in a blazing hot oven to develop external texture/crust.
+*   **Bacterial Safety (Low Temp):**
+    *   Risk: Lactic acid bacteria growth if circulator temperature is too low or meat is shielded.
+    *   *Symptoms:* Smell like sauerkraut or blue cheese.
+    *   *Mitigation:* Quick dunk of the bag in simmering water to kill surface bacteria before cooking.
+
+# Roasting Techniques
+*   **Two-Stage Roasting:**
+    1.  High temperature (e.g., 85°C/185°F or 500°F/260°C) for browning/crust.
+    2.  Lower temperature to cook through gently.
+*   **One-Temperature Roasting:**
+    *   Can yield good results if the bird is small (e.g., chicken) and cooked quickly.
+    *   *Critical Factor:* **Drying.**
+        *   Brine overnight.
+        *   Remove and dry thoroughly in the fridge (overnight) to form a pellicle (clear, tacky surface).
+        *   Without drying, high heat results in soggy skin.
+*   **Resting:**
+    *   Required even for fast-cooked high-heat roasts.
+    *   *Reason:* Allows juices squeezed out during rapid cooking to redistribute into dry spots, ensuring even juiciness.
+
+# Whipping & Foams
+*   **Crème Anglaise vs. Cream:**
+    *   Raw cream and egg yolks/whites whip into foam.
+    *   Cooked Crème Anglaise does not whip.
+    *   *Reason:* Proteins are denatured by cooking; fat droplet surfaces are coated by egg proteins/sugar, preventing foam formation.
+    *   *Heated/Cooled Cream:* Heating then cooling may delay whipping as fat crystals need time to reorganize into an optimal structure, but it is possible.
+*   **Cocktail Foams (Dirty Martini):**
+    *   *Ingredients:* Lecithin (granulated) or Xanthan gum.
+    *   *Ratios:*
+        *   Xanthan gum: Max ~0.25% (quarter percent).
+        *   Lecithin: Up to 0.5–0.75% (half to three-quarters percent).
+    *   *Method:* Use a stick blender held at an angle, moving blade in and out of the liquid to create bubbling/frothing.
+
+# Salap (Orchid Powder) Ice Cream
+*   **Sourcing:** Available in Turkey; cannot be exported due to endangered species status.
+*   **Usage:** 0.5% to 1% of recipe weight.
+*   **Effect:** Creates a stretchy, gluten-network-like texture when beaten vigorously.
+*   **Paco Jet:** Will **not** work.
+    *   *Reason:* Paco Jet chops mixture into tiny bits (reverse of desired network formation).
+    *   *Required Method:* Manually freeze, then manually beat.

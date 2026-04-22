@@ -1,0 +1,86 @@
+# Raw Food Diet Challenge
+*   **Context:** Dave Arnold lost a bet regarding the palatability of raw chocolate and agreed to a raw vegan diet for one week (planned for late January/February).
+*   **Constraint:** Nastasha (co-host) will also participate.
+*   **Philosophy:** Dave believes eating separately from one's family is the "worst idea in the world" and prefers a Gandhi fast over preparing separate micro-meals.
+*   **Alcohol:** Dave believes alcohol is permitted on a raw food diet. He references "Pure Food" restaurant in Saratoga Springs, noting they serve biodynamic wines.
+    *   **Biodynamic Opinion:** Dave finds the concept of burying horns filled with donkey manure in fields "hocum" and nonsensical. However, he argues that the act implies the farmer is paying more attention to crops, which likely results in a better product regardless of the specific ritual.
+    *   **Blind Taste Test:** Dave notes that proponents of biodynamic/organic methods often refuse blind taste tests. He suggests a controlled side-by-side comparison of wines from similar soils/climates/varieties where one is biodynamic and the other is not to prove efficacy.
+
+# Egg Substitutes in Baking
+*   **Problem:** Commercial liquid egg substitutes (e.g., Egg Beaters) fail in baking because they lack **lecithin** (an emulsifier) and sufficient fat.
+*   **Composition of Liquid Substitutes (e.g., Egg Beaters):**
+    *   99% egg white.
+    *   Additives: Color, spice, salt, onion powder, xanthan gum, guar gum.
+    *   Function of Additives: Xanthan and guar modify egg white properties to prevent hardening and provide texture when poured into a pan (suitable for scrambling/omelets).
+*   **Solution for Baking:**
+    *   Add **soy lecithin** to liquid egg substitutes.
+    *   **Ratio:** Approximately 0.5% to 1% by volume (or egg weight).
+    *   **Method:** Use powdered soy lecithin; blend with a stick blender to incorporate without excessive heating.
+*   **Composition of Powdered Egg Substitutes (Vegan):**
+    *   Modified starches (tapioca, potato starch).
+    *   Calcium carbonate (leavening agent).
+    *   Citric acid.
+    *   Sodium carboxymethylcellulose (CMC): Modified cellulose providing viscosity.
+    *   Methylcellulose: Provides viscosity and **gelation** when heated (provides structure while batter is hot); ungels when cooled.
+*   **Technique:** Methylcellulose acts similarly to egg protein by gelling during heating to set the batter structure before cooling.
+
+# Pig Milk and Cheese
+*   **Question:** Why is there no pig milk or pig cheese, given the existence of milk from yaks, camels, cows, goats, and sheep?
+*   **Reasoning:**
+    *   **Physiology:** Pigs are "meat machines" designed to convert garbage into meat rapidly. Unlike cows, sheep, or goats, they are not multi-use animals (no wool, limited leather/bristles compared to meat yield).
+    *   **Lactation Cycle:** Pigs stop lactating immediately after weaning piglets to breed again.
+    *   **Yield:** A pig produces significantly less milk per body weight than a cow.
+        *   Average pig yield: ~13 lbs/day.
+        *   Average cow yield: ~65 lbs/day.
+    *   **Economic Viability:** Farmers use the milk to feed the piglets. To produce pig milk for humans, one would need to mechanically feed piglets alternative food and pay farmers to withhold the milk.
+*   **Hypothetical Experiment:** Dave suggests paying a farmer the full cost of a litter of pigs to purchase the sow's milk for tasting and cheesemaking.
+*   **Human Milk Context:** Dave notes human breast milk is a "super precious commodity" (liquid gold) for working parents and is not a viable restaurant ingredient due to emotional attachment and scarcity.
+
+# Rice Washing, Soaking, and Cooking Methods
+*   **Rinsing:**
+    *   **Purpose:** Removes excess bran, surface starch, dirt, rocks, twigs, and milling aids (historically talc used for whiteness).
+    *   **Visual Cue:** Water turns cloudy quickly due to soluble starch release.
+    *   **Enriched Rice:** Rinsing removes added nutrients; some enriched rice is coated with wax/oil to retain nutrients, making rinsing less effective or undesirable.
+    *   **Sticky Rice (Japanese):** Must be rinsed until water runs clear to prevent grains from glopping together.
+    *   **Indian Cooking:** Often cooked in excess boiling water; rinsing is less critical as starch is diluted, unless the rice is dirty.
+    *   **Rinse-Free Rice:** Newer milling technology removes starch/bran coating without rinsing.
+*   **Soaking:**
+    *   **Benefits:** Reduces fuel usage (water absorbed before cooking), shortens cook time, and ensures even cooking.
+    *   **Prevention of Splitting:** Prevents the outside from cooking before the inside is done.
+    *   **Sticky Rice (Steamed):** Essential for allowing moisture to penetrate the grain during steaming.
+*   **Parboiling (Converted Rice):**
+    *   **Process:** Whole rice (in hull) is boiled, cooled (starch retrogrades/recrystallizes), and then milled.
+    *   **Effect:** Starches are "preset" or strengthened. Grains remain firm, bounce, and do not rupture/break apart even when cooked in large amounts of water for long periods.
+    *   **Nutrition:** Increases nutrient content by boiling in the hull (transferring nutrients from hull to endosperm).
+    *   **Note:** Traditional parboiled rice does not necessarily cook faster than non-parboiled; pre-boiled/dried varieties (e.g., Minute Rice) do.
+
+# Aerobia Coffee Machine
+*   **Device:** Hand-operated piston coffee maker (approx. $40).
+*   **Mechanism:** User drives a piston to force hot water through coffee puck, increasing pressure.
+*   **Espresso Definition:**
+    *   Requires ~195°F (90°C) and ~9 bars of pressure.
+    *   Aerobia operates at ~175°F with moderate hand pressure.
+*   **Verdict:** Does **not** make true espresso.
+    *   **Chemistry:** Brewing kinetics (extraction rate and composition) differ significantly at lower temperatures and pressures.
+    *   **Outcome:** Likely produces a "mocha pot" style coffee (short, strong) but lacks the specific extraction profile of espresso.
+*   **Coffee Quality Metrics:**
+    *   **Total Dissolved Solids (TDS):** Measured via conductivity; indicates *how much* is extracted.
+    *   **Refractometry:** Measures TDS via light refraction; preferred by some for precision.
+    *   **Dave's Critique:** Measuring only TDS is insufficient. Different temperatures/pressures extract different compounds. Even at 10% extraction, the *composition* of the 10% varies. True quality requires sensory evaluation (taste, smell, sight) rather than just metrics.
+
+# Nixtamalization
+*   **Definition:** Process of treating corn (maize) with an alkaline solution (calcium hydroxide/slaked lime) via boiling and soaking.
+*   **Agents:**
+    *   **Calcium Hydroxide (Slaked Lime):** Used in Mexico/Central America.
+    *   **Thai Red Lime Paste:** Contains calcium hydroxide; used in Thai cooking for frying batters (claimed to increase crispiness, though Dave's tests showed no significant crispness increase, only flavor change).
+*   **Functional Benefits:**
+    1.  **Milling:** Softens the husk and makes the kernel easier to grind (historically using a *metate* and *mano*).
+    2.  **Dough Structure:** Pre-gelatinizes starch and allows the starch to hold more water, creating a cohesive dough (*masa*) without gluten.
+    3.  **Nutrition:** Releases **niacin** (preventing pellagra) and increases **calcium** bioavailability.
+*   **Flavor:** Imparts a characteristic "lye" flavor (reminiscent of pretzels or tortillas) distinct from un-nixtamalized cornmeal.
+*   **Experimental Applications:** Dave has attempted nixtamalization on barley, rye, and wheat.
+    *   **Success:** Achieved the characteristic alkaline flavor in rye.
+    *   **Failure:** Nastasha disliked the rye flavor.
+    *   **Equipment:** Requires a stone grinder (*metate* and *mano*). Standard blenders (Vitamix, Cuisinart) struggle and can be damaged.
+*   **Popcorn:** Not suitable for nixtamalization; does not mill well.
+*   **Goal:** Dave aims to master hand-forming tortillas and learning Spanish to become a "Mexican grandma."
