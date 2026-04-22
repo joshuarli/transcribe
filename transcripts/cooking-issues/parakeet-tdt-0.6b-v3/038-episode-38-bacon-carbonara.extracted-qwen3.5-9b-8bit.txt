@@ -1,0 +1,110 @@
+# Pizza Dough Troubleshooting (Caller Q&A)
+
+**Caller Question:** Pizza dough shrinks/snaps back when rolled out or stretched, making it difficult to achieve thin crusts.
+**Dave Arnold's Answer:**
+*   **Hydration:** The dough is likely too stiff. Move to a higher hydration (more water).
+    *   *Target Ratio:* Roughly 700g to 775g of water per 1000g of flour (70%–77.5% hydration).
+    *   *Flour Type:* Use high-protein flour. Specific recommendations include **Sergalehat** (King Arthur) or **Hekers** (AP flour, high protein). Avoid "Better for Bread" flour.
+*   **Technique - Stretching vs. Rolling:**
+    *   Avoid rolling pins as they negatively affect texture and encourage snap-back.
+    *   **Preferred Method:** Stretch by hand using fists, flipping the dough in the air.
+    *   **Flouring:** Liberally flour the surface before stretching.
+*   **Technique - The Parchment Paper Method (To solve snap-back):**
+    1.  Use minimal flour on hands only.
+    2.  Stretch dough onto a piece of **parchment paper** (do not flour the paper; slight sticking prevents contraction).
+    3.  Add sauce/toppings on the parchment.
+    4.  Shove the parchment with the pizza onto the baking stone.
+    5.  Bake for **190 seconds** (or up to 1 minute depending on oven heat) until the bottom forms a crust and releases from the parchment.
+    6.  Quickly remove the parchment and finish baking on the peel.
+    *   *Benefit:* Solves snap-back; allows batch preparation (stacking on sheet trays).
+    *   *Caution:* Prevent burning of parchment by trimming excess dough overhanging the edge with scissors before baking.
+    *   *Timing:* In an 850°F oven, release occurs in ~45 seconds; adjust based on oven temperature.
+*   **Proofing:** Ensure dough is at room temperature when stretching. Cold dough will snap back more. Allow adequate proofing time.
+*   **Window Test:** Perform the window test to check gluten development.
+
+# Roasted Egg Preparation (Caller Q&A)
+
+**Caller Question:** How to reliably roast a whole egg in its shell for Passover Seder without it exploding or creating a mess?
+**Dave Arnold's Answer:**
+*   **Preparation:** Use raw eggs. Do not boil them first (trapped water makes explosion more likely). Place uncovered directly on the oven rack.
+*   **Temperature Strategy:**
+    *   Roast at a lower temperature to allow evaporative cooling.
+    *   *Recommended Range:* **250°F to 325°F**.
+    *   *Mechanism:* Evaporation creates pinhole marks (Maillard reactions) on the shell, releasing pressure. If no marks appear, the shell is sealed, and pressure builds, leading to explosion.
+*   **Troubleshooting:**
+    *   If eggs explode: Temperature may be too high, building pressure too fast.
+    *   If no marks appear: Shell may be too thick (e.g., free-range eggs) or coated (e.g., wax).
+*   **Safety Note:** Microwaving eggs is dangerous and unpredictable; they may not explode until the microwave is turned off.
+
+# Cured Meats and Freezing (Caller Q&A)
+
+**Caller Question:** Does freezing heritage breed pork (for bacon, pancetta, guanciale) alter the muscle structure in a way that negatively affects the curing process?
+**Dave Arnold's Answer:**
+*   **Freezing Impact on Curing:** Freezing does not hurt the curing process.
+    *   *Mechanism:* Slow freezing extracts water from cells, forming crystals that puncture cell walls. Upon thawing, some liquid is lost (drip loss).
+    *   *Curing Effect:* Ruptured cells allow liquid movement, potentially speeding up the curing process.
+    *   *Bacterial Risk:* Minimal if the meat was frozen by a good purveyor and thawed quickly. Salt accelerates thawing.
+*   **Freezing Impact on Storage (Post-Cure):**
+    *   **Do NOT freeze cured bacon/pancetta/guanciale** unless vacuum-packed with antioxidants.
+    *   *Reason:* Pork fat has high unsaturation and becomes rancid quickly when cured and exposed to oxygen, even in a freezer.
+    *   *Exception:* Long cures (months/years) have lower water levels, reducing rancidity risk. Some flavor profiles in aged meats are partially due to controlled fat rancidity.
+*   **Recommendation:** Cure fresh meat, then use. If starting with frozen meat, thaw and cure immediately.
+
+# Kitchen Equipment Recommendations
+
+**Caller Question:** Recommendations for durable pots and pans to upgrade a kitchen set.
+**Dave Arnold's Recommendations:**
+*   **Non-Stick:**
+    *   Get at least one small and one large non-stick pan.
+    *   *Brand:* **Scanpan** (has a warranty allowing return if coating is ruined).
+    *   *Expectation:* These will likely need replacement every 1–2 years.
+*   **Pressure Cooker:**
+    *   *Brand:* **Cuisinart** (specifically the pressure cooker model).
+    *   *Pros:* Good pot quality, allows cooking without scorching if liquids are added after sautéing.
+    *   *Cost:* Expensive (~$200–$300).
+*   **Cast Iron:**
+    *   *Strategy:* Buy used/thrift store.
+    *   *Criteria:* Look for a "glassy smooth" interior surface (machine finished/sanded), not the modern "pebbly" texture. Avoid enamel-coated cast iron for high-heat skillets.
+    *   *Use Case:* Skillet for biscuits; can withstand extreme heat without warping.
+*   **Enameled Cast Iron:**
+    *   *Use Case:* Dutch ovens only.
+    *   *Brands:* **Le Creuset**, **Staub**.
+    *   *Note:* Do not subject to super high heat.
+*   **Clad Stainless Steel:**
+    *   *Brand:* **All-Clad**.
+    *   *Composition:* Stainless steel exterior with an aluminum core for rapid, even heat conduction.
+    *   *Induction:* Compatible if the stainless steel is magnetic or the core is thick enough.
+    *   *Pros:* Durable, stands up to abuse, excellent warranty (send back if broken).
+    *   *Cons:* Riveted handles can be difficult to clean; occasional handle weld failures in extreme abuse scenarios.
+*   **Stock Pots:**
+    *   *Strategy:* Buy cheap.
+    *   *Reason:* Used primarily for boiling water; quality does not impact food taste.
+    *   *Material:* Aluminum is acceptable (lightweight, tough).
+    *   *Induction Note:* Aluminum pots do not work on induction unless specifically designed for it.
+*   **Copper:**
+    *   *Verdict:* Generally not recommended for home cooks.
+    *   *Reasons:* Extremely expensive, difficult to clean/polish, often lacks sufficient copper thickness to offer advantages over thick aluminum slugs.
+    *   *Exception:* Only for cooks who enjoy polishing (e.g., Thomas Keller style).
+*   **Cleaning:**
+    *   *Product:* **Barkeeper's Friend** (recommended for easy cleaning).
+*   **Restaurant Philosophy:** High-end restaurants invest in quality equipment to show respect for food; lower-end restaurants may use cheaper equipment due to high turnover or lack of trust in staff.
+
+# Additional Culinary Notes & Opinions
+
+*   **Guanciale vs. Pancetta/Bacon:**
+    *   Guanciale (cured pork jowl) is considered the finest topping for pizza.
+    *   It can be added raw to pizza; the heat shrivels the fat without hardening it, preserving texture.
+    *   *Flavor Profile:* Distinct from bacon/pancetta; some find it has a "sock flavor" if moldy (though this is likely bad storage, not inherent).
+    *   *Carbonara:* Authentic Carbonara uses guanciale. Using bacon is delicious but technically not authentic Carbonara. Authenticity involves specific ingredients, location, and preparation methods.
+*   **Dehydrated Inoki Mushrooms:**
+    *   Technique: Soak in flavorful broth (e.g., soy-based), then dehydrate.
+    *   Result: Tastes like twigs but with intense flavor.
+*   **Importing Chinese Equipment:**
+    *   *Risk:* Quality control issues; items built to someone else's spec may not meet user needs.
+    *   *Example:* Vacuum sealers imported from China caused smoke/fire due to component failure when vacuuming liquids.
+    *   *Advice:* Do not be the first person in the US to try a specific cheap Chinese item. Research existing user experiences online.
+    *   *Exceptions:* Some items (e.g., specific printers for Modernist Cuisine books) are successfully imported from China due to superior manufacturing capabilities there.
+*   **Atomic Gardens:**
+    *   Historical context: Post-WWII nuclear testing involved irradiating seeds to test regrowth and induce mutations (sports) for new plant varieties.
+    *   "Atomic Gardens": Gardens arranged in concentric circles around a radiation source (e.g., cobalt in a lead enclosure) to observe effects on produce.
+    *   *Reference:* Blog "Garden History Girl" by P. Johnson.

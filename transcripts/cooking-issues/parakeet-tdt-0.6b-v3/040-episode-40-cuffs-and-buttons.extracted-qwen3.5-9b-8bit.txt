@@ -1,0 +1,177 @@
+# Techniques & Parameters
+
+*   **Cellulose in Food:**
+    *   **Function:** Acts as a filler/bulking agent; holds water well.
+    *   **Form:** Microcrystalline cellulose (chopped very finely).
+    *   **Limitation:** Does not provide structure like flour, protein, or starch. The limit is strictly sensory (taste) rather than structural integrity.
+    *   **Digestibility:** Humans cannot digest it (unlike cows with multi-stomach bacteria).
+    *   **Recipe Attempt:** Dope bread with a large amount of cellulose and vital wheat gluten. Result: Would taste bad.
+
+*   **Dry Aging Beef:**
+    *   **Trimming:** Molded exterior must be trimmed off.
+    *   **Edibility:** Harmful per se, but gross.
+    *   **Flavor Extraction:** The "super funk" comes from the bone area where a small piece of skin is left untrimmed.
+    *   **Cooking Method Warning:** Avoid low-temperature sous vide for dry-aged beef. The funk permeates the meat, which may repel 50–60% of guests.
+    *   **Sauce Use:** Trimmings can be made into a super funky, beefy sauce.
+
+*   **Barbecue & Combustion:**
+    *   **Smoke Flavor Source:** Incomplete combustion of wood (organic substance with hydrocarbons). Charcoal alone does not produce smoke flavor unless fat drips on it and flares up.
+    *   **Water Vapor Myth:** Burning propane produces water vapor, but the heat is so tremendous that it does not inhibit smoke penetration. Wood combustion also produces water vapor.
+    *   **Surface Moisture:** To achieve good smoke penetration, surface moisture must be reduced to below 10% to form a pellicle.
+    *   **BTU Comparison:**
+        *   Propane: ~91,000 BTU/lb.
+        *   Charcoal: ~10,000 BTU/lb.
+    *   **Charcoal Advantage:** Can dump an entire bag into a grill to release immense energy quickly; produces significant radiant heat once burned down.
+    *   **Gas Grill Limitation:** Most gas grills do not burn enough propane to utilize the theoretical energy output.
+
+*   **Maillard Reactions in Eggs:**
+    *   **Temperature Range:** 62–67°C (143–152°F).
+    *   **Environment:** Wet cooking.
+    *   **Feasibility:** Not feasible. Maillard reactions typically require temperatures closer to the boiling point of water.
+
+*   **Chicken Flavoring (Scientific Study):**
+    *   **Method:** Pumping pig manure odor into chicken coops.
+    *   **Result:** Blind taste tests showed consumers could not distinguish meat raised in pig stink from normal meat.
+
+# Equipment
+
+*   **Auctioning Restaurant Equipment:**
+    *   **Source:** Restaurants going out of business.
+    *   **Process:** Leaseholder/auctioneer sells items at pennies on the dollar.
+    *   **Items:** Hotel pans, bar stools, liquor (requires license).
+    *   **Constraint:** Must buy sets (e.g., 20 hotel pans for $20).
+    *   **Historical Context:** Used to be advertised in the back of the *New York Times* Health section; now likely web-based.
+
+*   **Cocktail Carbonation:**
+    *   **Pressure:** 50 psi.
+    *   **Equipment:** Soda valves (squeeze valves), ice buckets, 2 CO2 containers (one for soda mix, one for nitrous soda mix).
+    *   **Application:** 5-gallon corny kegs strapped to backpacks for service.
+
+*   **Charcoal vs. Propane Grills:**
+    *   **Charcoal:** High radiant heat delivery; energy release controlled by quantity burned.
+    *   **Propane:** High theoretical energy density but limited by grill design.
+
+# Ingredients & Functional Roles
+
+*   **Cellulose:**
+    *   **Role:** Bulking agent, water retention.
+    *   **Taste:** Neutral (mostly), but limits flavor quality when overused.
+
+*   **Lactart:**
+    *   **Description:** Extinct acid of milk, "reborn."
+    *   **Role:** Fantastic acid for chocolate; provides creamy feel without cloying sweetness or heaviness.
+
+*   **Acid Phosphate:**
+    *   **Source:** Coca-Cola, colas.
+    *   **Composition:** Phosphoric acid partially neutralized (down to 2%) with calcium, magnesium, and potassium mineral salts.
+    *   **Role:** "Dry cola-like" acidity. Does not impose a fruit note; allows other flavors to come through cleanly.
+    *   **Usage:** 1/4 oz to 1/2 tsp per drink.
+    *   **Safety:** Moderate amounts are not detrimental to bone density (unlike large quantities of pure phosphoric acid).
+
+*   **Creme de Mure (Blackberry Liqueur):**
+    *   **Role:** Base for phosphate soda; natural fruit acidity varies by batch.
+
+*   **Coriander:**
+    *   **Versatility:** Flavor profile changes drastically based on treatment (toasting, distillate, tincture, syrup).
+    *   **Distillate:** Brings out high citrusy notes.
+    *   **Tincture:** Brings out base notes.
+    *   **Soda Application:** Needs malic and citric acid to bring out citrus notes; Thai chili pepper adds spice/gingery note to round the mid-palate.
+
+*   **Papali Long Pepper:**
+    *   **Role:** Provides piperine; causes lip tingling; floral pepper flavor.
+    *   **Preparation:** Slow roasted before tincturing for depth and roundness.
+
+*   **Mace & Cardamom:**
+    *   **Role:** Added in minute quantities to Negroni variations for exotic, aromatic base notes.
+
+*   **Curry:**
+    *   **Preparation:** Curried orange juice compressed into the orange rind.
+    *   **Role:** Heat and aromatic complexity; piques imagination.
+
+*   **Coffee vs. Cocoa:**
+    *   **Fat Levels:** Cocoa butter is a much more saturated solid fat with a specific melting profile compared to coffee oils.
+    *   **Extraction:** Different extractables and solubilities prevent coffee from behaving like cocoa in brewing/espresso.
+
+# Equipment & Tradeoffs (Bartending)
+
+*   **Nitrous Infusion:** Used for rapid infusion of cacao nibs into spirits (VSOP Cognac, Highland Park 12 Scotch).
+*   **Carbonation Risks:** Carbonating cocktails can throw balance off, making wood notes overpowering (e.g., Carbonated Manhattan cited as the worst drink made).
+
+# Personal Anecdotes & Demonstrations
+
+*   **The "Blunch" Diet:**
+    *   **Concept:** Combining breakfast and lunch (Brunch) to skip a meal.
+    *   **Attempt 1:** Bagel with nothing on it, then nothing until dinner. Result: Lost significant muscle mass; required medical procedures to check for cancer due to bleeding.
+    *   **Attempt 2:** Two hard-boiled eggs all day. Result: Less muscle loss, but still felt like a "huge jerk" and smelled like "fumes of death" (ketosis).
+    *   **Recommendation:** Do not do this. If cutting carbs, be extremely regimented during the day (no choices) to ensure social normalcy at dinner.
+
+*   **Meeting Chad Solomon:**
+    *   **Context:** 9/11 aftermath; filming shut down.
+    *   **Location:** Cellar Bar (Bryant Park Hotel).
+    *   **Connection:** Friend knew the manager; interviewed same day as Chad.
+    *   **Discovery:** Discovered Milk & Honey via recommendation; realized it was a craft cocktail bar with rules/reservations, unlike the volume-oriented, flashy Cellar Bar.
+
+*   **Cuffs and Buttons Name Origin:**
+    *   **Story:** Dale DeGroff recounted the etymology of an 1830s New Orleans cocktail.
+    *   **Original Name:** "Cuffs and Buttons" (due to white tie/tailformality).
+    *   **Renaming:** Renamed "Southern Comfort" in the 1880s for the International Cotton Exposition so international visitors wouldn't be confused by the name.
+    *   **Brand History:** Brown-Forman bought it; dropped the original name.
+
+*   **Turkey Trip Inspiration:**
+    *   **Drink:** Byzantine Julep.
+    *   **Inspiration:** Trip to Turkey; desire for cool Eastern flavors.
+
+*   **Padma Lakshmi Event:**
+    *   **Event:** Kampari presents "Inspired Fet for the Senses" at The Box.
+    *   **Theme:** Tangy, Tart, Hot, Sweet.
+    *   **Selection:** Chose "Hot."
+    *   **Drink:** Marco Polo Negroni (variation on Negroni).
+
+*   **La Patada Event:**
+    *   **Drink:** Chipotle-infused mezcal drink.
+    *   **Reputation:** "Hardcore business," "kick."
+
+# Caller Q&A
+
+**Caller Question:** Can we make food completely from cellulose (e.g., cellulose pasta/bread) to get fiber without fat?
+**Dave Arnold Answer:** You can bulk it up to the point where it no longer tastes good. Cellulose is a filler that holds water but lacks the structure of flour, protein, or starch. It is microcrystalline and indigestible by humans. The limit is strictly sensory.
+
+**Caller Question:** If carbs regulate insulin and fat uptake, what should I eat on a low-carb diet?
+**Dave Arnold Answer:** Does not recommend specific diets that eliminate nutrients. Recommends a moderate, widely varied diet. If cutting carbs, be extremely regimented during the day (e.g., canned beans, fava beans) to avoid straying, ensuring social normalcy at dinner.
+
+**Caller Question:** Where to buy used restaurant equipment (hotel pans, etc.) online?
+**Dave Arnold Answer:** eBay is good for small items. For major items, attend auctions when restaurants go out of business. Items are sold at pennies on the dollar, but you must buy sets (e.g., 20 pans for $20). Used to be advertised in the *NYT*; now likely web-based.
+
+**Caller Question:** Can you make chocolate from coffee beans or coffee from cocoa nibs?
+**Dave Arnold Answer:** Possible but not recommended.
+*   **Coffee to Chocolate:** Coffee has different fat levels and oil profiles than cocoa butter. Grinding coffee powder with cocoa butter creates a chocolate texture, but the high caffeine content will cause severe physical reactions (shaking, running to the toilet).
+*   **Cocoa Nibs to Coffee:** Roasting profile is different (lower temp due to oils). Extraction of solubles differs; espresso would taste different.
+
+**Caller Question:** Is eating the molded exterior of dry-aged beef harmful?
+**Dave Arnold Answer:** Harmful per se, but gross. The trimmings have a super funky odor. The bone area (untrimmed skin) holds the funk. Cooking dry-aged beef sous vide spreads this funk throughout the meat, which may repel 50-60% of guests. Trimmings can be used for a funky sauce.
+
+**Caller Question:** What are the burn temps for lump charcoal vs. briquettes vs. propane? Does propane water vapor inhibit smoke?
+**Dave Arnold Answer:**
+*   **Temps:** Depend on oxygen availability. Not radically different, but charcoal can release immense energy quickly by burning large quantities.
+*   **Propane Water Vapor:** Alton Brown is wrong. Burning propane produces water vapor, but the heat is too high to inhibit smoke penetration. Wood combustion also produces water vapor.
+*   **Smoke Source:** Comes from incomplete combustion of wood (hydrocarbons), not propane.
+*   **Key Factor:** Surface moisture must be below 10% (pellicle) for smoke penetration.
+*   **BTUs:** Propane (~91,000 BTU/lb) vs. Charcoal (~10,000 BTU/lb). Charcoal wins on radiant heat and energy release control.
+
+**Caller Question:** Can you achieve Maillard reactions in eggs at 62-67°C in a wet environment?
+**Dave Arnold Answer:** No. Maillard reactions typically occur closer to the boiling point of water.
+
+**Caller Question:** (Regarding Museum of Food and Drink fundraiser)
+**Dave Arnold Answer:** Museum of Food and Drink is hiring a full-time person starting June 1st to manage the website and fundraiser. Will reply to Daniel's email soon.
+
+# Strong Opinions & Recommendations
+
+*   **Diet:** Do not believe in diets that give up one nutrient for another. "Blunch" (skipping meals) causes muscle loss and health issues. If cutting carbs, be regimented and social.
+*   **Canned Beans:** Not a hater; they are one of the few good canned items. Making from scratch is better but not always reasonable daily.
+*   **Phosphoric Acid:** Gets a bad rap. Moderate amounts are safe. The partially neutralized version (acid phosphate) is approachable and doesn't impose a fruit flavor.
+*   **Negroni:** Ordering a Negroni makes you a "badass." If someone orders a vaguely pink drink and gets it wrong, let them try it; knowledgeable people will laugh them out of the universe.
+*   **Alton Brown:** "Straight up wrong" on the propane water vapor inhibiting smoke theory.
+*   **Charcoal Grilling:** Gas grills are "puny" compared to charcoal because they don't burn enough fuel to utilize the energy density. Charcoal allows dumping a whole bag for immense power and radiant heat.
+*   **Cocktail Acids:** Studying different acids (citric, malic, phosphoric) is key to becoming a better mixer.
+*   **Coriander:** Incredibly versatile; flavor changes based on treatment (toasting, distillate, tincture).
+*   **Dry Aging:** Avoid sous vide for dry-aged beef due to funk permeation.

@@ -1,0 +1,82 @@
+# 3D Printing Equipment
+*   **Z Corp Printer**: Commercial 3D printer used for printing in powder (plaster or starch).
+*   **Cornell Fab (Extrusion)**: Home 3D printer used for extruding food directly.
+*   **Application**: Currently being used to make plaster molds. Capable of color printing.
+
+# Hydrocolloids and Gelling Agents
+*   **Cinnamon Gelling**: Ground cinnamon bark can create a "phlegm-like" or "snot-like" gel texture when mixed with water.
+    *   *Hypothesis*: Likely due to a polysaccharide (possibly cinnam polysaccharide AX) or cellulose in the bark, though cellulose usually requires acid treatment to become soluble (e.g., microcrystalline cellulose/MCC).
+    *   *Note*: Cassia gum exists but is derived from seeds of an unrelated *Cassia* species, not cinnamon bark.
+*   **ThermalMix**: A blender/heater/scale combo with a stainless steel trough.
+    *   *Function*: Excellent for hydrating hydrocolloids (agar, carrageenan, bigelatin) by stirring and heating simultaneously without scorching.
+    *   *Recommendation*: Essential for chefs doing heavy hydrocolloid work; still recommend a Vitamix for general blending power.
+*   **Gelatin Types**:
+    *   **Low-Acyl Gelatin**: Firm, brittle, clear. Recommended for Tarte Tatin to avoid cloudiness and ensure it doesn't melt during unmolding.
+    *   **Agar, Carrageenan, Guar**: Can be used for gels, but may melt or result in soggy pastry if water content is high.
+
+# Confectionery and Molding Techniques
+*   **Cornstarch Molds (Gummy Bears)**:
+    *   **Dead Starch**: Old starch that has absorbed oils/flavors and lost molding ability.
+    *   **New Mold (N-Mold)**: Commercial cornstarch mixed with mineral oil (National Starch Corporation) that holds impressions immediately.
+    *   **Preparation Process**:
+        1.  Mix new starch with a portion of dead starch (if not using N-Mold).
+        2.  Dehydrate in a dehydrator or low oven (~60°C) for 24–46 hours to create a flat, even bed.
+        3.  Build a frame (e.g., 1x2s with masonite bottom).
+        4.  Level the starch bed with a ruler.
+        5.  Press smooth shapes (wood, waxed, plaster) into the starch.
+        6.  Pour gelatin mixture.
+        7.  Dehydrate slowly (case hardening occurs if dehydrated too quickly).
+*   **Tarte Tatin (Tomato Version)**:
+    *   **Problem**: Falling apart due to high water content.
+    *   **Solution**:
+        1.  Use smaller tomatoes.
+        2.  Cook down thoroughly before adding pastry.
+        3.  Squeeze seeds out after peeling; reduce the seed liquid separately and add back to the sauce.
+        4.  Ensure sufficient sugar to form a thick caramel that holds the structure.
+        5.  If bolting with a gel, use low-acyl gelatin (firm, brittle, clear).
+    *   **Mechanism**: Traditional Tatin relies on liquid sugars staying fluid while fruit holds together via pectin/caramelization.
+
+# Vegetable Cooking and Flavor Development
+*   **Onions**:
+    *   **Flavor vs. Texture**: Flavor development (enzyme deactivation, sugar alteration) happens faster than softening.
+    *   **Softening Threshold**: Requires extended heat above 85°C to break down pectins and hemicellulose.
+    *   **Sauce Application**: Onions do not need to be fully soft before adding to a long-simmering tomato sauce; the sauce cooking will finish softening them.
+    *   **Caramelization**: Requires lower heat over a longer period to avoid acrid burnt flavors.
+    *   **Bulk Cooking**: Cooking large volumes often results in steaming rather than sautéing, delaying flavor development.
+    *   **Reference**: *Garlic and Other Alliums: The Lore and the Science* by Eric Block.
+*   **Mirepoix/Sofrito/Holy Trinity**:
+    *   **Celery**: Primarily densified; structure breaks down before significant flavor extraction in liquid.
+    *   **Bell Peppers**: Provide browned flavors from the meat.
+    *   **Carrots**: High sugar content allows for caramelization if sautéed long enough.
+*   **Mushrooms**:
+    *   **Pre-sautéing**: Recommended. Mushrooms act as porous sponges. Sautéing first shrinks them, making them denser and less likely to absorb excessive sauce liquid, resulting in a more intense flavor and better texture.
+*   **Garlic**:
+    *   **Timing**: Add late in sautéing to prevent scorching and acrid flavors.
+    *   **Pressure Cooking**: Timing is irrelevant as the entire vessel is pressurized.
+
+# Sauces and Alcohol
+*   **Vodka Sauce**:
+    *   **Purpose**: Alcohol does not fully boil off.
+    *   **Mechanism**: Residual alcohol volatilizes aroma compounds. Vodka is chosen because it has relatively little flavor compared to wine, which would impart its own flavor profile.
+    *   **Comparison**: Wine releases flavors but leaves a distinct wine taste; vodka leaves a neutral carrier for aroma.
+
+# Non-Alcoholic Cocktails
+*   **General Principles**:
+    *   **Carbonation**: Essential for festivity; non-carbonated drinks taste like juice.
+    *   **Balance**: Lack of alcohol often creates a deficit in the mid-palate and back of the throat.
+    *   **Key Additions**:
+        *   **Salt**: A pinch to round out fruit flavors.
+        *   **Acids**: Malic acid and citric acid (ratio 2:1 citric to malic) for limey notes.
+        *   **Spice**: Infused syrups (e.g., Thai chili) to add depth to the back of the throat without overwhelming heat.
+        *   **Aromatics**: Coriander seeds lightly ground and cooked in simple syrup (1:1 sugar/water) to retain citrusy notes (avoid overcooking which makes it heavy/spicy).
+*   **Equipment**: Carbonation rigs or ISI rigs for carbonating juices.
+*   **Clarification**: Recommended for juices to prevent foaming issues (e.g., limes).
+
+# Specific Ingredient Interactions
+*   **Grapefruit & Medications**:
+    *   **Bergamottin**: Chemical in grapefruit that interacts with statins and other drugs, altering dose response.
+    *   **Earl Grey Tea**: Contains bergamot. Theoretical concern exists regarding bergamottin levels, but doctors typically warn against grapefruit specifically. Constant consumption (like tea) might be manageable compared to variable grapefruit intake, but data is lacking.
+*   **New Zealand Lamb**: High quality, but local markets may not get the best cuts.
+*   **Rare Beef Jus**:
+    *   **Temperature**: Cooked at very low temperatures (~52–53°C) for bacterial safety.
+    *   **Serving**: Can be served cold for summer; retains bright red color.

@@ -1,0 +1,431 @@
+[0:11] Hello and welcome to cooking Issues.
+
+[0:01] This is Dave Arnold, your host of Cooking Issues coming to you live from the Heart of Manhattan Rockefeller Center, New York City News Stamp Studios, join as usual with John sitting across from me how you doing doing great thanks yeah yeah yeah yeah peachy nice got uh Joe Hazenrocking the panels what's up hey how are you doing welcome to the show. Oh thanks yeah well welcome welcome uh over there we have only briefly so I'll introduce him first of the people who aren's here Jackie Molecules who is in the middle jugling some other radio program at the I think right now, right, Jack? How you doing?
+
+[0:48] Anyway he's in DC Oh, there he is there he is there he is not cool enough not cool enough yeah I'm here so how's DC treating you right now oh it's fine it is fine um yeah a ringing endorsement of all the power I was doing uh I was doing a podcast interview at the line hotel last night and all of the power in the neighborhood went down mid interview so that was fun wow wow so it's like the hotel lobby just went totally dark um yeah it was it was trippy.
+
+[1:07] Why wind?
+
+[1:16] I don't know some i couldn't tell you but you know the whole block power went out and yeah it was you know full hotel lobby of people eating and drinking and then it just went pitch black and then luckily the generator came back on in a few seconds but it was a nice moment of panic for everybody. Now were you on uh a laptop or did you have to reboot everything
+
+[1:32] I was fine. I was battery powered on my recorder. But um yeah, it was it was funny. The first thing that came into my mind was damn these budget cuts are really serious, huh. Jack Insley not trusting the power grid, so he has his own battery as he does his uh podcast nice all right well uh very good uh over there uh holding down Los Angeles, Nastasia the Hammer Lopez.
+
+[1:48] What's up?
+
+[1:55] Hi.
+
+[1:56] Yeah?
+
+[1:57] Hi, how you doing and then uh in the upper leftity left left uh Quinn Fuse.
+
+[2:03] What's up Quinn of Fuchita, or as Siri calls him Quinn Fusile, which is the worst thing. I like anyway what I'm not gonna get into it because we've gone through too many times.
+
+[2:41] How you doing today I'm right hey is my uh is my radio voice better now that I'm sick does sickness make your radio voice better now we'll have to listen we'll have to get some uh news on the uh Patreon and today's special guest uh I am super excited to say uh is now I've been following his work for a long time since at least early days uh when I was at the Frenary Institute in like the like late aughts I guess mid late aughts, is Professor uh Douglas Goff, uh Profess at uh University of Guelph which is right outside of uh Toronto in Ontario uh and is I would say the foremost ice cream scientist on this little planet Earth that we have you doing
+
+[3:02] I'm very good, thanks. Nice to be here. Yeah.
+
+[3:49] So uh just a little bit about so we're gonna shoot the we're gonna shoot the the breeze in a minute but just a little bit so uh for many years and you you've condensed them I guess into e-books, but it used to be kind of spread out over a number of web pages on the U Guelph website were the greatest free source of information on ice cream ice cream freezing formulations and ice cream science that was available anywhere which is now I guess compiled into the ice cream technology ebook and the dairy science and technology ebook on the University of Guelph website but uh can I say a little bit about the ice cream book first of all you have there's a new version of your ice cream book coming out like first of all this is the ice cream book like quinn quinn has an ice cream book quinn who you just heard introduce has an i a gelato book actually okay yeah so yeah no offense quinn but but uh professor goff has like literally like the ice cream book first printed in 1966 by uh W.s Arbuckle who was known at the University of Maryland uh as Mr. Ice Cream and was one of the early uh adopters of doing like kind of crazy flavors like even crazier than kind of Ben and Jerry's his book put out by the AVI uh publishing uh corporation out of Westport put out some of the greatest uh minds in food technology and agricultural technology
+
+[4:43] In the forties, 50, 60s, 70s and 80s, including for coffee freaks out there, Michael Sivitz's book on coffee who is the progenitor of the Sivets roaster and like the person who the reason why we air roast a lot of stuff nowadays why a lot of people air roast uh Samuel Matz's book on snack food technology, they were just a powerhouse and this book by Rbuckle which was just call ice cream by everyone who had a copy of course I was one, was the book on ice cream and then like, you know he died did you ever know him Professor Goff or no?
+
+[4:52] Uh actually no I never did meet him.
+
+[5:00] Yeah yeah you knew the per you knew his second in command on the Ice cream book though, right?
+
+[5:10] Because he handed it over to you Marshall Yeah that's right so Bob Marshall um was at uh the University of Missouri and uh when Professor Arbuckle died that Bob sort of took over the the manuscript if you like and revised it to create the fifth edition.
+
+[5:37] And then um he asked uh Rich Hartel and I to join him as co-authors on the sixth edition and then Rich and I became the sole authors on the seventh and uh yeah very happy to announce that that within a couple of months the eighth edition will now be available very exciting in May in May. So we're gonna get into like what's in in the new thing.
+
+[5:51] So like this is by the way still so this is it's in continuous publication since 19 there's a couple of books like this in that I own that I follow over the years and have multiple editions of it another one is the encyclopedia of um oh it's one out of my head uh
+
+[6:03] Anyway, the tree book by Harlow that was originally by Harlow.
+
+[6:28] Anyway, so uh so continuing selling is been in continuous stuff since nineteen sixty six but as you point out in the introduction to the 2013 edition the seventh edition uh it actually stems from a work even earlier than that so this book ha has some progenitor going back to the very beginnings of the ice cream industry so you're kind of holding the Olympic torch of ice cream for everyone is that accurate to say or no uh well thanks very much for for putting it that way but I I'm certainly very proud of the fact that uh yeah the the uh book goes way back to the very beginnings of of the ice cream industry and so the very title itself ice cream eighth edition you know it's got it certainly has a lot of uh of regality to it just because of the of the longstanding um use of it there by the industry and by artesianal people and and so many others that are just interested in ice cream.
+
+[7:01] Yeah yeah now the original obviously came when our buckle wrote kind of uh originally it was uh you know the based out of Maryland right University of Maryland where he taught his course which I frankly I guess it makes sense because they were a great agricultural thing I guess it was the one out of beltsville I don't know and then uh you know once you took it over, well, Missouri, who knows about Missourian ice cream does Missouri make good ice cream between you and me
+
+[7:16] Well, that's where um uh Professor Arbuckle uh did his studies.
+
+[7:24] He was from Missouri and and he did his studies there. So when he passed away his wife started uh Arbuckle ice cream research chair in at the University of Missouri.
+
+[7:42] Huh and so when when uh uh Bob Marshall had been a dai scient for a long time, but he sort of the ice cream research chair position and then uh was able to take on several graduate students and some did some really good um work more on the sensory side of things. But anyway that's kind of Missouri's claim to flame uh to fame in the ice cream context is that that's where Professor Arbuckle was from.. Right now when you took it over in I think oh three, right, it became a much more of an Ontario situation because you were the head writer and then the second was out of U you know out of uh Madison, Wisconson.
+
+[8:21] So you, you know you had a you know it was like split between Ontario and then the cheeseheads up there in in uh Madison and now the third author on this new edition is also Madison.
+
+[8:36] So you tipping the scales back to the United states on this ice cream book or you'd not want to get political with it here uh yeah um we didn't really consider um um very much the the the international boundary when we started talking about the book uh I'll just give you a just a real quick um um
+
+[8:51] background on how that came to be. Rich Hartel at the University of Wisconsin has had a really good ice cream research program for a long time and I did here as well and I can explain a little bit more of that as we chat.
+
+[9:05] But um w at one point we were at a meeting somewhere and and we just kind of said, you know, hey, did you ever consider writing a book? And and um so in the in the context of that conversation, I had said, hey, why don't we contact Bob Marshall and just see what his plans are for the ice cream title because we knew that he was sort of at retirement age at that time.
+
+[9:31] And so I contacted Bob and he said sure I'd be absolut to have you guys, you know take this book over and run with it. And so that's that's sort of how it came to be we said well, you know, um let's go with the with the forerunner rather than start something on our own.. Right, right.. Well, Mike. I mean again it's nice to have continuity as sad as I was to see our buckle's name not attached anything anymore, but you do bring it in the intro so I do appreciate that uh or did anyway.
+
+[9:59] I haven obvious read the new intro because I don't have a copy of the new book maybe, you know, someday.
+
+[10:04] Uh all right. So uh before I forget, uh anything uh anyone have over the past week that they've done interesting in food and or beverage and or anything that our listeners might wan hear?
+
+[10:14] Anyone? Anyone? Come. Very quick, very quick shout out to Reveler's Hour again in DC is my favorite place to eat.
+
+[10:28] What do you have that that's it really uh so this red like a beef cheek rago with um chocolate bread crumbs is what they said it was I didn't get to talk to Chef and ask exactly what it was kind of like a chocolate brioche and just crumbed it or like was it's soft or hard?
+
+[10:39] Maybe they were hard and they were kind of like bitter, you know cacao y um it was great. It was really good. It was a funky weird dish. Bitter good or bitter bad remember when everyone had like powdered bitter soil things that were like kinda unsweed chocolate based things on the plate back no not like that no it was it was better than that. It was it was earthier and it was good. Yeah yeah. All right nice.. What about you, Staz? Anything?
+
+[11:06] Yeah, actually.
+
+[11:09] Um my mom had her birthda on Sunday and my dad was trying to make a custard filling for her cake. Okay.
+
+[11:34] And he made the custard and it was a lot of work before I got there but it was setting in the frid and it was still liquid and he was really sad because it wasn't like what's it called like it wasn's solid but it wasn't you know so he asked me if I could fix it and I said yeah I know some food science and then my mom said, Yeah yeah so do I. Oh my gosh. And then I Okay. No, well okay go for keep going. I want to hear this.
+
+[11:49] So I took it I took this like watery custard and first I like mixed it with the with the hand blender because they don't have a um they don't a stand mixer.
+
+[12:21] Yeah uh and it was still then I put it on the stove and I reheated it slowly and it slowly came together and I fix it right save the birthday now let me couple of questions did you have to juz the base flavor of it or did your dad get the flavor of it pretty much right no the flavor was perfect that was the sad part is he was like taste this it's so good.
+
+[12:27] I can't belie I wasted you know nine eggs and nine dollars of worth of eggs in this thing and so I felt sad. But I freaking fixed it. Nice well that's and uh you know I I I thought you were gonna do some like you know like some sort of cold said gel or something yeah nice uh that's awesome and let me ask you this how long until your mom stops giving your dad crap about it.
+
+[12:56] Um she's told him just to go get vanilla pudding from the store.
+
+[13:04] From where? From Ralph's?
+
+[13:08] What is your parents' local food establishment?
+
+[13:11] Food for less
+
+[13:13] Food for less. Where is so like you've lived in New York. Where is food for less in the Sea Town, King Foods, Fine Fair. It's C Town. Okay, it's C Town.
+
+[13:23] All right. All right.
+
+[13:25] Yeah, man..
+
+[13:26] C town.. For those of you that don't live in or have never lived in New York, C Town, not the greatest..
+
+[14:23] We'll just say it ain't no grustities it ain't no food emporium we don't have real supermarkets in New York do we we do now we have now we have but we didn't back in the day we had like oh my god in the Dag bag yeah it's like uh nightmare all right and what about you Quinn anything ice cream related that you can uh kick off the ice cream with no this week this week I'm all tapped out although no I did make a uh we got some local Meyer Lemons and I made a basic um dairy gelato with like mostly uh zest for flavor because we've got a a crazy farmer friend with a giant uh citrus uh greenhouse oh yeah it's an orangery I was gonna say what is what is local what is local Meyer lemons mean to someone who lives on Vancouverland you know what I mean it's they're fresh uh yeah oh nothing says sustainable like growing your citrus in a greenhouse am I right okay I'm just messing were they delicious or no do you like Myers?
+
+[14:43] Yeah they're good they're really good. And we're gonna pick up another batch of like, you know, three or four other um varieties of citrus like what?
+
+[14:51] I love you and leg what?
+
+[14:57] Oh boy.
+
+[14:58] Uh more noir lemons. Um Eureka lemons.. Yeah... Eureka, Eureka though tastes like a regul that's a regular that'a that is a cultivar that we have had right the what was the other what was the what was the what was the page mandarins do you remember if we had that one when we were at Gene Lester's ranch?
+
+[15:15] No, I was too angry.
+
+[15:28] Alright well what was that what was the last one again page page mandarins and some uh color I do love a cumquat.
+
+[15:35] I like a citrange quat. I like anything with the word quat after it I just like saying you know what I mean?
+
+[15:41] Uh I'll give you quickly two things I did. One for uh listeners of the show uh I rebuilt uh a countertop fryer to be a two twenty fryer for those of you that has two plugs going into it two heating elements and yes it is as good as it sounds it is as good as the actual one that you can just buy if you're a European and have two twenty convenience sockets and you live in Belgium where they know how to fry things. But I also built out of coroplast which is you know corrugated plastic a little hood that's about
+
+[16:09] Oh 18 inches by 18 inches by about two and a half feet high with uh uh a four-inch inline grow fan for marijuana growing things and ducting going right out my window and I use that for frying. And I'll tell you something else I put it over my control freak induction turned that sucker up to like 30 and ninety degrees and seared with it and a sears all under the thing a whole bunch of steaks and saus and not one wisp of smoke in my apartment not one wisp of smoke with all the Searsol in and all the super hot cast iron nothing leaked out.
+
+[16:42] So maybe we'll make plans available for people on the Patreon for that and if they want to join the Patreon what should they do John?
+
+[16:57] Go to Patreon.com slashcooking issues check it out there's a couple different levels um you get access to our Discord channels you get uh access to the webcam you get prioritized questions being answered uh discounts with friends like our people at Kitchen arts and letters and Glassfin and so many others. So yeah go check it out cooking or uh Patreon dot com slash cookingIssues and here's something I did you know for years I've been trying to find a use for all the wheat brand I have when I've been and so I think I finally started finding a decent usage for it. I'll give you more information as I have it but I I came up with this idea what if you just made a granola similar and this would be a good ice cream topping by the way a granola similar thing that wasn't quite as crunchy with a bunch of bran in it so what I did is I uh I have a a wheat flak uh sorry uh uh an oat flaker, a grain flaker which I highly recommend. Nothing smells better than freshly rolled oats. It's like crazy you think how much better than regular oats can it smell? So
+
+[17:48] So so much better than regular oats anyway so I flaked about two hundred and uh 17 grams of uh oats and to that I added about a hundred about half that weight two to one of just bran I used Rouge de Bordeaux wheat because that' what I was making bread out of this week so two to one oats to bran and then just uh salt I added about five grams of salt to that a little more maybe, and then 160 grams of maple syrup and a hundred and twenty five grams of coconut oil and so what you do is you heat the salt the maple syrup and the coconut oil up in like a pot.
+
+[18:05] Careful it wants to boil so badly it wants to boil over so badly so badly you have to keep stirring. Please keep stiring it's gonna boil over let me tell you something about boiling it's gonna boil over. So you stir it once it's hot and bubbling for a while you pour it over you stir it all up you spread it pat it down into like a like almost like a power bar kind of thing on a cooking sheet and you cook it at like three twenty five three fifty don't brown it just till it gets completely hard once it cools down cool and then you break it into pieces and it would be great ice cream topping.
+
+[19:08] So those are the two things I did uh now on to ice cream so uh first of all I have to say if you go and you look at uh Professor Goss uh uh dairy science and technology ebook you're gonna see a table I'm gonna quiz everyone on the line about uh table three from your book Professor now of these animals cow, human, water buffalo, goat, donkey, elephant, rhesus monkey, mouse, whale and seal,
+
+[19:16] Who has the sweetest milk?
+
+[19:19] Of all of those whose milk is the sweetest don't you say professor.
+
+[19:22] Don't you say professor. I know you know.
+
+[19:26] What? Did you say horse?
+
+[19:28] Uh no donkey.
+
+[19:32] Donkey.
+
+[19:34] Who's got the sweetest milk..
+
+[19:37] what human? No, maybe human. No, no, no, no. Well it's tied. It's tied.
+
+[19:59] It's tied to human and Reese monkeys, but close second, donkey donkey very sweet milk yeah because I I know I know horse horse milk is very sweet because in some uh regions they ferment it into alcohol right uh yeah yeah yeah and it yeah but like uh they also ferment other th milks anyway but the point okay what milk has by far the lowest the lowest fat content?
+
+[20:14] Uh camel?
+
+[20:15] Uh camel's not on my list. Cow, human, water buffalo, goat, donkey, elephant, rhes monkey, mouse, whale, and seal.
+
+[20:24] It's not them it's not the marine mammal they have the last I belie.
+
+[20:29] They do by quite a bit uh seal has like f almost 50% fat.
+
+[20:35] You know what mouse is an interesting guess because it's an outlier it has quite a lot of protein quite a lot of fat, and uh not as much uh sugar.
+
+[20:42] And it Wait, it is mouse. I was gonna say oh no that's the highest that's the highest fat highest highest of the non-sea animals because they're so small they need to get all that stuff in donkey 0.6% fat almost no fat in donkey milk which is why uh I don't know this Professor Goff, but like the most expensive cheese in the world is donkey milk cheese and they have to add adjuncts to it to get it to work properly they have to add sheep's milk. Have you ever had that pool cheese or poolé however it's pronounced over there, no I have it no.
+
+[21:16] Yeah can't taste that good am I right it's just a gimmick right because they just can't they can't milk too many donkeys I mean like how good can it be?
+
+[21:24] If it was good you'd be buying it along with uh your caviar and you'd have it along with your other super fancy stuff am I wrong about this?
+
+[21:33] Yeah I don't.
+
+[21:39] Anyway, uh these kind of tables are the reason I really like reading uh these kinds of books because there's no other place you're gonna get a table on the relative uh compositions of different uh milks why did you include that in there just for giggles, Profess?
+
+[21:50] Uh, well, I mean, some of those species are important in other parts of the world from a dairy perspective but I think it's like you say it's also just in instructive to think about why um some of those uh compositions are as they are so like the sea mammals you know the the difficulty of passing milk from from mother to infant and the need for uh for a very very uh rich uh calorically rich product and so I think it's to just think about the each of those animals
+
+[22:13] so uh before because I'm gonna forget otherwise you wanna talk about how you got into this uh ice cream business or no like how why like how did ice cream become the thing for you?
+
+[22:25] Well um it it is kind of an interesting story.
+
+[22:46] So my father worked in the ice cream business for all of his life and um I kind of grew up in it and um when I got to university age I um came here to the University of Guelph to study the dairy science program with the intent really of going back and working in my father's business.
+
+[22:59] Um but it was one of my um professors here who became a great mentor. He was the ice cream guy here at Guelph for for 30 years before me.
+
+[23:10] And it was really him who convinced me that I should think more about going on to graduate studies and and research and so on.
+
+[23:22] So uh I went to Cornell University in New York and then um by the time I had finished my PhD, he had retired and I got his job and came back to Guelph so I've sort of been around ice cream since I was pretty young.
+
+[23:34] Huh and so the day so you did dairy grad at Cornell which still has a fabulo.
+
+[23:40] Um Yes. Yeah I mean so like what okay so I should also mention that uh you know as a professor emeritus you're no longer taking on new grad students there or uh like I guess student advisory thing, but you still do teach the ice cream course if people want to learn directly from you
+
+[23:56] The short cour?
+
+[24:06] Yes yeah I it's uh the course has been running here at Guelph for um more than a hundred and ten years and uh we have no intention of stopping at all so and and I will keep uh keep active at that course for a few more years yet.
+
+[24:16] So yeah, um st still pretty active and in fact uh n next week I'm traveling down to Australia to do my biennial course there in Melbourne.
+
+[24:29] I've been doing that for twenty years or so and I also teach a course in Ireland and and uh we're planning that for twenty twenty six.
+
+[24:35] So we have lots of lots of training and teaching uh opportunities still.
+
+[24:41] So who's your main competitor there is it Penn State's short course? Who's got who's who's got the other ice cream what are the ice cream courses to beat?
+
+[24:48] Yeah Penn State. Uh um we we argue in quibits back and forth about who has the longest and who has the best and so on. But um certainly in the United States the Penn State uh ice cream course is the one that's that's most highly known. Yeah my son Dax went to uh some like Ohio State Penn State football game 'cause apparently it's a big deal and they have like eight billion people go to that game or something like that.
+
+[25:17] And so he actually went 'cause I've never been to s to uh state college in Pennsylvania and my grand my grandfather graduated there and so like I've always wanted to go have the ice cream there and I said
+
+[25:21] You can do anything you want. I'll like pay for your transport out there whate.
+
+[25:42] eat the ice and tell me how it is and he did not he did not have the ice cream there oh too bad yeah I've got a question as a University of Connecticut graduate where does that program stack up because we I've been told that it's a good program but the ice cream is good yeah the ice cream yeah yeah well the ice cream's good and they're supposed have good programs and they still have cows on site up too yeah all right professor what's the what's the scuttle butt on uh on University of Connecticut of stores um uh oh I's I just don'll anybody.
+
+[26:34] There Oh I was taught lies their ice cream is good though yeah so yeah their ice cream is good can't argue with good ice cream yeah you know and i'll tell you this I don't know if you have this at Guelf but every year a senior who takes on like a lot of studies in the ag department who focuses on uh dai gets to make a flavor and then then they make the senior flame flavor at the ice cream thing and sell it to people which is kind of nice you guys do something like that yeah yeah it' nice uh all right all right so um let us should we get to some questions from users listeners uh Justin wants to know Justiness wants to know what are your opinions if you have them on soft serve machines? I guess the question is do you like soft serve or no what machines do you recommend? Now do you do you use commercial style soft uh you know like um I guess
+
+[26:52] Like you know retail establishments off serve machines at all at uh at the university or no?
+
+[26:58] Well, we have a soft serve freezer, so we've certainly um done some work on formulation development and that kind of thing. Uh I think just in response to the question that you know, it it's really the ice cream of the fast food chains and so it it has brought ice cream to a huge number of people um in a very convenient way so that uh you don't have to to scoop ice cream and you can make of course, sundaes and banana splits and and so on with just one barrel of ice cream.
+
+[27:18] So it's from a industry point of view it's it's definitely got a very important role to play.
+
+[27:36] Um the the issues I think are are cleaning and um uh sanitation and and hygiene um because a lot of these freezers are operated in fast four food restaurants that close down at one a.m.
+
+[27:53] or two AM. and you don't want somebody tearing apart your half a million dollar machine. So they've this sort of a of a heat treatment system that more or less sanitizes the machine automatically uh and it can go for a couple weeks witho being torn um taken apart and cleaned. So I think that uh you know, from a fast food restaurant point of view they're excellent in terms of of convenience
+
+[28:26] Um, but uh the biggest issue is around the food safety and the cleaning side of it have you had any experience with the what has always been told s sold to me as uh kind of miniature continuous freezers the formerly Ross, now stilting uh frozen custard machines?
+
+[28:39] Yeah I haven't any personal experience but I I do know what you mean. What do you think about that technology you think it I mean if you don't have any if you don't have any feelings on it you don't have to pretend that you have feelings on it.
+
+[29:01] I'm just always been curious about it's always seems kind of a cool idea to me the ability to have like what amounts to a continuous freezer right and so you can you can certainly kind of retrofit a uh uh soft serve machine to make hard frozen ice cream pretty easily uh and this is the kind of the idea there is that you've um you're you're feeding the barrel with mix on a regular basis but then just drawing that ice cream out and packaging and and hardening it.
+
+[29:12] So it's um it's kind of that semi batch, semi continuous system, but it it it as long as you um have develed a good formulation and and deal with the air handling in the freezer then uh it it can make pretty good quality product. Right they're o they're also usually do very low overrun in the same way that like uh Carvel Soft Serves always said that they're a low overrun soft. Do you like that style of like low overrun soft or no?
+
+[29:49] Um personally, no. I I think that the if you get the air content up a little bit in a more typical soft serve um it gives you the uh that that nicer fluffy texture kind of thing that people look for, I think in soft serve more than they would in hard ice cream.
+
+[30:17] Uh another question that just struck me and like it's I think some of our listeners might want this uh when you said that machine that heats itself to sanitizing aside from sanitizing, uh people who do cust, it always used to be said back in the day that you would have to do your pasteurization and you know functionalization of the of the egg by cooking out like making almost like an anglaise out of your custard base and then you would have to age it for a certain length of time to get the uh fat crystal structure back to where you wanted to before you actually froze and churn the ice cream and then I met a guy uh uh Italian uh machine where who did a battalion machine it wasn't Carpeggiani I forget what company it was larger machine larger, bigger.
+
+[30:49] And he said that uh in fact that what they do with their machine and they think it's a better technology is to pa is to pasteurize it and then immediately freeze it with zero aging. So is there some sort of sweet spot in between no aging at all after pasteurization and aging for a while before you spin that is better than kind of what people could do if they're just cooling normally and then having to age it and spin it
+
+[31:17] Well, so um if I just take uh uh this uh just a step back and explain that a little bit for the for the listeners.
+
+[31:31] Um when we pasteurize an ice cream mix um we've we've heated the milk fat the milk fat is distributed in the form of an emulsion so fine globules in there very very small.
+
+[32:17] And when we spin that ice cream or or put it through the ice cream freezer um some of those fat globules they adsorb to the air bubbles but they also link together to form a partially coalesced fat network very similar to what you get when you whip heavy cream to make whipped cream from it and um you know you can't whip warm cream the fat will just separate out instead of forming a a network of fat globules they just coalesce into larger and larger globules until they essentially separate out so this is the what would happen ice cream in a um commercial setting if it didn'd have a chance to age and for those fat globules all to crystallize, then the fat won set up the proper structure in the ice cream and you know all the major industrial manufacturers they always talk about oh how can we shorten the aging process because it's a time limiting step and then we need enough tanks to store mix in and so on but
+
+[32:31] But they all agree that if it's not properly aged then it doesn's set up a good structure and there's a lot of defects that can follow through from that.
+
+[33:02] Now at the home level um depend, if you had a low overrun and you weren's relying on a lot of fat structuring anyway in terms of properties like shape retention and melting resistance, then it's not as critical so and it it often relates it's the same question that I get often about homogenization.
+
+[33:14] Do I need to homogenize the mix.
+
+[33:22] Well it kind of depends on the freezing conditions. So a little bit lower fat level, little bit lower overrun, maybe a little bit more gentle freezing, and then you're not relying on that fat structuring as much and consequently it doesn't as much whether it's been homogenized or whether it's been aged.
+
+[33:43] So I think I think the answer is it depends, but certainly at the at the artesianal shop level and at the industrial manufacturing level, you have to you have to allow it to age to properly crystallize the fat. Right so there is no way to do it quickly so like someone selling a machine that is pasteurize and freeze in one unit, where it's pasteurized cool and then freeze, you just don't think it's gonna do as good a job as a traditional like separate tank pasteuriz pasteurizing then aging then spinning?
+
+[34:32] Yeah, I don't think so, but I think you could make I think the ice cream fresh right off the machine within the next day or two would probably good, but um it's gonna show up a number of of um uh yeed quality defects over time that um probably you know aren't going to be so desirable if you're if you're making ice cream to to resell...
+
+[34:40] mm- yeah all right uh Wizmird wants to know can you recommend a resource for creating soft serve base recipes I currently use a sweet cream base that I add uh different mostly powdered mix ins like matcha, cocoa and chai that's serving me pretty well but I like an understanding flexibility in creating flavors from scratch uh and perhaps without. Um are you I can't remember..
+
+[35:14] I remember reading about it are you a are you're are you I read someone who's not a fan of bases and someone who is a fan of bases are you a fan of bases or do you like individual completely individualized recipes um well I'd answer that two ways first of all um as much as possible we we try to encourage people who are making ice cream to make as many flavors as they can from a single base mix rather than trying to make a individual base formulation for every flavor.
+
+[35:27] It just gets way too cumbersome to try to to be making a different mix for every flavor if you're try to a to like a a
+
+[35:36] even a restaurant kitchen, but certainly an artesian ice cream shop.
+
+[35:59] Um but on the other hand it's certainly easy to make a base mix with with you know fr fresh ingredients without relying on these powdered bases that you can buy from companies who are selling them.
+
+[36:07] Oftentimes those are just blends of milk powder and sugar and stabilizer um that have been blended at the right proportion so you just mix that into you know milk or cream to make your your gelato mix or your soft serve mix recipe. And you're you're you're paying for the value of having those pre-blended powders, but you can oftentimes just replicate that pretty easily.
+
+[36:47] So um if you look at an ingredient list and an and a nutrition facts table, it's easy to kinda backpedal uh the the formulation and the recipe and then uh recreate that using you know basing or your own ingredients rather than relying on the pre-blended powders and does the uh w do do you use any of the programs that are or do you recommend any of the programs that are out there that help kind of juggle bases? I know Quinn has some calculator.. We don't a soft serve calculator though.
+
+[37:02] Are is anyone out there good or is are those are those resources uh in the uh online uh ice cream uh book or no?
+
+[37:11] sure, sure. There's a a lot of great um formulation calculators and they do provide a lot of of parameters built into them.
+
+[38:10] So you can find there's a couple of different apps that are available now to help uh people recreate ice cream base uh mixes and um there's there's uh online um uh website that that has an online mix calculator so uh and but what they're doing is sort of taking your formulation in terms of percent fat and percent milk solids not fat and so on and then converting that into a recipe based on the amount of cream and milk you need and uh and that's depend of course on the on the composition of the cream and milk so I I always try to distinguish in in for people the difference between a formulation defined in terms of percent fat and percent protein and um from a recipe which is you know so many kilograms or gallons of of cream but even that depends on the fat content of the cream that you use.
+
+[38:27] So you have to kind of work back and forth between your formulation and your recipe the formulation is going to tell you how well blended things are but the recipe is going to tell you how much of each you know ingredient that you need to weigh out to mix it up yeah that's good point.
+
+[38:33] Uh the you mention milk which leads me to Quinn. So Quinn likes to
+
+[38:41] Jack lactose into his uh gelatos. Loves to address absurd amounce some recipes. Absurd amounts.
+
+[39:00] I've always read uh from you and from others about the problem of uh sanding sanding out lactose losing solubility and turning into kind of sandy crystals and ruining the the texture and quinn hasn't had that problem so far so can you tell me like does that happen only on storage or like how do we mimic that because it's like you know it goes against what kind of Quinn's experience has been. Is that would you say it's accurate Quinn? Yeah.
+
+[39:17] Yeah, let me just pull up I I only have a few recipes where I call for uh pure lactose versus you know conventional milk powder so let me just see what my high uh numbers are.
+
+[39:25] Right, but do you want to talk about the sanding professor while we while he's looking that up or no?
+
+[39:32] Yeah so the that sandiness is going to take a while to happen.
+
+[40:02] It's it's really a storage and distribution issue and it's uh you know temperature plays an incredibly important role there as do the hydaloid stabilizers which which try to protect against that lactose crystallization but if you're typically making ice cream and consuming it pretty fresh within a week or so and it's not being distributed and you've got good temperature control then it's very unlikely that you would get lactose crystallization
+
+[40:15] It's really much more of a of um the kind of thing that can happen to to large companies if they're trying to store ice cream for several months at a time.
+
+[40:22] Yeah. And and just on that note, you know people might say, well, why do you want to store ice cream for so long?
+
+[40:37] And that's because we have so much more demand through the summer um than we do in the in the winter months and when you look at production capacity a lot of companies start building their summer inventory you know through already beginning in February and March.
+
+[41:08] And so that ice cream has to sit in cold storage from february till perhaps August before it gets pulled out and I think that's where you want to make sure that the recipe is well blended uh in terms of the lactose to protein ratios and lactose to total solids ratios and that you've got good stabilizer there to protect against that lactose crystallization. So it's not it's not an issue that typically is going to happen for artesianal shops or for homemakers where they consume the ice cream pretty quickly, you know within a day or two or a week after making it but it is a real problem for the larger scale manufacturers who need to store ice cream and distribute it widely of course ice cream is shipped all over the world so um if we're gonna make ice cream in you know
+
+[41:40] Australia and ship it to Japan or in France and ship it to China, then you know, it's got to withstand the rigors of of those sorts of distribution channels...
+
+[41:52] Well, speaking of big companies that have changed a lot over the course of their life, let's look at Briars.
+
+[41:59] So Briars, you know, was, I guess they're out of Philadia and they were you know they have a custard style, but they used to make a Philly style, which was just cream milk, sugar, vanilla.
+
+[42:08] And it was renowned for being delicious if you got it like right next to where they made it, always coming half gallons, right?
+
+[42:17] And then it would just turn to crud because it wasn't stabilized at all. What was the characteristic kind of dr not just ice crystals but there's a characteristic dryness to Briars once it once it had been sitting around too long.
+
+[42:31] What's that what was that from is that part of this the lactose coming out of it or what was what was going on?
+
+[42:34] They by the way, they since changed their formulation and now stabilized the heck out of it. So, you know, Briers isn't Briars anymore. Yeah, yeah.
+
+[42:42] Yeah.
+
+[43:02] Um well I think it probably was related to to the uh growth of the ice crystals but what happens is that as they grow, they kind of fuse together and they make like this n sort of a icy network in there that does give it a very dry crumbly kind of texture so when you put if if once it once those ice crystals are started fusing together and and uh joining into a network then you get much more of that sort of
+
+[43:13] um yeah dr it it sounds incorrect to call ice dry but on the other hand you do get that very crumbly kind of texture that first comes across as seemingly quite dry until all those ice crystals start to melt..
+
+[43:42] And um but it's while we's on stabilizer just for a second is there any is there any w stabilizer that can help or nucleation aid that can help in quiescent freezing so that you can make something that has a texture of an ice cream without?
+
+[43:47] Like it doesn't just taste like a frozen mousse...
+
+[44:17] Gos that's that that's a really great question that's that's been pretty elusive there there are some really interesting ice nucleating agents in nature um they use them in spraying s uh water onto ski hills for example but none of them are food grade and so we've we've never really found a good food grade nucleating agent the idea w is great if you could make up um you know a liquid like a liquid pudd custard kind of a thing that you could just stick into the free and this these ice nucleating agents would give you all that population of small and discrete and individual crystals then you could you know create basically ice cream and just freeze it at home but the problem is when you just
+
+[44:45] put a a liquid mix into a static free, you get all those long dendritic type of crystals like icicles and in the product and you just don't get any kind of a nice texture from it.
+
+[44:59] So when you f when you are spinning it and freezing it at the same time, you're creating rounded ice crystals and very, very small ice crystals.
+
+[45:08] Um boy if we had an uh a food grade ice nucleator it it could really uh change the the the dynamics of ice cream serving and ice cream uh freezing at home.
+
+[45:15] Someday, someday.
+
+[45:23] Um but but somebody'll somebody'll figure out. So two quick questions uh off of that.
+
+[45:29] One, now you think about now that I think about it, yeah you get these kind of acicular, like kind of long pointy crystals when you freeze that way.
+
+[45:37] Why is it that they're that shape whereas when you freeze alcoholic mixtures you get more plate-like crystals. Is there some sort of fundamental difference?
+
+[45:49] Hmm good question. I I'm I I don't have an answer to that right off the top of my head.
+
+[46:05] Um I think it's the I I think in the case of your alcoholic beverages you've got so much freezing point depression in there um and and that water phase, there's so much of that water phase even when it does start to crystallize that it doesn't them to f kind of fuse and grow into one
+
+[46:17] but rather they probably remain a little bit further apart just just because of the f of the fact that you're freezing out of out of a solution that's got such a low freezing point. Right and what what do you peg uh alcohol at like four point seven, four point six or something times sugar what's your number roughly uh yes it's um well you just have to take the molecular weight..
+
+[46:40] Um the All those there was a question on those uh the freezing uh point depression factors for all the different sugars and so on.
+
+[46:58] They's basically calculated on that concept of a sucrose equivalent and it it's just a a simple way of trying to generate a freezing curve um using existing data rather than going back to the kind of scientific first principles.
+
+[47:32] So what we do is we take all those solutes, the molecular weight of them, and then just divide that by the molecular weight of sugar to say how would you know salt or or fructose or erythritol or any of those, how would they compare to sugar on a one to one basis and then you come up with these factors to say it's uh a freezing point depression factor of like one point nine compared to sucrose
+
+[47:38] 5.4 compared to sucrose.. Right. Well, the question in about that was from Corey H. And he said uh well Corey said, uh salts uh salt is uh often um uh quoted as having 5.85 times the uh freeze antifreeze power of sucrose, but that is just as you say, the mole weight ratio.
+
+[48:02] But Corey says uh isn't shouldn't it be twice that amount because salt disassociates almost uh completely into two ions in the mix.
+
+[48:10] Yeah and that that's a very good question and I I had to kind of ponder that a little bit when when it got sent to me ahead of time uh that would be very true if it was just talking about a dilute solution of salt in water it would dissociate very quickly um mix is a lot more complicated of course.
+
+[48:27] There's much less water there and there are milk salts in there and of course there's the macromolecules the proteins and the hydrocolloids and so it's a very viscous system and I have no idea what the dissociation constant of salt in that kind of a complex would be.
+
+[48:55] I if it does dissociate then he's right that you probably should take that 585 and you know again multiply that by two. it's the same concept of using like invert sugar. Ifized it or hydrolyz lactose you've one molecule or you've made two mole Molecules out of one.
+
+[49:10] But I'm just not so sure that salt would dissociate that quickly in the complex solution like mix. That be would be the only thing that would make me scratch my head about that.
+
+[49:22] But I did do a little bit of a Google search and I certainly seems like most of the people in the gelato books that publish these um freezing point depression factors, they do all use that value of uh five 585 or 590 which is just three and forty two divided by 58.
+
+[49:47] So um uh yeah it's a it's a good question but the the answer really depends on how quickly that salt would dissociate under those conditions.
+
+[50:11] So it's almost certainly somewhere between 585 and twice that right yes and but it's better to account for it than not account for it at all um it's yeah i if you accounted too much for it then you know your your ice cream would be harder than you really want it.
+
+[50:20] Right so um and and to be honest that not a lot of people add salt to their recipes anyway so good question, but probably relative to the amount of sweetener that's present it's it's not going to impact the freezing curve a lot whether you um assume some dissociation or not
+
+[50:36] Right. And a question I have on uh also this and this is something I've done a lot of Googling on I can't find any good information, found some not very much.
+
+[50:45] The uh however you want to call it PAC, AFP, whatever you want to call it the like the ability of something to prevent freezing. It's colligative properties. However you want to put it, right?
+
+[50:55] Uh, tied to the molecular weight of the solute.
+
+[51:16] But uh for a given freezing point depression different things affect melt rate differently alcohol, in my experience alcohol makes things melt faster at a given uh freezing point than um sugar does and different salts, I mean that's well known from the de icing business that different salts affect melt rate uh differly even if their freezing point depression is the same.
+
+[51:23] Have you have you done anything with this or do you do you disagree?
+
+[51:43] Do you like have any ideas about that uh again a a yeah a very good question I haven'thing I can't contribute any particular scientific knowledge to that and the only thing I would say though is that when we talk about and maybe this is a a different topic altogether but when you talk about ice cream melting there are there are two things that have to be considered.
+
+[52:00] One is the actual melting of the ice, but secondly is this structural collapse once the ice does start to melt and coming back to our fat structuring, if you've got a good
+
+[52:10] And you've got small air bubbles and small fat globules and good fat structuring.
+
+[52:21] You've got a secondary um system in there that's a lot like the fat in whipped cream so that as the ice melts you're still left with a good structure and good holdup stand-up properties.
+
+[53:14] When we talk about melting resistance or meltdown we look at ice creams and watch them melt we're not really focused on how quickly the ice is melting but we're really focused on how much the structure starts to collapse as that ice melts away and so I think it's just an important thing it doesn't perhaps answer your question but it's an important thing to consider when people talk about ice cream melting that the ice is melting as a function of the heat transfer rate and the how how hot it is outside and how much the wind is blowing and that kind of thing that's your heat transfer and your melting of the ice but then you have to look at all the role of the fat the air bubble size, the stabilizer that's in there, how much is that holding together as the ice melts away and that's that drip rate mean people don't want to eat a cone of ice cream and have it dripping really quickly on their hands before they get a chance to finish the cone.
+
+[53:28] So we build what we call melt resistance
+
+[53:38] But it's not really melting of the ice it's it's holding the rest of the structure together as the ice melts.
+
+[54:23] Well I think it's in your book you literally have a picture of these like hockey pucks of ice cream on mesh and you're waiting and measuring what's left on the mesh over time is that accurate that's in your book isn't it's correct yeah they're smaller than hags but you know what I mean yeah so that's all that that looking at the structural collapse as the ice melts and if you push that you know too far once the ice melts you just end up with whipped cream and so we some of these products that they say you know does not melt and you hear about the Walmart ice cream sandwich in the summertime and those kinds of things you know you once your ice melts you've you're just left with a whipped cream structure and so there's nothing wrong with it it's not artificial it's just the structure that's been built into it to make sure that it doesn't you know drip really quically.
+
+[54:39] We got a bunch more questions for you so I've got to power through them.
+
+[54:53] Dave Kay writes in as a home cook what special tricks can I employ to most accurately copy Hagendah'vanilla ice cream and have to say I also like Haganda's vanilla Haganda's makes a good vanilla anyway go ahead uh yeah so if you look at the Hagendas formulation which again you can do from just looking at their nutrition facts table, it's typically sixteen fat, four percent protein, 44% total solids
+
+[55:08] Um so it's pretty pretty high in fat and total solids.
+
+[55:15] They keep the overrun content pretty low and the most important thing though is that fast freezing.
+
+[56:02] So the combination of the high fat, high solids, low air is going to give you a rich dense product um but you then the additional step is that you have to keep those ice crystals really really small and so you can make something that would be the equival recipe of Hagen Doss, but if you're gonna freeze that in a little home freezer that's you know gonna take fifteen twenty minutes to get to the same level of ice content as it takes like 30 seconds in a commercial freezer, then the ice crystal size is really what's gonna dominate the smooth tex um or or the textural performance of the ice cream so I think the the answer is you know just do a little bit of reverse engineering on the recipe come up with something that's pretty much equivalent and then you know use equipment that's gonna freeze it really, really quickly.
+
+[56:10] What about like Ln?
+
+[56:22] Home people can get L N now and then temper it out like I know that most people over freeze with LN's the issue but yes that that's the problem with with with liquid nitrogen is that they tend to go a little too far and then it becomes very coarse in texture. Yeah.
+
+[56:31] Huh is there any way to mitigate the like long freezing times in kind of smaller machines with hydrocolloids that doesn't the overall flavor release too much or no?
+
+[56:43] Yeah, you can mitigate that.
+
+[56:55] That's certainly an important role of those um stabilizing agents is to uh to provide that smooth texture even in the presence of a bit of a larger ice crystal so a little bit of something like guar gum you know, not too much, like you say, because then you get gumminess and you get some masking of flavor but a a little bit of something like uh you know all natural guar is certainly going to help to give you a smoother texture. Make sure people that you get the flavor-free guar though please oh my god otherwise it's so beanie uh Harris J writes of the sugar substitutes erythritol, alluloseylitol etc, which has the best freezing point depression I'm not sure what they mean by best but take it however you want professor.
+
+[57:33] Yeah again it's all they're they're basically all based on the molecular weight and so if you've got a lower molecular weight sugar like erythritol, it's going to give you three times the freezing point depression of sucrose.
+
+[58:04] And I think the only other thing to consider in that question though is that some of those um sugars will also crystallize themselves and erythritol is a good example of that if you go much higher than like three to four percent erythritol um you could end up with the situation where it crystallizes and so you start off with a really soft ice cream but then after a couple of days you pull it out of the freezer and it's rock hard And that's because the the the erytol is crystallized and and um then you've lost the freezing point depression from it.
+
+[58:16] so you you just have to be a little careful about keeping those sugars in solution to make sure they do the job that they're supposed to do uh J Ray J wrote in a question for Quinn's uh gelato calculator, but since Quinn you can answer that next week because you'll still be here maybe we'll save that one uh and then uh Frank wants to f Frank wants to know your opinion on Chapman's uh salty caramel crunch uh winning the international ice cream have you had this ice cream do you like this ice cream 'cause it's from close to your hometown yep.
+
+[58:49] Yeah Chapman's has done a really great job with that super premium plus line that they call it's got about eight or ten flavors.
+
+[59:16] Um and so they went to this international ice cream consortium um blind taste test with their caramel and and it won, which is great um the International Ice Cream Consortium is a group of manufacturers from around the world that are what they call non-competitive so it excludes like Briars and and Nestle and all of those global brands that might be competitive with each other and it takes like Chapman's here in Canada for example, they're not going to be competing with some of the other ice cream companies in Europe.
+
+[59:27] So they're all kind of they get together to talk about issues and and and they have one of these flavor competitions as
+
+[1:00:54] as part of their annual meetings um but this is who that group is they're large-scale manufacturers but not global scale so that they're non-competitive um anyway you it's not a it's not sort of a consumer panel it's it's uh it's a judgment by his peers basically or their peers of of who they think you know had the best of a particular flavor so it wouldn'vein a public competition but it's a very good product no next time next time I' in Ontario uh we'll check it out so we're uh I got us an extension for a couple of minutes mathman has a bunch of questions feel free to fold into this what's new in the book it's like rapid fire what are some of the new trends that you see in ice cream that you're excited about and let's just say like what's new in the book uh so um the the first thing I want to say is that um from a from a commercial manufacturing viewpoint food safety remains our huge concern you know and and there's there's been lots of headlines of you know people eating ice cream and dying from listeria and that's anybody's absolute worst nightmare so a lot of work has gone on which would all be behind the scenes related to food safety and I think for in terms of um in manufacturing trend that's incredibly important so we've got a couple new chapters in the book that focus on food safety um the
+
+[1:02:30] The Health Conscious products, they always um have a little bit of following and so you can find the no sugar added uh products and the keto high protein products and the fiber enriched products and so on but gee at the end of the day so many people just say listen I'll I'll do well with my diet but I just want good ice cream you know don't mess with my ice cream it's my my indulgent treat for myself yeah don't even though all those health conscious products are important they're probably occupying a small market share because really ice cream is positioned as that in indulgent product um on the flavor side um there's a lot of globalization which is pretty neat we're seeing you know flavor products from the Philippines and from from uh uh India and and so on so a lot of globalization of flavors but then at the same time there's a lot of localization of flavors too and local things that are unique to one geographic region that you'd never find anywhere else taking advantage of whatever is in your local market is just as important as importing some kind of an exotic uh global flavor so those are and the other trend I think that's really important is sustainability and and you can read into that a lot of things but for example on the on the chocolate side we've had so much more
+
+[1:02:38] Attention to the plight of cocoa farmers in West Africa and programs that that help give them a little bit more um you know financial uh uh incentive to to maintain in the cocoa business and so there's a number of good programs that are kind of fair trade related to coffee and related to to cocoa farmers and I think those trends are really great too well thanks so much Profess I don't know if you'd be willing to but maybe you could answer the rest of Math Man's questions off air and we can post them on Patreon.
+
+[1:03:46] Would you be willing sure yeah um awesome awesome well professor Doug Goff uh new ice cream book coming out this May get it while it's hot thanks for coming on cooking issues, I think about it'
