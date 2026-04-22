@@ -1,0 +1,190 @@
+# Techniques
+
+### Granita Texture Control
+*   **Goal:** Achieve large, grainy crystals (distinct from smooth sorbet).
+*   **Method:** Slow freezing with periodic stirring to break up and fluff forming crystals.
+*   **Equipment Alternatives:**
+    *   **Champion Juicer:** Freeze fruit/syrup mix rock hard. Attach a brine plate. Run frozen fruit through the juicer to create a passable sorbet/granita texture.
+    *   **Blending Method:** Blend frozen cubes, then return to the fridge to harden slightly before serving.
+    *   **Ice Cream Machine/Paco Jet:** These produce smooth textures; they are unsuitable for authentic granita unless the user accepts a non-granita result.
+*   **Needle Ice Cream:** An old French technique involving milk/cream with very long crystals, achieved via slow freezing and periodic stirring.
+
+### Sous Vide Egg Cooking (Fast Cook Method)
+*   **Standard Method:** Cook eggs in a water bath at 62°C for 1 hour to ensure the yolk core reaches bath temperature.
+*   **Fast Cook Method (High Temp/Short Time):**
+    *   **Temperature:** 65°C, 70°C, or 77°C water bath.
+    *   **Time:** Approximately 18 minutes.
+    *   **Result:** Runny yolk texture with a firmer white.
+*   **Batch Size Constraint:** Immersion circulators (1000W) struggle to recover temperature when dropping large batches (e.g., 100 eggs) into the bath. This technique is best for small batches (e.g., 4 eggs) where variables can be controlled consistently.
+*   **Alternative Restaurant Method:** Boiling water (screaming boil) for a traditional overcooked white with a creamy center.
+
+### Marmalade Preparation
+*   **Peel Treatment:**
+    1.  Score and peel citrus carefully.
+    2.  Soak peels in a solution of **Pectinex SPL** and water (Ratio: 4g per Liter).
+    3.  Scrub peels with a toothbrush/scrubby to remove the bitter albedo (white pith).
+    4.  Sliver peels to desired size (larger slivers possible due to lack of pith).
+    5.  Blanch if necessary (though bitterness is largely removed).
+    6.  Cook marmalade base separately and fold in peels.
+*   **Pectin Consideration:** Soaking removes pectin from the peel. The pulp usually contains enough pectin, but additional box pectin (citrus or apple derived) can be added if needed.
+
+### Electroflotation (Liquid Clarification)
+*   **Concept:** Use electrolysis to generate tiny hydrogen bubbles that float up, carrying impurities to the surface.
+*   **Setup:** Carbon (graphite) rods and stainless steel top electrodes.
+*   **Bubble Size:** Requires very fine wires to prevent immediate coalescence of bubbles.
+*   **DIY Feasibility:** Aquarium pumps create bubbles that are too large; the mechanism relies on bubble generation from the wire surface itself, not a porous medium.
+
+### Buffalo Chicken Milkshake (Deconstruction)
+*   **Ingredients:** Milk, cream, blue cheese, tomato sauce, buffalo sauce, Worcestershire sauce.
+*   **Process:** Blend ingredients, freeze in a pan stirring occasionally (like granita), then blend again.
+*   **Critical Errors Identified:**
+    *   **Texture:** Lack of sugar results in a grainy, gloppy texture rather than a milkshake consistency.
+    *   **Correction:** Add **glucose syrup** (provides texture modification without sweetness).
+    *   **Vegetarian Status:** Authentic Worcestershire sauce contains anchovies. It is not vegetarian. Vegetarian versions exist but are not recommended.
+
+### Cheese Sauce Stabilization (Nathan Myhrvold Recipe)
+*   **Ingredients:** Sodium citrate, iota carrageenan, cheese water, beer.
+*   **Sodium Citrate (Melting Salt):** Solubilizes and disperses proteins, hydrates/swells proteins, and emulsifies fat. Prevents graininess in molten cheese.
+*   **Iota Carrageenan:** Provides elasticity and moisture-holding ability, specifically for restructuring very mature/aged cheeses which have brittle textures due to protein breakdown.
+*   **Alternative:** Use younger cheeses (3–6 months old) and omit iota carrageenan.
+
+### Fish Killing (Ikajime)
+*   **Problem:** Strong fighting fish (e.g., Bluefish) enter a hard rigor mortis that tears muscle structure, causing mushiness.
+*   **Solution:** Spinal cord destruction (Ikajime) using a needle.
+*   **Mechanism:** Stops nerve signals to muscles, preserving ATP. This delays rigor mortis, resulting in firmer flesh.
+
+### Butternut Squash Skin Reaction
+*   **Symptoms:** Dried-out skin, liquid pearls collecting on the surface.
+*   **Cause:** Likely protein contact dermatitis or a hydrocolloid/protein mixture exuding from the fruit.
+*   **Comparison:** Similar to reactions from handling shrimp.
+*   **Status:** No definitive scientific consensus found; suspected to be a specific squash/melon family defense mechanism.
+
+---
+
+# Equipment
+
+### Thermocouple Thermometers
+*   **Characteristics:** Not extraordinarily accurate out of the box; require calibration.
+*   **Probe Types:**
+    *   **Hypermic Probes:** For sous vide (penetrate bags). Price range: $40–$80+.
+    *   **Custom Probes:** Can be made by ordering thermocouple wire from McMaster-Carr.
+*   **Data Acquisition:** Measurement Computing DAQ unit (~$150) allows 8-channel thermocouple input into a computer.
+
+### Immersion Blenders
+*   **Status:** Dave Arnold expresses dissatisfaction with current market options.
+*   **Future Project:** One of the first items to be developed for his new company, "Bub."
+
+### Pressure Cookers
+*   **Recommendation:** **Cuisinart** (specifically non-venting models).
+*   **Reasoning:** High-quality pans, durable (can withstand continuous abuse), non-venting preserves flavor better than venting models.
+*   **Venting Models:** Reduce flavor quality (good for stocks, bad for others).
+*   **Electric Models:** Quisnaut (brand name mentioned) requires modification to reach standard 15 PSI (temperature too low out of the box). *Note: Dave advises against modification due to safety risks.*
+*   **Large Capacity:** Giant American pressure canners are too large for home use.
+
+### Cream Whippers
+*   **Recommendation:** **ISI**.
+*   **Reasoning:** Off-brand/cheap whippers often fail to seal and leak. ISI is worth the extra cost for reliability.
+
+### Vacuum Sealers
+*   **Chamber Vacuum Sealers:**
+    *   **Cost Drivers:** Stainless steel construction and high-quality vacuum pumps (Busch, Germany).
+    *   **Pump Durability:** Busch pumps withstand contamination and vapor boiling well ("Tonka trucks").
+    *   **Price:** Expensive ($1,500–$22,000).
+*   **FoodSaver:** Weak vacuum; not suitable for vacuum infusion. Good for individual bagging to prevent freezer burn.
+*   **Ziploc (SC Johnson):** ~$6. Weak vacuum. Not suitable for infusion. Good for bagging muffins.
+*   **DIY Alternative:** Water displacement method using Ziploc bags.
+
+### Digital Scales
+*   **Requirements:**
+    *   Hydrocolloid work: Measure to 0.1g.
+    *   Meat work: Measure many kilos.
+*   **Recommendation:** **A&D Washdown Scale**.
+    *   **Features:** Waterproof (dishwasher safe), large capacity, stays on when plugged in (prevents re-weighing if interrupted).
+*   **Avoid:** Scales that turn off automatically.
+*   **High-End Alternative:** Barra Viva (12kg capacity, 0.1g precision, counting scale) – very slow, expensive to replicate today.
+
+### Sauce Funnels (Sauce Guns)
+*   **Standard:** Metal funnel with a central stick to control aperture.
+*   **Retailer:** JB Prince (carries high-quality brands, higher price, not high margin).
+*   **Alternatives:** Amazon options (~50% cheaper) often have poor reviews (don't work).
+*   **DIY:** Possible but not cost-effective for ~$150 price point.
+
+### Circulators
+*   **Brand:** PolyScience (mentioned by caller Christoph).
+*   **Application:** Precise temperature control for texture development (e.g., eggs).
+
+---
+
+# Ingredients & Functional Roles
+
+*   **Pectinex SPL:** Enzyme used to remove bitter albedo (white pith) from citrus peels.
+*   **Glucose Syrup:** Texture modifier for ice creams/sorbets; mimics sugar's textural properties without adding sweetness. Essential for savory milkshakes to prevent graininess.
+*   **Sodium Citrate:** Melting salt. Solubilizes/disperses proteins, hydrates/swells proteins, emulsifies fat. Stabilizes molten cheese emulsions.
+*   **Iota Carrageenan:** Hydrocolloid. Provides elasticity and moisture holding. Essential for using mature/aged cheeses in sauces.
+*   **Lactic Acid:** Flavor component found in cheese, cured meats, pickles, sauerkraut, kimchi. Can be added to mimic these flavors.
+*   **Malic Acid + Citric Acid (2:1 Ratio):** Mimics the acidity profile of lime juice. Used as an acidity corrector.
+*   **Ascorbic Acid (Vitamin C):** Antioxidant. Prevents oxidation in juices.
+*   **Anchovies:** Primary ingredient in authentic Worcestershire sauce; makes it non-vegetarian.
+
+---
+
+# Caller Q&A
+
+**Matthew (Granita)**
+*   **Question:** How to make granita at home without special equipment (ice cream machine/Paco Jet)?
+*   **Answer:** The goal is large crystals. Use a Champion Juicer with a brine plate on frozen mix, or blend frozen cubes and re-harden. Periodic stirring during slow freezing creates the desired texture.
+
+**Rolf (Holiday Gifts)**
+*   **Question:** Recommendations for cooking-related holiday gifts (thermometers, blenders, pressure cookers, etc.).
+*   **Answer:**
+    *   *Thermometers:* Thermocouples are cheap to make (McMaster-Carr wire) or buy (X Tech). Hypermic probes cost $40–$80+.
+    *   *Blenders:* Immersion blenders are currently unsatisfactory; a new product line is in development.
+    *   *Pressure Cookers:* Cuisinart non-venting models are durable and flavor-preserving.
+    *   *Whippers:* ISI is recommended over cheap off-brand options.
+    *   *Vacuum Sealers:* Chamber sealers are expensive due to Busch pumps. FoodSaver/Ziploc are weak but okay for simple tasks.
+    *   *Scales:* A&D washdown scales are recommended for durability and capacity.
+
+**Pedro (Fish Texture)**
+*   **Question:** Why do Atlantic mackerel and bluefish flesh become soft/mushy despite freshness?
+*   **Answer:** Likely due to hard rigor mortis from vigorous fighting. Solution: Use Ikajime (spinal cord destruction) to preserve ATP and delay rigor, resulting in firmer flesh. Enzymatic activity in oily fish can also cause mushiness at low cooking temperatures.
+
+**Christoph (Butternut Squash)**
+*   **Question:** Why does the skin feel dried out and form liquid pearls?
+*   **Answer:** Suspected protein contact dermatitis or exudation of a hydrocolloid/protein mixture. No definitive scientific answer currently available.
+
+**Gabriel (Sauce Funnels)**
+*   **Question:** Are expensive sauce funnels worth it, or can they be built cheaper?
+*   **Answer:** They are a joy to use but absurdly priced. Cheaper options exist on Amazon but often fail. DIY is possible but not cost-effective for the price of a quality unit.
+
+**Monica (Buffalo Chicken Milkshake)**
+*   **Question:** Feedback on a viral recipe for a savory milkshake.
+*   **Answer:** The recipe fails texturally due to lack of sugar (needs glucose syrup) and falsely claims vegetarian status due to anchovies in Worcestershire sauce.
+
+**Matthew (Cheese Sauce)**
+*   **Question:** Role of iota carrageenan in Nathan Myhrvold's cheese sauce recipe?
+*   **Answer:** It provides elasticity and moisture retention for mature cheeses. If using young cheeses (3-6 months), it can be omitted.
+
+**Chris (Acids in Cooking)**
+*   **Question:** Tips for using malic, ascorbic, citric, and lactic acid.
+*   **Answer:**
+    *   *Lactic:* Adds cheese/meat/pickle flavor profiles.
+    *   *Ascorbic:* Antioxidant for juices.
+    *   *Malic/Citric (2:1):* Mimics lime juice acidity.
+
+**Chris (Kitchen Photos)**
+*   **Question:** Will you share photos of your home kitchen?
+*   **Answer:** Yes, a photo exists in *New York Magazine* ("Dave Arnold Kitchen"). The kitchen is 20 sq ft within an 80 sq ft apartment. Features a 6-foot sink with sliding boards.
+
+---
+
+# Strong Opinions & Recommendations
+
+*   **Granita:** Dave is not a huge fan of granita texture; prefers smooth sorbet.
+*   **Thermocouples:** While accurate ones are hard to find, custom thermocouples are a viable, cheap solution for testing.
+*   **Pressure Cookers:** Non-venting Cuisinart models are superior for flavor retention. Venting models reduce flavor quality.
+*   **Vacuum Sealers:** Busch pumps are the gold standard for durability. Cheap pumps break easily.
+*   **Scales:** Scales that turn off are annoying; plug-in models that stay on are essential for workflow.
+*   **Worcestershire Sauce:** Authentic sauce is never vegetarian due to anchovies.
+*   **Butternut Squash:** The skin reaction is a known but unexplained phenomenon involving proteins/hydrocolloids.
+*   **Sauce Funnels:** Despite the price, they are a "complete joy" to use.
+*   **New Business:** Dave Arnold is officially starting a bar concept called "Booker and Dax" at the back of Sambar, launching mid-January. It will feature red hot pokers, new carbonation equipment, centrifuges, legal rotary evaporation, and liquid nitrogen distillations.

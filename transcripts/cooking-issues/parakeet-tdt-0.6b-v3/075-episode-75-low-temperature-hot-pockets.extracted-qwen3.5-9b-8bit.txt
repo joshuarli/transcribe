@@ -1,0 +1,88 @@
+# Low-Temperature Fish Cooking (Combi Oven)
+*   **Technique:** Cooking fish wrapped in cling film (plastic wrap) in a combi oven.
+*   **Standard Method (High Delta T):**
+    *   **Cooking Medium Temp:** 65°C.
+    *   **Target Core Temp:** 39°C to 42°C.
+    *   **Result:** Delicious interior but grossly overcooked, ugly exterior. White proteins coagulate on the surface (resembling egg white specks). No sear or browning occurs.
+*   **Alternative Method (Low Temp/High Humidity):**
+    *   **Equipment:** Combi oven set to 100% humidity.
+    *   **Cooking Medium Temp:** 45°C.
+    *   **Target Core Temp:** 42°C.
+    *   **Time:** 45 minutes (experimented to test immediate service readiness).
+    *   **Result:** Stunning texture (almost raw, flaky, transparent), taste almost raw.
+*   **Safety Concerns:**
+    *   **Incubation Risk:** Cooking at 45°C for 45 minutes risks incubating bacteria in the "danger zone."
+    *   **Recommendation:** A 20-minute window is much safer. 45 minutes is uncomfortable; 20 minutes is comfortable if served immediately and not rechilled.
+    *   **Enzymatic Breakdown:** Fatty fish contain enzymes that break down the fish over time at low temps. A 45-minute cook may result in a mushy texture even without microbial spoilage.
+    *   **Histamines:** Certain fish can develop histamines at super low temperatures.
+*   **Vacuum Bagging vs. Ziplock:**
+    *   **Vacuum Bagging:**
+        *   *Pros:* Allows flavor infusion.
+        *   *Cons:* Deforms the portion; affects texture (super-high vacuum makes texture weird; medium vacuum is also disliked by some). Requires accurate vacuum control (analog meters are inaccurate).
+        *   *Verdict:* Not necessary unless using a CVAP or combi oven where vacuuming is the only way to do low-temp work without a bag.
+    *   **Ziplock Bags:**
+        *   *Pros:* Do not deform the portion as much; allow low-temp cooking without vacuum pressure affecting texture.
+        *   *Cons:* More work to manage air; do not allow flavor infusion.
+        *   *Verdict:* "Pretty damn good" for low-temp work.
+
+# DIY Sous Vide Circulator
+*   **Pump Selection:**
+    *   **Issue:** Fish tank pumps die around 5°C.
+    *   **Recommendation:** Use a high-temperature pump.
+    *   **Specs:** A $15 high-temp pump moving ~1 L/min (16 GPH) is acceptable for a small bath with one bag.
+    *   **Scaling:** For larger units or multiple bags, higher flow is needed to prevent dead spots.
+    *   **Source:** Pumps from brewer's forums (recirculated mash pumps) are recommended. They handle water well and can go up to mid-60s°C. Available on eBay or Granger.
+*   **Safety & Air Removal:**
+    *   **Air Removal:** Not critical for safety or short-term cooking. Getting every last bit of air out is not required.
+    *   **Oxidation:** Excess air can cause oxidation, leading to an "eggy sulfury taste" (especially in crème brûlée). Vacuuming is preferred for this specific application.
+    *   **Ground Meat:** Do not vacuum seal ground meat; it becomes dense and puck-like (sausage texture). Keep it loose.
+    *   **Minimum Temperature:**
+        *   **USDA Minimum:** 54.4°C for beef.
+        *   **Dave's Recommendation:** 55°C for steak.
+        *   **Hamburgers:** 56°C for a standard taste.
+        *   **Rare Burgers:** 50°C for 30 minutes to cool, then sear heavily for a crust.
+
+# Knife Sharpening Tools
+*   **Edge Pro:**
+    *   **Type:** Sharpening system based on fixing the angle between blade and tool.
+    *   **Usage:** Hold knife by handle, rub stick back and forth. Maintains precise angle automatically.
+    *   **Pros:** Extremely repeatable; sharpens a billion knives in ~13 seconds after setup; wide range of replaceable grits; doesn't gouge.
+    *   **Cons:** Not effective if only 1-2 knives need sharpening or if angles need constant changing (requires resetting).
+*   **Duo Sharp:**
+    *   **Type:** Large hand-held diamond whetstone.
+    *   **Usage:** Requires using senses (hands, eyes, fingers) to feel for the burr and determine angle.
+    *   **Pros:** Extremely thin, light, never warps, never gouges (diamonds). Easy to fit in a bag. No soaking required. No mess. No retreading needed.
+    *   **Cons:** Requires skill/sense; less repeatable than Edge Pro.
+    *   **Recommendation:** Get the green and red versions (do not get coarser ones). High-end chefs often prefer Japanese water stones, but Duo Sharp is excellent for portability and consistency.
+
+# Soaking Offal (Livers, Sweetbreads, Monkfish, Duck, Chicken, Beef)
+*   **Purpose of Soaking:**
+    *   Remove residual blood (improves color).
+    *   Remove off-flavors (offal spoils quickly, has higher bacterial contamination, and fat breaks down easily causing rancidity).
+    *   Draw out soluble proteins (when starting cold and bringing up to temp, scum forms on the surface to be skimmed).
+*   **Liquid Choices:**
+    *   **Carbonated Water:** Mentioned in 1890s Boston Cooking School books for wiping gamey birds. Likely a misreading of "soda water" (water with baking soda) used to pack with charcoal. Scientific merit unclear; may be a modern reinterpretation of deodorizing.
+    *   **Milk:**
+        *   **Theory:** Milk contains fat which may help suck out fat-based off-flavors (rancidity/free fatty acids) better than water alone. Skim milk might be less effective.
+        *   **Practice:** Soak, then discard milk (it absorbs "evil humors").
+        *   **Alternative:** Salted milk (helps texture and draws out blood/flavors).
+        *   **Non-Milk Alternative:** Emulsify fat into water using an emulsifier (e.g., Ticoloid 310S) or ultrasonic homogenizer.
+*   **Sweetbread Specifics:**
+    *   **Dave's Method:** Soak in salt water -> Poach in milk -> Press -> Fry.
+    *   **Reasoning:** Salt water draws blood/flavors; milk poaching is traditional (reason unknown to Dave, but preferred for texture). Pressing keeps them together.
+    *   **Texture Preference:** Crunchy (fry) vs. Mushy (sous vide). Dave prefers crunchy.
+    *   **Fake Sweetbread:** Chicken skins rolled into a roulade with salt and meat glue, set, poached, cut into pinwheels, and deep-fried. Passable substitute for those avoiding Bovine Spongiform Encephalopathy (Mad Cow).
+
+# General Culinary Notes
+*   **Hot Pockets:** Kids recognize the brand/tune without seeing commercials. The jingle ("Hot Pockets, Hot Pockets...") is highly effective marketing.
+*   **Peach Season:** Peaches are not in season in NYC in winter. Canned peaches are a valid year-round ingredient.
+*   **Term "86":** No accepted derivation. Theories include:
+    *   Delmonico's item #8 always out.
+    *   Streetcar 86th St last stop.
+    *   Ship crew with 85 men, 86th person not wanted.
+    *   Alcohol service law Article 86 (unverified).
+    *   Chumley's speakeasy (number 86 on street) throwing people out.
+    *   Rhyming slang: "86" for "Nix" (Nicks -> 86).
+    *   Likely old soda slang/jargon.
+*   **Dr. Ruth:** Became a sniper for Israel after the war (War of the Worms?). Known for excellent sniping skills.
+*   **Snake Feeding:** Snakes can be fed frozen whole mice (suppository shape) thawed out. Safer for snake and less traumatic for kids than live mice.

@@ -1,0 +1,115 @@
+# Knife Sharpening & Selection
+
+### Equipment & Recommendations
+*   **Corin (New York):** Highly recommended knife shop located near the former Trade Center. Offers a wide variety of styles to examine firsthand. Prices have increased significantly due to the Yen's value against the dollar (e.g., a knife bought for ~$100 seven years ago now costs ~$180).
+*   **DMT Diamond Stones:** Recommended over traditional Japanese water stones.
+    *   **Models:** Duo Sharp 10-inch bench hone.
+    *   **Advantages:** Small, light, store easily, last forever, never need flattening.
+    *   **Grits:** Use the "Fine" (green) and "Extra Fine" (red) sides. Start on the coarser side (Fine) and finish with light strokes on the Extra Fine side.
+    *   **Note:** Requires a break-in period to knock off errant diamond particles for consistent performance.
+*   **Japanese Water Stones:** Discussed as difficult to use; require frequent dressing to keep flat and constant watering/oiling. No international standard for grit sizing (Japanese grit numbers do not correspond 1:1 with American grits).
+
+### Techniques & Parameters
+*   **Identifying the Burr:**
+    *   Draw thumb across the opposite side of the blade from the sharpening side.
+    *   Feel for a light curl/burr raised along the edge.
+    *   Ensure the burr is raised all the way down the blade to confirm even sharpening.
+*   **Sharpening Traditional Japanese Knives (Single Bevel):**
+    *   **Bevel:** Sharpened on one side only (asymmetric).
+    *   **Method:** Sharpen the beveled side until the burr is raised.
+    *   **Deburring:** Turn the blade over. Lift the spine slightly off the stone and swipe the flat/concave back side a couple of times to remove the burr.
+    *   **Angle:** The back side is often concave; the goal is to recreate the original manufacturer's bevel.
+*   **Sharpening Traditional Western Knives (Double Bevel):**
+    *   **Bevel:** Symmetrical on both sides (e.g., 50-50).
+    *   **Method:** Maintain a consistent angle against the stone.
+    *   **Angle Specs:** Older steels typically require wider angles (e.g., 30° total) for durability. Modern steels can be sharpened to very acute angles (15°–17° total).
+*   **Sharpening Japanese-Western Hybrids (Asymmetric Double Bevel):**
+    *   **Challenge:** No manufacturing standard for asymmetry (e.g., 70/30, 90/10).
+    *   **Method:**
+        1.  Mark the bevel on both sides with a Sharpie.
+        2.  Gently sharpen against a fine stone.
+        3.  Check if the Sharpie is worn away flat across the bevel on both sides to match the manufacturer's angle.
+    *   **Re-grinding:** If the asymmetric angle is too difficult to maintain, the knife can be professionally re-ground to a symmetrical 50-50 bevel.
+*   **Glyston Gyoto Knife Specifics:**
+    *   **Type:** Japanese-Western hybrid, left-handed, single-bevel style.
+    *   **Feature:** Granton edge (scalloped divots) designed to reduce food stickiness, not sharpness.
+
+# Fish & Poultry Dry Aging & Preparation
+
+### Techniques & Parameters
+*   **Ikajime (Fish Preparation):**
+    *   **Purpose:** Destroys the spinal cord to stop electrical messages to muscles, preserving ATP. This prevents rapid rigor mortis, allowing the fish to soften properly and reducing weeping/gaping.
+    *   **Steps:**
+        1.  Destroy the brain.
+        2.  Perform *Shinkanuki*: Shove a needle down the spine to destroy the spinal cord.
+    *   **Timing:**
+        *   Small fish: Optimal texture on the 2nd day after killing.
+        *   Large fish (Tuna, Salmon): Optimal texture takes many days.
+        *   **Warning:** Once optimal texture is reached, quality degrades rapidly. High-end sushi joints serve fish at peak flavor, not necessarily "freshest."
+*   **Dry Aging Beef:**
+    *   **Environment:** Dedicated fridge, meat hung.
+    *   **Cut Selection:** Use primal cuts. Larger pieces minimize moisture loss (concentrating flavor) and ensure the sterile interior remains protected while the exterior dries.
+    *   **Goal:** Remove exterior moisture/funk; interior remains sterile and does not spoil.
+*   **Dry Aging Poultry:**
+    *   **Viscera:** Can be left intact initially to increase funk, but high risk of bacterial spoilage if punctured.
+    *   **Safety Protocol:**
+        *   Smother the bird to prevent viscera leakage into the cavity.
+        *   Salt the bird to dry out the exterior.
+        *   The interior remains sterile if air can circulate.
+        *   **Post-Aging:** Must be gutted, cleaned, and soaked in a salt solution to remove stench before cooking.
+    *   **Duration:** Examples cited include 21, 43, 50, and 73 days.
+*   **Smoked Tuna Belly:**
+    *   **Process:** Cured and smoked periodically.
+    *   **Duration:** Can last up to 80 days.
+    *   **Flavor Changes:** Due to protein and fat breakdown.
+
+# Sausage Making & Modification
+
+### Ingredients & Ratios
+*   **Osabal Cross Fat:**
+    *   **Source:** Cross between Osabal (Iberian dwarf pig from Georgia) and Duroc.
+    *   **Characteristics:** Extremely high fat cap, designed to store fat due to scarce feed.
+    *   **Usage:** Recommended for adding fat content to lean meats like venison.
+*   **Venison Sausage Ratio:**
+    *   **Scenario:** 1.5 lbs of pork fat per 10 lbs of final product.
+    *   **Assessment:** Insufficient fat for optimal texture.
+
+### Techniques & Recommendations
+*   **Thawing & Remixing:**
+    *   **Recommendation:** Hesitant to recommend thawing, remixing, and restuffing cooked sausage.
+    *   **Reasoning:** Once cooked through, the salt and protein binders no longer function effectively to create a proper emulsion/bind. Texture will likely suffer.
+    *   **Alternative:** If modifying, grind up half the existing product and mix with fresh meat and fat to re-establish the bind, then re-smoke (though this results in double-smoking some portions).
+*   **Low-Temp Cooking Alternative:**
+    *   Use a circulator to cook venison at low temperatures to prevent drying out, then drizzle fat over the surface for flavor without needing to re-emulsify the entire batch.
+
+# Mixology: Ice Spheres
+
+### Techniques & Parameters
+*   **Creation Methods:**
+    1.  **Hand-hacked:** Chopped ice polished with a warm block to achieve sphericity.
+    2.  **Aluminum Block:** Melted ice into a sphere using a pre-shaped aluminum mold.
+*   **Thermodynamics:**
+    *   **Cooling Power:** Independent of shape.
+    *   **Cooling Rate:** Dependent on surface area.
+        *   *High Surface Area (Shaved Ice):* Cools quickly but dilutes quickly.
+        *   *Low Surface Area (Sphere):* Cools slower, less dilution (theoretically).
+    *   **Reality Check:** Spheres are often wet when added, negating the dilution advantage.
+*   **Function:** Strictly a presentation tool. No one shakes drinks with spheres.
+*   **Shaken Drinks:** Ice size/configuration can affect texture, but this is distinct from the sphere vs. cube debate for stirred drinks.
+
+# Modernist Techniques
+
+### Nitro Muddling
+*   **Equipment:** Regular cocktail shaker tin.
+*   **Ingredients:** 9 Thai basil leaves, Liquid Nitrogen, Spirit (White Rum, Floritania), Simple Syrup, Lime.
+*   **Procedure:**
+    1.  Place basil leaves in shaker tin.
+    2.  Pour liquid nitrogen on top; leaves become crunchy instantly.
+    3.  Pour off excess liquid nitrogen.
+    4.  **Crucial Step:** Add spirit *first* while herbs are frozen.
+        *   **Reason:** Alcohol inhibits enzymes that cause the herbs to turn swampy/brown as they thaw.
+    5.  Muddle the frozen herbs (noise of frozen stainless steel is significant; glass may be an alternative).
+    6.  Add simple syrup and lime.
+    7.  Swirl to thaw, then shake normally.
+    8.  Strain through a fine mesh strainer.
+    9.  **Result:** Only finely crushed green particles pass through, creating a bright green, fresh-tasting drink.

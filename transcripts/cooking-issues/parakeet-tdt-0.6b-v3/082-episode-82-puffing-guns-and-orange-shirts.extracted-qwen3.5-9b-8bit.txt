@@ -1,0 +1,145 @@
+# Equipment Recommendations & Tradeoffs
+
+### Immersion Circulators
+*   **Recommendation:** Purchase a second unit immediately.
+*   **Rationale:** Allows one unit to run while the other is used for service; prevents regret.
+*   **Cost:** Approximately $800 per unit.
+*   **Availability:** Available at J.B. Prince and Williams-Sonoma.
+*   **DIY Circulators:**
+    *   **Feasibility:** Possible, but often results in less functional equipment due to time spent building.
+    *   **Key Components:**
+        *   **Controller:** $3–$5 (available on eBay or Aubur Instruments).
+        *   **Relay:** Avoid standard relays (failure point); use Solid State Relays (SSR).
+        *   **Heater:** Immersion heater (can be sourced from hot water heaters).
+        *   **Sensor:** Temperature sensor (several dollars).
+        *   **Pump:** The most difficult part to source; commercial pumps have long shafts with stainless steel blades for longevity. Plastic pumps (e.g., InSinkErator style) fail over time.
+    *   **Case:** Can be laser-cut (e.g., Pinoco.com) or custom-built.
+
+### Dehydrators
+*   **Top Recommendation:** Excalibur.
+*   **Reasons:**
+    *   Square racks allow logical layout of items (unlike round racks with holes in the middle).
+    *   Even drying throughout (top and bottom racks perform equally).
+    *   Suitable for flat sheets, liquids (leathers/papers), and fermentation experiments.
+    *   Restaurant-grade reliability; other brands often regretted in professional settings.
+*   **Alternative:** Round models are inferior for layout efficiency.
+
+### Meat Slicers
+*   **Top Recommendation:** Hobart Model 3000.
+    *   **Features:** Vertical slicing mechanism (product sits flat; carriage moves product into blade).
+    *   **Maintenance:** Blade pops out for dishwasher cleaning; props up like a car for cleaning underneath.
+    *   **Performance:** Slices perfectly without pressure; blade is extremely sharp.
+*   **Previous Recommendation:** Berserba SE12.
+    *   **Status:** Still excellent, cheaper than Hobart 3000.
+    *   **Tradeoff:** Does not clean as easily; gravity-fed mechanism requires more pressure.
+*   **Gravity Slicers (Deli Standard):**
+    *   **Mechanism:** Product on an angle; gravity forces product into blade.
+    *   **Risk:** Requires significant pressure to slice, causing the bottom of the meat to wedge out ("healing out"). Indicates a dull blade, poor slicer, or excessive user pressure.
+    *   **Ideal Use:** Only works well if the blade is perfectly sharp and the machine is high quality.
+
+### Vacuum Sealers
+*   **Selection Criteria:**
+    *   **Chamber Size:** Prioritize large chamber size (e.g., MiniPacks) over brand programming features.
+    *   **Pump:** Must have a German-made, oil-based vacuum pump (brand name starts with 'B').
+    *   **Avoid:** Cheap units with inferior pumps.
+
+### Smokers
+*   **Recommendation:** Buy cheap.
+*   **Specific Model:** "Little Chief" or "Big Chief" (quilted metal box with bottom heater).
+*   **Modification:** Drill hole in side, attach smoke generator with heater to cool smoke.
+*   **Rationale:** Light, easy to move/stow, cheap, and widely used in NYC restaurants (e.g., WD-50, Som).
+
+### Carbonation Systems (Bar Use)
+*   **Top Recommendation:** Soda bottles with carbonator caps (Liquid Bread Corporation) connected to 5 or 20 lb CO2 tanks.
+*   **Process:**
+    *   Pre-chill bottles until almost frozen.
+    *   Carbonate 3 times before service.
+    *   Use 1L bottles (holds ~5 pours).
+*   **Avoid:**
+    *   **ISI Soda Bottles:** High cost of chargers; creates excessive foam; inconsistent carbonation levels.
+    *   **Keg Systems:** Cause excessive foaming.
+*   **Refrigeration:** Use a specialized refrigerator (e.g., Randall FX) set to 22–23°F for carbonated drinks.
+
+### Puffing Guns (Cereal/Rice Puffing)
+*   **Concept:** Seals grain (wheat, rice) in a container, heats under massive pressure (150–175 psi), then rapidly depressurizes to expand.
+*   **Temperature:** ~350–360°F.
+*   **Moisture Content:** Grain must have ~10% moisture.
+*   **Commercial Options:**
+    *   **Puritan Manufacturing Corporation:** Old puffing guns refurbished and used in Mexico; moved to continuous puffers.
+    *   **Twin Screw Extruder:** Used for Captain Crunch; invented for plastics industry; uses screw under enormous pressure to heat and extrude grain.
+    *   **Korean Machines:** Small commercial machines for puffed rice cakes (e.g., *Bing*).
+*   **DIY Warning:** Street vendors use homemade boilers with open fires and vice grips; extremely dangerous (150+ psi). DIY attempts with pipes (Schedule 80) often fail due to sealing issues at high temps/pressures.
+
+# Ingredients & Functional Roles
+
+### Lecithin
+*   **Usage:** Attempted for creating juice foam.
+*   **Verdict:** Not recommended. Difficult to mix with juice; sticks to equipment (e.g., spring coil frothers); unpleasant to work with ("like roofing tar").
+
+### VersaWhip
+*   **Function:** Whipping agent.
+*   **Recipe Ratio:** 200g Orange Juice + 2.5g VersaWhip.
+*   **Note:** Requires Xanthan gum (0.5–1% range) to provide body and hold the foam after whipping.
+*   **Application:** Used in dense citrus foams (e.g., blood orange foam).
+
+### Agar
+*   **Function:** Gelation agent to stabilize foams.
+*   **Recipe Ratio:** 0.8% to 1% agar gel.
+*   **Process:** Mix juice + acid (lemon) + agar into a fluid gel. Blend with cream in an ISI whipper. Result: Dense, creamy foam that holds structure.
+
+### Alliums (Onions, Garlic, Ramps)
+*   **Pressure Cooking:**
+    *   **Application:** Making massive amounts of sauce (e.g., half-garlic pizza sauce) or stock (e.g., beef stock, veg stock).
+    *   **Flavor Profile:** Incredibly sweet, but potentially light on "onion flavor" if used alone.
+*   **Varieties:** Different garlic varieties are useful as the season progresses; varieties climatize to the garden over 2–3 years.
+*   **Ramps:**
+    *   **Opinion:** The product is good, but the popularity is annoying.
+    *   **Season:** Ending; Green garlic and chives season beginning.
+
+# Techniques & Parameters
+
+### Carbonated Drink Ratios
+*   **Standard Ratio (5 oz pour):**
+    *   1.75 oz Strong Liquor
+    *   3.5 oz Water (includes simple syrup, juice, etc.)
+*   **Alcohol Content Warning:**
+    *   Drinks with >32–33% alcohol require extremely low temperatures (~-18°C / 0°F) to carbonate properly.
+    *   High-alcohol carbonated drinks foam excessively, taste cloying over time, and can be physically overwhelming ("hit people like a ton of bricks").
+*   **Preparation:**
+    *   **Shaking:** Required for carbonated drinks (stirring is insufficient for temperature and dilution).
+    *   **Temperature:** Chill until almost frozen (22–23°F recommended).
+    *   **Dilution:** Add soda water to high-alcohol carbonated drinks to improve balance and refreshment.
+
+### Foam Creation (Citrus)
+*   **Method 1 (VersaWhip + Xanthan):**
+    1.  Mix 200g juice + 2.5g VersaWhip.
+    2.  Add Xanthan gum for stability.
+    3.  Whip with immersion blender (whisk attachment).
+    4.  Apply to dish.
+*   **Method 2 (Agar + Cream):**
+    1.  Acidify juice (e.g., add lemon to orange).
+    2.  Set into 0.8–1% agar gel.
+    3.  Blend into fluid gel.
+    4.  Mix with straight cream in ISI whipper.
+    5.  Squirt to create dense, stable foam.
+
+### Puffing Grain (Theoretical)
+*   **Process:**
+    1.  Select grain with ~10% moisture.
+    2.  Seal in container.
+    3.  Heat under 150–175 psi to ~350–360°F.
+    4.  Rapidly release pressure to cause explosive expansion.
+*   **Challenge:** Requires robust sealing and external heat agitation (rotation) to ensure even heating; internal heating with water medium often causes venting/steam leaks.
+
+# Strong Opinions & Recommendations
+
+*   **Deli Slicers:** "You're never gonna regret having 2 circulators around." "Nobody loves [cheap smokers], but they are easy to stow." "A properly sharpened slicer should not require any pressure."
+*   **Dehydrators:** "There's no question that you should get the Excalibur." "Anyone who buys a different dehydrator for a restaurant regrets it."
+*   **Carbonation:** "ISI chargers are going to cost you too much." "Bottles are the way to go in a bar until we finish our system." "If you have more alcohol than [1.75:3.5 ratio], you need to get it ridiculously cold... and you're really gonna put people on the floor."
+*   **Dietary Health:** "The healthiest diet is to eat a wide variety of interesting foods in moderation that make you happy and sated." "I don't like in general the notion of people selling dietary cures to illness."
+*   **DIY Circulators:** "I am not against DIY circulators. In fact, I applaud anyone that wants to build something themselves."
+*   **Books:**
+    *   *The Complete Book of Garlic* by Ted Jordan Meredith: "Fantastic," "One of the best discussions," recommended for gardeners/cooks.
+    *   *Garlic and Other Alliums* by Eric Bloch: Good for science/taxonomy/history, but dense.
+    *   *Having Your Ramps and Eating Them Too* by Glenn Facemyer Jr.: Expressed skepticism ("Hopefully it does not suck").
+*   **Equipment Safety:** "I would not walk anywhere near that sucker [street vendor puffing gun]... that thing could blow up at any second."

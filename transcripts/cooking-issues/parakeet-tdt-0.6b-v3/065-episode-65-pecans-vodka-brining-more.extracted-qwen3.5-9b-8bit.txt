@@ -1,0 +1,76 @@
+# Pecan Bitterness and Skin Removal
+*   **Cause:** The reddish/brownish skin of pecans (and walnuts) contains high levels of tannins, causing a dry, bitter, astringent mouthfeel.
+*   **Variability:** Astringency varies radically by cultivar and supplier.
+*   **Removal Technique:**
+    *   Hot roast the pecans briefly.
+    *   Rub skins off between towels.
+    *   *Trade-off:* Removing skin changes the visual appearance of the pecan.
+*   **Alternative:** Centrifuging nut oils/butters separates the skin layer to the bottom; discard the bottom layer.
+*   **Storage:** Nuts are high in oil and unstable. Vacuum pack or nitrogen flush to prevent oxidation (rancidity). Avoid roasting stale nuts to restore crispness; oxidation damage is permanent.
+*   **Safety Note:** Bad pistachios can contain high levels of aflatoxin (fungal problem). Inspect bulk shelled pistachios individually; discard shriveled or discolored nuts.
+
+# American Country Ham Preparation
+*   **Producer Note:** Colonel Newsom's hams (Kentucky) are cured once a year in winter. Age is judged by time elapsed since winter.
+*   **Structural Differences:** American country hams are hung opposite to European hams and are not squished flat. This creates a thick "cushion" area with a wetter center and greater variation in salt/density/water levels between the face (skin side) and the center.
+*   **Boning:**
+    *   Use a tunnel boning knife (e.g., F Dick cutlery).
+    *   *Difficulty:* Boning older hams (1.5+ years) is difficult and risks breaking knives.
+    *   *Constraint:* Professionals use water-cooled metal molds and immense hydraulic pressure to compress prosciutto flat. This is not feasible for home cooks with American hams due to required pressure and heat management.
+*   **Reassembly Strategy:**
+    *   Do not attempt to press the bone hole shut with meat glue and a hydraulic press; results are unpredictable and may seal in moisture.
+    *   *Recommendation:* Remove the section below the bone. Slice the section above the bone as a whole piece (accepting a semicircular mark). Serve the tougher bottom section separately.
+
+# Brining Fundamentals
+*   **Function:** Salt flavors meat and alters protein structure to increase water retention (prevents overcooking).
+*   **Strength/Time:** No specific rule of thumb provided; Dave Arnold admits to tasting brines to determine strength (target: "salty as the ocean").
+*   **Flavoring:** Herbs and aromatics flavor the surface effectively. Permeation into the meat in vacuum bags is minimal.
+*   **Safety:** No specific concentration cited to reduce salmonella risk; standard refrigeration and proper cooking are assumed.
+
+# Rotary Evaporator (Rotovap) Distillation
+*   **Legality Warning:** Distilling spirits on-site for sale is illegal in most areas due to tax evasion laws.
+*   **Feasibility:** Rotovaps can distill base wines (starting ~12% ABV) to high-proof spirits (e.g., 100-proof brandy from port) in one pass due to vacuum reflux rates.
+*   **Temperature Control:**
+    *   To preserve delicate fruit flavors, temperatures must be extremely low.
+    *   *Challenge:* Requires expensive cooling power (chilled water) rather than tap water.
+    *   *Alternative:* Run at higher temperatures using tap water, accepting potential flavor impact.
+*   **Equipment Recommendation:** Start with a small rotovap to test the procedure before investing in a large (20-30L) unit.
+*   **Separation (Heads/Tails):** Standard rotovaps lack separation mechanisms.
+    *   *Workaround:* Design a pump to taste distillate in real-time.
+    *   *Process:* On pilot runs, determine volume to discard (heads) and when tails begin by tasting every chunk of time. Scale based on percentage, temperature, product type, and vacuum levels.
+
+# Plastic and Endocrine Disruptors
+*   **Issue:** Many plastics, including those labeled "BPA-free" (e.g., PETG bottles) and plasticizers-free polyethylene, can leach endocrine-disrupting chemicals (estrogenic compounds).
+*   **Conditions:** Leaching is triggered by heat (microwaving), alcohol soaking, salt soaking, and degradation over time.
+*   **Status:** Research is ongoing; no known safe minimum levels established.
+
+# Pan Sauces for Low-Temperature Cooked Proteins
+*   **Challenge:** Low-temperature fillets (e.g., cod) lack deglazed fond.
+*   **Technique 1 (Meat/Poultry):** Make a stock using bones and aromatics, reduce it, and use as the sauce base.
+*   **Technique 2 (Fish):** Add high-umami ingredients to a finished sauce.
+    *   *Examples:* Miso, soy-based sauces.
+    *   *Goal:* Introduce brown notes and umami that low-temperature cooking does not develop.
+
+# Savory Ice Creams and Sorbets
+*   **Base Formulation:** Adapt sweet formulations (solid sugars/liquids balance) from Sebastian Canon.
+*   **Texture Agents:**
+    *   Sugar is required for proper mouthfeel; liquid nitrogen alone creates a hard, incorrect texture.
+    *   *Substitutes:* Isomalt or Glucose Syrup (low DE corn syrup).
+    *   *Ratio:* Isomalt substitution suggested at 30-50% of sucrose (less sweet).
+    *   *Function:* Substitutes must provide water-binding and texturizing properties.
+*   **Additives:** Nonfat milk protein (dry milk) can be added to sorbets to create a sherbet-like texture.
+
+# Immersion Circulator Maintenance
+*   **Reliability:** Cheaper units (e.g., eBay/Lauda) often fail (motor/triac burnout). High-end units (e.g., PolyScience) are more reliable.
+*   **Noise Diagnosis:**
+    *   *Bearing Noise:* Squeaking/scraping. Can be temporarily fixed with WD-40 (non-food grade; use sparingly).
+    *   *Shaft Rubbing:* Shaft touching metal parts.
+        *   *Fix:* Bend the bottom of the unit slightly to lift the shaft off the metal.
+*   **Failure Mode:** If bearing noise persists after WD-40 application, the bearing is likely failing and will worsen.
+
+# Steak Boiling Experiment (Caller Q&A)
+*   **Caller Question:** Results of boiling steaks of varying thicknesses (1", 2", 3") using a double boiler and instant-read thermometer. Observed a linear relationship between thickness and cooking time (doubling thickness roughly quadrupled time).
+*   **Dave's Analysis:**
+    *   Cooking time should not be linear; doubling thickness should result in a factor of 4 increase in time (square law), not a linear factor.
+    *   *Data Issues:* Only 2 data points per thickness; insufficient for accurate graphing.
+    *   *Cut Recommendation:* Do not boil expensive cuts. Use Eye of Round (low fat, cheap). Boiling makes low-fat cuts tough and "livery."
+    *   *Recovery:* Searing boiled meat with oil/garlic can dress it up, but texture remains compromised.

@@ -1,0 +1,86 @@
+# Modernist Pantry Ingredients
+*   **Sodium Citrate & Sodium Hexametaphosphate:** Act as sequestrants (preservatives) and chelate calcium ions. Essential for working with hydrocolloids that gel in the presence of calcium (e.g., sodium alginate, gellan).
+*   **Promo Offer:** Free package of sodium hexametaphosphate with orders of $25+ before next week using code **CI72**.
+
+# Chocolate Tempering with Immersion Circulator
+*   **Goal:** Achieve Beta crystals (snap, shine, taste) while eliminating Beta prime crystals (soft, low melt, no snap).
+*   **Method 1 (Standard Tempering Protocol):**
+    1.  Melt chocolate to eliminate all crystals.
+    2.  Cool to the high 80s°F (approx. 27-32°C) to initiate crystal formation (mostly Beta primes, some Betas).
+    3.  Heat slowly back up to a range where Beta primes melt but Beta crystals remain intact.
+    4.  Hold at this temperature to allow Beta crystals to act as seeds.
+    5.  Chill to set.
+*   **Method 2 (Simplified for Immersion Circulator):**
+    *   Start with pre-tempered chocolate in a vacuum-sealed bag.
+    *   Submerge bag in circulator at **91–92°F**.
+    *   Heat until chocolate becomes viscous (melting undesirable crystals while leaving seed crystals intact).
+    *   *Note:* The circulator's precise temperature control allows for accurate execution of the heating/cooling cycle.
+
+# Mozzarella Making (Pasta Filata Style)
+*   **Key Factor:** pH/Acidity level of the curd is critical for texture and stringiness.
+*   **Technique Variables:**
+    *   **Curd Slicing:** Affects heat transfer rate.
+    *   **Water Temperature:** Affects melting behavior.
+    *   **Salt in Water:** Influences final product.
+    *   **Stretching/Pulling:** Aligns casein proteins into thin sheets, squeezing out water and whey.
+        *   *More stretching/pulling:* Creates structure, traps less water, results in firmer cheese (e.g., *Burrata* needs shape retention).
+        *   *Less stretching:* Results in softer, more "weepy" cheese with larger open pores.
+*   **Recommendation:** Observe a professional mozzarella joint to compare stretching techniques against home methods.
+*   **Anecdote:** Dave stopped making mozzarella at home after his wife criticized his results; he prefers buying from DiPal's, noting their style changed from "less porous" to "softer" after a change in forming technique.
+
+# Strawberry Clarification via Centrifuge
+*   **Problem:** Strawberries do not centrifuge well without enzymatic treatment; yield is poor and clarity is low without it.
+*   **Enzyme:** **Pectinex Ultra SPL**.
+*   **Procedure:**
+    1.  Blend strawberries.
+    2.  Add **couple of grams** of Pectinex Ultra SPL per batch.
+    3.  Hold back of hand against blender until mixture warms to slightly above body temperature.
+    4.  Let sit for **10 minutes** (enzyme breaks down pectin, reducing viscosity).
+    5.  Centrifuge for **10–15 minutes**.
+    6.  Filter through coffee filter or muslin to catch solids.
+*   **Aeration Issue:** Air whipped into the blend can withstand G-forces.
+    *   *Solution:* Use a vacuum machine to deaerate at low temperature before spinning.
+*   **Applicability:** Works for non-acidic to mildly acidic fruits.
+
+# Lime Juice Clarification (High G-Force Required)
+*   **Challenge:** Standard 3L centrifuges cannot achieve the ~48,000 G-force needed for clear lime juice (27,000 G is insufficient for taste/clarity).
+*   **Charge Interaction Strategy:** Alternate adding agents with opposing charges to flock particles together.
+*   **Recipe (per Liter):**
+    1.  Add **2g Pectinex Ultra SPL**.
+    2.  Add **2g Kesel Sol** (suspended silica gel).
+    3.  Stir, let sit **20 minutes**.
+    4.  Add **2g Chitosan** (hydrocolloid from shrimp shells).
+    5.  Stir, let sit **20 minutes**.
+    6.  Add **2g Kesel Sol**.
+    7.  Stir, let sit **20 minutes**.
+    8.  Centrifuge.
+*   **Result:** ~10% clear lime juice.
+
+# Commercial Deep Fryer vs. Dutch Oven/Home Fryer
+*   **Advantages of Commercial Fryers:**
+    *   **Volume:** Large oil volume provides better surface-to-volume ratio.
+    *   **Cold Zone:** Heating element is *not* at the bottom. Food debris sinks into a large unheated area, preventing scorching and burnt flavors.
+    *   **Power:** High power with large surface area prevents overheating and rapid oil degradation.
+    *   **Recovery Time:** Fast recovery prevents oil temperature drops and subsequent overheating cycles.
+*   **Dutch Oven/Home Fryer Disadvantages:**
+    *   Underpowered.
+    *   Low recovery time leads to overheating/degradation.
+    *   Bottom of oil accumulates burnt particles, causing rancid flavors.
+*   **Oil Maintenance Techniques:**
+    *   **Straining:** Remove particles before storage to prevent rancidity.
+    *   **Storage:** Cover tightly; store in dark (e.g., wooden block cover) to prevent oxidation/light exposure.
+    *   **Testing:** Fry a piece of bread the day before use; if it tastes rancid, change oil.
+    *   **Continuous Frying:** Fry high-absorption items (french fries, potato chips) to replenish oil volume. Chips are ~50% oil, keeping the bath fresh.
+*   **Ventilation:**
+    *   Ideal: Commercial hood.
+    *   DIY Hack: Bolt two small residential hoods back-to-back, mount low over the fryer to maximize extraction despite poor airflow dynamics.
+    *   Alternative: Place fryer on a covered porch (weather permitting).
+
+# Milk Foaming (Cappuccino)
+*   **Issue:** Non-homogenized milk foams poorly compared to homogenized milk.
+*   **Heating Debate:**
+    *   *Theory A:* Heating denatures whey proteins, reducing foam ability.
+    *   *Theory B:* Heating/pasteurization/homogenization generally improves foam ability.
+    *   *Status:* Scientific literature is conflicted; UC Davis suggests denaturing some whey proteins may improve foaming, while Mark Prince (Coffee Geek) argues denatured proteins foam poorly.
+*   **Observation:** Pasteurized milk (heated) foams fine in practice despite theoretical concerns about denaturation.
+*   **Action:** Dave plans further research; offered to loan Milk Bar an ultrasonic homogenizer to test variables.

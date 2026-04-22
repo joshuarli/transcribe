@@ -1,0 +1,134 @@
+# Reverse Spherification Troubleshooting
+
+## Caller Issue: Rum Sphere Failure
+*   **Problem:** Spheres dispersed on the surface ("pancake effect") instead of dropping; bath was thick but clear.
+*   **Root Causes Identified:**
+    *   **Alginate Concentration Too Low:** Caller used 2.5g per 500g water (0.4% or 4g/L). This is insufficient for rapid gelation.
+    *   **Lack of Density/Heft:** Rum is light; without added viscosity, it floats and spreads rather than sinking to form a drop.
+    *   **Air Bubbles:** Cloudy rum indicates trapped air, which prevents proper drop formation.
+    *   **Calcium Concentration:** Caller used 30g/L calcium lactate. Dave notes this is high (3%) and suggests dialing back once gelling is achieved.
+
+## Recommended Parameters & Techniques
+*   **Alginate Bath Concentration:**
+    *   Increase to **15g/L** (Dave's recommendation for robust gelation).
+    *   Acceptable range for high viscosity alginate: **7g/L to 8g/L**.
+    *   *Note:* 4g/L is too low for quick formation.
+*   **Alginate Type:**
+    *   Use **High Viscosity Alginate** (e.g., FMC Biopolymer).
+    *   Medium viscosity is also an option but requires higher concentration.
+*   **Bath Preparation:**
+    *   **Stabilizer:** Sodium Citrate acts as a pH buffer (prevents alginate from gelling prematurely if pH drops) and sequestrant (binds excess calcium).
+        *   *Alternative Sequestrant:* Sodium Hexametaphosphate (stronger).
+    *   **Temperature:** Heat the alginate bath to decrease viscosity and help release air bubbles. Do not boil alcohol out of the flavor base.
+*   **Flavor Base Modifications:**
+    *   **Add Body:** Add glucose syrup, corn syrup, or invert sugar to increase density so the base sinks.
+    *   **Remove Air:**
+        *   Let cloudy mixtures settle.
+        *   Use a vacuum machine (if available).
+        *   **Alternative Method:** If a vacuum is unavailable, use a **Silpat**. Place drops on the Silpat, freeze them, then thaw instantly in the hot alginate bath. This forces the drop underneath the surface.
+*   **Post-Formation Handling:**
+    *   **Separation:** If spheres touch in the bath, they bond via alginate. Immediately rinse in **pure water** to separate.
+    *   **Storage:**
+        *   Store in the **flavor base** (with calcium) to last indefinitely.
+        *   Store in a sugar/alcohol solution matching the ball's sweetness and alcohol level (intermediate option).
+        *   *Avoid:* Storing in pure water (leaches flavor/color quickly).
+
+## Equipment & Ingredients
+*   **Alginate Brands:** FMC Biopolymer (High/Medium viscosity). Modernist Pantry (brand unknown to Dave regarding viscosity specs).
+*   **Calcium Sources:** Calcium Lactate or Calcium Lactate Gluconate (Gluconate makes a softer gel).
+*   **Thickeners:** Xanthan gum (ensure no air bubbles), Glucose Syrup, Corn Syrup.
+
+---
+
+# Starches: Ultra-Tex vs. Ultra-Disperse
+
+## Product Comparison
+*   **Ultra-Tex (National Starch):**
+    *   **Type:** Precooked, prehydrated starch.
+    *   **Usage:** Requires **high shear mixing** (blender, food processor) to disperse.
+    *   **Risk:** Without high shear, it gels into "pearls" or globules immediately upon contact with liquid (similar to adding starch to hot gravy without a slurry).
+*   **Ultra-Disperse (National Starch):**
+    *   **Type:** Agglomerated, precooked, prehydrated starch.
+    *   **Appearance:** Grainy texture; does not clump into balls.
+    *   **Usage:** Can be stirred directly into liquids; requires less high shear.
+    *   **Tradeoff:** More expensive than Ultra-Tex, but recommended for home/high-end chefs due to ease of use.
+
+---
+
+# Rotary Evaporator (Rotovap) Maintenance
+
+## Cleaning Protocol
+*   **Contaminants:** Inorganic poisons, organic poisons, biohazards.
+*   **Cleaning Steps:**
+    1.  Soak in **bleach** (for biohazards).
+    2.  Use **ultrasonic cleaners**.
+    3.  Multiple changes of water.
+    4.  Use detergents that attack both polar and non-polar substances.
+    5.  Repeat process.
+*   **Specific Solvent Decontamination:**
+    *   Research specific decontamination procedures for nasty solvents (e.g., Carbon Tetrachloride).
+    *   Consider heavy-duty cleaners like brewery wash (powdered) for chemical deposits.
+*   **Condenser Types:**
+    *   **Regular Coil Condenser:** Difficult to clean; impossible to reach nooks and crannies with hands.
+    *   **Cold Finger Condenser:** Disassemblable; allows hand access for thorough cleaning.
+    *   **Best Option:** Cold finger condenser with a coiled insert sleeve (combines benefits of both).
+*   **Coolants:**
+    *   Cold finger typically uses Dry Ice/Acetone or Dry Ice/Ethanol.
+    *   Dave prefers **Liquid Nitrogen** (easier to source, though storage is an issue).
+    *   *Note:* Cold finger has lower surface area than coil condensers unless using super-cold agents.
+
+---
+
+# Ice Cream Formulation
+
+## Substituting Sugar with Glucose Syrup
+*   **Goal:** Improve texture, prevent crystallization, maintain stability.
+*   **Mechanism:** Glucose syrup increases viscosity (denser mouthfeel) and depresses freezing point.
+*   **Calculation Logic (Relative to Sucrose):**
+    *   **Sweetness:** Glucose 28 DE is ~40% as sweet as sucrose (dry weight basis).
+    *   **Freezing Point Depression:** Glucose 28 DE provides ~50% of the freezing point depression of sucrose.
+    *   **Adjustment:** To match sweetness, you must add more solids.
+        *   *Example:* Removing 200g sugar requires adding ~400g of solids from Glucose 28 DE to match sweetness, resulting in a denser mix.
+*   **Recipe Balancing:**
+    *   Calculate relative sweetness and relative freezing point depression against sucrose (baseline 1.0).
+    *   Target sucrose levels: 13-18% solids for standard texture.
+    *   If reducing sweetness without drastically changing freezing point: Add glucose syrup + small amounts of alcohol.
+*   **Additives:** Gelatin helps inhibit crystallization alongside hydrocolloids.
+
+---
+
+# Sherry Vinegar Production
+
+## Process Parameters
+*   **Alcohol Content:**
+    *   Sherry is fortified (high ABV).
+    *   **Target:** Dilute sherry to **7% - 9% alcohol** (preferably starting lower at 7%) before inoculation.
+    *   *Reason:* High alcohol inhibits *Acetobacter* growth.
+*   **Sulfur Dioxide:** High levels in wine can inhibit *Acetobacter*.
+*   **Method:**
+    *   **Aerobic:** Requires air for *Acetobacter* growth.
+    *   **Mother:** Mainly bacterial cellulose; floats on top.
+    *   **Technique:**
+        *   Old school: Cask with holes/screen for airflow.
+        *   Fast method: Increase surface area (e.g., mix wood chips).
+        *   Maintenance: Remove 3/4 of vinegar, replace with fresh liquid without disturbing the mother.
+    *   **Aging:**
+        *   Can age in wooden barrels (small ones rare).
+        *   **Pasteurization:** Can be used to stop bacterial activity and prevent acid consumption, allowing for flavor control.
+        *   **Air Exclusion:** Can exclude air to stop oxidation after acetic acid formation.
+
+---
+
+# Equipment & Ingredients Notes
+
+## Ice Cream Machine
+*   **Type:** Cuisinart pre-freeze canister model.
+*   **Stabilizers Used:** Glucose syrup and Gelatin.
+
+## Modernist Pantry Ingredients
+*   **Ultratex 3:** Precooked starch (requires high shear).
+*   **Ultratex 8:** Precooked starch.
+*   **Ultra-Disperse 3:** Agglomerated precooked starch (easier to use).
+*   **Sodium Hexametaphosphate:** Strong sequestrant.
+*   **Sodium Citrate:** pH buffer and sequestrant for spherification.
+*   **Sodium Alginate:** Hydrocolloid for spherification.

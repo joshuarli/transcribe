@@ -1,0 +1,114 @@
+# Modernist Cuisine Techniques & Ingredients
+
+## Liquid Nitrogen Herb Extraction
+*   **Technique:** Smashing herbs with liquid nitrogen to prevent enzymatic degradation.
+*   **Process:**
+    1.  Freeze herbs deeply in liquid nitrogen.
+    2.  Shatter into super-fine particles using a hand muddler.
+    3.  Add liquor directly (enzymes cannot work in cold with liquor).
+    4.  Add lime juice (ascorbic acid) to further prevent breakdown.
+    5.  Shake like a normal daiquiri.
+*   **Result:** Beautiful color, spectacular aroma, no enzymatic degradation.
+*   **Example:** Thai basil cocktail at Booker Index.
+
+## Modernist Spätzle (Dairy-Based Dumplings)
+*   **Inspiration:** Alex Naki (ID's and Food).
+*   **Application:** Garnish for 72-hour beef cheek goulash.
+*   **Ingredients & Functions:**
+    *   **Activa YG:** Meat glue (transglutaminase) made for dairy/protein; binds proteins.
+    *   **Albumin:** Additional protein source.
+    *   **Gelatin:** Provides structure; must be fully hydrated.
+    *   **Sour Cream/Ricotta/Whey Protein:** Protein sources.
+    *   **Egg White Proteins:** Bound with dairy proteins.
+*   **Process:**
+    1.  Hydrate gelatin in ice water bath until syrupy consistency.
+    2.  Set mixture directly into ice water.
+    3.  Sieve through a spätzle maker into ice water to form dumpling shapes.
+    4.  Final fry/toast in brown butter.
+*   **Troubleshooting (Caller Issue):**
+    *   *Problem:* Spätzle dissolved in ice water or failed to set.
+    *   *Cause:* Not waiting long enough for gelatin to hydrate/syrupy before setting.
+    *   *Correction:* Ensure gelatin is fully hydrated (syrupy) before proceeding. Do not let set gelatin sit in fridge for 24 hours before use (breaks the gel). Do not freeze the set gelatin.
+
+## Dairy-Free Mashed Potatoes
+*   **Goal:** Achieve creaminess without dairy.
+*   **Technique 1: Vegetable Oil Emulsion (Simplest)**
+    *   Mash potatoes through a ricer (avoid glue-like texture).
+    *   Fold in vegetable oil at the last minute.
+    *   *Ratio:* 35-50% fat content works well; potato starch acts as an emulsifier.
+    *   *Flavor Enhancement:* Fry potato skins in the oil before making the emulsion to extract nutty flavor. Strain and cool oil before folding in.
+*   **Technique 2: Gum Emulsion (Tickle)**
+    *   Mix Gum Arabic and Xanthan Gum.
+    *   Create a heavy oil-water emulsion.
+    *   Blend with potato flakes (hydrated slightly) as fat base.
+    *   *Risk:* Emulsion may break if not pre-emulsified; depends on ratio.
+*   **Technique 3: Egg Yolk Emulsion (If eggs allowed)**
+    *   Make a mayonnaise-style emulsion using egg yolk.
+    *   Fold into warm (not hot) potatoes at the last minute.
+    *   *Equipment:* Digital thermometer (approx. $77-88) to check temperature before folding.
+    *   *Equipment:* Immersion circulator (optional) to spread potatoes in Ziplock bags for cooling.
+
+## Edible Threads & Large Sheets
+*   **Large Sheets:**
+    *   **Yuba:** Easy to form into large sheets.
+    *   **Transglutaminase (Meat Glue):** Can bind thin slices of meat into large sheets.
+    *   **Fish Sheets:** Cut across grain for stability; par-freeze and slice between wax paper sheets.
+*   **Edible Threads:**
+    *   **Vegetable:** Scallions or chives (lightly blanched).
+    *   **Starch-Based:** Tapioca starch paper with a little oil (breaks down easily in mouth). *Limitation:* Not waterproof; struggles in water-based applications (e.g., ceviche).
+    *   **Gluten-Based:** Fresh pasta enriched with 5-7% vital wheat gluten (e.g., Bob's Red Mill).
+        *   *Properties:* Pliable, elastic, breaks down easily when chewed.
+        *   *Application:* Can be used with transglutaminase for meat binding.
+    *   **Collagen Thread:** Tough mouthfeel; does not break down nicely.
+    *   **Tripe/Sausage Casing:** Honeycomb tripe or carefully cut sausage casings work well.
+*   **Meat Glue Flavor Issue:**
+    *   *Cause:* Overusing meat glue and vacuum curing for extended periods traps flavor.
+    *   *Solution:* Use less meat glue; vacuum cure briefly, then cut bag open and air out in fridge while setting.
+
+## Nutmeg Essential Oil Safety
+*   **Concern:** Hallucinogenic compounds (myristicin) in nutmeg.
+*   **Fact:** Myristicin is aromatic and characteristic of nutmeg.
+*   **Safety:**
+    *   Psychoactive effects require consuming massive amounts (e.g., grating 1-2 whole nutmegs and choking them down).
+    *   Culinary use of essential oil is safe; levels required for psychoactive effects are orders of magnitude higher than culinary doses.
+    *   High doses can lead to renal failure.
+*   **Degradation:** Nutmeg essential oil degrades over time (similar to absinthe/thujone). Old ground nutmeg loses potency.
+
+## Centrifuge Usage (Strawberries)
+*   **Equipment:** Home centrifuge (approx. 4000 Gs).
+*   **Recipe Parameters:**
+    *   500g strawberries.
+    *   2g Pectanex Ultra Spl (pectinase enzyme).
+    *   Blend until slightly warm.
+    *   Rest for 10 minutes (do not exceed 10 mins for bananas to avoid brown flavors).
+    *   Spin for 10-15 minutes.
+*   **Troubleshooting:**
+    *   *Issue:* Cloudy juice with floating solid layer (like vinegar mother).
+    *   *Cause:* Air bubbles trapped in the mix.
+    *   *Solution:* Vacuum the mixture before spinning to remove air.
+    *   *Result:* Spinning for 5 more minutes after vacuuming cleared the juice.
+*   **Maintenance:** Motors on 4000 Gs centrifuges will eventually need replacement.
+
+## Absinthe & Thujone
+*   **Compound:** Thujone (found in wormwood).
+*   **Myth:** "Thujone-free" absinthe is inferior; Thujone is an ingredient, not a contaminant.
+*   **Reality:**
+    *   Modern absinthe has similar Thujone levels to pre-ban versions.
+    *   Levels are not high enough to cause psychoactive effects unless consumed in quantities that cause severe alcohol intoxication ("plastered").
+    *   Placebo effect plays a significant role.
+    *   Dried wormwood loses Thujone content over time; fresh wormwood has higher levels.
+*   **Comparison:** Oregano or sage oil is super high in Thujone; nutmeg is closer to the danger zone but still safe in culinary doses.
+
+## Food Pairing Hypothesis
+*   **Concept:** Pairing foods based on shared chemical flavor components rather than tradition.
+*   **Examples:**
+    *   White chocolate + Caviar (shared volatile component).
+    *   Cocoa + Roasted Cauliflower (shared compound).
+*   **Study Findings:**
+    *   Western cuisine recipes share a small number of common ingredients (butter, milk) which statistically skew results.
+    *   Removing top 6-10 common ingredients makes Western recipe correlations statistically random.
+    *   East Asian cuisine relies more on flavor balance (salty, bitter, sweet, sour, umami) than chemical synergy of specific compounds.
+*   **Dave Arnold's Opinion:**
+    *   Chemical analysis is a source of inspiration but **cannot replace** memory, taste palette, and experience.
+    *   Success depends on the cook's ability to taste and tweak.
+    *   Modernist techniques/equipment require creativity and curiosity, not just following chemical rules.

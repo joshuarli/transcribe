@@ -1,0 +1,95 @@
+# Sous Vide & Temperature Control
+*   **Bratwurst Cooking Method:**
+    *   **Equipment:** Immersion circulator.
+    *   **Ingredient:** Bratwurst made by Pat LaFrida.
+    *   **Medium:** Beer.
+    *   **Temperature:** 140°F (60°C).
+    *   **Technique:** Hold at temperature for a long time to cook through. Finish by searing in a hot pan immediately before serving.
+    *   **Serving:** Martin's potato rolls.
+
+# Storage Containers (Core Containers)
+*   **Material:** Polypropylene container body; Low Density Polyethylene (LDPE) lid.
+*   **Properties:**
+    *   Polypropylene has a high melting point; can withstand pressure cooking without deforming.
+    *   LDPE lid has a lower melting temperature; deforms and "explodes" (pops off) when microwaved with the lid on, protecting the container body.
+*   **Usage Tips:**
+    *   Stackable.
+    *   **Downside 1:** Becomes brittle when frozen.
+    *   **Downside 2:** Picks up odors if not dried thoroughly. Must be dried open before storage.
+    *   **Microwaving:** Do not microwave with the lid on.
+    *   **Reheating:** Wife prohibits microwaving due to concerns about plastic leaching (despite polypropylene safety).
+
+# Static Mixers
+*   **Description:** Tube containing twisted plates arranged crisscross. Liquid is pumped through, twisting and mixing repeatedly without moving parts.
+*   **Advantages:**
+    *   Extremely thorough, even mixing.
+    *   No moving parts.
+    *   Does not incorporate air bubbles (ideal for epoxies/urethanes).
+    *   Good for small batches where waste from blending is undesirable.
+*   **Disadvantages:**
+    *   Requires piping liquid through a tube.
+    *   **Shear Limitation:** Not high shear. Cannot achieve super small droplet sizes (e.g., 2–8 micrometers required for shelf-stable mayonnaise) compared to high-shear blenders.
+    *   Droplet size tends to be 2 orders of magnitude larger than ideal for stable culinary emulsions like mayonnaise.
+*   **Application:** Best for fragile emulsions that oxidize quickly or need to be made "a la minute" where slight instability is acceptable, or for mixing where air incorporation must be avoided.
+
+# Ultrasonic Homogenizers (PolyScience Sonic Prep)
+*   **Function:** Uses ultrasonic transducers to create cavitation (vacuum bubbles that collapse with force) to rupture cells and create fine emulsions.
+*   **Limitations:**
+    *   Requires pre-emulsification (e.g., blend first in a blender) to break down large particles (like whole peppercorns) before ultrasonic refinement.
+    *   Not effective for taking apart large particles from scratch.
+*   **Safety Warning:** High power (e.g., 400 watts) can ignite bar towels or cause significant noise/vibration; requires enclosure.
+*   **Issue with Olive Oil Infusion:**
+    *   **Problem:** Infusing herbs into olive oil can result in a metallic or burnt flavor.
+    *   **Cause:** Similar to over-blending olive oil; certain olive oils become bitter when subjected to high shear or cavitation.
+    *   **Solution:** Avoid using olive oil for ultrasonic infusion; use neutral oils.
+*   **Alternative for Emulsions:** Spending $4 on an emulsifier and using a standard blender (e.g., Vitamix) may be more cost-effective and versatile than a $4,000 ultrasonic homogenizer for many applications.
+
+# Rice & Mexican Horchata
+*   **Problem:** Balancing "ricey" flavor with viscosity.
+    *   Uncooked rice blended and soaked: Low viscosity, low rice flavor.
+    *   Partially cooked rice blended: High viscosity (starch bleeding), high rice flavor, not drinkably thin.
+*   **Proposed Solutions:**
+    *   **Enzymes:** Add enzymes to break down starch to thin the mixture while retaining flavor (high-tech solution).
+    *   **Yeast/Mold Balls (Chinese):** Add yeast/mold balls to cooked rice. Mold saccharifies starch into sugar; yeast ferments sugar. Results in a thin, clear, sweet, ricey liquid (similar to unfermented rice beer/wort).
+    *   **Koji (Japanese):** Similar process using Koji starter on rice.
+    *   **Rice Flour:** Potential alternative to whole rice.
+    *   **Pre-grinding:** Grind rice before soaking/cooking.
+
+# Bone Marrow Soaking
+*   **Observation:** Soaking marrow in the bone for 2 days removes surface blood, but leaving it for a week still leaves significant blood inside.
+*   **Reasoning:**
+    *   Bone structure: Outside is dense/less porous; inside is hollow/porous.
+    *   Diffusion Rate: Marrow chunks are longer than they are wide. Soaking from the cylindrical side takes time; it takes the same time to soak from the ends.
+    *   **Technique:** To speed up bleeding, cut the bone into pieces as thin as the diameter of the marrow cylinder.
+    *   **Additional Factor:** Blood vessels within the bone matrix also need time to bleed out.
+
+# Pastry Cream (Alicia Technique)
+*   **Technique:** Mix sugar and milk, boil. Separately mix cornstarch and egg yolks. Whisk the yolk mix into the boiling milk.
+*   **Function of Starch:** Protects egg yolks from curdling during boiling; stabilizes the custard.
+*   **Common Issue:** Grainy texture or raw starch taste.
+*   **Cause:** Batch size too small. The product cools too quickly, preventing the starch from fully hydrating, swelling, and cooking before the temperature drops.
+*   **Solution:**
+    *   Use larger batch sizes (at least 1 Liter).
+    *   **Alternative:** Use instantized/agglomerated starch (e.g., UltraSpurse) which hydrates faster and requires less time to thicken/pasteurize.
+
+# Sous Vide App (PolyScience)
+*   **Features:** Calculates cooking times based on thermal conductivity, diffusivity, shape coefficient, and thickness. Shows bacterial kill curves (log reduction).
+*   **Chilling Recommendations:**
+    *   **Two/Three-Step Process:** Do not chill immediately after sous vide.
+        1.  Rest on counter: 10–15 minutes (allows proteins to reabsorb juices).
+        2.  Tap water bath: 10–15 minutes.
+        3.  Ice bath: Until cool.
+    *   **Accelerated Ice Bath:** Place immersion circulator in the ice bath, set temperature below 0°C (32°F), and run it to circulate the ice water. Increases cooling rate significantly by eliminating warm spots.
+*   **Future Feature Request:** Calculate cooking times for high-heat finishing methods (deep frying, grilling) to predict core temperature rise and prevent overcooking.
+
+# Carbonated Beverages from Kegs
+*   **Equipment Setup:**
+    *   **CO2 Connection:** Can connect a CO2 tank directly to an ISI (Instant Shot Injector) shaker by machining threads to accept a tank connection. Alternatively, rig a hose clamp over the dispensing nozzle (no guarantee of seal).
+    *   **Dispensing Valve:** Use a **Becker Valve** (Scan Squeeze Valve) from Mark Powers (Guntersville, Alabama).
+        *   **Benefit:** Compensates for pressure differences between high-pressure keg and low-pressure gun, preventing excessive foaming.
+        *   **Setup:** Run drink through two segments of a cold plate (in and out) before the valve.
+*   **Constraints:**
+    *   **Alcohol Content:** Must be low alcohol to minimize foaming.
+    *   **Temperature:** Lower temperatures allow higher carbonation with less foam, but risk freezing in the cold plate.
+    *   **Carbonation Level:** Cannot achieve the same high carbonation as bottled drinks due to temperature/foaming limits.
+    *   **Feasibility:** Possible for spritzers/French 75s/Americano, but depends on tolerance for lower carbonation and potential foaming.

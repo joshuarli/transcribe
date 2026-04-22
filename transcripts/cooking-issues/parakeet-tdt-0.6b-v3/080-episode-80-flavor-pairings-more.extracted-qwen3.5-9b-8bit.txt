@@ -1,0 +1,114 @@
+# Cooking Issues: Structured Notes
+
+## Equipment & Tools
+
+### Refractometers
+*   **Purpose:** Measure Brix (sugar content) and salinity.
+*   **Optical vs. Electronic:**
+    *   **Optical (Manual):** Bulletproof, cheaper (~$32 on eBay), requires good lighting and clear contact between prism and liquid. Cannot measure mixed solutes (e.g., sugar + alcohol) accurately.
+    *   **Electronic:** Faster, works in low light, handles particles/juice better, easier to read. More fragile.
+*   **Recommendations:**
+    *   **Range:** Get a unit with a **0 to 85 Brix** range. Standard 0–32 Brix units cannot measure simple syrup (approx. 50 Brix) or 2:1 syrup (approx. 66 Brix).
+    *   **Multi-scale Units:** Look for units (e.g., from **Speri**) that allow programming custom scales (e.g., Brix, Salinity, Ethanol %) on the same device.
+    *   **Backup:** Keep a manual 0–32 Brix unit for fruit.
+*   **Limitations:** Refractometers measure light refraction relative to water. They cannot distinguish between different dissolved solutes (e.g., cannot separate sugar from alcohol or salt from sugar in a mix).
+
+### Micropipettes
+*   **Specs:** **0 to 5 mL** capacity.
+*   **Cost:** ~$65.
+*   **Function:** Super accurate dosing for small batches (e.g., wine fining agents like Kieselguhr and Kaolin, salinity corrections). Allows for reproducible scaling up.
+*   **Origin:** Idea stolen from bartender **Tony Conigliaro** (not the baseball player).
+
+### Commercial Fry Oil vs. Home Oil
+*   **Commercial Tempura Oil:**
+    *   Contains added antioxidants (e.g., **Vitamin E / Tocopherol**).
+    *   Tailored fatty acid mix for temperature stability and oxidation resistance.
+    *   Includes a cold plate at the bottom to remove burnt particles.
+*   **Home Frying Issues:**
+    *   **Temperature Cycling:** The #1 killer of oil. Avoid by using induction units with tight temperature controllers or commercial fryers.
+    *   **Contaminants:** Salt, burnt particles, and high water content promote breakdown.
+    *   **Oxygen Exposure:** Use low surface-area-to-volume ratios; minimize foaming.
+    *   **Storage:** Filter immediately after cooling. Vacuum pack or bottle and suck air out to prevent oxidation.
+    *   **Metals:** Avoid reactive metals (e.g., iron) touching the oil.
+
+### Centrifuges (for Louching)
+*   **Application:** Clearing liquors (e.g., Cointreau) that turn cloudy ("louch") when diluted with water due to essential oils precipitating.
+*   **Effectiveness:** Likely requires significant time for particles to aggregate and settle; G-force requirements are not specified but likely high.
+*   **Challenge:** Oils float to the top; siphoning off the top may be difficult.
+*   **Dave's Preference:** Often keeps high-proof distillates (approx. **60% ABV / 120 proof**) at "Rotovap proof" until service to preserve flavor, accepting the louching as a signature characteristic.
+
+## Ingredients & Functional Properties
+
+### Yeast in Fermentation
+*   **Role:** Primary driver of flavor complexity in fermentation (rum, wine, etc.).
+*   **Mechanism:** Yeast strains (e.g., *Saccharomyces cerevisiae* and wild strains like *Schizosaccharomyces*) convert precursors in the base ingredient (e.g., wine grapes, molasses) into final flavor compounds.
+*   **Example:** Wine grapes taste bland; fermentation brings out the character.
+*   **Rum Production:** Dave is experimenting with distilling his own rum using molasses and separate yeast strains.
+*   **Molasses Note:** **Crosby's Molasses** (Maine/New England) is cited as the most delicious molasses in the continental US, though it is not distributed outside the region.
+
+### Mustard Seeds
+*   **Preparation:**
+    1.  **Blanch:** Briefly boil (2–3 times, a few seconds each) to remove pungency and earthy/musty taste.
+    2.  **Pressure Cook:** Cook in straight **distilled vinegar** for **15–20 minutes** at **12 PSI**.
+    3.  **Vinegar Ratio:** Use excess vinegar; seeds absorb a lot.
+    4.  **Sweetening:** While hot, stir in **white granulated sugar** to taste. *Do not* dissolve sugar in vinegar beforehand (creates a goopy mess).
+    5.  **Pack:** Pack in residual hot juice.
+    6.  **Storage:** Can add a small amount of vinegar to a quart container for long-term preservation.
+
+### Antioxidants for Oil
+*   **Type:** Fat-soluble, temperature-stable antioxidants.
+*   **Specific Compound:** **Vitamin E (Tocopherol)**.
+*   **Source:** Typically added by manufacturers of commercial fry oils.
+
+### Essential Oils & Louching
+*   **Cause:** Precipitation of essential oils (e.g., anethole in Thai basil/fennel, limonene in citrus) when alcohol is diluted with water.
+*   **Compounds:** Estragol (fennel), Anethole (licorice flavor).
+*   **Stability:** High-proof spirits keep these oils in solution; dilution causes cloudiness.
+
+## Techniques & Parameters
+
+### Pressure Cooking Mustard Caviar
+*   **Pressure:** **12 PSI**.
+*   **Time:** **15–20 minutes**.
+*   **Liquid:** Distilled vinegar (excess amount).
+*   **Post-Cook:** Add sugar while hot; pack in juice.
+
+### Oil Management
+*   **Temperature Control:** Use induction units or commercial fryers to minimize thermal cycling.
+*   **Filtration:** Filter immediately after cooling.
+*   **Storage:** Vacuum pack or remove air from bottles.
+
+### Flavor Pairing Hypothesis (Context)
+*   **Source:** Book *Taste Buds and Molecules* by **François Ugniart**.
+*   **Method:** Identifying shared flavor compounds (molecules) between foods/wines to predict pairings.
+*   **Dave's Stance:** Valid as a tool for inspiration when used by someone with a developed palate (like Ugniart), but dangerous if treated as dogma or religion.
+
+## Caller Q&A
+
+**Caller:** John (Osaka, Japan)
+**Question:** Can one refractometer measure both salinity and Brix? Are electronic brine meters better than optical? Are there fat-soluble, heat-stable antioxidants for frying oil?
+**Answer:**
+*   **Refractometers:** No single handheld unit easily does both salinity and Brix well. Best solution is a **0–85 Brix electronic refractometer** with a custom-calibrated salinity scale programmed in. Electronic units are better for speed and handling particles; optical units are cheaper and more durable but need light.
+*   **Antioxidants:** Commercial fry oils contain **Vitamin E (Tocopherol)**, which is fat-soluble and stable at frying temps.
+*   **Oil Storage:** Filter, vacuum pack, or bottle with air removed. Avoid temperature cycling (use induction/commercial fryers).
+
+**Caller:** Tony Harrian (Mixing Bar, Brazil)
+**Question:** How to prevent louching (cloudiness) in citrus-based spirits (like Cointreau) when diluting to proof, other than centrifuging? What RPM/G-force is needed?
+**Answer:**
+*   **Reality:** Dilution causes essential oils to precipitate; centrifuging helps but takes time for particles to aggregate.
+*   **Strategy:** Keep spirits at high proof (approx. **60% ABV**) until service. Accept louching as a flavor signature.
+*   **Alternative:** No simple additive mentioned to prevent it without centrifugation; the issue is physical solubility limits.
+
+**Caller:** Andrew
+**Question:** Recipe for pressure-cooked mustard caviar.
+**Answer:** See "Ingredients & Functional Properties" section above.
+
+## Strong Opinions & Recommendations
+
+*   **Del Posto Vegan Menu:** Chefs love constraints/challenges. The issue isn't cooking vegan food; it's that customers ordering it often aren't food-focused, making the experience less rewarding for the kitchen.
+*   **Flavor Pairing:** Do not treat the Flavor Pairing Hypothesis as a religion. It is a useful tool for inspiration but fails if applied dogmatically without palate development.
+*   **Thai Food:** Nastasha's dislike of Thai food is based on lemongrass, coconut sauce, and peanuts. The restaurant **Pac** (Andy Ricker) was excellent despite her general dislike, proving she can be biased.
+*   **Wine Importers:** When buying unknown wines, check the importer (e.g., **Barter House**). Their curation indicates quality and interest.
+*   **Molasses:** Crosby's Molasses is the best in the continental US.
+*   **Oil:** Commercial tempura oil is vastly superior to home oil due to tailored fatty acids and added antioxidants.
+*   **Refractometer Range:** Never buy a 0–32 Brix unit for a bar/kitchen; you need 0–85 Brix for syrups.

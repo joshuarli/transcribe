@@ -1,0 +1,113 @@
+# Knife Maintenance & Sharpening
+
+*   **Japanese/Western Differential Knives (e.g., 30°/50° angles):**
+    *   **Do not use a steel:** It is nearly impossible to accurately steel a knife with two different edge angles.
+    *   **Recommended Alternative:** Use a **leather strop** (wide, 1 inch).
+        *   **Technique:** Strop in the *opposite* direction of sharpening. This knocks off minor burrs without dulling the edge.
+        *   **Options:** Use oiled leather or leather with a super mild abrasive.
+        *   **Source:** Barbers have used this method for generations for razors.
+    *   **Finding the Edge:** Lay the knife flat on a stone and raise it until the edge is felt. Alternatively, use a Sharpie on the edge to visually inspect for wear.
+    *   **Sharpening Frequency (Dave's Routine):**
+        *   **German Knives:** Touch up on stone once a week; strop or steel before and after every use.
+        *   **Japanese Knives:** Touch up every time used (traditional method).
+        *   **Full Sharpening:** Perform automatically on a set schedule (e.g., every Sunday before cooking) or when performance degrades (e.g., pushing into a tomato causes splitting).
+    *   **Sharpening Systems:**
+        *   **Edge Pro:** Recommended for sharpening a whole set of knives at once because they can be set to a similar edge angle. Not ideal for sharpening a single knife in isolation.
+
+# Sausage Cooking (Sous Vide)
+
+*   **Target Temperature:** 60°C to 62°C (140°F to 145°F).
+    *   *Note:* 60°C may leave the center slightly pink; 62°C is safer for uncured meats. Cured sausages (with nitrites) remain pink regardless of temperature.
+*   **Cooking Time:**
+    *   **Minimum:** ~45 minutes for average-sized thick sausages.
+    *   **Maximum:** Up to 6 hours.
+    *   **Effect of Time:** Longer cooking tenderizes tougher cuts of meat via grinding. Holding longer does not make the sausage worse, provided the liquid is flavorful.
+*   **Liquid Management:**
+    *   **Flavorful Liquid:** Essential if cooking for extended periods to prevent leaching flavor.
+    *   **Oil Bag Method:** Place sausages in a Ziploc bag with a small amount of oil. This allows for very long cooking times without flavor loss.
+    *   **Avoid:** Excess of flavorless liquid.
+
+# Gluten-Free Baking
+
+*   **Flour Blending Strategy:** No single flour mimics wheat flour. A blend is required to balance properties (flavor, structure, texture).
+    *   **Rice Flour:** Neutral flavor, inexpensive, but creates dense, leaden, gritty textures if used exclusively.
+    *   **Tapioca Starch:** Adds stretch and a "gluey" texture.
+    *   **Potato Starch/Flour:** Absorbs moisture, keeps things moist, adds lightness.
+    *   **Bean Flours (e.g., Chickpea, Black Pea):** Add structure and bubble-holding capability but have assertive flavors that can be unpleasant if not masked.
+    *   **Arrowroot Starch:** Expensive; used to thicken and help hold bubbles.
+    *   **Sorghum Flour:** Mentioned as a base flour option.
+*   **Binders & Structure Replacers:**
+    *   **Xanthan Gum:**
+        *   **Function:** Replaces protein; forms a loose gel structure that holds air bubbles during baking.
+        *   **Usage:** Used in small quantities. Less likely to cause digestive bloating compared to guar.
+    *   **Guar Gum:**
+        *   **Function:** Primarily a thickener; less effective at forming the gel structure needed for bread/cake compared to xanthan.
+        *   **Taste:** Typically has an awful "beanie" taste unless using specific "flavor-free" versions (e.g., TIC Gums).
+        *   **Digestion:** High intake causes significant fiber issues (bloating, swelling). Can be used in conjunction with xanthan to reduce the amount of xanthan needed.
+    *   **Eggs:**
+        *   **Function:** Protein in egg whites and yolks helps replace gluten by holding structure and trapping air bubbles.
+        *   **Usage:** Some recipes (e.g., "Gluten-Free Girl and the Chef") rely heavily on eggs to avoid gums entirely.
+    *   **Flax/Chia Seeds:**
+        *   **Function:** When blended with liquid, they create a mucilaginous goop that acts as a structure replacer.
+        *   **Dave's Opinion:** Xanthan gum is a superior mucilaginous goop; no need to grind flax/chia seeds.
+*   **Technique Adjustments:**
+    *   **Mixing:** Do not worry about overmixing or developing gluten. In cookies/cakes, focus on starch balance and taste rather than structure.
+    *   **Measurement:** Weigh ingredients by weight rather than volume (cups). Different GF flours have radically different densities compared to AP wheat flour.
+    *   **Product Specifics:**
+        *   **Cookies/Cakes:** Require less structural support than breads.
+        *   **Breads:** Require more hardcore gluten replacement.
+
+# Umami Pairing & Glutamates
+
+*   **Synergistic Pairing:**
+    *   **Kombu (Dried Kelp):** High in free glutamates.
+    *   **Katsuobushi (Dried Bonito Flakes):** High in IMP (inosinic acid).
+    *   **Result:** Combining them creates a synergistic "mega umami" effect.
+*   **General Umami Boosters:**
+    *   **Anchovies:** Cured anchovies in a can are highly recommended for adding umami to sauces (e.g., pizza sauce) without altering the base flavor profile.
+    *   **Tomato Paste:** Super concentrated tomato flavor.
+    *   **Mushrooms:** Provide meaty texture and flavor.
+    *   **Parmesan:** High umami content.
+    *   **Soy Sauce:** Often used to round out flavors, though overuse can make food taste like dashi.
+*   **MSG Alternatives:**
+    *   Some manufacturers reduce sodium by adding non-sodium glutamates derived from seaweed.
+    *   **Dave's Opinion:** This is functionally equivalent to using MSG and can make food taste uniformly like dashi.
+
+# Kitchen Equipment & Setup
+
+*   **Ventilation (Range Hoods):**
+    *   **Problem:** Home hoods are often under-designed and useless.
+    *   **Solution:** Invest in a large blower fan that vents straight out the window via a straight pipe.
+    *   **Fan Selection:** Larger fans rotate at slower speeds and are less annoying than small, high-speed fans.
+*   **Cooktops:**
+    *   **Recommendation:** Induction cooktops.
+    *   **Reasoning:** Electricity is often cheaper than gas (especially in Europe); induction units are portable.
+    *   **Configuration:** Stackable front/back induction units can mimic a traditional range.
+*   **Ovens:**
+    *   **Recommendation:** Good convection oven capable of holding a full sheet pan.
+    *   **Bonus:** Salamander (broiler) and deep fryer.
+*   **Sinks:**
+    *   **Foot Pedals:** Highly recommended for hot and cold water to keep hands clean.
+    *   **Size:** Install a large sink; tiny sinks are undesirable.
+*   **Circulator Mounting (PolyScience Lab Circulator 8812):**
+    *   **Issue:** Unit is too large for standard lab baths; no mounting bracket for sinks.
+    *   **Solution 1:** Use the bath as a holding bin; circulate fluid in/out of the bath while the unit sits in a cabinet.
+    *   **Solution 2:** Fabricate a stainless steel bracket matching the bath's hole pattern to cantilever the unit over a sink. Use wing nuts for quick removal.
+    *   **Caution:** Ensure water levels are balanced to prevent overflow.
+*   **Sodium Hexametaphosphate (SHMP):**
+    *   **Use Case:** Sequestrant (binds minerals).
+    *   **Distinction:** Different from Sodium Citrate (which acts as a buffer). SHMP is described as "the balls" (highly effective).
+
+# Beverages & Cocktails
+
+*   **Coriander Syrup:**
+    *   **Recipe:** Simple syrup infused with coriander seeds and a hot pepper (Thai red or Serrano).
+    *   **Carbonation (ISi Method):**
+        1.  Mix syrup with water.
+        2.  Add 1 CO2 cartridge, shake, vent to clear air.
+        3.  Add 2nd CO2 cartridge, shake again.
+        4.  Vent slowly and let sit for a few minutes.
+    *   **Applications:** Carbonated soda, Old Fashioned (Tequila, Mezcal), Cliffs Old Fashioned.
+*   **Non-Alcoholic Options:**
+    *   Coriander syrup soda.
+    *   Avoid "lame" options.

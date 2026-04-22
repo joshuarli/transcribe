@@ -1,0 +1,121 @@
+# Techniques & Parameters
+
+### Meatball Preparation (Sous Vide / Low-Temp)
+*   **Diameter:** ~3.5 cm (1.5 inches).
+*   **Pre-cooking Step:** Flash fry meatballs in hot oil for ~30 seconds before bagging. Do not let them sit on a tray after frying as they will break under their own weight.
+*   **Bagging:** Place flash-fried meatballs directly into a bag. Recommended to use butter in the bag; avoid sauce if planning to flash fry afterwards.
+*   **Cooking Temperature:** 55°C to 57°C (131°F to 135°F).
+    *   *Note:* 56°C yields a rare/medium-rare interior. 57°C is preferred by the host.
+*   **Cooking Time:** ~30 minutes minimum.
+    *   *Tenderizing:* Cooking for several hours at 55°C–56°C further tenderizes ground meat.
+*   **Finishing:** Pan-fry at 350°F (177°C) for ~2 minutes after sous vide.
+*   **Texture Control:**
+    *   *Firm/Sausage-like:* Increase salt, increase kneading, and extend cooking time.
+    *   *Loose/Hamburger-like:* Add more wet ingredients/fillers, decrease salt, decrease kneading.
+    *   *Mixing Timing:* Mix meatball ingredients, form, and bag immediately. Do not let the mix sit before forming.
+
+### Pork Shoulder (Sous Vide)
+*   **Temperature:** 58°C (136°F).
+*   **Time:** ~34 hours.
+*   **Prep:** Brine in basic salt/sugar solution for 12 hours.
+*   **Searing:** Cast iron grill pan or grill.
+*   **Color Note:** Long cooking times at 58°C result in a "rosy" rather than bright pink center. Brining enhances this color change.
+
+### Pork Shanks (Sous Vide)
+*   **Temperature:** 62°C to 63°C (144°F to 145°F).
+    *   *Warning:* 65°C causes excessive moisture loss and muscle contraction.
+*   **Time:** 34 to 48 hours.
+*   **Texture Goal:** Super tender but not falling apart (collagen softens to gelatin but retains structure).
+*   **Batch Size Warning:** Do not max out circulator capacity (e.g., 30L) with 30 shanks.
+    *   *Risk:* Center of bags may not reach temp quickly, allowing lacto-lactic acid bacteria growth (puffed bags, bad smell).
+    *   *Remedy 1:* Do not pack bags too tightly.
+    *   *Remedy 2:* Blanch bags in simmering water for 35–45 seconds (while meat is cold) to kill surface bacteria before circulating.
+*   **Salting Strategy:**
+    *   *For "fresh pork" taste:* Do not salt or brine before sous vide. Add salt and aromatics only after frying and before bagging with sauce.
+    *   *For Brined flavor:* Brine beforehand.
+    *   *Sauce in Bag:* If cooking with sauce in the bag, hyper-reduce the sauce first; otherwise, meat juices will dilute it to a poached flavor.
+
+### Deep Frying & Holding
+*   **Timing:** Fry ahead of service to avoid smoke in the venue.
+*   **Holding:** Do not hold on racks (crust gets soggy).
+*   **Recommended Method:**
+    1.  Remove from bag.
+    2.  Quick sear to develop crust.
+    3.  Place directly into warm sauce in a ziplock bag.
+    4.  Keep warm in a circulator bath.
+    *   *Rationale:* Sauce integration is more important than crust retention for braised items.
+
+### Glucose Syrup
+*   **Composition:** Water, glucose, maltose, longer chain maltodextrins.
+*   **DE (Dextrose Equivalent):** Percentage of reducing sugars (glucose/maltose) relative to total solids.
+    *   *Relationship:* Lower DE = less sweet, less broken down starch. Higher DE = sweeter, more broken down.
+    *   *No Direct Sweetness Correlation:* DE does not directly predict sweetness due to varying sugar compositions.
+*   **Common Types:**
+    *   **DE20:** Used for ice cream texture without excessive sweetness.
+    *   **DE40:** Higher sweetness/breakdown.
+*   **Homemade Difficulty:** Extremely difficult to replicate commercial syrups from powders (dextrose, maltose, maltodextrins) due to required heat and specific temperature control to achieve correct viscosity and solids content (~80%+ solids).
+*   **Recommendation:** Buy from suppliers (e.g., Modernist Pantry) rather than attempting DIY.
+
+### Carbonation
+*   **Current Method:** Old-school bottle carbonation using carbonator caps (liquid bread style).
+*   **Future Method:** Custom-built system (described as "Maybach of carbonation systems") currently 80–90% as good as bottle carbonation but faster ("à la minute").
+*   **Philosophy:** Will not switch to custom system until it matches or exceeds bottle carbonation quality.
+
+### Cocktail Techniques
+*   **Clarification:** Used for "Lady of the Night" (clarified bloody mary style).
+    *   Ingredients clarified: Sherry, tomatoes, Sriracha.
+*   **Rotovap:** Used to create horseradish distillate.
+*   **Liquid Nitrogen:** Used to chill almost every glass.
+*   **Red Hot Poker:**
+    *   **Temp:** ~1500°F (815°C).
+    *   **Usage:** Plunged into drink to ignite.
+    *   **Cost:** <$100 per unit.
+    *   **Safety:** No burns reported; bartenders accustomed to use.
+
+### Fish Allergies (Scale vs. Skin)
+*   **Cause:** Allergy to parvalbumin proteins, not scales.
+*   **Target Group:** Teleost fish (fish with ray scales).
+*   **Safe Groups:** Non-teleost fish (e.g., eels, lampreys, sharks, cartilaginous fish).
+*   **Evolutionary Rule:** Allergy risk increases with taxonomic closeness to the allergen source.
+
+# Equipment
+
+### Breville 900 XL Coffee Machine
+*   **Status:** Discussed but not tested by host.
+*   **Context:** Designed by award-winning baristas.
+*   **Host Stance:** Will not endorse until personally tested. Skeptical of marketing claims from previous sponsors.
+
+### Sous Vide Circulator
+*   **Capacity:** 30L (mentioned in context of batch cooking pork shanks).
+*   **Usage:** Critical to avoid overfilling to ensure temperature uniformity and prevent bacterial growth in the center of bags.
+
+### Red Hot Poker
+*   **Specs:** Heats to ~1500°F.
+*   **DIY:** Host builds them for under $100.
+
+# Ingredients & Functional Roles
+
+*   **Glucose Syrup:**
+    *   *Function:* Texture modification (e.g., ice cream), fermentation prevention, viscosity control.
+    *   *Property:* Not very sweet despite the name.
+*   **Salt:**
+    *   *Function in Meatballs:* Increases firmness (protein extraction), enhances flavor. Trade-off between texture (firm vs. loose) and flavor.
+*   **Brine (Salt/Sugar):**
+    *   *Function:* Flavor infusion, texture firming, color modification (reduces bright pinkness in pork).
+*   **Parvalbumin:**
+    *   *Function:* Major allergen in fin fish (95% of fin fish allergies).
+*   **Lulo:**
+    *   *Context:* Fruit from Colombia. Frozen version available in NY but inferior to fresh.
+
+# Strong Opinions & Recommendations
+
+*   **Cosmopolitan:** "Absolute" vodka is required for a "proper" Cosmo due to its launch coinciding with the drink's popularity. Toby Cecchini did not invent it; he popularized it.
+*   **Dog Sledding:** Dogs do not stop to relieve themselves; they defecate/urinate while running. They do not drink water on the trail, eating snow instead.
+*   **Meatball Texture:** The more salt and kneading, the firmer the meatball (sausage-like). Less salt/kneading = looser (hamburger-like).
+*   **Pork Color:** Long cooks at 58°C yield a "rosy" center, not bright pink. Brining enhances this effect.
+*   **Modernist Pantry:**
+    *   *Pros:* Saves time, money, storage space; sources hard-to-find ingredients globally.
+    *   *Cons:* Lack of transparency on exact chemical composition of hydrocolloids (e.g., "Gel" is a mix of high and low acyl gellan gum) hinders recipe development and substitution.
+*   **Bar Tech:** Technology (Rotovap, Liquid Nitrogen, Red Hot Pokers) is secondary to making delicious cocktails.
+*   **Music:** Prefers Chuck Berry over The Beatles; believes Beach Boys are superior to The Beatles.
+*   **Sous Vide Safety:** Never pack a circulator so full that the center of the bags cannot reach temperature quickly, or lacto-lactic acid bacteria will grow.

@@ -1,0 +1,103 @@
+# Wild Game Brining and Color Issues
+*   **Problem:** Brining wild game (reindeer, lagopus/grouse) with 4–10% sodium chloride solution causes a gray line (2–3 mm) around the meat when cooked low temperature. The line is more visible on darker meat.
+*   **Cause:** Salting increases the rate of metmyoglobin (brown) production and accelerates myoglobin denaturation. This effect is magnified at lower cooking temperatures.
+*   **Myoglobin States:**
+    *   *Deoxymyoglobin:* Purple/brown (vacuum bagged, low oxygen). Denatures slower under heat than other forms.
+    *   *Oxymyoglobin:* Bright pink/red (fresh meat).
+    *   *Metmyoglobin:* Brown (cooked look).
+*   **Solutions Tested (Ineffective):** Ascorbic acid, citric acid, antioxidants.
+*   **Other Additives Tested (Ineffective):** Fat, polyphosphates, soy proteins, casein. None affected the rate of myoglobin denaturation.
+*   **Recommendation:** Do not brine if doing low-temperature cooking unless flavor is the primary goal (texture changes are also a risk). If flavor is needed, accept the color line as unavoidable if salt penetrates the meat. Acid marinades also accelerate denaturation.
+
+# Rye Tortilla Preparation
+*   **Technique:** Grinding whole rye berries at home is difficult; standard mortars and pestles or the "Corona" grinder do not work well.
+*   **Method:**
+    1.  Blend whole rye berries with enough water to create a puree.
+    2.  Add *maseca* (corn flour) to the puree to thicken it back up to a workable dough consistency.
+*   **Result:** Produces tortillas with strong rye flavor and great texture, suitable for frying to a crunch.
+*   **Note:** *Maseca* is a corn flour product; while previously criticized, it is effective for this specific thickening application.
+
+# Yeast in Distillation
+*   **Function:** Yeast strains are the primary source of flavor in distilled beverages (esters, fusel oils, congeners), aside from the raw material aroma.
+*   **Experimentation:** Using different yeasts (e.g., German Hefe Weizen, British fruity ale yeast) at high fermentation temperatures creates wildly different distillates (some full of acetone, others not).
+*   **Industry Practice:** Distilleries rarely advertise yeast strains, focusing instead on stills and raw materials. They must maintain consistency by propagating specific yeast strains over years rather than experimenting freely.
+*   **Specific Strains Mentioned:**
+    *   Dry yeast isolated from Guatemala sugar cane (used for *rhum agricole*): Phenolic and plasticky; too strong even with tight cuts.
+    *   Yeast from cane fields: Used by Havana Club for consistency, though they claim it is "endogenous" to the area.
+
+# Soda Stabilization (Particulate Matter)
+*   **Problem:** Fresh juices (cucumber, watermelon, herbs) settle out overnight in kegs.
+*   **Goal:** Stabilize suspension without scaring consumers with artificial-sounding labels.
+*   **Recommended Agents:**
+    *   **Pectin:** Best option for label declaration (can list source like "citrus peel" or "apple pomace"). Effective for particles small enough to pass through a coffee filter.
+    *   **Contact:** CP Kelco (specializes in pectins and stability).
+    *   **Alternative:** TIC Gums (specializes in legal label declarations for gums).
+    *   **Avoid:** Propylene glycol alginate (PGA) or gum arabic/xanthan mixes. These add too much body, causing massive foam issues in carbonated drinks.
+*   **Alternative Approach:** Rack the soda (wine method) to remove particles, then increase CO2 volume to compensate for lost body.
+
+# VersaWhip (Whipping Agent)
+*   **Composition:** Modified soy protein or whey protein (two different versions exist).
+*   **Function:** Whipping agent and foam stabilizer. Large, charged molecules aid aeration.
+*   **Usage Tip:** Unlike egg whites, VersaWhip may sit for a while before suddenly whipping up ("nothing, nothing... bang"). Do not give up immediately.
+*   **Application:** Replacement for egg whites and gelatin in meringues, mousses, and hot/cold foams.
+*   **Cost:** Approx. $5 per package (Modernist Pantry promo code CI81).
+
+# Water Filtration for Coffee
+*   **Problem:** Reverse Osmosis (RO) filters remove almost everything, resulting in water that tastes bad for coffee. Coffee requires mineralization to taste good.
+*   **Solution:**
+    *   Do not use standalone RO systems.
+    *   Use a multi-stage filter system: A large, somewhat porous first filter to capture debris/cysts, followed by finer filters.
+    *   **Pressure Warning:** Multiple filters decrease water pressure; ensure the system maintains adequate pressure.
+    *   **Brand Mention:** GE home water systems.
+    *   **Advanced Option:** RO followed by a remineralization kit.
+*   **Context:** Water in Moscow may be too mineralized or have specific taste issues; standard multi-stage filtration may not be sufficient without specific parameters.
+
+# Gum Syrup
+*   **Composition:** Sugar, water, and a "boatload" of gum arabic.
+*   **Properties of Gum Arabic:**
+    *   Highly branched hydrocolloid polymer (similar to methylcellulose).
+    *   Large molecular weight but not overly thick even in heavy solutions.
+    *   Contains protein that acts as an emulsifier.
+    *   Maintains emulsifying capabilities even when radically diluted.
+*   **Benefits:**
+    *   Stabilizes soda syrups containing oils.
+    *   Adds body to drinks.
+    *   Makes bubbles hold longer in shaken drinks.
+    *   Creates a creamy mouthfeel and better foam head.
+*   **Recipe Note:** Do not skimp on the gum arabic.
+*   **Modern Variation:** "Tick simple" (mixture of gum arabic and Xanthan gum) used for emulsified fat drinks (e.g., cold buttered rum, nutty orjays).
+
+# Foie Gras Ban (California)
+*   **Issue:** Force-feeding (*gavage*) inflates animal livers.
+*   **Arguments:**
+    *   *Against Ban:* *Gavage* is an ancient practice (Romans); some producers treat animals humanely (e.g., Hudson Valley/Mamafuku, Thomas Keller's suppliers). Animals may not fear the procedure.
+    *   *For Ban:* Activists target an easy win to gain momentum against larger industrial farming issues.
+*   **Dave Arnold's Stance:**
+    *   Believes in humane methods for all farming.
+    *   Opposes banning a product chefs want to serve if produced humanely.
+    *   Notes that banning foie gras allows horrible factory farming practices to continue unchecked while targeting a specific, expensive product to make consumers feel guilty.
+    *   Personal view: Could live without it; not a favorite food.
+
+# Low-Temperature Sausage Cooking
+*   **Technique:** Cooking sausages (e.g., beer brats) at low temperatures.
+*   **Casing Handling:** **Do not pierce the casing.**
+    *   Water-based liquids (beer) penetrate the membrane, leaching flavors out and adding unwanted flavors in.
+    *   Oil-based liquids (ziplock bag) are acceptable.
+    *   Piercing causes loss of juices upon cooking.
+
+# Sous Vide Chicken Breast to Fried Chicken
+*   **Sous Vide Parameters:** 56°C for 2.5 to 3 hours (results in anemic-looking meat).
+*   **Frying Challenge:** Need a batter/coating that adheres well, carries herbs/spices, and fries quickly without soaking the meat.
+*   **Recommended Batter:**
+    *   **Base:** Buttermilk, egg, baking soda, baking powder.
+    *   **Flavor:** Add all desired flavors to the liquid base.
+    *   **Coating:** Straight flour.
+    *   **Process:** Pull chicken from bath, flash dry to form a pellicle, coat in flour, then fry.
+    *   **Note:** This differs from traditional Southern techniques but works well for low-temp cooked meat.
+
+# Capsaicin Reduction in Habaneros
+*   **Proposed Method:** Emulsify trimmed pepper flesh with an oleophilic (fat-loving) medium (e.g., olive oil, casein), centrifuge, and filter to separate capsaicin.
+*   **Assessment:** Unlikely to be effective.
+    *   Capsaicin is an oleoresin, but centrifugation may not extract enough to make a significant dent.
+    *   Research on trichloro-centrifugally separated capsaicin at lower speeds is lacking.
+    *   No high hopes for this specific technique.

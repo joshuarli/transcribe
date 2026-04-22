@@ -1,0 +1,87 @@
+# Meat Glue (Transglutaminase)
+*   **Function:** Enzyme used to bond different proteins together.
+*   **Ammonia Production:** A small amount of ammonia is produced during the bonding reaction.
+    *   **Strength Gauge:** Dip raw chicken into the glue; a distinct ammonia aroma indicates the reaction is active.
+    *   **Dissipation:** Ammonia is volatile and dissipates over time, especially in cooked items.
+    *   **Raw/Cured Applications:** In raw applications (e.g., cured fish blocks for *Mokume Gane*), ammonia can be noticeable if the block is thick or if excessive glue is used.
+    *   **Remediation:**
+        1.  Use much less meat glue.
+        2.  Vacuum seal to compress, then remove from the vacuum pack and let sit to allow ammonia to dissipate.
+        3.  In long-cooked braises, even a "boatload" of meat glue rarely causes detectable ammonia unless the item is never removed from the bag.
+*   **Storage:** After opening, tightly seal and store in the freezer.
+*   **Cooked Meat Bonding:** Can be used to re-shape seared meat (e.g., rolling a leg of lamb back up), but the bond is not as strong as on raw meat. Plastic wrap or a vacuum machine is required to force the meat to conform properly.
+
+# Truffle Infusion in Chocolate
+*   **Challenge:** Truffles are expensive and volatile; aroma is lost during standard infusion.
+*   **Methods:**
+    *   **Vacuum Infusion:** Place truffle pieces in a vacuum bag with the liquid (cream or butter), suck the air out, and seal. This contains the aroma and prevents volatilization.
+    *   **Butter Ganache:** Infuse truffle into butter, then use the butter in a ganache. Note: Texture changes significantly compared to cream-based ganaches.
+    *   **Cream Infusion:** Infuse directly into the cream.
+*   **Equipment:** Vacuum sealer (or Ziploc bags if a vacuum machine is unavailable).
+
+# DIY Sous Vide / MacGyvering a Water Bath
+*   **Core Requirement:** A PID temperature controller (~$30 US), a solid-state or regular relay (~$7), a waterproof Type K thermocouple (~$7), a heating element, and a circulation pump.
+*   **Pump:** Aquarium pumps (sub $20) work well for circulation.
+*   **Heating Element:**
+    *   Immersion heaters work (e.g., cheap $3 coffee heaters).
+    *   **Safety Warning:** Cheap heaters often have leakage current. Do not stick hands in the water bath. Ensure the element is well-constructed.
+    *   **Power:** Aim for at least 1000 watts.
+*   **Vessel:**
+    *   **Deep Fryers:** Generally not recommended. Most lack exposed elements, leading to poor heat transfer, porpoising, and slow temperature accuracy. Limited cooking size.
+    *   **Enclosure:** Finding a suitable enclosure (e.g., acrylic box) is often the hardest part of the build.
+*   **Cost:** Total DIY build can be under $100 US.
+
+# Kitchen Equipment Recommendations
+*   **Espresso Machines:**
+    *   **Water Quality:** Moscow water is poor; bottled water is recommended. Avoid Reverse Osmosis (RO) water as it lacks necessary minerality.
+    *   **Machine Type:** Single-group commercial/prosumer units are preferred for temperature stability.
+    *   **Pumps:**
+        *   *Rotary Pumps (ProCon):* Oversized (gallons per minute) but provide even pressure. Standard in many machines.
+        *   *Vibrating Pumps (Ulka):* Smaller, solenoid-based. Pressure may be less even. Can be modified with an air accumulator (e.g., a soda bottle chamber) to smooth out vibration.
+    *   **Modifications:** Home machines (e.g., Silvia) can be modified by the "Espresso Geek" community for better shot quality.
+*   **Wok Burners:**
+    *   **BTU Requirements:** Woks require preposterously high BTUs.
+    *   **Installation:** Buying a finished wok burner with an adapter for local gas plumbing is easier and cheaper than building one (bending black pipe, drilling holes, tapping nozzles).
+    *   **Modification:** Existing commercial burners (e.g., 5-burner tops) can be modified by drilling out the orifice to increase gas supply, provided there is enough air for efficient combustion.
+*   **Circulators:** PacoJet variant or similar high-end circulator recommended.
+*   **Blenders:** Vitamix (specifically the "VitaPrep" model).
+    *   **Importing:** Direct drop-ship to the US is possible from VitaPrep and PolyScience. Import taxes are the main cost barrier.
+*   **Rotary Evaporator (Rotovap):**
+    *   **Buying:** Avoid cheap Asian-made units on eBay (<$1000); they are leaky and stink, ruining flavors.
+    *   **Cleaning:** Clean thoroughly with Alconox or heavy-duty glass detergent/bleach to remove previous chemicals (e.g., carbon tetrachloride).
+    *   **Leaks:** Common over time due to worn seals. Replacement seals cost ~$50. Etched glassware cannot form a good seal.
+    *   **Condensation:**
+        *   *Cold Finger:* Preferred style.
+        *   *Dry Ice:* Lasts longer than liquid nitrogen. Recommended if accessible.
+        *   *Liquid Nitrogen:* Consumes rapidly (approx. 1 L of LN2 per 1 L distilled). A 30L dewar would be depleted quickly.
+
+# Fermentation & Pickling
+*   **Safety:** A 5% salt solution is generally safe.
+*   **Long-term Storage:** Ferments can be kept indefinitely (e.g., 1 year) but quality peaks before that. Safety is maintained by the combination of salt and acidity (lactic acid bacteria).
+*   **Technique:**
+    *   Keep product submerged to prevent air exposure.
+    *   Calculate salt based on the **total final weight** (water + cabbage), not just the brine concentration.
+    *   **Starter Culture:** To ensure consistency and desired "funk," save liquid from a previous successful batch and add it to the new batch to inoculate with the same robust culture (similar to sourdough starters).
+*   **Vacuum Packing:** Can be used for kimchi/pickles to exclude air (bags inflate with CO2), though weighting down is the standard home method.
+
+# Ingredients & Substitutions
+*   **Lard vs. Vegetable Shortening (Crisco):**
+    *   **Substitution:** 1:1 by weight is best.
+    *   **Properties:** Lard is softer and harder to work with than Crisco. Crisco provides necessary hardness for certain products (e.g., pie crusts) where lard might make them unworkable.
+    *   **Preparation:** Work very cold with natural rendered lard. Natural lard has liquid/solid portions and tastes better than hydrogenated lard.
+    *   **Usage:** Excellent in biscuits.
+*   **Chicken Texture Variance:**
+    *   **Issue:** Some chicken breasts in multi-packs are significantly tougher (rubbery) than others.
+    *   **Causes:**
+        *   **Age:** Older birds are tougher but have greater flavor. Factory farms usually supply consistent young birds, making age variance unlikely.
+        *   **Slaughter Stress:** Can affect tenderness (though research on chicken specifically is less common than pork).
+        *   **pH:** Slaughter pH variations.
+    *   **Note:** Older chickens are tough but flavorful; modern American chickens are tender but can be bland.
+
+# Lamb Cooking (Circulator)
+*   **Acidic Marinades (Yogurt/Buttermilk):**
+    *   **Effect:** Acids tenderize meat.
+    *   **Risk:** Long cook times (24+ hours) with acids can cause meat to become mushy.
+    *   **Guideline:** Monitor texture closely. 24 hours is a threshold where mushiness may begin on a leg of lamb.
+    *   **Technique:** Cook different parts of the leg (which have different muscle types/collagen levels) at different times or accept that sauce will compensate for texture differences.
+*   **Yogurt Specifics:** Yogurt may curdle further in the bag. Buttermilk is a more tested option for poaching.

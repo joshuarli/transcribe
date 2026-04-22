@@ -1,0 +1,94 @@
+# Lamb Heart Preparation
+*   **Issue:** Low-temperature cooking (56°C for 3 hours) on lean heart muscle resulted in a texture similar to quick grilling (chewy), not tender.
+*   **Reasoning:** Heart muscle is strong muscle fiber, not primarily connective tissue (collagen) like a gizzard. Prolonged cooking breaks down muscle fibers into "mushiness" rather than tenderizing collagen.
+*   **Technique for Tenderization:**
+    *   **Slicing:** Slice meat relatively thin.
+    *   **Jaccarding:** Pierce the meat to allow penetration.
+    *   **Brining:** Use natural tenderizers in a brine.
+        *   *Ginger:* Contains tenderizing agents/enzymes.
+        *   *Papaya Latex:* Enzymatic tenderizer (from fig plant/tree).
+        *   *Bitter Gourd Extract:* Used in traditional Indian pickles.
+    *   **Alkaline Treatment:** Use baking soda (sodium bicarbonate) or lye (calcium hydroxide). The alkaline nature breaks down protein structures, causing them to bind less strongly.
+    *   **Pickling:** Can result in a jar of pickled goat hearts.
+*   **Alternative (Not Recommended for Taste):** Ionizing radiation at high sterilizing doses increases tenderness but causes textural degradation (mushiness) and potential safety/environmental concerns.
+
+# Meringues for Diabetics (Sugar-Free)
+*   **Isomalt:**
+    *   *Properties:* Not sweet; does not pull moisture from the air (maintains structure); hard texture with gelling properties.
+    *   *Verdict:* Will work for meringue structure but will not be sweet.
+*   **Erythritol:**
+    *   *Properties:* Sugar alcohol; body does not break it down; less gut distress than other sugar alcohols; has similar sweetness to sugar.
+    *   *Verdict:* Likely works, but Dave has less experience with it than isomalt.
+*   **General Advice:** Focus on replicating textural properties of sugar without sweetness rather than 1:1 sweetness replacement.
+
+# Low-Temperature Cooking Comparisons (Sous Vide)
+*   **Eggs:** Compare 62°C, 63°C, and 64°C to demonstrate subtle differences.
+*   **Steaks:** Compare equal doneness achieved via different methods to show consistency.
+*   **Short Ribs:**
+    *   *Traditional Braising:* Preferred by many for intense meaty flavor.
+    *   *Low-Temp (24–36 hours at 57–60°C):* Texture resembles a skirt steak (tender like a steak).
+    *   *Comparison:* Low-temp offers a "cool cut of meat" texture distinct from traditional braise.
+
+# Cocktail Science & Bartending Techniques (Tony C.)
+*   **Binary Interactions & Balancing:**
+    *   *Theory:* Sodium (salt/MSG) suppresses bitterness; sugar and acid cancel each other out.
+    *   *Application:* Use as vague guidelines, not universal rules. Must test interactions with specific ingredients.
+    *   *Method:* "Guesstimate" based on literature, then iterate 30–40 times to find resonance.
+    *   *Equipment:* Use micropipettes for small-scale testing of sub-threshold modifiers (e.g., tannins) before bar application.
+*   **Salt Solution Standard:**
+    *   *Ratio:* 20g salt in 100ml water.
+    *   *Application:* Use standard American eyedroppers.
+        *   Citrus drinks: 1–2 drops.
+        *   Daiquiris: 1 drop.
+        *   Tequila drinks: 2 drops.
+*   **Carbonation of Alcohol:**
+    *   *Temperature:* Must be extremely cold (approx. -8°C or lower). Bottle strength requires approx. -18°C.
+    *   *Dilution:* Carbonated cocktails should be diluted to approx. 12% ABV (vs. 29–35% for shaken/stirred). High proof makes flavor syrupy and fatiguing.
+    *   *Technique:* Carbonate 4–5 times to remove nucleation sites for stable bubbles.
+    *   *Gas Mix:* Use Nitrous Oxide (N2O) + CO2 mix to soften bubbles, add creaminess, and reduce perceived acidity of CO2.
+    *   *Flavor Impact:* CO2 carries aroma to the top of the drink, altering perception.
+        *   *Gin:* Carbonates well; almost any gin drink works.
+        *   *Rum:* Difficult; easy to go from delicious to "fake tasting."
+        *   *Tea:* Tannins get "blown out" or amplified negatively.
+        *   *Manhattan:* Detested when carbonated; perception changes negatively.
+*   **Frozen Fruit Shaking:**
+    *   *Technique:* Freeze non-concentrated juices (grapefruit, apple) solid. Shake with frozen fruit instead of ice.
+    *   *Result:* Fruit breaks into slush, providing intense chilling and correct dilution.
+    *   *Note:* Lime vesicles are too small; other citrus (grapefruit) works better.
+*   **Gellan Ice Cubes:**
+    *   *Clarity:* Will not stay clear when frozen (appears white).
+    *   *Cooling Efficiency:* Hydrocolloids lock water, making it a better insulator than ice. Inhibits the chilling effect of the inner water. Less effective than standard ice.
+*   **Equipment:**
+    *   *Tom Parker's Alkalizer:* Measures brick percentage and ABV to determine optimal flavor hit parameters (14–19% ABV).
+
+# Vacuum Sealer Recommendations
+*   **Vacmaster VP12 vs. VP215:**
+    *   *VP215:* Oil-based pump, faster vacuum times, oil-free operation. Disadvantages: Huge, heavy, $300 more expensive.
+    *   *Recommendation:* For home cooks, the oil-based unit (VP215) is preferred over non-oil based for strength.
+*   **High-End Pumps (Busch):**
+    *   *Brands:* Multivac, Mini-pack, Koch use German Busch pumps.
+    *   *Pros:* Extremely durable ("Timex of vacuum pumps"), handles water vapor well, can be cleaned and reused.
+    *   *Cons:* Expensive ($1500+).
+    *   *Verdict:* Pay for the pump if doing hardcore work (flash infusions). Sub-$1000 units lack this pump quality.
+*   **Gastrovac:**
+    *   *Critique:* Weak vacuum pump, gets bogged down by water vapor.
+    *   *Modification:* Can hook up to a better pump (e.g., Multivac) or use a liquid nitrogen cold trap.
+    *   *Alternative:* Build a large de-aerator (Lexan lid on stock pot) for large volume infusions.
+
+# Ingredients & Sourcing
+*   **Calcium Hydroxide (Pickling Lime):**
+    *   *Sourcing (NYC):* Calustian's (123rd St & Lex, between 28th & 29th).
+    *   *Names:* Slaked lime, calcium hydroxide, pickling lime.
+    *   *Thai Lime Paste:* Bangkok Grocery (104 Moscow Pl, Little Italy/Chinatown).
+    *   *Mexican Oaxaca Cheese:* El Tepeque Grocery (Lexington Ave & 103rd St).
+    *   *Books:* Kitchen Arts and Letters (Union Square).
+*   **Pure Coat / Crisp Coat:**
+    *   *Type:* Modified cornstarch (hydrocolloid).
+    *   *Uses:* Film formers for frying (prevents grease penetration), batter adhesion, making edible glasses/films.
+    *   *Ratio:* Typically 10% by weight in flour for frying.
+*   **Lutfisk (Lye Fish):**
+    *   *Process:* Air-dried cod soaked in lye, rehydrated, washed.
+    *   *Risk:* Over-curing causes saponification of fats ("soap fish").
+    *   *Application to Lamb Sticks:* Alkaline solution will tenderize meat and saponify fat. Use lean cuts and control time/concentration to avoid soapiness.
+*   **Ginger:** Contains tenderizing enzymes.
+*   **Papaya Latex:** Enzymatic tenderizer.

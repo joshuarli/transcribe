@@ -1,0 +1,193 @@
+# Cooking Issues: Structured Culinary Notes
+
+## Low-Temperature Cooking & Sous Vide
+
+### Duck Breast
+*   **Temperature:** 57°C to 58°C (135°F–136°F).
+    *   *Note:* 57°C may result in a slightly tough texture; 58°C is recommended to reduce "squashiness." Do not exceed 59°C.
+*   **Time:** 45 minutes to 1 hour.
+    *   *Warning:* Cooking longer than 1 hour can make the meat mushy or livery (especially Muscovy duck).
+*   **Technique:**
+    1.  **Preparation:** Squish the breast very flat against a table, skin-side down, to ensure proper contact with the pan later. Do not leave it willy-nilly in the bag.
+    2.  **Cooking:** Cook in a circulator.
+    3.  **Rendering:** Render the fat **after** cooking.
+    4.  **Searing:** Sear traditionally in a pan after cooking to crisp the skin.
+    *   *Alternative:* Some modernist chefs sear before and after using "cryo searing" (dry ice bag) to freeze the surface solid and prevent overcooking.
+*   **Equipment:** Sous vide professional circulator.
+
+### Pork Shoulder (Rose)
+*   **Temperature:** 60°C to 62°C (140°F–144°F).
+    *   *Note:* At 60°C, the meat remains quite pink and soft. Go up to 62°C if visual pinkness is undesirable. Do not exceed 62°C.
+*   **Time:** 36 to 48 hours.
+*   **Technique:**
+    *   Brown the shoulder first.
+    *   Cook in a circulator.
+    *   Apply a hard sear at the end.
+*   **Muscle Identification:**
+    *   Pork shoulder contains multiple muscles. Muscles with high connective tissue benefit from long, low-temperature cooking (similar to short ribs).
+    *   Muscles with less connective tissue may appear fibrous if not cooked long enough, but will be tender and not dry.
+    *   *Visual Cue:* Look for marbling and connective tissue distribution. On pork belly, most muscles are good, except one oval-shaped muscle on top running opposite the grain, which is naturally tender and does not require long cooking.
+
+### Foie Gras Terrine/Torchon
+*   **Temperature:** Low to mid 50s°C (approx. 55°C–57°C).
+    *   *Range:* 60°C is mentioned as an upper limit for higher temp cooks, but lower is preferred to minimize fat leakage.
+*   **Time:** Short duration (exact time not specified, but emphasized as "not very long").
+*   **Technique:**
+    *   Pack in a terrine mold inside a bag or just inside a bag.
+    *   Maintain a slight delta T (water bath temp slightly higher than target internal temp) to cook quickly and prevent excessive fat leakage.
+*   **Reference:** Recipes from Bruno Goussault, Georges Pralus, and Juan Roca.
+
+### Pheasant
+*   **Whole Roast:** Not recommended (legs tough, breast overcooks easily).
+*   **Recommended Method:**
+    1.  Separate breasts from legs.
+    2.  **Legs:** Braise or cook separately (tougher). Use bones for stock.
+    3.  **Breasts:**
+        *   **Temperature:** 57°C to 58°C.
+        *   **Time:** ~20 minutes (due to thinness).
+        *   **Process:** Cook, cool down, then quick-sear very high heat to crisp skin.
+*   **Warning:** Do not cook whole pheasant for 1.5 hours; it is too long.
+
+### Root Beer Foam Stabilization
+*   **Problem:** Small head that dies off quickly.
+*   **Solution:** Add hydrocolloids to stabilize foam.
+*   **Ingredients:**
+    *   **PGA (Propylene Glycol Alginate):** Modified alginate (seaweed gel). Not 100% natural. Stable in acidic environments.
+    *   **Dosage:** ~80 parts per million (ppm).
+    *   **Preparation:** Dissolve in water, add a small amount of solution to the product before final fermentation.
+*   **Alternative:** Beer foam stabilizers (likely pectin-based), potentially cheaper or more natural than PGA.
+*   **Theory:** Head stability relates to surface-active principles of the liquid; ingredients left over from barley in beer contribute to head retention.
+
+### General Sous Vide Parameters
+*   **Starting Temperature Assumption:** Most recipes assume food starts straight from the refrigerator (~38°F–40°F / ~3°C–4°C).
+*   **Time Buffer:** Build in 10%–15% overage on cooking time to account for variance in starting temperatures.
+*   **Precision:** Critical for "delta temperature" cooking (e.g., cooking fish to 55°C–56°C in a 60°C bath) where seconds matter. Less critical for thicker cuts with built-in time buffers.
+
+## Ingredients & Functional Properties
+
+### Whole Wheat Pasta
+*   **Issues:**
+    *   **Texture:** Bran interferes with the gluten matrix, resulting in poor texture.
+    *   **Flavor:** Often tastes like raw field corn; prone to rancidity due to fat content if stored long-term.
+    *   **Perception:** "Healthier" whole wheat products (e.g., Barilla Plus) are often culinarily unsatisfying.
+*   **Improvement (DIY):**
+    *   Use very finely ground whole wheat flour (e.g., Shapati flour).
+    *   Add **Vital Wheat Gluten** to increase snap.
+    *   Add **Consejo** (alkaline powder) or **Sodium Carbonate** (not baking soda) to strengthen the gluten network and add alkalinity.
+    *   Must be extraordinarily fresh.
+
+### Lulo
+*   **Properties:** Creates a creamy head when blended into a juice/shaken drink.
+*   **Usage:** Essential fruit in Colombia; makes an aesthetic drink.
+
+### Other Tropical Fruits (Colombia)
+*   **Uchuva:** Gooseberry-like; excellent; often free with mango steams.
+*   **Guanabana:** Favorite fruit; available in great quantities.
+*   **Passion Fruit:** Many variants. **Grenadilla** is the most favorite; **Cuba** is smaller but delicious.
+*   **Tomate de Árbol:** Bitter skin, interesting flavor.
+*   **Pataya:** Dragon fruit (delicious, unlike the watery versions often found elsewhere).
+*   **Mango Steams:** Delicious, though not necessarily from the region.
+
+### Hydrocolloids
+*   **Sources:** Modernist Pantry, Terra Spice, Amazon, homebrew shops.
+*   **Note:** No great homebrew shops or specialty markets for hydrocolloids found in NYC (except a small one at Whole Foods).
+
+### Potato Toxins
+*   **Compounds:** Solanine and tomatine (defensive compounds against fungi/bacteria/humans).
+*   **Green Potatoes:** Chlorophyll presence indicates increased solanine levels.
+*   **Preparation:** Peel green potatoes thoroughly.
+*   **Traditional Method:** Dipping wild potatoes in **Kaolin** (clay) to adsorb toxins (mimics animal digestion). Kaolin is also used as a wine fining agent.
+
+### Chunio Blanco
+*   **Description:** Inca freeze-dried potato (frozen, thrown in a well, frozen/thawed again).
+*   **Flavor Profile:** Smells and tastes like goat's bedding.
+*   **Culinary Challenge:** Dave offers a heritage meat prize to anyone who can prepare a decent dish with these potatoes.
+
+## Equipment & Locations
+
+### New York City Recommendations
+*   **Di Polo's:** Italian market on Grand Street and Mott Street.
+    *   *Note:* Can take a long time; look for family members (Louie, Sal, Marie, Rene).
+*   **JB Prince:** Kitchen equipment store, 30–32nd Street, 11th floor.
+    *   *Description:* "Jewelry box" of equipment.
+*   **Cook's Kitchen Arts & Letters:** Uptown (90s).
+    *   *Status:* Best cook store; staff are experts on cookbooks.
+*   **Restaurants:**
+    *   **Death & Co., PDT, Pegu Club, Little Branch:** Recommended by Dave.
+    *   **Milk and Honey:** Hard to get into.
+    *   **Vera:** Restaurant in Cartagena, Colombia (Hotel Asia). Features a waterfall, indoor/outdoor design. Recommended by Dave.
+
+### Hydrocolloid Suppliers
+*   **Online:** Modernist Pantry, Terra Spice, Amazon.
+*   **Physical:** No strong recommendations for NYC homebrew shops.
+
+## Caller Q&A
+
+### Matthew (Cartagena & Duck)
+*   **Q1:** Food recommendations for Cartagena, Colombia? Specifically fruit, seafood, or ingredients to bring home?
+    *   **A:**
+        *   **Restaurant:** Vera (Hotel Asia). Cool indoor/outdoor design with a waterfall.
+        *   **Fruit:** Lulo (make a drink/juice), Uchuva (gooseberry-like, free with mango), Guanabana (favorite), Passion fruit (Grenadilla and Cuba), Tomate de Árbol, Pataya (dragon fruit).
+        *   **Warning:** Avoid dive bars; locals can be aggressive.
+*   **Q2:** Low temp duck breast (Muscovy) at 58°C for 1.5 hours resulted in chewy meat. Should I cook longer? Should I render fat before or after?
+    *   **A:**
+        *   **Rendering:** Always render **after** cooking.
+        *   **Searing:** Sear after cooking. Some do before/after with cryo-searing.
+        *   **Time:** 1.5 hours is likely too long, making it mushy or livery. Try 45 minutes to 1 hour at 57°C–58°C.
+        *   **Temp Adjustment:** If tough at 57°C, try 58°C. Do not go higher than 59°C.
+
+### Matthew (Pork Shoulder - Follow up)
+*   **Q:** Cooking a small pork shoulder rose in a circulator. What temp/time? How to identify muscles with connective tissue?
+    *   **A:**
+        *   **Temp/Time:** 60°C–62°C for 36–48 hours.
+        *   **Visuals:** Look for marbling and connective tissue. Muscles with high connective tissue need the long cook. Muscles with less may appear fibrous if undercooked but won't be dry.
+        *   **Identification:** On pork belly, most muscles are good except one oval muscle on top running opposite the grain (tender, doesn't need long cook).
+
+### Joshua Stokes (Foie Gras Terrine)
+*   **Q:** Making a foie gras terrine/torchon. Temp/time recommendations?
+    *   **A:**
+        *   **Temp:** Low to mid 50s°C (approx. 55°C–57°C). Up to 60°C max.
+        *   **Time:** Short duration to prevent fat leakage.
+        *   **Method:** Pack in mold or bag. Use slight delta T.
+        *   **Reference:** Check the "Sous Vide Low Temperature Primer" on CookingIssues.com for charts based on Goussault, Pralus, and Roca.
+
+### Andrew (Tongue Brushing)
+*   **Q:** Does brushing/scraping the tongue damage taste buds and affect the palate?
+    *   **A:**
+        *   **Damage:** Yes, abrasion damages taste cells.
+        *   **Recovery:** Taste cells regenerate every ~10 days. No permanent loss.
+        *   **Palate Impact:** Bad breath/halitosis affects the palate more than losing a few taste buds.
+        *   **Professional Advice:** Do not brush with toothpaste before tasting/cooking. It wipes out the palate. If brushing is necessary, chew carrots or drink fluids to neutralize the "toothbrush taste."
+
+### Ryan Santos (Pheasant)
+*   **Q:** Preparing 2–3 lb whole pheasants (roast vs. sous vide).
+    *   **A:**
+        *   **Whole Roast:** Not recommended (legs tough, breast overcooks).
+        *   **Best Method:** Separate breasts and legs.
+        *   **Breasts:** 57°C–58°C for ~20 mins, cool, quick-sear high heat.
+        *   **Legs:** Braise or cook separately. Use bones for stock.
+
+### Sebastian (Root Beer Head)
+*   **Q:** How to get a long-lasting, foamy head in homemade root beer?
+    *   **A:**
+        *   **Additive:** Propylene Glycol Alginate (PGA).
+        *   **Dosage:** ~80 ppm.
+        *   **Method:** Dissolve in water, add to product before final fermentation.
+        *   **Note:** PGA is not 100% natural but is stable in acid. Alternatives exist (pectin-based) but PGA is the pro standard.
+
+### Mark Younger (Starting Temps)
+*   **Q:** Do sous vide times assume food starts from the fridge, or is there a standard starting temp?
+    *   **A:**
+        *   **Assumption:** Most recipes assume straight from the fridge (~38°F–40°F).
+        *   **Reasoning:** Convenience and consistency.
+        *   **Adjustment:** Build in 10%–15% time overage to account for temp variance.
+        *   **Critical Cases:** For "delta temperature" cooking (thin fish, razor margins), starting temp is vital. Use programs like SousVide.com to calculate time based on starting temp.
+
+### Harlan (Potatoes)
+*   **Q:** Interesting facts about potatoes from Smithsonian article.
+    *   **A:**
+        *   **Toxins:** Wild potatoes have solanine/tomatine. Green potatoes = high solanine. Peel thoroughly.
+        *   **Clay Dipping:** Andean people dip wild potatoes in kaolin (clay) to adsorb toxins. Kaolin is also a wine fining agent.
+        *   **Chunio Blanco:** Inca freeze-dried potato. Smells/tastes like goat's bedding.
+        *   **Guano:** Bird guano from Chincha Islands used as fertilizer. Potato blight (*Phytophthora infestans*) research linked to this era.
+        *   **Challenge:** Dave offers a heritage meat prize for a good recipe using Chunio Blanco potatoes.

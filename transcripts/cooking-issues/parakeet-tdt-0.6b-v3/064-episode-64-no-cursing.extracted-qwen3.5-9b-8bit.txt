@@ -1,0 +1,144 @@
+# Thanksgiving Turkey Techniques
+
+**Brining vs. Non-Brining**
+*   **Harold McGee's Stance:** Advises against brining because it makes turkey drippings too salty.
+*   **Dave Arnold's Stance:** Disagrees with McGee. Prefers brining to prevent breast meat from being "horribly mangled and overcooked."
+*   **Traditional Roasting:** Produces delicious crispy skin, which is difficult to emulate with other techniques.
+
+**Disassembled Roasting Method**
+*   **Preparation:** Break turkey into dark meat and light meat (breast) rather than cooking whole.
+*   **Cooking Setup:** Place meat in a Ziplock bag with butter.
+*   **Temperature Control:** Cook at different temperatures for dark and light meat.
+*   **Skin Crisping Process:**
+    1.  Pull meat out of the bag while still hot.
+    2.  Let skin dry off completely.
+    3.  Cool down the meat.
+    4.  Return to oven to crisp skin.
+*   **Equipment Issue/Workaround:** If oven temperature fluctuates (e.g., set to 600°F but drops to 400°F), use a blowtorch for final crisping.
+    *   *Technique:* Shoot torch through a Nichrome wire screen to act as a flame arrester and "stink arrester" (preventing propane odor from transferring to turkey skin).
+*   **Critique of Blowtorching:** Tends to brown rather than dry out skin to make it crackly; can impart a torch taste.
+*   **Optimization:** Dark meat could potentially be cooked about 1 degree higher.
+
+# Sous Vide and Crust Formation
+
+**Herb Crust on Sous Vide Meat**
+*   **Scenario:** Using a sous vide machine in a vacuum bag.
+*   **Timing:** Cook at 56–57°F for approximately 3 hours.
+*   **Crust Application Options:**
+    *   *Option A (Pre-application):* Apply herb crust before cooking. Results in significant herb flavor penetration into the meat surface.
+    *   *Option B (Post-application):* Do not apply before.
+*   **Post-Cook Crust Technique:**
+    1.  Remove meat from circulator immediately.
+    2.  Place on a rack to dry.
+    3.  Pat dry or use a hairdryer to remove tacky moisture.
+    4.  Rebrush with oil.
+    5.  **Deep Fry:** Throw into a deep fryer for an instant crust all around. (Recommended method).
+    6.  **Alternative (Oven):** If no deep fryer, use a screaming hot oven (broiler). Place meat on a rack over a roaster to ensure air circulation and prevent "blonde spots" from sitting in pans/potatoes.
+*   **Searing Before Sous Vide:**
+    *   Dave almost always sears before bagging.
+    *   **Effect:** Speeds up crust formation during the second sear.
+    *   **Result:** Tests show marginally better crust formation when searing before and after, but the difference is subjective/personal taste.
+    *   **Salting:** Do not salt before cooking sous vide, as it acts like curing.
+
+**Phosphate Brine for Sous Vide**
+*   **Recommendation:** Do not use a phosphate brine.
+*   **Reasoning:** Since sous vide prevents overcooking, there is no need to inject extra water. Phosphates firm the meat and increase water retention, which is unnecessary for this method.
+
+# Sweet Potato Fries
+
+**Problem:** High sugar and moisture content causes excessive browning/color before achieving crispiness.
+**Cause:** Reducing sugars (invert sugar) on the surface cause browning.
+
+**Solutions:**
+1.  **Acidulated Soak:** Soak cut potatoes in a dilute vinegar solution (vinegar + salt) for a couple of hours.
+    *   *Mechanism:* Leaches sugar out of the potato surface.
+    *   *Note:* Salt helps with color problems in French fries generally.
+2.  **Blanching:** Blanch in water after soaking to leach out even more sugar.
+3.  **Two-Step Frying:**
+    *   *Step 1:* Lower temperature fry to cook through and form initial crust.
+    *   *Step 2:* Cool down, then final fry to crisp up.
+4.  **Vacuum Frying (Industrial/Advanced):**
+    *   *Mechanism:* Reduces pressure to lower the boiling point of water, allowing water to boil out at lower temperatures, preventing oil penetration and scorching.
+    *   *Drawback:* When air is released, oil injects into the porous section, making fries greasy/soggy.
+    *   *Proposed Fix:* Ramp up temperature and slowly release vacuum at the end of frying to maintain water boiling until removal from oil. (Dave notes no literature confirms this works technically).
+
+# Heart Cooking
+
+**Types:**
+*   **Pig Heart:** Good with peppers, onions, sausage, and hot peppers. Moist texture.
+*   **Chicken Heart:** Personal favorite. Small, delicious.
+*   **Duck Heart:** Delicious, slightly larger than chicken heart.
+
+**Preparation:**
+*   **Method:** Skewer multiple hearts, roast simply.
+*   **Sauce:** Serve with chimichurri sauce.
+*   **Texture:** Lean, bloody taste (similar to blood sausage).
+
+# Goose Cooking
+
+**Breast Meat:**
+*   **Temperature:** 57°F.
+*   **Time:** No longer than 1 hour.
+*   **Adjustment:** If tough, increase to 58°F.
+*   **Finishing:** Cool down, hit with a dog brush (modernist technique), then sear to render fat and crisp skin.
+*   **Prep:** Salt and herb overnight; remove excess salt before cooking.
+
+**Leg Meat:**
+*   **Temperature:** 85°F (regular simmering temperature).
+*   **Time:** A couple of hours until bone feels free.
+*   **Method:** Cook in own fat. Cool down in fat, then pull out and crisp up.
+
+# Equipment Recommendations
+
+**Pressure Cookers**
+*   **All-American Pressure Canner:**
+    *   *Pros:* Accurate, goes up to 22 psi, good for big things/canning.
+    *   *Cons:* Painful to seal hand knobs to prevent leaking; made of aluminum (requires care with acidic/basic foods); takes up more space.
+*   **Cuisinart:**
+    *   *Pros:* Great for normal cooking; large model recommended.
+    *   *Cons:* Concerns about spring indicator accuracy over time (Dave notes springs are cheap/free to replace); venting models reduce taste profile.
+    *   *Dave's Choice:* Prefers Cuisinart over All-American for daily use due to convenience.
+*   **General Advice:** Buy the biggest model possible. Avoid models that vent.
+
+**Thermometers for Science Fair**
+*   **Requirement:** Fine thermocouples (~$60) and a multimeter (~$30-$40) to read them.
+*   **Avoid:** Average instant-read thermometers (too big, slow, high thermal mass drops reading temperature).
+*   **Alternative:** Use a cooler for testing if not boiling water.
+
+**Bagpipes**
+*   **Dave's Experience:** Owns a set; did not progress past the chanter.
+*   **Issue:** Cheap sets sound bad even if played well; drones wail loudly.
+
+# Ingredients and Functional Roles
+
+**Ensorbit (Tapioca Maltodextrin)**
+*   **Source:** Derived from tapioca (National Starch).
+*   **Function:** Bulking agent; turns oils/fats into powders or pastes.
+*   **Mechanism:** Starch molecules form a helix. Outside is water-loving; inside is oil-loving. Oil complexes inside the helix, retaining bulk density. Dissolves instantly upon contact with water (mouth).
+*   **Specificity:** Must be *dextro* tapioca maltodextrin. Regular tapioca maltodextrin will not work for oil powdering.
+*   **Promo:** Free package with orders $35+ using code CI64.
+
+**MSG (Monosodium Glutamate)**
+*   **Safety:** No negative effects found in studies.
+*   **Chef Usage:** Many chefs avoid pure MSG despite knowing it's safe.
+*   **Reasons:**
+    1.  **Perception/Customer Alienation:** "Farm to table" or "hippy" customers refuse MSG on principle.
+    2.  **Business Risk:** Injects controversy into the menu.
+    3.  **Availability:** Can achieve umami boost via seaweed or other sources without the stigma.
+    4.  **Sodium:** MSG adds salt (sodium).
+*   **Dave's Stance:** Does not use pure MSG but uses MSG-rich ingredients. Willing to buy a package for the show.
+
+# Science Fair Project: Steak Cooking Time
+
+**Variables:** Thickness (1", 1.5", 2") of boneless cuts.
+**Goal:** Determine cooking time to reach specific internal temperatures (Medium Rare, Medium, Well Done).
+**Proposed Methods:** Boiling water vs. 300°F Oven.
+
+**Analysis:**
+*   **Math:** Relationship between thickness and time involves differential equations (time scales with the square of thickness; doubling thickness quadruples time).
+*   **Oven:** Inaccurate; surface drying and size affect temperature; moisture loss varies.
+*   **Boiling Water:** Best for scientific control (constant temperature).
+    *   *Constraint:* Must be a rolling boil. Large meat pieces drop local water temperature.
+    *   *Constraint:* Meat moves, making even thickness difficult.
+*   **Recommendation:** Use boiling water for the experiment. Ensure rolling boil and attempt to keep thickness uniform (e.g., clamped between plates).
+*   **App:** "Sous Vide Dash" ($5) plots heating curves based on meat type (specific heat/conduction), shape (slab, cylinder, sphere), and coefficients.

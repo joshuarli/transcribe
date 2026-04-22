@@ -1,0 +1,115 @@
+# Enzymatic Peeling of Citrus
+*   **Enzyme:** Pectinex Ultra SPL (eats pectin and hemicellulose).
+*   **Source:** Available from Modernist Pantry.
+*   **Ratio:** 4g of enzyme per 1L of water (Dave notes he previously used 3g but now uses 4g for reliability).
+*   **Temperature:** Room temperature (warm). Do not refrigerate; cold slows the enzyme.
+*   **Time:** Soak duration is flexible but room temperature accelerates the process.
+*   **Equipment:** Vacuum sealer bag (optional but helpful for penetration).
+*   **Preparation Steps:**
+    1.  Break citrus into small segments (quarters or smaller) without cutting into the vesicles (fruit sacs).
+        *   *Note:* Grapefruits are easy; pomelos are hard due to high pith content.
+    2.  Keep peels as whole as possible. Place peels in the bag with the segments.
+    3.  Add enzyme solution (4g/L).
+    4.  Soak.
+    5.  *Optional:* Use a vacuum sealer to force solution into the pith faster.
+    6.  *Optional:* Use ice water to facilitate vacuum sealing, then transfer to a warm water bath to melt ice and activate enzyme cooking.
+    7.  After soaking, use a toothbrush to scrub away the melted albedo (white pith).
+*   **Limitations:** The enzyme will not penetrate intact membranes between segments if the fruit is left whole in a bag. Segments must be separated.
+
+# Vegan Whipped Desserts (Soy Base)
+*   **Problem:** Soy milk lacks the fat content and structure to whip and hold texture like dairy cream. Xanthan gum creates a "snot" texture; LBG fails similarly.
+*   **Solution Strategy:** Mimic commercial "ready whip" products (e.g., SoyaToo).
+*   **Key Ingredients:**
+    *   **Fat:** Solid fat is critical for body. Use coconut oil or palm kernel oil (fractionated).
+    *   **Stabilizer/Structure:** Carrageenan (specifically **Genatine** by CP Kelco, a specialist carrageenan for whipping/gelatin replacement).
+    *   **Mass/Body:** Maltodextrin.
+    *   **Flavor:** Tartaric acid, vanilla.
+    *   **Whipping Agent:** Nitrous oxide (N2O) can be used to whip the mixture.
+*   **Technique:**
+    1.  Chill mixture thoroughly ("cold as hell").
+    2.  Add solid fat first to increase whipping quality.
+    3.  Add maltodextrin and Genatine.
+    4.  Whip.
+
+# Steak Seasoning Techniques
+*   **Pre-salting (1+ hour in advance):**
+    *   *Dave's Opinion:* Not worth it for immediate service (within a couple of hours).
+    *   *Reasoning:* While it seasons through and retains moisture, the textural breakdown and color change from over-salting beforehand outweigh the minor flavor advantages.
+    *   *Exception:* Long-cooked dishes (braises, pot roasts) where seasoning must penetrate fully.
+*   **Recommended Method for Steaks:**
+    1.  Salt the exterior of the steak immediately before searing (generous amount).
+    2.  Sear aggressively.
+    3.  Slice the steak into pieces before serving.
+    4.  Salt the cut faces of the slices if additional seasoning is needed.
+*   **Comparison:** Unlike bread (where pre-salting is critical) or long braises, steaks do not require pre-salting for optimal texture if served quickly.
+
+# Stock Safety (Ruhlman vs. McGee)
+*   **Context:** Ruhlman suggests leaving stock on the stove unrefrigerated for days, boiling it up when needed (historical practice). Harold McGee advises against this.
+*   **Dave's Stance:** Agrees with McGee.
+*   **Reasoning:**
+    *   **Safety:** Not 100% safe. Bacteria can grow if not brought to a proper boil immediately.
+    *   **Quality:** Significant quality degradation occurs as stock sits at room temperature over time.
+    *   **Recommendation:** Refrigerate stock.
+*   **Cured Meat Exception:**
+    *   Properly cured meat (sufficient salt/nitrites) is resistant to bacterial growth.
+    *   *Caveat:* "Cured" does not mean "immune to contamination." External contaminants can grow on cured meat.
+    *   *Risk:* If salt/nitrite levels are insufficient or pH is wrong, serious issues (e.g., botulism) can occur.
+    *   *Verdict:* If properly cured and handled, nothing bad will grow, but one should still take it with a "grain of salt" regarding external contamination.
+
+# Substitutes for Juniper Berries
+*   **Substitute:** Eastern Red Cedar berries (*Juniperus virginiana*).
+*   **Availability:** Common in the US; often used ornamentally.
+*   **Edibility:** Edible; used historically by Native American tribes (leaves, berries, bark).
+*   **Flavor Profile:**
+    *   Less powerful aromatic quality than traditional *Juniperus communis*.
+    *   Not as "baller" (intense) a juniper flavor.
+*   **Usage:** Good for applications where a milder, distinct cedar flavor is acceptable.
+*   **Safety Warning:**
+    *   Do not eat large quantities ("boatloads").
+    *   Some juniper species are toxic; ensure correct identification.
+    *   Mild toxicity possible; consult herbal references.
+
+# Knife Recommendations: Shun x Michel Bras
+*   **Model:** Shun x Michel Bras line.
+*   **Coating:** Titanium oxide (not platinum).
+    *   *Properties:* Very hard (used on high-speed drill bits), prevents rust.
+    *   *Durability:* Does not scratch easily.
+*   **Blade Construction:**
+    *   Two grades of stainless steel: Softer outer layer (toughness), harder center (edge retention).
+    *   Titanium metal core (tough, non-rusting).
+*   **Geometry:**
+    *   50-degree total bevel (15 degrees per side).
+    *   Symmetrical sharpening (like traditional French/German knives), unlike many Japanese knives.
+    *   Easy to sharpen for European users.
+*   **Performance:**
+    *   Balanced well.
+    *   *Dave's Opinion:* Will not cut appreciably better than less expensive Shun/Kershaw knives due to similar blade chemistry.
+    *   *Value:* High price tag for marginal cutting performance gain; primarily aesthetic and ergonomic benefits.
+*   **Philosophy on Sharpness:**
+    *   "Knives are like puppies": Best when new, problems arise later.
+    *   *Recommendation:* Prefer softer steel that sharpens easily over super-hard, difficult-to-sharpen steel.
+    *   *Strategy:* Sharpen a lesser-quality blade right before use rather than letting a high-quality blade dull for months.
+
+# Cauliflower Browning (Brassica Chemistry)
+*   **Observation:** Cauliflower florets turned brown/caramelized during slow simmering in half-and-half, despite tasting bad.
+*   **Cause:** Sulfur-containing compounds inherent to brassicas (cauliflower, cabbage, broccoli, Brussels sprouts).
+*   **Chemistry:**
+    *   Prolonged cooking causes sulfur compounds to react.
+    *   Results in off-odors ("stinky"), lipid oxidation, and color changes (browning).
+*   **Note:** Dave mentions Harold McGee would know the specific chemical mechanism immediately.
+
+# Restaurant Recommendations (NYC & Chicago)
+*   **NYC:**
+    *   **Bar Massia:** Excellent sushi, budget-friendly compared to Masa.
+    *   **Roberta's:** Pizza (host location).
+    *   **Indie Jesus:** Open Sundays at lunch (not Tuesdays).
+    *   **11 Madison Park:** Fine dining option.
+    *   **Blue Hill at Stone Barns:** Farm-to-table (if time permits).
+*   **Chicago:**
+    *   **Kaijutsu:** Japanese temple food (vegan).
+    *   **WD-50:** Highly recommended.
+    *   **Momofuku:** Recommended.
+    *   **Noodle Bar:** Recommended.
+    *   **BDX:** Recommended.
+    *   **Per Se:** Tony's favorite.
+    *   **Alinea / Aviary:** Mentioned as pilgrimage sites.

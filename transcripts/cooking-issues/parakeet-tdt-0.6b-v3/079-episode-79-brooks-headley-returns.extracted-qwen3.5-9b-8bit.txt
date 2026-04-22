@@ -1,0 +1,108 @@
+# Equipment & Tools
+
+### Thermocouples & Oven Probes
+*   **Problem:** Consumer-grade cooking probes (with cables) frequently break due to steam ingress, cable failure, and head burnout.
+*   **Recommendation:** Use **industrial thermocouples**.
+    *   **Form Factor:** Ruggedized cases resembling multimeters with rubberized exteriors.
+    *   **Durability:** Impervious to water, steam, and high heat; suitable for kilns.
+    *   **Temperature Range:** Probes rated up to 900°F (approx. 480°C); cables can withstand temperatures up to 1000°F (approx. 540°C).
+    *   **Cost:** $15–$20 per unit from sources like Master Car.
+*   **Probe Selection Criteria:**
+    *   **Response Time:** Thinner probes have faster response times but are more fragile and expensive.
+    *   **Head Type:** Avoid micro/hypodermic heads used in CV (coffee volume) applications; the epoxy inside is not rated for oven temperatures and will burn out.
+    *   **Cable:** Use fiberglass-insulated cables.
+*   **DIY Option:** Twist wires together to create custom probes. Cost: ~$1 per probe. Note: Typically not waterproof.
+*   **Avoid:** RTD (Resistance Temperature Detector) probes used in ovens; they break frequently.
+
+### Vacuum Extraction Setup (Rotovap Alternatives)
+*   **Application:** Speeding up infusions and making syrups.
+*   **Components:**
+    *   **Vessel:** Standard pickle jars (molded glass) or polycarbonate vessels (e.g., pasta keepers).
+    *   **Connections:** Push-to-connect fittings (plumbing store) with vacuum-rated tubing.
+    *   **Pump:** Oil-based vacuum pump (refrigeration pump type), capable of reaching 5 millibars or less absolute pressure.
+    *   **Cold Trap:** Chilled by ice or dry ice.
+*   **Safety Warning (Glass Jars):**
+    *   Molded glass jars have seams and stress points prone to violent implosion under full vacuum (15 psi).
+    *   **Mitigation:** Wrap jars in electrical tape to contain shattering glass.
+    *   **Better Alternative:** Use **polycarbonate** vessels. They crack rather than shatter into splinters.
+*   **Process Note:** Do not puree ingredients before distillation if aiming for smoother distillate; pureeing introduces air bubbles causing violent foam.
+
+### Gas Chromatograph (GC)
+*   **Function:** Separates complex mixtures of aromas based on elution rate through a column.
+*   **Detection:** Coupled with a **Mass Spectrometer (MS)** to identify compounds and measure concentration (area under the peak).
+*   **Sample Analysis:** Uses liquid CO2 to condense and remix samples for olfactory analysis ("sniffing").
+*   **Solvent:** Liquid CO2 is neutral, clean, and does not degrade most compounds.
+
+### Modernist Pantry (Ingredient Sourcing)
+*   **Products:** Hydrocolloids, pH buffers, meat glue, spray-dried vinegar powders (White Malt, Balsamic), citric acid powder.
+*   **Service:** Custom sourcing for items not in stock.
+*   **Shipping:** Inexpensive worldwide.
+
+# Ingredients & Functional Properties
+
+### Acids
+*   **Acetic Acid:** Highly volatile. Provides characteristic flavor/aroma in alcoholic beverages. Spray-dried vinegar powder contains flavor but almost no acidity.
+*   **Citric Acid:** Non-volatile. Most neutral dry powdered acid. Used to provide the "acidic kick" when paired with vinegar powder.
+    *   *Texture Issue:* Commercial citric acid powder has large granules (between granulated and superfine sugar).
+    *   *Solution:* Pulse in a spice grinder to achieve a finer powder for better integration with vinegar powder.
+*   **Other Non-Volatile Acids:** Malic acid, Tartaric acid.
+
+### Sweeteners & Flavorings
+*   **Crystal Light:**
+    *   **Influence:** Significant impact on the host's approach to food.
+    *   **Composition:** Sweetened with Neotame (100% natural flavors, no sugar, no saccharin).
+    *   **Calories:** 4 calories per serving.
+    *   **Taste Profile:** Refreshing; avoids the metallic/bitter aftertaste of stevia or aspartame.
+*   **Stevia:** Inherently tastes bad (metallic, bitter, crappy aftertaste). Companies work to mask this taste.
+*   **Aspartame:** Used in diet sodas. Users often inure themselves to the aftertaste over time.
+*   **Mojito Powder:** Criticized as an impossibility; described as gross.
+*   **Butterscotch:** Brown sugar cooked with butter and cream/sauce. Salt is super important.
+*   **Getz Caramel Creams:** Pennsylvania Dutch style. Caramel with a whipped fat center. Texture is dry/crumbly (similar to Oreo filling).
+
+# Techniques & Parameters
+
+### Flavor Pairing Analysis
+*   **Concept:** Pairing ingredients based on shared chemical compounds (volatiles).
+*   **Critique of Recent Study:**
+    *   **Data Source:** "AllRecipes" and a Korean site.
+    *   **Flaw 1 (Concentration):** Aroma character depends on concentration (e.g., Ethyl butyrate smells like green apple at medium concentration, rotten apples at high, feet/stinky cheese at very high). The study ignored concentration.
+    *   **Flaw 2 (Cooked vs. Raw):** Analyzed raw ingredients, not cooked aromas. Compounds are often precursors in raw states.
+    *   **Flaw 3 (Bias):** "North American" recipes in the dataset were predominantly desserts (butter, eggs, wheat, sugar, cream), not representative of the cuisine.
+    *   **Conclusion:** Findings are statistically random once basic ingredients are removed; methodology is flawed for broad conclusions.
+*   **Utility:** Can serve as an invalid source of inspiration (like looking at constellations) but does not guarantee success. True innovation often comes from self-limitation (e.g., eliminating gelatin) or cross-cultural technique/ingredient swapping.
+
+### Distillation (Rotovap)
+*   **Preparation:**
+    *   **Puree vs. Strain:** Pureeing then straining (Chinois) may yield smoother distillate by removing particles that cause violent foam, but the host prefers raw puree to avoid losing flavor in the straining process.
+    *   **Foam Control:** Apply light vacuum to the mixture before starting the rotovap run to remove entrained air bubbles. This reduces violent foaming and micro-particle carryover.
+*   **Amino Acids:** Should not appear in unaged distillates (non-volatile). Presence indicates contamination via violent distillation/micro-particles.
+
+### Butterscotch Buttercream
+*   **Goal:** Fluffy texture.
+*   **Method:** Whip egg whites into butterscotch sauce.
+*   **Stabilization:** Must add **gelatin** to prevent egg whites from breaking down after setting.
+*   **Alternative:** Treat like a chocolate mousse (lower liquid base), fold, and set.
+*   **Host Preference:** Prefers perfect butterscotch sauce as a garnish rather than a fluffy frosting; avoids gelatin due to ethical/texture reasons.
+
+# Equipment Tradeoffs & Recommendations
+
+| Equipment | Recommendation | Tradeoffs / Notes |
+| :--- | :--- | :--- |
+| **Oven Probe** | Industrial Thermocouple | **Pros:** Rugged, waterproof, high temp (900°F+), cheap ($15-20).<br>**Cons:** DIY versions not waterproof; thin probes are fragile. |
+| **Vacuum Vessel** | Polycarbonate | **Pros:** Withstands high vacuum, shatters safely (cracks instead of splintering).<br>**Cons:** Slightly more expensive than glass. |
+| **Vacuum Vessel** | Molded Glass (Pickle Jars) | **Pros:** Cheap.<br>**Cons:** High risk of violent implosion; requires electrical tape safety wrap. |
+| **Citric Acid** | Pulverized Commercial | **Pros:** Readily available.<br>**Cons:** Granules too large for fine integration.<br>**Fix:** Pulse in spice grinder. |
+| **Extraction** | Soxhlet | **Pros:** Reuses solvent, consistent fresh solvent, high extraction rates.<br>**Cons:** Old technique, less common in modern labs. |
+| **Extraction** | Solid Phase Microextraction (SPME) | **Pros:** Modern standard.<br>**Cons:** Not yet adopted by the host's lab. |
+
+# Strong Opinions & Recommendations
+
+*   **Flavor Pairing:** The concept is "largely bunk" as a deterministic rule. Shared compounds do not guarantee good pairings. It is a valid source of inspiration but not a scientific guarantee.
+*   **Crystal Light:** Highly influential and refreshing. The host trained himself to love seltzer and now drinks it exclusively.
+*   **Stevia:** Tastes awful (metallic/bitter). The aftertaste is inherent to the plant.
+*   **Diet Soda:** Drinkers inure themselves to the aftertaste. Regular soda drinkers making equal amounts of regular and diet soda for parties is a "horrible error."
+*   **Gelatin:** Considered a "crutch" used too often. The host is actively trying to eliminate its use in vegetarian cooking.
+*   **Cooking Probes:** Consumer probes "all suck." The only reliable solution is industrial thermocouples or DIY twisted wires.
+*   **Data Mining Studies:** Often flawed due to poor datasets and "data snooping." People focus on the splashy abstract rather than the methodology.
+*   **Fusion Cuisine:** The best way to innovate is to steal flavor components from other cultures and apply them with local techniques (or vice versa).
+*   **Self-Limitation:** A powerful driver of innovation (e.g., creating great food without gelatin).

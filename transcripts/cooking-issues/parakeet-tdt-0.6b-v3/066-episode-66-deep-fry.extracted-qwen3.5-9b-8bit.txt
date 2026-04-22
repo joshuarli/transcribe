@@ -1,0 +1,95 @@
+# Spherification (Reverse)
+*   **Technique:** Reverse spherification involves mixing calcium into the flavor liquid and dropping it into a sodium alginate bath. This forms a thin membrane on the outside while the inside remains liquid.
+*   **Ingredients & Solubility:**
+    *   **Sodium Alginate:** Seaweed derivative hydrocolloid. Forms an irreversible gel upon contact with calcium. Has a bad taste and unpleasant texture on its own.
+    *   **Calcium Sources (Ranked by Solubility/Taste):**
+        *   *Calcium Chloride:* Most soluble, worst tasting. Use only for very strong, fast gels.
+        *   *Calcium Lactate:* Slightly better taste. Good for strong gels.
+        *   *Calcium Lactate Gluconate:* Slightly better taste than lactate. Common in commercial fruit juices.
+        *   *Calcium Carbonate:* Very insoluble. Poor results for spherification.
+    *   **Natural Sources:** Yogurt (high natural calcium), olives (calcium added to brine for crispness).
+*   **Parameters:**
+    *   Gel strength is dictated by the amount and availability of calcium. More available calcium = stronger, faster gel.
+    *   Leaving spheres longer in the bath makes them stronger.
+    *   Less available calcium or lower total calcium = softer gel.
+
+# Duck Breast (Wild & Farmed)
+*   **Target Temperature:** 57°C to 58°C (approx. 135°F to 136°F).
+*   **Method:** Sous vide followed by searing.
+*   **Timing:**
+    *   Start with 1 hour at 57°C or 57.5°C.
+    *   If too tough, extend to 2 hours (risk of livery/gamey taste increases).
+    *   Do not overcook; texture degrades and flavor becomes livery/gamey quickly.
+*   **Flavor Factors:**
+    *   Wild duck taste depends heavily on diet.
+    *   **Spoonbills/Shovelers:** Eat vegetable matter and animal matter (small crustaceans) from mud. Likely to have a fishy taste.
+    *   **Mitigation:** Skin contains concentrated fat and fishy taste; removing skin removes the flavor but sacrifices texture.
+    *   **Canvasbacks:** Historically grazed on wild celery; taste may have degraded as that habitat disappeared.
+    *   **Carolina Rice Birds:** Gorged on rice; described as incredibly delicious, fat enough to barely fly, shot to protect rice fields.
+
+# Deep Fryers (Commercial vs. Home)
+*   **Equipment Recommendation:** Professional gas-fired tube fryers (e.g., 35 lb oil capacity, 900 BTUs).
+    *   **Acquisition:** Can be found cheap ($50) on Craigslist, eBay, or auctions from closing restaurants. Look for stainless steel kettles (easier to clean); black steel is acceptable if repaired.
+    *   **Physics/Advantages:**
+        *   Large surface area prevents local overheating.
+        *   Creates strong convection currents for even heating and quick recovery.
+        *   **Cold Zone:** Particles settle below the heating tubes in a colder area, preventing scorching and oil ruin.
+        *   Oil lasts longer and tastes better.
+*   **Oil Testing:** Fry a piece of neutral bread. If the bread tastes bad, the oil is ruined.
+*   **Versatility:** Suitable for rack of lamb, goat, prime rib, steak, fries, onion rings, fried chic.
+
+# Rotisserie
+*   **Equipment:**
+    *   **Motors:** Inexpensive motors are poor due to bad gearing causing uneven rotation (slowing down on heavy sides).
+    *   **Recommendation:** Use a precision worm gear drive motor (e.g., Bodine motor) to ensure even spinning regardless of meat weight distribution.
+*   **Technique & Physics:**
+    *   Not primarily about "pulse heat."
+    *   Applies high *instant* heat on one side (creating crust/skin) while maintaining low *average* heat (preventing overcooking).
+    *   Effectively an open oven with a broiler on one side.
+    *   Self-basting helps slightly but science of basting efficacy is unclear.
+*   **Risks:** Meat must be secured tightly to prevent flopping or wingtips flying off and burning. Watch tying strings to prevent fire.
+
+# Low-Temp Cooked Deep Fried Chicken
+*   **Problem:** Precooking chicken in a bag often results in soggy skin and poor crust adhesion (shell effect).
+*   **Solution:**
+    1.  Remove chicken from circulator while still blazing hot.
+    2.  Cut open and place on a rack immediately.
+    3.  Let skin flash dry to form a **pellicle** (crucial for adhesion).
+    4.  Bread using a standard method (e.g., flour -> liquid dip [buttermilk/egg/baking powder/soda/salt/pepper] -> flour).
+    5.  Fry.
+*   **Note:** Carlos Arnold's recipe skips the drying step and goes straight from brine to fry, which is delicious but goes against standard adhesion theory.
+
+# Flan (Low-Temp Water Bath)
+*   **Critique of Douglas Baldwin's Method:**
+    *   **Temperature:** 175°F–180°F (80°C–85°C).
+    *   **Time:** 30 minutes (Dave suggests 15–20 minutes max to avoid cooked egg taste).
+    *   **Container:** Ziploc bags are fragile at high temps and trap air, causing sulfury/eggy flavors. Vacuum bags are superior.
+    *   **Agitation:** Agitating in a bag can cause curds if air isn't removed.
+*   **Dave's Preferred Method:**
+    *   **Equipment:** Steam oven (C-vap) or water bath.
+    *   **Temperature:** ~82°C (180°F).
+    *   **Time:** ~45 minutes.
+    *   **Technique:** Stationary (no stirring/agitation).
+    *   **Ingredients:** Use whole eggs (not just yolks) for extra protein to ensure the custard sets firmly enough to unmold.
+    *   **Result:** Sets into a smooth crème brûlée-like texture suitable for flipping.
+
+# Braised Tongue (Tacos de Lengua)
+*   **Target Temperature:** 76.6°C (170°F).
+*   **Timing:**
+    *   24–48 hours results in mushy texture.
+    *   **Recommendation:** 8 to 10 hours.
+    *   **Testing:** Use a "tester" bag to check texture at 10 hours before committing the main batch.
+*   **Benefits of Sous Vide:** Less liquid required (more intense flavor, higher yield) compared to traditional braise.
+*   **Texture:** Longer cooking breaks down texture; shorter cooking retains bite.
+
+# Low Oxalate Diet
+*   **Context:** Relevant for oxalosis/kidney stones. High oxalate foods include almonds, cooked carrots, cooked celery, sweet potatoes, rhubarb.
+*   **Challenge:** Oxalate content varies wildly based on growing conditions, variety, and maturity.
+*   **Current State:** No intensive research exists to predict oxalate content based on growing methods. Reliable data is inconsistent.
+
+# Breville 900XL Espresso Machine
+*   **Specs:** $1200, dual stainless steel boiler, variable pre-infusion, manual/auto settings, heated group head.
+*   **Dave's Analysis:**
+    *   Stainless steel boilers are sanitary and stable for modern microprocessor-controlled machines (unlike old brass boilers designed to dissipate heat).
+    *   Heated head is a positive feature.
+    *   **Verdict:** Sounds like a good machine for budding baristas; worth testing if sponsored.
