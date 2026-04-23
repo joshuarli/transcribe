@@ -6,10 +6,11 @@ import sys
 import threading
 import time
 import urllib.request
+from collections.abc import Generator
 from contextlib import contextmanager
 from pathlib import Path
-from urllib.parse import urlparse
 
+from transcribe.llama_serve import build_server_args, compute_context_length, detect_hardware, resolve_model
 from transcribe.podcasts import Podcast
 
 _DEFAULT_MLX_MODEL = "mlx-community/Qwen3.5-9B-8bit"
@@ -24,14 +25,14 @@ _DEFAULT_LLAMA_URL = "http://127.0.0.1:8080"
 def _llama_model_env() -> str:
     if model := os.environ.get("LLAMA_MODEL"):
         return model
-    total_mem_gb, _ = _detect_hardware()
+    total_mem_gb, _ = detect_hardware()
     return _HIGH_MEM_LLAMA_MODEL if total_mem_gb >= _HIGH_MEM_THRESHOLD_GB else _DEFAULT_LLAMA_MODEL
 
 
 def _llama_quant() -> str:
     if quant := os.environ.get("LLAMA_QUANT"):
         return quant
-    total_mem_gb, _ = _detect_hardware()
+    total_mem_gb, _ = detect_hardware()
     return _HIGH_MEM_LLAMA_QUANT if total_mem_gb >= _HIGH_MEM_THRESHOLD_GB else _DEFAULT_LLAMA_QUANT
 
 
@@ -68,7 +69,7 @@ def _extract_mlx(text: str, podcast: Podcast) -> str:
 
     local_path = Path(snapshot_download(model_id, local_files_only=True))
     model_size_gb = sum(f.stat().st_size for f in local_path.rglob("*.safetensors")) / (1024**3)
-    max_tokens = _compute_context_length(model_size_gb)
+    max_tokens = compute_context_length(model_size_gb)
 
     messages = [
         {"role": "system", "content": podcast.extraction_prompt},
@@ -97,11 +98,11 @@ def _extract_mlx(text: str, podcast: Podcast) -> str:
 
 
 @contextmanager
-def llama_server():
+def llama_server() -> Generator[str]:
     """Start llama-server, wait until ready, yield base_url, terminate on exit."""
     model_path = _resolve_llama_model()
     base_url = os.environ.get("LLAMA_URL", _DEFAULT_LLAMA_URL).rstrip("/")
-    args = _llama_server_args(model_path)
+    args = build_server_args(model_path, _llama_model_env())
     cmd = ["llama-server", *args]
     print(" ".join(cmd), file=sys.stderr)
     proc = subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
@@ -165,127 +166,7 @@ def _extract_llama(text: str, podcast: Podcast) -> str:
 
 
 def _resolve_llama_model() -> Path:
-    """Return local GGUF path, downloading from HF if LLAMA_MODEL is a repo ID."""
-    llama = _llama_model_env()
-    if llama.lower().endswith(".gguf"):
-        return Path(llama)
-
-    from huggingface_hub import hf_hub_download, list_repo_files
-
-    quant = _llama_quant()
-    matches = [
-        f for f in list_repo_files(llama) if f.lower().endswith(".gguf") and quant.lower() in f.lower() and "/" not in f
-    ]
-    if not matches:
-        all_gguf = [f for f in list_repo_files(llama) if f.lower().endswith(".gguf")]
-        raise ValueError(f"No GGUF matching '{quant}' in {llama}. Available: {all_gguf}")
-
-    filename = matches[0]
-    print(f"  model: {filename}", file=sys.stderr)
-    return Path(hf_hub_download(repo_id=llama, filename=filename))
-
-
-def _detect_hardware() -> tuple[float, int]:
-    """Returns (total_memory_gb, physical_cores) via sysctl on macOS."""
-    import subprocess
-
-    def sysctl_int(name: str) -> int | None:
-        try:
-            r = subprocess.run(["sysctl", "-n", name], capture_output=True, text=True, timeout=2)
-            return int(r.stdout.strip()) if r.returncode == 0 else None
-        except Exception:
-            return None
-
-    mem_bytes = sysctl_int("hw.memsize")
-    mem_gb = mem_bytes / (1024**3) if mem_bytes else 16.0
-    cores = sysctl_int("hw.physicalcpu") or 4
-    return mem_gb, cores
-
-
-def _compute_context_length(model_size_gb: float) -> int:
-    total_mem_gb, _ = _detect_hardware()
-    available_gb = max(total_mem_gb - 4.0, 2.0)
-    est_params_b = model_size_gb / 0.55
-    # KV cache at q8_0: ~0.25 MB per 1k context per billion parameters
-    kv_per_1k_ctx_mb = est_params_b * 0.25
-    remaining_gb = max(available_gb - model_size_gb, 0.5)
-    max_ctx = int((remaining_gb * 1024) / kv_per_1k_ctx_mb * 1024)
-    return (max(4096, min(max_ctx, 131_072)) // 1024) * 1024
-
-
-def _llama_server_args(model_path: Path) -> list[str]:
-    total_mem_gb, physical_cores = _detect_hardware()
-    model_size_gb = model_path.stat().st_size / (1024**3)
-    context_length = _compute_context_length(model_size_gb)
-    available_gb = max(total_mem_gb - 4.0, 2.0)
-    remaining_gb = max(available_gb - model_size_gb, 0.5)
-
-    # Metal can reliably address ~70% of unified memory; reserve the rest for
-    # KV cache, activation buffers, and OS overhead. No partial offload on
-    # Apple Silicon — CPU↔GPU round-trips hurt more than they help.
-    metal_budget_gb = total_mem_gb * 0.70
-    gpu_layers = 99 if model_size_gb < metal_budget_gb else 0
-
-    gen_threads = max(physical_cores - 2, 1)
-    batch_threads = physical_cores
-
-    if remaining_gb > 6.0:
-        batch_size = 4096
-    elif remaining_gb > 3.0:
-        batch_size = 2048
-    else:
-        batch_size = 1024
-    # On Apple Silicon, unified memory means no VRAM spill penalty; match ubatch
-    # to batch for maximum Metal throughput when memory allows
-    ubatch_size = batch_size if remaining_gb > 6.0 else max(batch_size // 2, 256)
-
-    parsed = urlparse(os.environ.get("LLAMA_URL", _DEFAULT_LLAMA_URL))
-    port = parsed.port or 8080
-
-    # Gemma 4 MoE uses hybrid (local/global) attention that regresses with Metal FA;
-    # the dense Gemma 4 31B does not have this issue and benefits from FA normally.
-    model_id = _llama_model_env().lower()
-    is_gemma_moe = ("gemma" in model_id or "gemma" in model_path.name.lower()) and (
-        "a1b" in model_id or "a4b" in model_id or "-a" in model_id
-    )
-
-    args = [
-        "--model",
-        str(model_path),
-        "--ctx-size",
-        str(context_length),
-        "-ngl",
-        str(gpu_layers),
-        "-b",
-        str(batch_size),
-        "-ub",
-        str(ubatch_size),
-        "-t",
-        str(gen_threads),
-        "-tb",
-        str(batch_threads),
-        "-np",
-        "1",
-        "--host",
-        "127.0.0.1",
-        "--port",
-        str(port),
-        "--jinja",
-        "-ctk",
-        "q8_0",
-        "-ctv",
-        "q8_0",
-        "--no-context-shift",
-        "--cache-reuse",
-        "256",
-        "--poll",
-        "0",
-        "--prio",
-        "2",
-    ]
-    if not is_gemma_moe:
-        args += ["-fa", "on"]
-    return args
+    return resolve_model(_llama_model_env(), _llama_quant())
 
 
 def _count_prompt_tokens(base_url: str, messages: list[dict[str, str]]) -> int:

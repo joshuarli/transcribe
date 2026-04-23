@@ -20,6 +20,7 @@ dependencies = [
 [project.scripts]
 main = "transcribe.main:main"
 transcribe = "transcribe.transcribe:main"
+llama-serve = "transcribe.llama_serve:main"
 
 [build-system]
 requires = ["uv-build"]
