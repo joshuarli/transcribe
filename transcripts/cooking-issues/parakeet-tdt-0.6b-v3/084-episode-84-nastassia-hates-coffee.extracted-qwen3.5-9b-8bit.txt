@@ -1,0 +1,156 @@
+# Pressure Cooking
+
+## Equipment & Parameters
+*   **Pressure Levels:** Stove-top units typically generate either **5 psi** or **15 psi**. Most recipes are based on **15 psi**.
+*   **Venting Mechanisms:**
+    *   **Steam-Regulating:** Regulates pressure by emitting steam continuously. Requires visible steam emission to judge proper pressure.
+    *   **Spring-Regulating (e.g., Cook's Choice):** Regulates pressure without emitting steam; a spring mechanism moves up/down.
+*   **Liquid Volume:** Use minimal liquid because boiling off is limited under pressure.
+
+## Techniques & Applications
+
+### Stocks and Soups
+*   **Flavor Impact:** Pressure cooking drastically mutes onion pungency but amplifies sweetness. Carrots remain sweet; celery changes less.
+*   **Onion Adjustment:** Quadruple the onion base in recipes to compensate for muted pungency.
+*   **Speed:** Extremely fast removal of gelatin and flavor from meats. A triple stock can be made in about **1 hour**.
+*   **Flavor Degradation:**
+    *   Steam-venting units produce stock that is good but not as good as regular production.
+    *   Non-venting (spring-regulating) units produce darker, meatier, tastier stock.
+*   **Mason Jar Method (Recommended for Venting Units):**
+    *   **Process:** Cook smaller stocks inside mason jars within the pressure cooker.
+    *   **Benefits:**
+        1.  **Sterilization:** Shelf-stable if cooked long enough.
+        2.  **Volatility Retention:** No volatiles can escape, mimicking non-venting unit benefits even with steam-venting cookers.
+        3.  **Concentration:** Allows for highly concentrated stocks with small quantities of product (e.g., squab, game bird).
+    *   **Jar Sizes:** Available up to **1.5 liters**.
+
+### Eggs
+*   **Process:**
+    1.  Hard boil eggs for a couple of minutes with the lid off to set them.
+    2.  Bring eggs from cold.
+    3.  Close lid, bring to **15 psi**.
+    4.  Cook for **45 minutes to 1 hour 10 minutes**.
+    5.  Let come down naturally (do not vent, or eggs may explode).
+*   **Result:** Whites have a nutty toastiness; yolks have a giblet gravy/chicken liver aroma due to Maillard reactions.
+
+### Mustard Seeds & Horseradish
+*   **Mustard Seeds:** Blanch once or twice to remove dirty taste. Pressure cook in vinegar, drain, toss in sugar.
+*   **Horseradish:** Blanch to remove dirty flavor. Pressure cook to make purees that taste of horseradish but are less pungent.
+
+### Pork Shoulder Braise
+*   **Ingredients:** Pork shoulder, 3–4 favorite ground dried chilies, chicken stock (or any stock).
+*   **Technique:** Minimal liquid.
+*   **Context:** Dave notes he avoids this for restaurant service, preferring long braises, but uses it for home cooking.
+
+### Summer Utility
+*   **Benefit:** Efficient cooking with minimal heat release into the kitchen once pressure is reached.
+
+---
+
+# Low Temperature Cooking (Cooking for Insurance)
+
+## Equipment
+*   **Poly Science Professional Circulator** (mentioned in context of trade show deals).
+*   **Water Bath / Combi Oven / CVAP.**
+
+## Temperature & Time Parameters
+*   **Chicken Breast:** **6°C** (approx. 43°F).
+*   **Chicken Leg:** **36.6°C** (approx. 98°F).
+*   **Rib Steak:** **5°C** (approx. 41°F).
+*   **Sausage:** **60°C** (approx. 140°F) or **140°F**.
+    *   *Note:* Can hold at 140°F or lower indefinitely; texture degrades over time but bacteria are killed.
+*   **Prime Rib:** Cook entire rib to **55°C** (approx. 131°F) all the way through.
+    *   *Finishing:* Cool, wrap, then put in a very hot oven to develop a crispy crust.
+*   **Duck Breast:** **57°C** (approx. 135°F) or **135°F**.
+    *   *Time:* **45 minutes**.
+    *   *Prep:* Flatten breast so skin renders later.
+    *   *Finishing:* Sear skin only; pan heat can be higher than normal.
+*   **Hamburgers:** **55°C to 57°C** (approx. 131°F–133°F).
+    *   *Safety:* Cool completely in bag; avoid oxygen exposure to prevent rancidity. Can deep fry later.
+*   **Rib Steak (Immediate Service):** Drop to **50°C** (approx. 122°F).
+    *   *Limitation:* Do not sit long at 50°C (borderline for bacteria revival); limit to a couple of hours.
+
+## Reheating (Retherm)
+*   **Method:** Do not retherm using low temperature. Use traditional cooking methods (grill, fryer, hot oven) to finish.
+*   **Goal:** Develop crust while reheating the interior which is already cooked to target temp.
+
+## Storage & Safety
+*   **Hold Time:** Depends on bath temperature.
+    *   Below bacterial death temps (e.g., 50°C): Limit hold time.
+    *   Above bacterial death temps (e.g., 140°C+): Can hold indefinitely.
+*   **Packaging:**
+    *   **Cryovac Bags:** Generally safe for sous vide/low temp if rated for heating. Many shipped bags are not "cook-chill" rated and may melt.
+    *   **Air in Bag:**
+        *   *Short term:* Not a problem.
+        *   *Long term:* Causes rancidity in fat due to oxygen. Can cause cold spots (undercooked) in short cooks or lactobacillus growth in long cooks.
+    *   **Ziploc Bags:** Safe for low temp. No time limitations up to **3 days**. Do not exceed **70°C**.
+
+---
+
+# Curing & Preservation
+
+## Ham Curing Issues
+*   **Pests:**
+    *   **Boring Beetles:** Create holes in meat just above the fat line. Damage usually on the "face" side (where bone projects).
+    *   **Mites:** Leave sawdust-like dust (actual mites, not feces).
+*   **Remediation:**
+    *   **Beetles:** Cut away tainted section.
+    *   **Mites:** Brush off; rest of ham is fine.
+    *   **Flies/Larvae:** Cut away tainted portion near bone.
+*   **Recommendation:** Check out Dr. Norman Marriott's PDF on troubleshooting ham curing.
+*   **Resources:** Cured Meats Blog (Jason Molinari) for DIY curing chamber tips.
+
+## Beet Terrine Binding
+*   **Serving:** Cold.
+*   **Binders:**
+    *   *Classical:* Gelatin.
+    *   *Vegetarian/Vegan:*
+        *   **Kappa Carrageenan + Locust Bean Gum (LBG):** Kappa is brittle; LBG softens it to mimic gelatin mouthfeel. Remelts upon heating.
+        *   **Agar:** Simpler, but not 100% clear (less shiny).
+        *   **Gellan Gum:** Less flexible; clear version is brittle but can be deep-fried.
+    *   *Prep Note:* If using Gellan, beets must be heated before pouring to avoid pre-gelling.
+
+---
+
+# Equipment & Trade Recommendations
+
+## Pressure Cookers
+*   **Recommendation:** Prefer units with spring-regulating mechanisms (no steam emission) for superior stock flavor.
+*   **Alternative:** Use mason jar method to mitigate flavor loss in steam-venting units.
+
+## Microwaves
+*   **Continuous Amplitude Control:** Allows changing power output continuously rather than on/off cycling.
+*   **Application:** Useful for controlled defrosting.
+*   **Advanced Use (Not Recommended for Home):** Microwaving in a vacuum to dehydrate (boiling liquids inside product to maintain shape).
+    *   *Risk:* Arcing/plasma balls in vacuum can cause fires.
+*   **Warning:** Do not defeat safety interlocks; dangerous voltages exist.
+
+## Trade Show Tips
+*   **Poly Science Circulators:** Can be purchased for ~50% off on the last day of trade shows (e.g., NRA show) as dealers want to move inventory.
+
+---
+
+# Ingredients & Functional Roles
+
+*   **Onions:** Pungency muted, sweetness amplified under pressure.
+*   **Coffee:** "Quilted" boxes on street corners vs. corporate chains; ritualistic aspect of good coffee.
+*   **Iceberg Lettuce:** Crunchy, cool, refreshing.
+*   **Mustard Seeds:** Dirty taste removed via blanching.
+*   **Horseradish:** Pungency reduced via pressure cooking.
+*   **Gelatin:** Binder for terrines; requires cool kitchen.
+*   **Kappa Carrageenan + LBG:** Vegetarian gelatin substitute; heat-reversible.
+*   **Agar:** Vegetarian binder; less clear, heat-set.
+*   **Gellan Gum:** Can be deep-fried; brittle.
+
+---
+
+# Strong Opinions & Recommendations
+
+*   **Pressure Cooker Stocks:** Non-venting (spring-regulating) units make significantly better stock than steam-venting units.
+*   **Mason Jar Stocks:** The mason jar method is superior for flavor retention and concentration, even with steam-venting cookers.
+*   **Low Temp Cooking:** Do not retherm low-temp cooked meats using low temp; use high heat to develop crust.
+*   **Ham Curing:** DIY is rewarding but has a learning curve; commercial hams (Finchville, Newsom) are often better quality.
+*   **Ziploc Bags:** Safe and effective for low-temp cooking up to 3 days and 70°C.
+*   **Coffee:** Good coffee is good coffee; respect the ritual and the labor involved (peasants picking cherries).
+*   **Charlie Trotter's:** Famous for clean floors; cleanliness is a key indicator of kitchen quality.
+*   **Beet Terrine:** Deep-frying a gelatin-based terrine would be "incredible."

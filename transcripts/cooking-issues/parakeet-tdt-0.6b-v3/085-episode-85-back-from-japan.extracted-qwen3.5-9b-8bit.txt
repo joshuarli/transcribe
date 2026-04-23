@@ -1,0 +1,118 @@
+# Cooking Issues: Structured Culinary Notes
+
+## Coffee Scaling & Service
+*   **Problem:** Small-scale brewing methods (French press, pour-over, AeroPress) do not scale well for large groups (12–20 people) due to heat loss and aroma dispersion.
+*   **Solution 1: Pre-heating the Carafe**
+    *   Add a large amount of boiling water to the thermal carafe.
+    *   Let sit for a couple of minutes.
+    *   Cover and dump out the water.
+    *   Add another batch of boiling water to the now-hot carafe and leave it in.
+    *   *Reasoning:* Prevents the carafe walls from absorbing heat energy from the fresh coffee before brewing begins.
+*   **Solution 2: Industrial Pour-Over Setup**
+    *   **Equipment:** Purchase large coffee filters designed for industrial machines (e.g., Bonamatic) that make 20 cups.
+    *   **Setup:** Place the large filter in a colander.
+    *   **Bed Depth:** Fill with grounds to a depth similar to a standard pour-over.
+    *   **Placement:** Set the colander over a large pot capable of sitting in a bain-marie (hot water bath).
+    *   **Brewing:** Heat water for the coffee and pour it all over the grounds at once.
+    *   **Goal:** Maintain brew time similar to a normal pour-over drip.
+    *   **Service:** Pour directly into a thermal carafe.
+
+## Sous Vide & Low-Temperature Cooking Science
+*   **Enzymatic Activity:**
+    *   **Collagenase:** Breaks down collagen. Historically cited as active below 60°C (140°F), but recent literature suggests it is rarely the primary factor in tenderness.
+    *   **Cathepsins:** Proteases contained in lysosomes within muscle cells. Released upon cooking; may contribute to tenderness but likely not the majority of the effect.
+    *   **Primary Tenderizing Mechanism:** Thermal degradation of collagen over long periods at elevated temperatures, rather than enzymatic breakdown.
+*   **Research Critique:**
+    *   Many studies use "semi-tendinosis" muscle (e.g., eye of round), which is a poor representation of edible meat due to lack of variation.
+    *   Comparisons between studies often compare apples to oranges (purified vs. intact muscle, different internal vs. cooking temperatures).
+*   **Resources:**
+    *   **Website:** `beefresearch.org` (University of Nebraska). Contains a PDF ranking beef muscles for tenderness and details on measurement discrepancies (machine vs. human).
+    *   **Website:** `bovine.unl.edu` (University of Nebraska). Features a 3D interactive cow model allowing users to click muscles, view them in 3D, and watch butcher breakdown videos.
+*   **Emerging Enzymes:**
+    *   **Collagenolytic Protease MCPO1:** A deep-sea bacterial enzyme capable of breaking down proteins at low temperatures (fridge temps).
+
+## Invertase & Sugar Chemistry
+*   **Function:** Enzyme that breaks down sucrose (disaccharide) into glucose and fructose (invert sugar).
+*   **Confectionery Use:**
+    *   Prevents/minimizes sugar crystallization.
+    *   Increases moisture holding capability.
+    *   **Cherry Cordial Bonbons:** Invertase is added to fondant (a network of sugar crystals with syrup). Over time, sucrose breaks down, the crystal structure collapses, and the center reverts to a semi-liquid syrup.
+*   **Alternative for Liquefying Centers:**
+    *   Instead of breaking down sugar, break down a hydrocolloid structure.
+    *   **Method:** Use pectin (sets quickly) or starch. Add a slow-acting enzyme (pectinase or amylase) so the structure dissolves over time after setting.
+*   **Invert Sugar Properties:** Less apt to turn brown when cooking compared to acid-catalyzed inversion.
+
+## Meat Cooking Techniques
+*   **Whole Roast on Grill (Prime Rib Style):**
+    *   **Technique:** Roasting a whole cylinder of beef on a grill rather than cutting steaks first.
+    *   **Process:** Requires constant turning to ensure even cooking. Uses lower temperatures than grilling but shorter duration than traditional barbecue (which cooks meat all the way through).
+    *   **Result:** A gradient from crusty exterior to rare center.
+    *   **Requirements:** Meat must start at room temperature.
+    *   **Cuts:** Similar to prime rib cuts.
+*   **Botulism Safety in Chili Oil:**
+    *   **Risk:** Fresh garlic/vegetables contain water and potential *Clostridium botulinum* spores. Even if cooked, spores can regrow if water remains and the oil is stored at room temperature. Botulism toxin has no off-taste.
+    *   **Mitigation Strategies:**
+        1.  **Exclude Fresh Ingredients:** Use only dried items (dried pepper flakes) that have not been reconstituted with water.
+        2.  **Refrigeration:** Store finished oil in the fridge.
+        3.  **Reheating:** If stored for a long time, reheat to 82°C (180°F) for 10–15 minutes (20 minutes for meat products) to destroy heat-labile botulism toxin.
+        4.  **Acidification:** Add acid (citric acid, not ascorbic acid which degrades with heat) to lower pH and inhibit bacterial growth.
+        5.  **Low Water Activity:** Ensure ingredients are dry.
+
+## Pretzels & Bagels
+*   **Lye Usage:**
+    *   **Source:** Do not use hardware store "100% household lye" due to potential heavy metal contamination. Use food-grade lye from professional baker supply stores.
+    *   **Function:** Increases surface alkalinity, accelerating Maillard reactions for dark brown color. Creates a "soapy" basic flavor characteristic of pretzels.
+    *   **Concentration:** 2% NaOH is common for dipping.
+*   **Dough Composition:**
+    *   **No Fat:** Adding oil/fat to hard pretzel dough creates a cracker-like texture, ruining the authentic pretzel experience.
+    *   **Shape:** Must be twisted; otherwise, they are "pretzeloids."
+    *   **Boiling:** Boiling in lye water is essential for the specific texture and flavor.
+*   **Recommendations:**
+    *   **Best Hard Pretzel:** Martin Bros. Pretzels (Mennonite-made, mail-order).
+    *   **Soft Pretzels:** Must have mustard.
+    *   **Substitutes:** Calcium hydroxide (found in Mexican markets) is not the same as lye and has a different taste. Baking soda cooked to a more basic form is an alternative method.
+
+## Egg-Free Baking
+*   **Meringues (Foam):**
+    *   **Whipping Agents:** VersaWhip (soy or whey-based). Note: They take longer to whip and may not hold structure when cooked like egg whites.
+    *   **Stabilization:** Whip with VersaWhip, then set with gelatin (non-vegan) or a heat-stable hydrocolloid (vegan) to hold structure over time.
+    *   **Heat Stable Foams:** Use sodium alginate. Whip foam, then add calcium at the last second to set into a foamed gel. (Note: Alginate can have an off-taste).
+    *   **Agar:** Can be used for heat stability but must be whipped before cooling to set.
+*   **Custards:**
+    *   **Hydrocolloids:** Iota carrageenan (elastic) mixed with Kappa carrageenan (rubbery) creates a custard-like texture, especially in milk.
+    *   **Ratio:** Very low concentration of iota with a little kappa.
+    *   **Thickening:** If texture is insufficient, use thickeners like LBG (locust bean gum) rather than increasing hydrocolloid concentration.
+
+## Equipment & Tools
+*   **Whipped Cream Makers (ISI):**
+    *   **Interchangeability:** Heads are completely interchangeable across models (Gourmet Whip, Thermal Whip, Cream Whip Pro) via the same screw thread.
+    *   **Exception:** The cartridge screwing mechanism differs on some models.
+    *   **Tip:** Tips may differ between models.
+    *   **Thermal Whip:** Insulated to keep contents warmer; others are cold.
+*   **Smoking Setup (Stovetop):**
+    *   **Issue:** High heat smoking creates acidic, sour flavors due to high-boiling phenolic compounds.
+    *   **Technique:** Use two steamer baskets. Place ice in the bottom basket and food in the top basket.
+    *   **Mechanism:** Colder smoke allows higher-boiling acidic compounds to condense on the ice, leaving cleaner, less acidic smoke for the food.
+    *   **Temperature:** Avoid "ripping" chips over high heat; aim for the middle zone (~750°C flame temp, though food temp matters more).
+*   **Blending:**
+    *   **Issue:** Crystal Light (sugar-free) blends into a slush ball because it lacks body/sugar content to modify ice melting dynamics.
+    *   **Solution:** Use real sugar or a product with bodying agents.
+
+## Personal Anecdotes & Opinions
+*   **Jiro's Sushi:**
+    *   **Experience:** Dined with Mark Ladner. Cost $50/person, 1 course every minute for ~19 minutes.
+    *   **Conflict:** Staff wanted them to leave quickly after the meal; the narrator refused to leave, arguing that paying $300+ grants the right to stay.
+    *   **Melon:** The meal ended with eating melon.
+    *   **Quality:** Sushi quality was amazing.
+*   **Bonaroo Music Festival:**
+    *   **Event:** Covered the event; interviewed Jeremy Bullfrog (Gastropod Truck).
+    *   **Location:** Tennessee.
+*   **Heart Transplant Family:**
+    *   **Context:** Listener's mother runs a pediatric heart transplant program at Columbia Presbyterian.
+*   **Pretzel Philosophy:**
+    *   **Rolled Gold:** Criticized for adding excessive oil, turning pretzels into crackers.
+    *   **Mennonite Connection:** Appreciates the religious meditation aspect of Martin Bros. pretzel making.
+*   **Tokyo Trip:**
+    *   **Duration:** 2 weeks.
+    *   **Activity:** Visited temples; family time.
+    *   **Scheduling:** Could not record the show in Tokyo due to bar work schedules.

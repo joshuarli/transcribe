@@ -1,0 +1,92 @@
+# Processed Cheese & Emulsifying Salts
+*   **Melting/Emulsifying Salts:** Modify casein (milk protein) to resolubilize it, making cheese runny, spreadable, and meltable.
+*   **Sodium Citrate:**
+    *   First emulsifying salt used.
+    *   Acts as a buffer, making the environment slightly more acidic.
+    *   Good for modifying pH but not ideal for long-term usage or maximum meltability compared to phosphates.
+*   **Polyphosphates:** Another type of melting salt; slightly more basic than sodium citrate.
+*   **Whey Protein:**
+    *   **Function:** Acts as a water binder.
+    *   **Effect on Meltability:** Small additions increase meltability; larger additions decrease meltability and flavor (whey protein is neutral in taste).
+    *   **Composition:** Whey protein concentrate contains lactose/sugars; isolate has sugars removed.
+*   **pH Target:** Melted cheese texture is optimal at a pH of approximately 5.1.
+*   **Fondue Chemistry:**
+    *   **Cheese Choice:** Aged cheeses (e.g., Gruyère) melt better than young cheeses because their proteins are more broken down.
+    *   **Emulsifier:** White wine provides tartrate (from tartaric acid), which acts as a natural emulsifying salt.
+*   **Rennet Casein:** A constructed cheese analog; can be used to create textures with specific flavor profiles (e.g., ketchup flavor with cheese meltability).
+
+# Low-Temperature Meat Cooking (Sous Vide)
+*   **Issue:** Pork rump cooked at 60°C (140°F) for 1 hour 40 minutes resulted in a "mushy," fibrous, pasty texture in 1 out of 10 pieces upon reheating.
+*   **Troubleshooting:**
+    *   **Time:** For a 1.5-inch thick roll of loin/rump, cooking time should not exceed 1 hour. Excessive time reduces texture quality even if the meat is not overcooked.
+    *   **Variable Factors:** Individual cuts may have different pH levels (PSE vs. dark-cutting meat), affecting water binding and texture.
+    *   **Recommendation:** Decrease cooking time to 1 hour at 60°C (140°F).
+*   **General Rule:** For meats with little connective tissue (e.g., tenderloin), cooking longer than the point of doneness reduces texture quality.
+    *   *Example:* Filet mignon cooked at 44°C (111°F) for 5 hours becomes mushy.
+    *   *Example:* Duck breast should only be cooked for 45 minutes to avoid texture issues.
+
+# Pork Skin & Rinds (Crisping & Puffing)
+*   **Rendering Methods:**
+    *   **Deep Frying/Shallow Pan Fry:** Preferred for rendering fat and penetrating the skin.
+    *   **Torching:** Risk of scorch marks and "torch taste" due to uncombusted gas.
+        *   *Fix:* Fire a stainless steel mesh with the torch to combust nasty gases before using the mesh as a heating grill.
+        *   *Alternative:* Use a butane torch with low mercaptan content.
+    *   **Duck Brush Trick:** Use a new dog brush to hit the skin, allowing fat to render out.
+*   **Pork Rind (Chicharrón) Preparation:**
+    *   **Goal:** Fully puff like store-bought rinds requires rendering *all* collagen into gelatin.
+    *   **Boiling Method:** Boil skin in very salted water for 60–70 minutes until "shot" (fully cooked).
+    *   **Dehydration:**
+        *   Dehydrate until the skin feels like "flexy plastic" (approx. 80% dry).
+        *   **Risk:** Over-dehydration prevents puffing; under-dehydration leads to soggy centers.
+        *   **Technique:** Dehydrate partially, let sit overnight on the lowest setting (approx. 95°F/35°C) to temper moisture, then finish dehydrating.
+        *   **Frying Test:** Fry test pieces to check for proper puffing before full dehydration.
+*   **Temperature Note:** Cooking rinds at 41°C (106°F) vs. boiling affects texture; boiling ensures complete collagen conversion for maximum puff.
+
+# Cocktail Techniques & Ingredients
+*   **Foam Substitutes (Egg White Alternatives):**
+    *   **Lulo:** A South American (Colombian) fruit containing natural hydrocolloids that create a creamy, foamy head in sours.
+    *   **Gum Syrup:** Adds body and foam.
+    *   **TIC Gums Products:**
+        *   *Ticoloid 310 or 210S:* Gum arabic with xanthan gum. Increases foamy head.
+        *   *Warning:* Too much xanthan creates a "snotty" mouthfeel.
+    *   **Propylene Glycol Alginate:** Used in commercial fake egg whites to stabilize beer heads. Can be used pure to avoid flavorings, but high amounts create a slippery feel.
+    *   **Pasteurized Egg Whites:** Better than powdered egg whites for mouthfeel, but may be restricted by GM policies. Can be pasteurized at home using an immersion circulator.
+*   **Coriander Syrup Recipe:**
+    *   150g fresh coriander seeds blended into 1L water.
+    *   Add 1kg white sugar.
+    *   Bring to boil, toss in crushed red pepper.
+    *   Stir and taste until desired spice level is reached.
+    *   **Straining:** Use a coarse chinois inside a fine chinois to strain once.
+*   **Tonic Water Clarification:**
+    *   **Quinine Source:** Quinine sulfate USP (clear) vs. bark (colored/cloudy).
+    *   **Filtration:** Coffee filters remove particulate crud but do not remove color.
+    *   **Color Removal:** Requires activated charcoal (e.g., Brita filter).
+        *   *Trade-off:* Strips color but also strips flavor and can deaden the spirit (similar to filtering aged rums to make white rum).
+
+# Charcuterie & Butchery
+*   **Rib Membranes:**
+    *   **Recommendation:** Remove the membrane from the bone side of ribs before smoking or sous vide.
+    *   **Reasons:** Better penetration of rubs/spices; improved texture (most people dislike the membrane).
+*   **Boston Butt (Pork Shoulder):**
+    *   **Bone-in vs. Bone-out for Low Temp:** Remove the bone.
+    *   **Reasons:** Bone offers no protection during low-temp cooking (meat won't overcook); easier slicing/presentation; faster cooking; more accurate center temperatures; allows trimming of cartilage/blood.
+*   **Suckling Pig vs. Whole Hog:**
+    *   **Whole Hog:** Difficult to cook perfectly whole due to varying muscle requirements (loin becomes pasty/overcooked while other parts need longer cooking).
+    *   **Suckling Pig:** Younger, more evenly distributed fat, shorter cooking time required. Can be cooked deliciously whole.
+*   **Loin Preparation:**
+    *   Can be cooked sous vide at 57°C–60°C (135°F–140°F).
+    *   60°C (140°F) yields juicy meat that is slightly pink in the center (acceptable to most).
+    *   Finish with high heat to crisp skin.
+
+# Equipment & Ingredients
+*   **Equipment:**
+    *   **Immersion Circulator:** For pasteurizing egg whites.
+    *   **Chinois:** Coarse and fine mesh for straining syrups.
+    *   **Dog Brush:** For rendering fat on duck/pork skin.
+    *   **Stainless Steel Mesh:** For torching to remove gas taste.
+    *   **Dehydrator:** Xcaliber model mentioned (lowest setting ~95°F/35°C).
+    *   **Torch:** Butane preferred; propane requires mesh treatment.
+*   **Ingredients:**
+    *   **Transglutaminase (Activase):** Vegan enzyme (maltodextrin-based, no casein/gelatin) used to bond soy protein in vegan patties/meatballs. Requires 4+ hours setting time in fridge.
+    *   **Soy Protein:** Base for vegan binders when combined with transglutaminase.
+    *   **Pomelo:** Mentioned as a fantastic citrus (often confused with Pomelo/Pomine orange), grows in Australia/NZ, requires freshness.
