@@ -11,14 +11,26 @@ _DEFAULT_URL = "http://127.0.0.1:8080"
 def main() -> None:
     argv = sys.argv[1:]
     if not argv:
-        print("usage: llama-serve <repo_id_or_gguf_path> [quant]", file=sys.stderr)
+        print("usage: llama-serve <model_id_or_repo_or_gguf_path> [quant]", file=sys.stderr)
         sys.exit(1)
 
-    repo_or_path = argv[0]
-    quant = argv[1] if len(argv) > 1 else None
+    from transcribe.models import lookup_llama_model
 
-    model_path = resolve_model(repo_or_path, quant)
-    args = build_server_args(model_path, repo_or_path)
+    target = argv[0]
+    catalog_model = lookup_llama_model(target)
+
+    if catalog_model:
+        model_path = resolve_model(catalog_model.repo_id, catalog_model.quant)
+        flash_attn = catalog_model.flash_attn
+    else:
+        quant = argv[1] if len(argv) > 1 else None
+        if quant is None and not target.lower().endswith(".gguf"):
+            print("error: quant required for non-catalog repo IDs", file=sys.stderr)
+            sys.exit(1)
+        model_path = resolve_model(target, quant)
+        flash_attn = True
+
+    args = build_server_args(model_path, flash_attn=flash_attn)
     cmd = ["llama-server", *args]
     print(" ".join(cmd), file=sys.stderr)
     os.execvp("llama-server", cmd)
@@ -78,7 +90,7 @@ def compute_context_length(model_size_gb: float, kv_bits: int = 8, compute_reser
     return (max(4096, min(max_ctx, 131_072)) // 1024) * 1024
 
 
-def build_server_args(model_path: Path, model_id: str = "") -> list[str]:
+def build_server_args(model_path: Path, flash_attn: bool = True) -> list[str]:
     total_mem_gb, physical_cores = detect_hardware()
     model_size_gb = model_path.stat().st_size / (1024**3)
 
@@ -119,13 +131,6 @@ def build_server_args(model_path: Path, model_id: str = "") -> list[str]:
     parsed = urlparse(os.environ.get("LLAMA_URL", _DEFAULT_URL))
     port = parsed.port or 8080
 
-    # Gemma 4 MoE uses hybrid (local/global) attention that regresses with Metal FA;
-    # the dense Gemma 4 31B does not have this issue and benefits from FA normally.
-    mid = model_id.lower()
-    is_gemma_moe = ("gemma" in mid or "gemma" in model_path.name.lower()) and (
-        "a1b" in mid or "a4b" in mid or "-a" in mid
-    )
-
     args = [
         "--model",
         str(model_path),
@@ -160,6 +165,6 @@ def build_server_args(model_path: Path, model_id: str = "") -> list[str]:
         "--prio",
         "2",
     ]
-    if not is_gemma_moe:
+    if flash_attn:
         args += ["-fa", "on"]
     return args

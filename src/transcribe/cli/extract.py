@@ -1,13 +1,15 @@
 import argparse
-import os
 import sys
 from pathlib import Path
 
 from transcribe.denoise import denoise, strip_fillers_rendered
-from transcribe.extract import extract, extract_request, llama_server, model_slug
+from transcribe.extract import extract
+from transcribe.models import QWEN3_9B, MLXModel
 from transcribe.podcasts import Podcast
 from transcribe.transcribe import BACKENDS
 from transcribe.types import Episode
+
+_DEFAULT_MODEL = QWEN3_9B
 
 
 def add_parser(sub: argparse._SubParsersAction) -> None:
@@ -21,12 +23,12 @@ def add_parser(sub: argparse._SubParsersAction) -> None:
     )
 
 
-def prepare(ep: Episode) -> tuple[str, Path] | None:
+def prepare(ep: Episode, model: MLXModel) -> tuple[str, Path] | None:
     """Denoise ep's transcript if needed; return (cleaned_text, output_path) or None to skip."""
     if not ep["text"].exists():
         print(f"{ep['slug']}: no transcript, skipping")
         return None
-    out = ep["text"].with_name(ep["text"].stem + f".extracted-{model_slug()}.txt")
+    out = ep["text"].with_name(ep["text"].stem + f".extracted-{model.id}.txt")
     if out.exists():
         print(f"{ep['slug']}: already extracted, skipping")
         return None
@@ -55,22 +57,13 @@ def run(args: argparse.Namespace, podcast: Podcast, episodes: list[Episode], bac
         if not targets:
             sys.exit("No transcripts found — run 'transcribe' first.")
 
-    if os.environ.get("MLX_MODEL"):
-        for ep in targets:
-            prepared = prepare(ep)
-            if prepared is None:
-                continue
-            cleaned, out = prepared
-            print(f"{ep['slug']}: extracting...")
-            out.write_text(extract(cleaned, podcast.extraction_prompt), encoding="utf-8")
-            print(f"{ep['slug']}: written to {out}")
-    else:
-        with llama_server() as base_url:
-            for ep in targets:
-                prepared = prepare(ep)
-                if prepared is None:
-                    continue
-                cleaned, out = prepared
-                print(f"{ep['slug']}: extracting...")
-                out.write_text(extract_request(cleaned, podcast.extraction_prompt, base_url), encoding="utf-8")
-                print(f"{ep['slug']}: written to {out}")
+    model = _DEFAULT_MODEL
+    print(f"model: {model.repo_id}")
+    for ep in targets:
+        prepared = prepare(ep, model)
+        if prepared is None:
+            continue
+        cleaned, out = prepared
+        print(f"{ep['slug']}: extracting...")
+        out.write_text(extract(cleaned, podcast.extraction_prompt, model), encoding="utf-8")
+        print(f"{ep['slug']}: written to {out}")

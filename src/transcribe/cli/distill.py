@@ -1,9 +1,10 @@
 import argparse
-import os
 import sys
 from pathlib import Path
 
-from transcribe.extract import extract, extract_request, llama_server, model_slug
+from transcribe.extract import extract_request, llama_server
+from transcribe.llama_serve import detect_hardware
+from transcribe.models import LlamaModel, default_llama_model
 from transcribe.podcasts import Podcast
 from transcribe.transcribe import BACKENDS
 from transcribe.types import Episode
@@ -26,13 +27,13 @@ def add_parser(sub: argparse._SubParsersAction) -> None:
     )
 
 
-def prepare(ep: Episode, extractor_slug: str) -> tuple[str, Path] | None:
+def prepare(ep: Episode, extractor_slug: str, model: LlamaModel) -> tuple[str, Path] | None:
     """Find the extracted file for ep; return (text, output_path) or None to skip."""
     extracted = ep["text"].with_name(ep["text"].stem + f".extracted-{extractor_slug}.txt")
     if not extracted.exists():
         print(f"{ep['slug']}: no extracted file ({extracted.name}), skipping")
         return None
-    out = ep["text"].with_name(ep["text"].stem + f".extracted-{extractor_slug}.distilled-{model_slug()}.txt")
+    out = ep["text"].with_name(ep["text"].stem + f".extracted-{extractor_slug}.distilled-{model.id}.txt")
     if out.exists():
         print(f"{ep['slug']}: already distilled, skipping")
         return None
@@ -51,22 +52,15 @@ def run(args: argparse.Namespace, podcast: Podcast, episodes: list[Episode], bac
         if not targets:
             sys.exit("No transcripts found — run 'transcribe' first.")
 
-    if os.environ.get("MLX_MODEL"):
+    mem_gb, _ = detect_hardware()
+    model = default_llama_model(mem_gb)
+
+    with llama_server(model) as base_url:
         for ep in targets:
-            prepared = prepare(ep, args.extractor)
+            prepared = prepare(ep, args.extractor, model)
             if prepared is None:
                 continue
             text, out = prepared
             print(f"{ep['slug']}: distilling...")
-            out.write_text(extract(text, podcast.distillation_prompt), encoding="utf-8")
+            out.write_text(extract_request(text, podcast.distillation_prompt, base_url), encoding="utf-8")
             print(f"{ep['slug']}: written to {out}")
-    else:
-        with llama_server() as base_url:
-            for ep in targets:
-                prepared = prepare(ep, args.extractor)
-                if prepared is None:
-                    continue
-                text, out = prepared
-                print(f"{ep['slug']}: distilling...")
-                out.write_text(extract_request(text, podcast.distillation_prompt, base_url), encoding="utf-8")
-                print(f"{ep['slug']}: written to {out}")
