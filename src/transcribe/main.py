@@ -2,99 +2,15 @@
 """Podcast transcript pipeline."""
 
 import argparse
-import os
-import sys
 
-from transcribe.denoise import denoise, strip_fillers_rendered
+from transcribe.cli import denoise as denoise_cmd
+from transcribe.cli import diarize, distill, episodes, extract, sync
+from transcribe.cli import transcribe as transcribe_cmd
 from transcribe.episode import make_episode
-from transcribe.extract import extract, extract_request, llama_server, model_slug
 from transcribe.feed import load_episodes
-from transcribe.pipeline import (
-    PARAGRAPH_GAP_S,
-    dirs_for_backend,
-    do_transcribe,
-    download_missing,
-    intermediate_paths,
-    render,
-    run_episode,
-)
+from transcribe.pipeline import dirs_for_backend
 from transcribe.podcasts import DEFAULT_PODCAST, PODCASTS
 from transcribe.transcribe import BACKENDS
-
-
-def _parse_speakers(value: str | None) -> list[str] | None:
-    return [s.strip() for s in value.split(",")] if value else None
-
-
-def _prepare_extract(ep):
-    """Denoise ep's transcript if needed; return (cleaned_text, output_path) or None to skip."""
-    if not ep["text"].exists():
-        print(f"{ep['slug']}: no transcript, skipping")
-        return None
-    out = ep["text"].with_name(ep["text"].stem + f".extracted-{model_slug()}.txt")
-    if out.exists():
-        print(f"{ep['slug']}: already extracted, skipping")
-        return None
-    denoised = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
-    if denoised.exists():
-        print(f"{ep['slug']}: using existing denoised transcript at {denoised}")
-        return denoised.read_text(encoding="utf-8"), out
-    raw = ep["text"].read_text(encoding="utf-8")
-    cleaned = strip_fillers_rendered(denoise(raw))
-    saved = len(raw) - len(cleaned)
-    print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
-    denoised.write_text(cleaned, encoding="utf-8")
-    print(f"{ep['slug']}: denoised written to {denoised}")
-    return cleaned, out
-
-
-def _prepare_distill(ep, extractor_slug: str):
-    """Find the extracted file for ep; return (text, output_path) or None to skip."""
-    extracted = ep["text"].with_name(ep["text"].stem + f".extracted-{extractor_slug}.txt")
-    if not extracted.exists():
-        print(f"{ep['slug']}: no extracted file ({extracted.name}), skipping")
-        return None
-    out = ep["text"].with_name(ep["text"].stem + f".extracted-{extractor_slug}.distilled-{model_slug()}.txt")
-    if out.exists():
-        print(f"{ep['slug']}: already distilled, skipping")
-        return None
-    return extracted.read_text(encoding="utf-8"), out
-
-
-def _add_render_args(p: argparse.ArgumentParser) -> None:
-    p.add_argument(
-        "--gap",
-        type=float,
-        default=PARAGRAPH_GAP_S,
-        metavar="S",
-        help=f"Paragraph gap in seconds (default: {PARAGRAPH_GAP_S})",
-    )
-    p.add_argument(
-        "--speakers",
-        metavar="NAMES",
-        help="Comma-separated speaker names in order of first appearance",
-    )
-    p.add_argument(
-        "--backend",
-        choices=BACKENDS,
-        default=BACKENDS[0],
-        help=f"Transcription backend (default: {BACKENDS[0]})",
-    )
-    p.add_argument(
-        "--diarize",
-        action="store_true",
-        help="Run speaker diarization (requires HUGGING_FACE_TOKEN)",
-    )
-    p.add_argument(
-        "--learn",
-        action="store_true",
-        help="Extract and save speaker embeddings (requires --speakers and --diarize)",
-    )
-    p.add_argument(
-        "--strip-fillers",
-        action="store_true",
-        help="Remove 'uh'/'um' disfluencies from rendered transcript",
-    )
 
 
 def main() -> None:
@@ -107,76 +23,13 @@ def main() -> None:
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
-    p = sub.add_parser("episodes", help="List all episodes")
-    p.add_argument(
-        "--backend",
-        choices=BACKENDS,
-        default=BACKENDS[0],
-        help=f"Which backend's transcripts to check (default: {BACKENDS[0]})",
-    )
-
-    p = sub.add_parser("sync", help="Transcribe all episodes")
-    p.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="Print what would be done without doing it",
-    )
-    p.add_argument(
-        "--download-only",
-        action="store_true",
-        help="Download missing audio files and exit without transcribing",
-    )
-    _add_render_args(p)
-
-    p = sub.add_parser("transcribe", help="Transcribe episode by number")
-    p.add_argument("number", type=int)
-    p.add_argument("--redo", action="store_true", help="Delete cached transcript and re-transcribe from scratch")
-    _add_render_args(p)
-
-    p = sub.add_parser("denoise", help="Clean a rendered transcript with heuristic filters")
-    p.add_argument("number", type=int, nargs="?", help="Episode number (omit to process all)")
-    p.add_argument(
-        "--transcriber",
-        choices=BACKENDS,
-        default=BACKENDS[0],
-        help=f"Which transcription backend's output to read (default: {BACKENDS[0]})",
-    )
-    p = sub.add_parser("extract", help="Extract culinary information from a transcript via LLM")
-    p.add_argument("number", type=int, nargs="?", help="Episode number (omit to process all)")
-    p.add_argument(
-        "--transcriber",
-        choices=BACKENDS,
-        default=BACKENDS[0],
-        help=f"Which transcription backend's output to read (default: {BACKENDS[0]})",
-    )
-
-    p = sub.add_parser("distill", help="Distill niche culinary knowledge from an extracted transcript via LLM")
-    p.add_argument("number", type=int, nargs="?", help="Episode number (omit to process all)")
-    p.add_argument(
-        "--transcriber",
-        choices=BACKENDS,
-        default=BACKENDS[0],
-        help=f"Which transcription backend's output to read (default: {BACKENDS[0]})",
-    )
-    p.add_argument(
-        "--extractor",
-        default="qwen3.5-9b-8bit",
-        metavar="SLUG",
-        help="Model slug used to name the extracted input files (default: qwen3.5-9b-8bit)",
-    )
-
-    p = sub.add_parser("diarize", help="Diarize an already-transcribed episode")
-    p.add_argument("number", type=int)
-    p.add_argument(
-        "--gap",
-        type=float,
-        default=PARAGRAPH_GAP_S,
-        metavar="S",
-        help=f"Paragraph gap in seconds (default: {PARAGRAPH_GAP_S})",
-    )
-    p.add_argument("--speakers", metavar="NAMES", help="Comma-separated speaker names in order of first appearance")
-    p.add_argument("--learn", action="store_true", help="Extract and save speaker embeddings (requires --speakers)")
-    p.add_argument("--backend", choices=BACKENDS, default=BACKENDS[0])
+    episodes.add_parser(sub)
+    sync.add_parser(sub)
+    transcribe_cmd.add_parser(sub)
+    denoise_cmd.add_parser(sub)
+    extract.add_parser(sub)
+    distill.add_parser(sub)
+    diarize.add_parser(sub)
 
     args = parser.parse_args()
 
@@ -190,152 +43,26 @@ def main() -> None:
     transcript_dir, text_dir = dirs_for_backend(podcast, backend)
 
     raw_eps = load_episodes(podcast)
-    episodes = [
+    all_episodes = [
         make_episode(i, ep, audio_dir=podcast.audio_dir, transcript_dir=transcript_dir, text_dir=text_dir)
         for i, ep in enumerate(raw_eps)
     ]
 
     match args.command:
         case "episodes":
-            for ep in episodes:
-                t = "t" if ep["text"].exists() else " "
-                d = "d" if ep["diarized_text"].exists() else " "
-                print(f"[{t}{d}] {ep['slug']}  {ep['title']}")
+            episodes.run(args, podcast, all_episodes, backend)
         case "sync":
-            speakers = _parse_speakers(args.speakers)
-            if not args.dry_run:
-                download_missing(episodes)
-            if args.download_only:
-                return
-            for ep in episodes:
-                run_episode(
-                    ep,
-                    gap=args.gap,
-                    dry_run=args.dry_run,
-                    speakers=speakers,
-                    backend=backend,
-                    learn=args.learn,
-                    diarize=args.diarize,
-                    strip_fillers=args.strip_fillers,
-                    speakers_path=podcast.speakers_path,
-                )
+            sync.run(args, podcast, all_episodes, backend)
         case "transcribe":
-            if not 1 <= args.number <= len(episodes):
-                sys.exit(f"Episode {args.number} not found.")
-            ep = episodes[args.number - 1]
-            if args.redo:
-                for p in [ep["transcript"], ep["text"], ep["diarized_text"], *intermediate_paths(ep)]:
-                    p.unlink(missing_ok=True)
-            run_episode(
-                ep,
-                gap=args.gap,
-                speakers=_parse_speakers(args.speakers),
-                backend=backend,
-                learn=args.learn,
-                diarize=args.diarize,
-                strip_fillers=args.strip_fillers,
-                speakers_path=podcast.speakers_path,
-            )
+            transcribe_cmd.run(args, podcast, all_episodes, backend)
         case "denoise":
-            targets = []
-            if args.number is not None:
-                if not 1 <= args.number <= len(episodes):
-                    sys.exit(f"Episode {args.number} not found.")
-                targets = [episodes[args.number - 1]]
-            else:
-                targets = [ep for ep in episodes if ep["text"].exists()]
-                if not targets:
-                    sys.exit("No transcripts found — run 'transcribe' first.")
-            for ep in targets:
-                if not ep["text"].exists():
-                    print(f"{ep['slug']}: no transcript, skipping")
-                    continue
-                raw = ep["text"].read_text(encoding="utf-8")
-                result = strip_fillers_rendered(denoise(raw))
-                out = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
-                out.write_text(result, encoding="utf-8")
-                saved = len(raw) - len(result)
-                print(
-                    f"{ep['slug']}: {len(raw)} → {len(result)} chars ({saved / len(raw):.0%} removed), written to {out}"
-                )
+            denoise_cmd.run(args, podcast, all_episodes, backend)
         case "extract":
-            if not podcast.extraction_prompt:
-                sys.exit(f"No extraction prompt configured for '{podcast.slug}'.")
-            if args.number is not None:
-                if not 1 <= args.number <= len(episodes):
-                    sys.exit(f"Episode {args.number} not found.")
-                targets = [episodes[args.number - 1]]
-            else:
-                targets = [ep for ep in episodes if ep["text"].exists()]
-                if not targets:
-                    sys.exit("No transcripts found — run 'transcribe' first.")
-
-            if os.environ.get("MLX_MODEL"):
-                for ep in targets:
-                    prepared = _prepare_extract(ep)
-                    if prepared is None:
-                        continue
-                    cleaned, out = prepared
-                    print(f"{ep['slug']}: extracting...")
-                    out.write_text(extract(cleaned, podcast.extraction_prompt), encoding="utf-8")
-                    print(f"{ep['slug']}: written to {out}")
-            else:
-                with llama_server() as base_url:
-                    for ep in targets:
-                        prepared = _prepare_extract(ep)
-                        if prepared is None:
-                            continue
-                        cleaned, out = prepared
-                        print(f"{ep['slug']}: extracting...")
-                        out.write_text(extract_request(cleaned, podcast.extraction_prompt, base_url), encoding="utf-8")
-                        print(f"{ep['slug']}: written to {out}")
+            extract.run(args, podcast, all_episodes, backend)
         case "distill":
-            if not podcast.distillation_prompt:
-                sys.exit(f"No distillation prompt configured for '{podcast.slug}'.")
-            if args.number is not None:
-                if not 1 <= args.number <= len(episodes):
-                    sys.exit(f"Episode {args.number} not found.")
-                targets = [episodes[args.number - 1]]
-            else:
-                targets = [ep for ep in episodes if ep["text"].exists()]
-                if not targets:
-                    sys.exit("No transcripts found — run 'transcribe' first.")
-
-            if os.environ.get("MLX_MODEL"):
-                for ep in targets:
-                    prepared = _prepare_distill(ep, args.extractor)
-                    if prepared is None:
-                        continue
-                    text, out = prepared
-                    print(f"{ep['slug']}: distilling...")
-                    out.write_text(extract(text, podcast.distillation_prompt), encoding="utf-8")
-                    print(f"{ep['slug']}: written to {out}")
-            else:
-                with llama_server() as base_url:
-                    for ep in targets:
-                        prepared = _prepare_distill(ep, args.extractor)
-                        if prepared is None:
-                            continue
-                        text, out = prepared
-                        print(f"{ep['slug']}: distilling...")
-                        out.write_text(extract_request(text, podcast.distillation_prompt, base_url), encoding="utf-8")
-                        print(f"{ep['slug']}: written to {out}")
+            distill.run(args, podcast, all_episodes, backend)
         case "diarize":
-            if not 1 <= args.number <= len(episodes):
-                sys.exit(f"Episode {args.number} not found.")
-            ep = episodes[args.number - 1]
-            speakers = _parse_speakers(args.speakers)
-            ep["transcript"].parent.mkdir(parents=True, exist_ok=True)
-            ep["diarized_text"].parent.mkdir(parents=True, exist_ok=True)
-            segments, mapping = do_transcribe(
-                ep,
-                backend=backend,
-                speakers=speakers,
-                learn=args.learn,
-                diarize=True,
-                speakers_path=podcast.speakers_path,
-            )
-            render(ep, segments, mapping, gap=args.gap, speakers=speakers, diarized=True)
+            diarize.run(args, podcast, all_episodes, backend)
 
 
 if __name__ == "__main__":
