@@ -1,0 +1,19 @@
+[VACUUM-BAGGED PORK BELLY] — Use vacuum bags to accelerate nitrate/salt penetration, achieving near-total cure in a single overnight period.
+
+[VACUUM MARINATOR] — Utilize this specific equipment to test optimum vacuum levels to ensure they do not hinder cure penetration at extreme levels.
+
+[ZIPLOC-BAGGING CHICKEN] — Use Ziploc bags instead of vacuum sealing for skinless chicken breasts to avoid a "canned" texture that causes the meat to feel overly juicy initially and then dry out during subsequent chews.
+
+[SKINLESS CHICKEN TEMP PARAMETERS] — Target 63°C (145°F) for one hour, or 64°C (147°F) for a firmer texture, while strictly avoiding temperatures above 65°C.
+
+[PRE-BATCH COCKTAIL DILUTION] — Determine water volume for batches by subtracting the initial ingredient weight ($W_{start}$) from the final weight of a single stirred and strained drink ($W_{final}$).
+
+[COCKTAIL DILUTION TIMING] — Perform dilution at room temperature before chilling to prevent the final drink from being off-balance.
+
+[INDUCTION-BASED FRUIT REDUCTION] — Use induction burners to maintain precise control and prevent fruit purees from scorching or browning when reducing between 180°F (82°C) and 225°F (107°C).
+
+[ROTOVAP WATER EVAPORATION] — Use a rotary evaporator to remove water from fruit purees under vacuum to reach target solids without the need for high heat.
+
+[LOMETHOXYAMIDATED PECTIN] — Apply this modified pectin to achieve gelation without needing the high boiling temperatures usually required to activate hydrocolloids.
+
+[DOUGLAS BALDWIN’S DIMENSION-BASED TIMING] — Use dimension-based time-to-temperature tables for sous vide instead of "minutes per pound" to account for the non-linear relationship between food size and heat penetration.

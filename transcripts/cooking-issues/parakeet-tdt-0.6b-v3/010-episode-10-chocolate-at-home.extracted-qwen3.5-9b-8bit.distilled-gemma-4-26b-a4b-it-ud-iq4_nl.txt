@@ -1,0 +1,13 @@
+[Meringue Sugar Reduction] — Use a combination of a high-intensity sweetener and a bulking agent to maintain volume and sweetness while reducing caloric density.
+
+[Chocolate Production] — Use a Champion Juicer to grind nibs into a warm, liquefied paste, incorporate less than 0.5% lecithin, and run a Santhal (Melanger) for 23 days to reach a 20-micron particle size, using an open-lid technique to flash off water and volatiles.
+
+[Limoncello Cloudiness (Uzo Effect)] — Manipulate syrup temperature to control oil droplet size, using warm syrup to increase bitterness via stable droplets or cold syrup to increase clarity via droplet coalescence.
+
+[Alkaline Meat Velveting] — Use aged egg whites (up to pH 9) or baking soda to increase collagen breakdown and accelerate browning, leveraging the release of $CO_2$ from the baking soda to create a porous meat structure.
+
+[Siphon Supercooling] — Use $N_2O$ or $CO_2$ in a siphon to lower a liquid's freezing point, chill it to -8°C to -10°C, and invert the siphon to trigger crystallization via gas bubble nucleation, adding acidic ingredients like lime juice only at the end to avoid premature nucleation.
+
+[Pre-diluted Cocktail Aeration] — Shake pre-frozen cocktails in a core container using Hawthorne strainer springs (with the springs removed) to mimic the aeration of fresh shaking.
+
+[Cocktail Carbonation] — Use a 20-lb $CO_2$ tank with ball fittings to increase pressure (e.g., 30–35 PSI) in proportion to the drink's alcohol content, employing a two-stage charge (first to displace air, second to carbonate) to minimize headspace.

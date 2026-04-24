@@ -1,0 +1,19 @@
+[Sous Vide Shrimp/Prawns Timing] — Limit total cooking time to under 12 minutes to prevent endogenous enzymes from breaking down the meat into a paste.
+
+[CO2 Puffing for Fruit] — Achieve a freeze-dried texture by dehydrating fruit to ~60% water, vacuum-sealing, and then pressurizing with CO2 to >220 psi for 60 minutes before a rapid 30-second pressure release using Schedule 80 pipe.
+
+[Alginate Bath Stabilization] — Add sodium hexametaphosphate (SHMP) as a sequestrant to an alginate bath to bind free calcium, preventing premature reaction and extending bath stability for several days.
+
+[Agar/Enzymatic Clarification] — Clarify fruit and spirit blends by using Pectanex SPL or by hydrating 4g of agar per 2L of liquid (in the water portion only), boiling the agar, and tempering the spirit mixture back into the hot gel.
+
+[Ascorbic Acid Dosage] — Use 3g per liter for juice or 6g per liter for dehydration to prevent browning while maintaining minimal flavor impact.
+
+[Lobster Stock Flavor Maximization] — Extract oil-soluble flavors by circulating butter through shells, then emulsify this "lobster butter" back into a reduced water-soluble stock (avoiding pressure cookers to prevent high-temperature calcium off-flavors).
+
+[Vacuum Sealing Hardware] — Utilize rotary pumps for low-vacuum applications and glass lids with rubber gaskets (with metal hardware removed) to withstand a 14 psi vacuum.
+
+[Gas Flushing] — Inject neutral gases like Nitrogen or CO2 into a vacuum chamber before releasing the vacuum to prevent the crushing of delicate, crisp items.
+
+[Modifying Agar Elasticity] — Add Locust Bean Gum (LBG) to agar gels to soften their brittle texture.
+
+[High-Concentration Garlic Sauce] — Use pressure cooking to destroy pungent sulfur compounds, allowing for concentrations as high as 50% garlic in a sauce without acridity.

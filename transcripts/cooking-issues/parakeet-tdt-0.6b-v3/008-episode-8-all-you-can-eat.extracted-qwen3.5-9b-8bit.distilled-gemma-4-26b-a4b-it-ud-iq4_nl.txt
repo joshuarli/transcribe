@@ -1,0 +1,15 @@
+[Westinghouse Turkey Oven] — Provides a countertop alternative for baking bread or small poultry in space-constrained environments.
+
+[DIY Sous Vide (Auber Instruments)] — Employs immersion coffee heaters, an aquarium pump, and a thermocouple-based controller to build a custom temperature-controlled water bath.
+
+[Microwave Searing Plate] — Uses silicon carbide sharpening stones and insulating fire bricks to generate a red-hot surface for searing meat or smelting metal via microwave.
+
+[Sous Vide Sauce and Temperature Parameters] — Over-reducing sauce before bagging prevents dilution from meat juices, adding roasted scrap meat imparts high-temperature flavor notes, and staying below 65°C prevents the meat from squeezing out too much water.
+
+[Tomato Ripeness Evaluation] — Inspecting the bottom of the fruit for softening and pinkish blush (as seen in varieties like Aunt Ruby's German Green) provides a more accurate ripeness indicator than checking the top.
+
+[Egan Press Hydrocolloid Resources] — Provides technical tables, charts, and flow charts for the precise selection and mixing of stabilizers and emulsifiers.
+
+[Cocktail Thermal Dynamics] — Stirring to a specific target temperature (e.g., -0.6°C) achieves consistent dilution regardless of duration, while 0°C counter ice can chill a drink faster than -20°C freezer ice due to the energy sink provided by the melting process.
+
+[Ice Service Technique] — Using the same ice from the initial shake (with surface water removed) prevents the dilution caused by the surface water found on fresh ice.
