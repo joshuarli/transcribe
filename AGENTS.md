@@ -7,7 +7,7 @@ src/transcribe/
   __init__.py    — empty
   main.py        — pipeline CLI: feed fetch, audio download, transcribe, render
   pipeline.py    — episode pipeline: download, transcribe, diarize, render; checkpoint logic
-  transcribe.py  — transcription backends (mlx-whisper, parakeet, cohere); standalone CLI
+  transcribe.py  — transcription backends (mlx-whisper, parakeet); standalone CLI
   diarize.py     — pyannote speaker diarization; assign_speakers, extract_cluster_embeddings
   speakers.py    — speaker embedding save/load/match (cosine similarity)
   episode.py     — Episode TypedDict construction
@@ -53,24 +53,3 @@ Uses `parakeet-mlx` on Apple Silicon via MLX. Several non-obvious optimizations 
 - **Deferred hidden state eval**: `h_new`/`c_new` from each beam step are intentionally left lazy (not included in `mx.eval`) so MLX can fuse consecutive iterations' LSTM dispatches into one Metal submission.
 - **vocab_texts lookup table**: `tok_decode` is pre-called for every token ID once before the loop; hot path does a direct list index instead of a function call per new token.
 
-## Cohere backends (`cohere-transcribe-03-2026`, `cohere-transcribe-03-2026-mlx`)
-
-Neither Cohere variant supports native timestamp output (both are CTC-style models — they output text only, no timing). Paragraph breaks are produced in two passes:
-
-1. **Inference pass**: audio is split into large silence-bounded chunks (same ≥300 ms / `_silence_split_points` logic as parakeet). Each chunk is transcribed and the resulting text is sentence-split via regex (`(?<=[.!?])\s+(?=[A-Z])`), with timestamps distributed proportionally by character count within the chunk's time span. These timestamps are synthetic.
-2. **Silence pass**: after all chunks are transcribed, `_silence_windows` scans the full audio for runs of silence ≥500 ms. `_apply_silence_breaks` then finds the segment boundary whose synthetic timestamp is nearest each silence midpoint and patches that boundary to span the actual silence window. `render`'s gap check then sees real silence durations instead of synthetic zeros.
-
-Whisper avoids all of this because it is an encoder-decoder that explicitly predicts `<|timestamp|>` tokens — each segment comes with a genuine start/end from the model itself.
-
-## Cohere accuracy limitations
-
-Cohere uses pure greedy decoding (argmax at every step) with no beam search or sampling exposed by the library. This has a concrete accuracy consequence on hesitation-heavy speech: the phrase "Curing powder is nitrates. Uh, nitrites rather." is consistently collapsed to "Curing powder is not. Nitrites, rather." because "is not" has far higher prior probability than "is nitrates. Uh," and greedy decoding commits to the wrong token with no way to recover.
-
-Whisper avoids this with `best_of=10`: ten independent decoding paths are sampled and the highest-scoring one is kept, so the disfluent-but-correct path can win even when it isn't the single most likely first token.
-
-Occasional correct outputs from Cohere on this phrase are dither luck — `_apply_dither` seeds its RNG from `len(waveform)`, so different chunk sizes produce different noise, which can shift logit margins just enough to tip a borderline token. Not reliable.
-
-Both backends support checkpoint/resume: each chunk result is written to a `.ckpt.json` JSONL file immediately after transcription, so `^C` mid-episode resumes from the last completed chunk.
-
-`cohere-transcribe-03-2026` uses HuggingFace Transformers on MPS (PyTorch GPU).  
-`cohere-transcribe-03-2026-mlx` uses `mlx-speech`'s `CohereAsrModel` with the `mlx-int8` quantized weights from `mlx-community/cohere-transcribe-03-2026-mlx-8bit`. The weights are downloaded via `huggingface_hub.snapshot_download` on first use.

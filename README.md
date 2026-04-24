@@ -69,22 +69,6 @@ Progress is printed per chunk so you can see where transcription is in the episo
 
 Output goes to `transcripts/parakeet-tdt-0.6b-v3/`.
 
-### cohere-transcribe-03-2026
-`CohereLabs/cohere-transcribe-03-2026` via HuggingFace Transformers on MPS (GPU). Good at handling accented speech and cross-lingual content.
-
-This model does not support native timestamp output. Audio is split into silence-bounded chunks for inference (same ≥300 ms silence detection as parakeet), and a second pass over the audio independently detects all silences ≥500 ms. Those silence windows are used to patch the segment timestamps so `render` breaks paragraphs at real pauses in speech rather than at arbitrary chunk boundaries.
-
-Supports checkpoint/resume: each transcribed chunk is flushed to a `.ckpt.json` file immediately, so a `^C` mid-episode can be resumed.
-
-Output goes to `transcripts/cohere-transcribe-03-2026/`.
-
-### cohere-transcribe-03-2026-mlx
-`mlx-community/cohere-transcribe-03-2026-mlx-8bit` via mlx-speech. Same model as above but quantized to 8-bit and running natively in MLX rather than PyTorch.
-
-Use this when you want lower memory overhead or prefer to stay entirely within the MLX stack. Paragraph breaking and accuracy are otherwise identical to the PyTorch variant.
-
-Output goes to `transcripts/cohere-transcribe-03-2026-mlx/`.
-
 ## Speaker learning
 
 After transcribing an episode with known speakers, `--learn` saves their voice embeddings to

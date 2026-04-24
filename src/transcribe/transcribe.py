@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""Transcribe audio with mlx-whisper, parakeet-tdt, or cohere."""
 
 import argparse
 import itertools
@@ -24,14 +23,10 @@ from transcribe.types import (
 
 DEFAULT_MODEL = "mlx-community/whisper-large-v3-mlx"
 PARAKEET_MODEL = "mlx-community/parakeet-tdt-0.6b-v3"
-COHERE_MODEL = "CohereLabs/cohere-transcribe-03-2026"
-COHERE_MLX_MODEL = "mlx-community/cohere-transcribe-03-2026-mlx-8bit"
 
 BACKENDS = [
     "parakeet-tdt-0.6b-v3",
     "whisper-large-v3-mlx",
-    "cohere-transcribe-03-2026",
-    "cohere-transcribe-03-2026-mlx",
 ]
 
 
@@ -43,10 +38,6 @@ def transcribe(
 ) -> TranscriptResult:
     if backend == "parakeet-tdt-0.6b-v3":
         return _transcribe_parakeet(audio_path, checkpoint_path=checkpoint_path)
-    if backend == "cohere-transcribe-03-2026":
-        return _transcribe_cohere(audio_path, checkpoint_path=checkpoint_path)
-    if backend == "cohere-transcribe-03-2026-mlx":
-        return _transcribe_cohere_mlx(audio_path, checkpoint_path=checkpoint_path)
     return _transcribe_mlx(audio_path, model)
 
 
@@ -76,7 +67,7 @@ def _transcribe_mlx(audio_path: str, model: str = DEFAULT_MODEL) -> TranscriptRe
 
 
 def _load_audio_16k(audio_path: str) -> tuple[Any, int]:
-    """Load audio as float32 mono at 16 kHz (required by Cohere ASR)."""
+    """Load audio as float32 mono at 16 kHz."""
     import numpy as np
     import soundfile as sf
 
@@ -154,25 +145,6 @@ def _run_chunks(
     return {"text": " ".join(t for t in texts if t), "language": "en", "segments": all_segments}
 
 
-def _text_to_segments(text: str, start: float, end: float) -> list[RawSegment]:
-    """Split a chunk of text into sentence-level segments with proportional timestamps."""
-    # Split on sentence-ending punctuation followed by whitespace + capital letter.
-    parts = [p.strip() for p in re.split(r"(?<=[.!?])\s+(?=[A-Z])", text.strip()) if p.strip()]
-    if not parts:
-        return []
-    if len(parts) == 1:
-        return [{"start": start, "end": end, "text": " " + parts[0]}]
-    total_chars = sum(len(p) for p in parts)
-    duration = end - start
-    segs: list[RawSegment] = []
-    t = start
-    for p in parts:
-        seg_end = round(t + duration * len(p) / total_chars, 3)
-        segs.append({"start": t, "end": seg_end, "text": " " + p})
-        t = seg_end
-    return segs
-
-
 def _silence_windows(data: Any, sr: int, min_silence_s: float = 0.5) -> list[tuple[float, float]]:  # noqa: ANN401
     """Return (t_start, t_end) in seconds for every silence run ≥ min_silence_s."""
     import numpy as np
@@ -220,53 +192,6 @@ def _apply_silence_breaks(segments: list[RawSegment], silence_windows: list[tupl
         segs[best]["end"] = t0
         segs[best + 1]["start"] = t1
     return [cast("RawSegment", s) for s in segs]
-
-
-def _transcribe_cohere(audio_path: str, checkpoint_path: Path | None = None) -> TranscriptResult:
-    from transformers import pipeline as hf_pipeline
-
-    pipe = hf_pipeline(
-        "automatic-speech-recognition",
-        model=COHERE_MODEL,
-        trust_remote_code=True,
-        token=os.environ.get("HUGGING_FACE_TOKEN"),
-    )
-    data, sr = _load_audio_16k(audio_path)
-    chunks = _audio_chunks(data, sr)
-    done = _load_checkpoint(checkpoint_path, "cohere", len(chunks))
-
-    # Pre-slice all pending chunks upfront so inference never stalls on numpy slicing.
-    chunk_arrays = {i: data[s0:s1] for i, (s0, s1) in enumerate(chunks) if i not in done}
-
-    def infer(i: int, s0: int, s1: int) -> tuple[str, list[RawSegment]]:
-        text = cast("dict[str, Any]", pipe({"raw": chunk_arrays[i], "sampling_rate": sr}))["text"].strip()
-        return text, _text_to_segments(text, s0 / sr, s1 / sr)
-
-    result = _run_chunks(chunks, sr, infer, checkpoint_path, "cohere", done=done)
-    result["segments"] = _apply_silence_breaks(result["segments"], _silence_windows(data, sr))
-    return result
-
-
-def _transcribe_cohere_mlx(audio_path: str, checkpoint_path: Path | None = None) -> TranscriptResult:
-    from huggingface_hub import snapshot_download
-    from mlx_speech.generation import CohereAsrModel
-
-    data, sr = _load_audio_16k(audio_path)
-    local_path = snapshot_download(COHERE_MLX_MODEL)
-    model = CohereAsrModel.from_path(str(Path(local_path) / "mlx-int8"))
-    chunks = _audio_chunks(data, sr)
-    done = _load_checkpoint(checkpoint_path, "cohere-mlx", len(chunks))
-
-    # Pre-slice all pending chunks upfront so inference never stalls on slicing.
-    chunk_arrays = {i: data[s0:s1] for i, (s0, s1) in enumerate(chunks) if i not in done}
-
-    def infer(i: int, s0: int, s1: int) -> tuple[str, list[RawSegment]]:
-        text = model.transcribe(chunk_arrays[i], sample_rate=sr, language="en", itn=True).text.strip()
-        return text, _text_to_segments(text, s0 / sr, s1 / sr)
-
-    result = _run_chunks(chunks, sr, infer, checkpoint_path, "cohere-mlx", done=done)
-    result["segments"] = _apply_silence_breaks(result["segments"], _silence_windows(data, sr))
-    return result
 
 
 def _metal_budget_gb() -> float:

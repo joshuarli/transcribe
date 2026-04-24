@@ -292,11 +292,6 @@ def _apply_mapping(segments: list[Segment], mapping: dict[str, str]) -> list[Seg
     return [cast("Segment", {**s, "speaker": mapping.get(s["speaker"], s["speaker"])}) for s in segments]
 
 
-# Kept for backward compatibility with tests that mock _remap_speakers directly.
-def _remap_speakers(segments: list[Segment], names: list[str]) -> list[Segment]:
-    return _apply_mapping(segments, _first_appearance_mapping(segments, names))
-
-
 def _flush(segs: list[Segment], *, strip_fillers: bool = False) -> str:
     ts = _fmt(segs[0]["start"])
     speaker = segs[0]["speaker"]

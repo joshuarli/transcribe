@@ -7,7 +7,6 @@ from transcribe.pipeline import (
     _first_appearance_mapping,
     _flush,
     _fmt,
-    _remap_speakers,
     download_missing,
     render,
     run_episode,
@@ -67,18 +66,6 @@ def test_apply_mapping():
     segs = [{"start": 0.0, "text": " Hi", "speaker": "SPEAKER_00"}]
     result = _apply_mapping(segs, {"SPEAKER_00": "Dave"})
     assert result[0]["speaker"] == "Dave"
-
-
-def test_remap_speakers_by_first_appearance():
-    segs = [
-        {"start": 0.0, "end": 1.0, "text": " Hi", "speaker": "SPEAKER_00"},
-        {"start": 1.0, "end": 2.0, "text": " Hey", "speaker": "SPEAKER_01"},
-        {"start": 2.0, "end": 3.0, "text": " Back", "speaker": "SPEAKER_00"},
-    ]
-    result = _remap_speakers(segs, ["Dave", "Nastassia"])
-    assert result[0]["speaker"] == "Dave"
-    assert result[1]["speaker"] == "Nastassia"
-    assert result[2]["speaker"] == "Dave"
 
 
 def test_render_writes_paragraphs(ep, sample_transcript_file):

@@ -10,7 +10,6 @@ from transcribe.transcribe import (
     _run_chunks,
     _silence_split_points,
     _silence_windows,
-    _text_to_segments,
     assign_speakers,
 )
 
@@ -181,66 +180,6 @@ def test_assign_speakers_many_segments_correct_order():
     result = assign_speakers(segments, _Diarization(turns))
     for i, seg in enumerate(result):
         assert seg["speaker"] == f"SPEAKER_{i:02d}"
-
-
-# _text_to_segments
-
-
-def test_text_to_segments_empty_returns_empty():
-    assert _text_to_segments("", 0.0, 10.0) == []
-
-
-def test_text_to_segments_whitespace_only_returns_empty():
-    assert _text_to_segments("   ", 0.0, 10.0) == []
-
-
-def test_text_to_segments_single_sentence():
-    segs = _text_to_segments("Hello world.", 2.0, 5.0)
-    assert len(segs) == 1
-    assert segs[0]["start"] == 2.0
-    assert segs[0]["end"] == 5.0
-    assert segs[0]["text"] == " Hello world."
-
-
-def test_text_to_segments_multiple_sentences_count():
-    text = "First sentence. Second sentence. Third sentence."
-    segs = _text_to_segments(text, 0.0, 9.0)
-    assert len(segs) == 3
-
-
-def test_text_to_segments_timestamps_are_contiguous():
-    text = "Hello world. How are you? Fine thanks."
-    segs = _text_to_segments(text, 0.0, 10.0)
-    for i in range(1, len(segs)):
-        assert segs[i]["start"] == segs[i - 1]["end"]
-
-
-def test_text_to_segments_spans_full_range():
-    text = "Hello world. How are you? Fine thanks."
-    segs = _text_to_segments(text, 1.5, 8.5)
-    assert segs[0]["start"] == 1.5
-    assert segs[-1]["end"] == pytest.approx(8.5, abs=0.01)
-
-
-def test_text_to_segments_proportional_to_length():
-    # "AB." is 3 chars, "ABCDEFGHIJ." is 11 chars — second should get ~11/14 of duration
-    text = "AB. ABCDEFGHIJ."
-    segs = _text_to_segments(text, 0.0, 14.0)
-    assert len(segs) == 2
-    assert segs[1]["end"] - segs[1]["start"] > segs[0]["end"] - segs[0]["start"]
-
-
-def test_text_to_segments_text_has_leading_space():
-    segs = _text_to_segments("Hello. World.", 0.0, 1.0)
-    for seg in segs:
-        assert seg["text"].startswith(" ")
-
-
-def test_text_to_segments_no_split_on_lowercase_after_period():
-    # "e.g. something" — lowercase after period should NOT split
-    segs = _text_to_segments("Use e.g. this method. Done.", 0.0, 10.0)
-    # Only the capital-letter boundary triggers a split
-    assert len(segs) == 2
 
 
 # _silence_windows
