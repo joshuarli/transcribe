@@ -10,6 +10,7 @@ class Podcast:
     name: str
     feed_urls: list[str]
     extraction_prompt: str = ""
+    distillation_prompt: str = ""
 
     @property
     def cache_dir(self) -> Path:
@@ -32,6 +33,24 @@ PODCASTS: dict[str, Podcast] = {
             "https://rss.art19.com/cooking-issues",
             "https://feeds.acast.com/public/shows/cooking-issues-with-dave-arnold",
         ],
+        distillation_prompt="""\
+Extract every piece of cooking knowledge from this text that a well-read home cook would not already know. Prioritize:
+
+- Named specifics: brand names, product names, chemical names, equipment model numbers (e.g. "Inolens 4", "Versawhip 600K", "Pacojet")
+- Non-obvious techniques: methods that have a non-intuitive mechanism or require unusual equipment
+- Precise parameters: exact temperatures, ratios, timings, or concentrations that are specific enough to be actionable
+- Insider vocabulary: jargon, trade terms, or shorthand that implies a body of knowledge behind it
+- Surprising facts: things that contradict common cooking wisdom or would surprise a culinary school graduate
+
+Rules:
+- Each entry answers "how is this used and what does it do?" — not "what is this?" Never write a definition. Lead with application, effect, or the non-obvious mechanism.
+- Consolidate related terms into one entry. If a brand name, its active compound, and a generic form are all facets of the same technique, write one entry covering all of them — do not split them.
+- If uncertain whether something is niche enough to include, include it.
+
+For each item, output: [TERM/FACT] — [one sentence on application/effect/mechanism]
+
+Omit anything a reader of Salt Fat Acid Heat or The Food Lab would already know. Omit general advice, flavor opinions, and conversational filler.\
+""",
         extraction_prompt="""\
 You are extracting structured notes from a Cooking Issues podcast transcript. \
 Cooking Issues is hosted by Dave Arnold, a food scientist at the French Culinary \

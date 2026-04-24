@@ -11,7 +11,6 @@ from contextlib import contextmanager
 from pathlib import Path
 
 from transcribe.llama_serve import build_server_args, compute_context_length, detect_hardware, resolve_model
-from transcribe.podcasts import Podcast
 
 _DEFAULT_MLX_MODEL = "mlx-community/Qwen3.5-9B-8bit"
 _DEFAULT_LLAMA_MODEL = "unsloth/gemma-4-26B-A4B-it-GGUF"
@@ -52,13 +51,13 @@ def model_slug() -> str:
     return f"{repo_name}-{_llama_quant().lower()}"
 
 
-def extract(text: str, podcast: Podcast) -> str:
+def extract(text: str, prompt: str) -> str:
     if os.environ.get("MLX_MODEL"):
-        return _extract_mlx(text, podcast)
-    return _extract_llama(text, podcast)
+        return _extract_mlx(text, prompt)
+    return _extract_llama(text, prompt)
 
 
-def _extract_mlx(text: str, podcast: Podcast) -> str:
+def _extract_mlx(text: str, prompt: str) -> str:
     import mlx_lm
     from huggingface_hub import snapshot_download
     from huggingface_hub.utils import disable_progress_bars
@@ -72,7 +71,7 @@ def _extract_mlx(text: str, podcast: Podcast) -> str:
     max_tokens = compute_context_length(model_size_gb)
 
     messages = [
-        {"role": "system", "content": podcast.extraction_prompt},
+        {"role": "system", "content": prompt},
         {"role": "user", "content": text},
     ]
     # Qwen3 enables thinking by default; disable it for extraction tasks (same
@@ -114,12 +113,12 @@ def llama_server() -> Generator[str]:
         proc.wait()
 
 
-def extract_request(text: str, podcast: Podcast, base_url: str) -> str:
+def extract_request(text: str, prompt: str, base_url: str) -> str:
     """Run one extraction against an already-running llama-server."""
     from transcribe.http import stream_post_json
 
     messages = [
-        {"role": "system", "content": podcast.extraction_prompt},
+        {"role": "system", "content": prompt},
         {"role": "user", "content": text},
     ]
     n_prompt_tokens = _count_prompt_tokens(base_url, messages)
@@ -160,9 +159,9 @@ def extract_request(text: str, podcast: Podcast, base_url: str) -> str:
     return "".join(chunks)
 
 
-def _extract_llama(text: str, podcast: Podcast) -> str:
+def _extract_llama(text: str, prompt: str) -> str:
     with llama_server() as base_url:
-        return extract_request(text, podcast, base_url)
+        return extract_request(text, prompt, base_url)
 
 
 def _resolve_llama_model() -> Path:
