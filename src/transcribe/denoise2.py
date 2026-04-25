@@ -7,7 +7,9 @@ meaningfully. Steps 1, 2, 4, and 5 provide sufficient quality filtering.
 
 from __future__ import annotations
 
+import difflib
 import re
+from collections.abc import Callable
 from typing import TYPE_CHECKING
 
 import numpy as np
@@ -45,8 +47,23 @@ from transcribe.denoise import (
 
 DEFAULT_SIMILARITY_THRESHOLD = 0.90
 
-_SENTENCE_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z\d"])')
+_ASR_SYSTEM = (
+    "Fix errors in this transcript.\n\n"
+    "Rules:\n"
+    "- Do NOT: paraphrase, rewrite sentences, change meaning, add content.\n"
+    "- Only correct mistakes (words, punctuation, casing).\n"
+    "- Keep wording as close as possible to the original.\n"
+    "- Fix transcription errors only. Correct truncated or broken words and wrong contractions.\n\n"
+    "Transcript:"
+)
+_ASR_MAX_DIVERGENCE = 0.15
+
+# Also split on common lowercase sentence-starters after terminal punctuation (and, but, so…)
+_SENTENCE_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z\d"]|(?:and|but|so|then|well|now|also|because|although|however)\b)')
 _MIN_TURN_TOKENS = 5
+
+# Two-to-four word phrase stutters: "before we before we", "with a with a"
+_PHRASE_STUTTER_RE = re.compile(r"\b(\w+(?:\s+\w+){1,3})\s+\1\b", re.IGNORECASE)
 
 _CONTRAST_WORDS = frozenset(
     {
@@ -70,6 +87,65 @@ _CAUSAL_WORDS = frozenset({"because", "since", "so", "therefore", "thus", "hence
 _SEMANTIC_FOLLOWS = frozenset({"it", "it's", "this", "that", "him", "her", "them", "what", "why", "how"})
 # Preceding tokens that make "you know"/"you see" a real question rather than backchannel
 _SEMANTIC_PRECEDES = frozenset({"do", "did", "does", "if", "whether"})
+
+
+def make_asr_corrector(base_url: str) -> Callable[[list[str]], list[str]]:
+    """Return a corrector that calls a running llama-server at base_url."""
+    from transcribe.http import post_json
+
+    def _correct(texts: list[str]) -> list[str]:
+        results = []
+        for text in texts:
+            resp = post_json(
+                f"{base_url}/v1/chat/completions",
+                {
+                    "messages": [
+                        {"role": "system", "content": _ASR_SYSTEM},
+                        {"role": "user", "content": text},
+                    ],
+                    "temperature": 0.0,
+                },
+            )
+            results.append(resp["choices"][0]["message"]["content"])
+        return results
+
+    return _correct
+
+
+def _asr_correct(
+    paras: list[str],
+    corrector: Callable[[list[str]], list[str]],
+    *,
+    show_progress: bool = False,
+) -> list[str]:
+    """ASR post-correction, one paragraph at a time. Falls back to original if output diverges too much."""
+    from tqdm import tqdm
+
+    items = tqdm(paras, desc="ASR correction", unit="para") if show_progress else paras
+    result = []
+    for original in items:
+        (candidate,) = corrector([original])
+        char_ratio = difflib.SequenceMatcher(None, original, candidate).ratio()
+        if char_ratio >= 1.0 - _ASR_MAX_DIVERGENCE and _no_content_dropped(original, candidate):
+            result.append(candidate)
+        else:
+            result.append(original)
+    return result
+
+
+def _no_content_dropped(original: str, candidate: str) -> bool:
+    """Guard against the model silently deleting content words.
+
+    A content word (>=5 chars) absent from the candidate is allowed only if the candidate
+    contains another word sharing its first four characters — indicating a valid completion
+    (e.g. 'impossi' → 'impossible', 'licen' → 'license').
+    """
+    orig_words = {w.lower() for w in re.findall(r"\b\w+\b", original) if len(w) >= 5}
+    cand_words = {w.lower() for w in re.findall(r"\b\w+\b", candidate) if len(w) >= 5}
+    for w in orig_words - cand_words:
+        if not any(c.startswith(w[:4]) for c in cand_words):
+            return False
+    return True
 
 
 def _prepass(text: str) -> list[str]:
@@ -103,6 +179,10 @@ def _normalize_para(text: str) -> str:
     while prev != text:
         prev = text
         text = _STUTTER_RE.sub(r"\1", text)
+    prev = None
+    while prev != text:
+        prev = text
+        text = _PHRASE_STUTTER_RE.sub(r"\1", text)
     text = _strip_phones(text)
     text = normalize_numbers(text)
     text = _normalize_fractions(text)
@@ -296,8 +376,10 @@ def denoise2(
     similarity_threshold: float = DEFAULT_SIMILARITY_THRESHOLD,
     nlp: spacy.Language | None = None,
     embedder: SentenceTransformer | None = None,
+    corrector: Callable[[list[str]], list[str]] | None = None,
+    show_progress: bool = False,
 ) -> str:
-    """Full pipeline: boilerplate gating → normalization → NLP cleanup → embedding deduplication."""
+    """Full pipeline: boilerplate gating → normalization → ASR correction → NLP cleanup → embedding deduplication."""
     if nlp is None:
         import spacy as _spacy
 
@@ -306,24 +388,33 @@ def denoise2(
         from sentence_transformers import SentenceTransformer as _ST
 
         embedder = _ST("all-mpnet-base-v2")
+    if corrector is None:
+        import atexit
+
+        from transcribe.extract import llama_server
+        from transcribe.models import PHI_4_MINI_INSTRUCT
+
+        _ctx = llama_server(PHI_4_MINI_INSTRUCT)
+        base_url = _ctx.__enter__()
+        atexit.register(_ctx.__exit__, None, None, None)
+        corrector = make_asr_corrector(base_url)
 
     paras = _prepass(text)
 
+    normalized: list[tuple[int, str]] = []
+    for para_idx, para in enumerate(paras):
+        n = _normalize_para(para)
+        if n:
+            normalized.append((para_idx, n))
+
+    if normalized:
+        corrected_texts = _asr_correct([t for _, t in normalized], corrector, show_progress=show_progress)
+        normalized = [(i, c) for (i, _), c in zip(normalized, corrected_texts)]
+
     # Track (para_idx, sentence) so paragraph structure survives deduplication
     indexed: list[tuple[int, str]] = []
-    for para_idx, para in enumerate(paras):
-        normalized = _normalize_para(para)
-        if not normalized:
-            continue
-        # NOTE (LLM ASR post-correction): a Haiku pass would fit here before spaCy.
-        # Prompt: fix transcription errors only (truncated words like "vacu"→"vacuum",
-        # "licen"→"license", "thous"→"thousands"; ASR proper-noun errors like
-        # "Frenchulinary"→"French Culinary Institute"; consonant false-starts the regex
-        # misses like "impossi to re redo"→"impossible to redo"). Batch all paragraphs
-        # into one call. Guard against hallucination with a Levenshtein ratio check: if
-        # corrected text diverges >~15% from input, fall back to uncorrected.
-        # transcribe.extract is the right scaffold.
-        for s in _SENTENCE_RE.split(normalized):
+    for para_idx, para in normalized:
+        for s in _SENTENCE_RE.split(para):
             s = s.strip()
             if s:
                 indexed.append((para_idx, s))

@@ -7,13 +7,31 @@ class MLXModel:
     repo_id: str
 
 
+# @dataclass(frozen=True)
+# class HFSeq2SeqModel:
+#     id: str
+#     repo_id: str
+
+
 @dataclass(frozen=True)
 class LlamaModel:
     id: str
     repo_id: str
-    quant: str
+    quant: str | None = None
     flash_attn: bool = True
 
+
+# Needs finetune to be somewhat useful
+# FLAN_T5 = HFSeq2SeqModel(
+#     id="flan-t5-base",
+#     repo_id="google/flan-t5-base",
+# large is too slow for very little gain
+# )
+PHI_4_MINI_INSTRUCT = LlamaModel(
+    id="phi-4-mini-instruct",
+    repo_id="unsloth/Phi-4-mini-instruct-GGUF",
+    quant="Q8_0",
+)
 
 QWEN3_9B = MLXModel(
     id="qwen3.5-9b-8bit",

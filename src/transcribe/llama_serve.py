@@ -164,6 +164,10 @@ def build_server_args(model_path: Path, flash_attn: bool = True) -> list[str]:
         "0",
         "--prio",
         "2",
+        # Disable auto-fitting: triggers a ggml contiguity assertion on some
+        # models (e.g. Phi-4-mini Q8_0) when the model already fits in GPU memory.
+        "--fit",
+        "off",
     ]
     if flash_attn:
         args += ["-fa", "on"]
