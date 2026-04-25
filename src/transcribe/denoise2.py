@@ -61,6 +61,10 @@ _CONTRAST_WORDS = frozenset(
         "still",
     }
 )
+# Single-consonant false-start: "f floral" → "floral", "s something" → "something".
+# Vowels excluded to avoid stripping articles ("a apple") or pronouns ("I imagine").
+_LETTER_STUTTER_RE = re.compile(r"\b([b-df-hj-np-tv-z])\s+(\1[a-z]+)\b", re.IGNORECASE)
+
 _CAUSAL_WORDS = frozenset({"because", "since", "so", "therefore", "thus", "hence"})
 # Following tokens that make "you know"/"I mean"/"I think" semantic rather than filler
 _SEMANTIC_FOLLOWS = frozenset({"it", "it's", "this", "that", "him", "her", "them", "what", "why", "how"})
@@ -92,6 +96,7 @@ def _prepass(text: str) -> list[str]:
 def _normalize_para(text: str) -> str:
     """Regex normalization: disfluencies, stutters, phones, numbers, units."""
     text = _DISFLUENCY_RE.sub(" ", text)
+    text = _LETTER_STUTTER_RE.sub(r"\2", text)
     text = _ITS_STUTTER_RE.sub("it's", text)
     text = _ITS_IT_RE.sub("it's", text)
     prev = None
@@ -203,10 +208,18 @@ def _clean_filler(doc: Doc, matcher: Matcher) -> str:
     for token in doc:
         if token.i in remove:
             continue
-        if (token.lower_ == "like" and token.pos_ == "INTJ") or (token.lower_ in {"well", "okay", "ok", "alright", "anyway"} and token.pos_ == "INTJ") or (token.lower_ in {"basically", "essentially", "literally", "actually"} and token.dep_ in {
-            "advmod",
-            "discourse",
-        }):
+        if (
+            (token.lower_ == "like" and token.pos_ == "INTJ")
+            or (token.lower_ in {"well", "okay", "ok", "alright", "anyway"} and token.pos_ == "INTJ")
+            or (
+                token.lower_ in {"basically", "essentially", "literally", "actually"}
+                and token.dep_
+                in {
+                    "advmod",
+                    "discourse",
+                }
+            )
+        ):
             remove.add(token.i)
 
     result = "".join(t.text_with_ws for i, t in enumerate(doc) if i not in remove).strip()
@@ -300,11 +313,20 @@ def denoise2(
     indexed: list[tuple[int, str]] = []
     for para_idx, para in enumerate(paras):
         normalized = _normalize_para(para)
-        if normalized:
-            for s in _SENTENCE_RE.split(normalized):
-                s = s.strip()
-                if s:
-                    indexed.append((para_idx, s))
+        if not normalized:
+            continue
+        # NOTE (LLM ASR post-correction): a Haiku pass would fit here before spaCy.
+        # Prompt: fix transcription errors only (truncated words like "vacu"→"vacuum",
+        # "licen"→"license", "thous"→"thousands"; ASR proper-noun errors like
+        # "Frenchulinary"→"French Culinary Institute"; consonant false-starts the regex
+        # misses like "impossi to re redo"→"impossible to redo"). Batch all paragraphs
+        # into one call. Guard against hallucination with a Levenshtein ratio check: if
+        # corrected text diverges >~15% from input, fall back to uncorrected.
+        # transcribe.extract is the right scaffold.
+        for s in _SENTENCE_RE.split(normalized):
+            s = s.strip()
+            if s:
+                indexed.append((para_idx, s))
 
     if not indexed:
         return ""

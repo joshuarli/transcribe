@@ -16,6 +16,8 @@ dependencies = [
     "mlx-speech",
     "word2number",
     "spacy>=3.8",
+    "spacy-curated-transformers",
+    "en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl",
     "sentence-transformers>=3",
 ]
 

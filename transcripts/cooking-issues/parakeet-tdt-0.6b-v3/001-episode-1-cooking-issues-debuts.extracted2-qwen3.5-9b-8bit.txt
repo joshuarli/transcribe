@@ -3,104 +3,109 @@
 ## Equipment & Technology
 
 ### Rotary Evaporator (Rotovap)
-*   **Function:** Distillation equipment allowing for low-temperature distillation to isolate pure flavors (e.g., chocolate liquor, floral pepper aromas, fresh herbs) without bitterness or heat damage.
-*   **Legal Status:** Illegal for producing alcoholic beverages in the US without a distiller's license; chefs are confined to non-alcoholic applications (water-based extractions).
-*   **Cost:** Ranges from ~$5,000 to ~$18,000 depending on model.
-*   **Tradeoffs:** High cost, space requirements, and training needed vs. superior flavor purity.
-*   **Recommendation:** If budget allows (~$20k), contact Bukey (manufacturer) for a new unit. Avoid older, beat-up models.
-*   **Applications:**
-    *   Chocolate liquor: Extracts cocoa flavor without bitterness (bitterness does not distill).
-    *   Habanero peppers: Extracts floral aroma without spice.
-    *   Fresh herbs: Best method for preserving delicate flavors (e.g., cilantro).
+*   **Function:** Distillation equipment allowing for low-temperature distillation to isolate pure flavors (e.g., chocolate liquor without bitterness, habanero floral aroma without spice, fresh herbs).
+*   **Legal Status:** Illegal for producing alcoholic beverages in the US without a distiller's license. Chefs are confined to making non-alcoholic drinks; otherwise, they risk their liquor license.
+*   **Cost:** Ranges from $5,000 to $18,000+ depending on the model.
+*   **Tradeoffs:** High cost and space requirements limit restaurant adoption in the US, though some exist in Chicago.
+*   **Recommendation:** If you have $20,000 to spend, contact Bukey (manufacturer) immediately for a new unit. Avoid older, beat-up models.
+*   **Applications:** Creating "booze" from non-alcoholic sources (chocolate, peppers, herbs) for flavor extraction.
 
 ### Vacuum Sealer
-*   **Model:** Minipack MVS 31 (Chamber style).
-*   **Function:** Removes air to prevent oxidation, extend shelf life, and modify meat texture.
-*   **Vacuum Levels:**
-    *   **Red Meat:** Heavy vacuum recommended to remove oxygen and prevent "warmed-over flavor."
-    *   **Fish & Poultry:** **Low vacuum** recommended. High vacuum crushes the meat structure, causing water to rush out during cooking, resulting in a fibrous, grainy, brick-like texture.
-    *   **Technique:** Bag fish/poultry with oil or liquid to prevent crushing. Seal at minimum vacuum necessary for a good seal.
-*   **Applications:**
-    *   Leftovers: Prevents drying out during reheating.
-    *   Blueberries: Preserves without ice crystal formation.
-    *   Portioning: Repackages bulk meat (e.g., Costco) into usable sizes.
+*   **Model Mentioned:** Minipack MVS 31 (chamber style).
+*   **Function:** Extends food life by preventing oxidation; allows repackaging bulk meat (e.g., Costco) into usable sizes; preserves berries without ice crystals.
+*   **Vacuum Levels & Recommendations:**
+    *   **Red Meat:** Heavy vacuum recommended to remove oxygen and prevent warmed-over flavor.
+    *   **Fish & Poultry:** Use **low vacuum** only. High vacuum crushes the meat structure, causing water to rush out during cooking, resulting in a fibrous, grainy, brick-like texture.
+    *   **Technique:** Bag fish/poultry with oil or liquid to prevent crushing. Seal just enough to get a good seal around the food.
+    *   **Testing:** Dave recommends testing three identical pieces (sealed at 72%, 99%, and full vacuum) to taste the difference.
+*   **Leftovers:** Bagging leftovers after cooking prevents drying out during reheating.
 
 ### Sous Vide Circulator vs. Immersion Circulator
 *   **Sous Vide Supreme:**
     *   **Type:** Unstirred bath.
     *   **Pros:** Easy to use, compact, holds product well.
-    *   **Cons:** Larger than necessary for home use; lacks circulation, leading to potential temperature gradients in longer cooks or high-turnover scenarios.
+    *   **Cons:** Larger than necessary for home kitchens; lacks circulation, which can be an issue for longer cooks or frequent batch changes.
     *   **Price:** ~$500.
 *   **Stirred Bath Circulator:**
-    *   **Type:** Stirred bath (continuous circulation).
-    *   **Pros:** Superior temperature uniformity; easier to store (size of stick blender); better for short-term items and frequent batch changes.
-    *   **Price:** ~$800.
-    *   **Recommendation:** Strongly prefer stirred bath circulators for performance. "Never regretted buying a circulator."
+    *   **Type:** Stirred bath.
+    *   **Pros:** Superior circulation; better for shorter cook times and frequent batch changes.
+    *   **Price:** ~$800 (approx. $300 more than Supreme).
+    *   **Dave's Opinion:** "Boatloads better" than the Supreme. Never heard anyone regret buying a circulator.
+    *   **Recommendation:** Get a circulator first, then play around. Ideal for lamb chops (e.g., 41°C for 1 hour + sear).
 
 ### Induction Cooktop
-*   **Mechanism:** Uses oscillating magnetic electric fields to heat the pan directly, not the cooktop surface.
-*   **Efficiency:** Most efficient cooking method; reduces kitchen heat.
+*   **Mechanism:** Uses oscillating magnetic electric fields to heat the pan directly, not the air.
+*   **Efficiency:** Most efficient cooking method; reduces heat in the kitchen.
 *   **Adoption:** Less popular in the US than Europe due to higher electricity costs and chef familiarity with gas.
 
 ### Dry Ice (Solid CO2)
-*   **Sourcing:** Ice supply houses or welding supply shops.
-*   **Cost:** ~$2/lb; typically sold in 20lb bags (~$40 investment).
-*   **Storage:** Sublimates over time; cannot be stored in a fridge. Use a disposable styrofoam cooler for hours to a day.
+*   **Sourcing:** Ice supply houses or welding supply shops. Cost: ~$2/lb (buy in 20lb blocks).
+*   **Storage:** Cannot be stored in a fridge (sublimates). Use a disposable styrofoam cooler; lasts hours to a day depending on insulation.
 *   **Safety:**
     *   **Do NOT** seal dry ice in a soda bottle (pressure buildup to 80+ psi causes explosion).
-    *   Wear gloves to prevent cold burns (safer than liquid nitrogen regarding glove penetration).
-    *   Wear safety glasses when chipping (hard pieces can fly into eyes).
-    *   Do not use in living rooms (CO2 accumulation risk).
-*   **Application:** Chilling pre-batched drinks (e.g., pitcher of Gin & Tonics) to maintain carbonation and cold temperature throughout an event.
-*   **Technique:** Use a narrow pitcher; add chunks (not too wide); stir after 10-15 minutes. Drink will be lightly carbonated and stay cold.
+    *   **Do NOT** move into a living room (house fills with CO2).
+    *   **Handling:** Wear gloves (cold burns) and safety glasses (flying shards).
+*   **Drink Chilling Technique:**
+    *   **Goal:** Maintain carbonation and temperature for long periods (e.g., party pitchers).
+    *   **Method:** Use a narrow pitcher. Add a few rocks of dry ice (do not overdo it; do not freeze the drink). Stir after 10–15 minutes.
+    *   **Result:** Drink stays cold and lightly carbonated all night.
+    *   **Application:** Gin and Tonics (prevents them from turning flat/warm).
 
 ## Techniques & Parameters
 
 ### French Fry Optimization
-*   **Goal:** Crispy exterior, fluffy interior, non-greasy, good when cold.
+*   **Goal:** Crispy outside, fluffy inside, non-greasy, good when cold.
 *   **Process:**
     1.  **Blanching:** Soak in enzyme (**Pectinex SPL**) for a couple of hours to break down pectin and allow starch swelling.
-    2.  **Cooking:** Blanch in boiling salted water (kills enzymes, flavors potato).
-    3.  **Drying:** Optional/Reduced (enzyme step reduces need).
-    4.  **Frying:** Double fry (initial fry to cook/kill enzymes, second fry to crisp).
-*   **Result:** Arguably the most delicious fries; no hollow centers.
+    2.  **Boil:** Blanch in boiling salted water to cook and flavor.
+    3.  **Fry:** Fry 3 times (or 2 times after the enzyme step, though Dave mentions a 3-time process for optimal results).
+*   **Note:** Traditional double-frying is considered "kindergarten" level compared to the enzyme method.
+*   **Outcome:** No need for a drying step after blanching.
 
 ### Brisket Cooking
 *   **Problem:** Tough cut with high connective tissue; requires collagen breakdown into gelatin to remoisten meat.
-*   **Method:** Low and slow braising.
-*   **Temperature:** ~52°F (approx. 11°C) for a long duration.
-*   **Note:** Must cook long enough for collagen conversion. Searing first is debated (Maillard reaction importance), but low temp is critical.
-*   **Alternative:** Braising tastes like braise, not brisket.
+*   **Method:** Low and slow (braise-like).
+*   **Temperature:** ~52°C (125°F) for a long duration.
+*   **Sear:** Sear first for Maillard reaction (Dave speculates on Texas style).
+*   **Warning:** Do not treat like a standard braise if you want brisket flavor; low temp is essential.
 
 ### Sous Vide Tenderloin
-*   **Challenge:** Tenderloin lacks connective tissue; overcooking (even at low temps) leads to fibrous/mushy texture.
-*   **Temperature:** 54°C (129°F).
-*   **Time:** 45 minutes.
-*   **Finish:** Sear immediately after.
-*   **Safety:** Safe to eat after searing (surface kills bacteria; interior muscle is sterile).
+*   **Challenge:** Tenderloin lacks connective tissue. Cooking too long or too hot makes it fibrous/mushy.
+*   **Temperature:** Low end of the scale, specifically **54°C (130°F)**.
+*   **Time:** **45 minutes**.
+*   **Safety:** Safe to eat after searing (kills surface bacteria), though not technically "code" safe without sear.
+*   **Finish:** Sear immediately after cooking.
 
-### Dry Ice Drink Chilling
-*   **Benefit:** Maintains carbonation and cold temperature for hours (unlike ice which melts and warms drinks).
-*   **Technique:** Add chunks to pitcher; stir after 10-15 mins.
-*   **Side Effect:** Drink becomes slightly carbonated.
+### Dry Ice Drink Chilling (Caller Q&A)
+*   **Caller:** Carolyn from Massachusetts.
+*   **Question:** Benefits of chilling drinks over dry ice.
+*   **Answer:**
+    *   **Dilution Control:** Perfect dilution achieved before chilling; drink stays cold without warming up on the counter.
+    *   **Carbonation:** Drink becomes slightly carbonated (good for gin and tonics).
+    *   **Duration:** Stays cold and carbonated all night.
+    *   **Visual:** Creates a mist effect.
+    *   **Caution:** Do not let chunks float freely (burn risk); do not seal in containers.
+
+### Gin Recommendations
+*   **Hendrick's:** Pricey, favorite for specific applications.
+*   **Tanqueray:** High proof, easy to mix.
+*   **Bombay Sapphire:** Traditional choice (Dave's dad preferred white-labeled Bombay).
+*   **Oxley:** Good, different taste profile.
+*   **Beefeater:** Popular among bartenders.
+*   **Plymouth:** "Gateway gin." Light on botanicals/juniper; good for those who dislike traditional gin flavors.
 
 ## Ingredients & Functional Roles
 
-*   **Pectinex SPL:** Natural enzyme (non-GMO) used to break down pectin on the outside of French fries, facilitating starch swelling and crust formation.
-*   **Gins:**
-    *   **Hendrick's:** Pricey, good for specific applications.
-    *   **Tanqueray:** High proof, easy to mix.
-    *   **Bombay Sapphire:** Traditional preference.
-    *   **Oxley:** Good, non-traditional taste.
-    *   **Beefeater:** Popular among bartenders.
-    *   **Plymouth:** "Gateway gin"; light on botanicals/juniper, good for those who dislike gin.
-*   **Collagen:** Connective tissue in meat that breaks down into gelatin during long, low-heat cooking, providing moisture and tenderness.
+*   **Pectinex SPL:** Natural enzyme (non-GMO) used to break down pectin on the outside of French fries, enabling rapid starch swelling for crust formation.
+*   **Collagen:** Connective tissue in meat (brisket) that breaks down into gelatin over long, low-heat cooking, remoistening the meat.
+*   **Dry Ice (CO2):** Solid carbon dioxide. Used for rapid chilling and maintaining carbonation in beverages. Sublimes (turns to gas) rather than melting.
+*   **Natto:** Japanese fermented soybeans. Dave notes Nastasha hates it; claims even Japanese people pretend to like it.
 
 ## Strong Opinions & Recommendations
 
-*   **Molecular Gastronomy:** Hate the term. It is meaningless, sounds disgusting ("gas and trochonomy"), and is a marketing term pioneered by Hervé This (described as a charlatan). All cooking manipulates molecules; the term pigeonholes chefs incorrectly.
-*   **Foams:** Important skill, but rarely used unless necessary. Don't just foam weird things for the sake of "gastronomy."
-*   **Vacuum Sealing:** Essential for home cooks for leftovers and portioning. Professional chamber sealers (Minipack) are superior to consumer units (FoodSaver).
+*   **Molecular Gastronomy:** Dave hates the term. It is meaningless, sounds disgusting ("gas and trochonomy"), and is a marketing term pioneered by Hervé This (whom Dave calls a charlatan). All cooking manipulates molecules; the term pigeonholes chefs incorrectly.
+*   **Foams:** Important skill, but rarely used unless necessary. Don't foam just to foam.
+*   **Vacuum Sealing Fish:** Never use full vacuum on fish; it ruins texture. Use low vacuum and oil.
 *   **Circulators:** Highly recommended over immersion circulators for performance.
-*   **Dry Ice:** Excellent for parties to keep drinks cold and carbonated; cheap investment compared to the waste of warm, flat drinks.
-*   **Cooking Philosophy:** Techniques should be used to improve flavor or achieve a desired effect, not as gimmicks. "Marriage of technique and flavor."
+*   **Dry Ice Safety:** Never seal dry ice in a bottle; always wear gloves and eye protection.
+*   **Tenderloin:** Cook at 54°C for 45 minutes max to avoid fibrous texture.
