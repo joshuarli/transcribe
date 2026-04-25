@@ -15,6 +15,8 @@ dependencies = [
     "sentencepiece>=0.2.1",
     "mlx-speech",
     "word2number",
+    "spacy>=3.8",
+    "sentence-transformers>=3",
 ]
 
 [project.scripts]

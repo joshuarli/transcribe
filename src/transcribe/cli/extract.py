@@ -1,10 +1,8 @@
 import argparse
 import sys
-from pathlib import Path
 
-from transcribe.denoise import denoise, strip_fillers_rendered
 from transcribe.extract import extract
-from transcribe.models import QWEN3_9B, MLXModel
+from transcribe.models import QWEN3_9B
 from transcribe.podcasts import Podcast
 from transcribe.transcribe import BACKENDS
 from transcribe.types import Episode
@@ -23,28 +21,6 @@ def add_parser(sub: argparse._SubParsersAction) -> None:
     )
 
 
-def prepare(ep: Episode, model: MLXModel) -> tuple[str, Path] | None:
-    """Denoise ep's transcript if needed; return (cleaned_text, output_path) or None to skip."""
-    if not ep["text"].exists():
-        print(f"{ep['slug']}: no transcript, skipping")
-        return None
-    out = ep["text"].with_name(ep["text"].stem + f".extracted-{model.id}.txt")
-    if out.exists():
-        print(f"{ep['slug']}: already extracted, skipping")
-        return None
-    denoised = ep["text"].with_name(ep["text"].stem + ".denoised.txt")
-    if denoised.exists():
-        print(f"{ep['slug']}: using existing denoised transcript at {denoised}")
-        return denoised.read_text(encoding="utf-8"), out
-    raw = ep["text"].read_text(encoding="utf-8")
-    cleaned = strip_fillers_rendered(denoise(raw))
-    saved = len(raw) - len(cleaned)
-    print(f"{ep['slug']}: {len(raw)} → {len(cleaned)} chars ({saved / len(raw):.0%} removed by heuristics)")
-    denoised.write_text(cleaned, encoding="utf-8")
-    print(f"{ep['slug']}: denoised written to {denoised}")
-    return cleaned, out
-
-
 def run(args: argparse.Namespace, podcast: Podcast, episodes: list[Episode], backend: str) -> None:
     if not podcast.extraction_prompt:
         sys.exit(f"No extraction prompt configured for '{podcast.slug}'.")
@@ -60,10 +36,15 @@ def run(args: argparse.Namespace, podcast: Podcast, episodes: list[Episode], bac
     model = _DEFAULT_MODEL
     print(f"model: {model.repo_id}")
     for ep in targets:
-        prepared = prepare(ep, model)
-        if prepared is None:
+        denoised = ep["text"].with_name(ep["text"].stem + ".denoised2.txt")
+        if not denoised.exists():
+            print(f"{ep['slug']}: no denoised2 transcript, skipping (run denoise2 first)")
             continue
-        cleaned, out = prepared
+        out = ep["text"].with_name(ep["text"].stem + f".extracted2-{model.id}.txt")
+        if out.exists():
+            print(f"{ep['slug']}: already extracted, skipping")
+            continue
+        text = denoised.read_text(encoding="utf-8")
         print(f"{ep['slug']}: extracting...")
-        out.write_text(extract(cleaned, podcast.extraction_prompt, model), encoding="utf-8")
+        out.write_text(extract(text, podcast.extraction_prompt, model), encoding="utf-8")
         print(f"{ep['slug']}: written to {out}")

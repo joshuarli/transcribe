@@ -4,6 +4,7 @@
 import argparse
 
 from transcribe.cli import denoise as denoise_cmd
+from transcribe.cli import denoise2 as denoise2_cmd
 from transcribe.cli import diarize, distill, episodes, extract, sync
 from transcribe.cli import transcribe as transcribe_cmd
 from transcribe.episode import make_episode
@@ -27,6 +28,7 @@ def main() -> None:
     sync.add_parser(sub)
     transcribe_cmd.add_parser(sub)
     denoise_cmd.add_parser(sub)
+    denoise2_cmd.add_parser(sub)
     extract.add_parser(sub)
     distill.add_parser(sub)
     diarize.add_parser(sub)
@@ -57,6 +59,8 @@ def main() -> None:
             transcribe_cmd.run(args, podcast, all_episodes, backend)
         case "denoise":
             denoise_cmd.run(args, podcast, all_episodes, backend)
+        case "denoise2":
+            denoise2_cmd.run(args, podcast, all_episodes, backend)
         case "extract":
             extract.run(args, podcast, all_episodes, backend)
         case "distill":
