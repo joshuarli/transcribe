@@ -260,8 +260,8 @@ _ITS_IT_RE = re.compile(r"\bit's\s+it\b(?=\s*[.,!?]|\s*$)", re.IGNORECASE)
 _SENTENCE_RE = re.compile(r'(?<=[.!?])\s+(?=[A-Z\d"])')
 
 _FILLER_SENTENCE_RE = re.compile(
-    r"^(?:yeah|yep|yup|okay|ok|right|alright|sure|exactly|absolutely|"
-    r"totally|nice|great|anyway|said|mm+|hmm+|ah+|oh+|uh-?huh|mm-?hmm|got\s+it|gotcha|"
+    r"^(?:yeah|oh\s+yeah|yep|yup|okay|ok|right|alright|all\s+righty?|sure|exactly|absolutely|"
+    r"totally|nice|great|anyway|said|hey|mm+|hmm+|ah+|ooh+|oh+|uh-?huh|mm-?hmm|got\s+it|gotcha|thank\s+you|"
     r"what\s+do\s+you\s+think|"
     r"etc\.?|and\s+so\s+on\.?|blah(?:[\s-]+blah(?:[\s-]+blah)?)?\.?|"
     r"cooking\s+issues|"
@@ -382,7 +382,8 @@ def strip_fillers_rendered(text: str) -> str:
 
 
 _FILLER_RE = re.compile(
-    rf"^{_TS} (Yeah\.?|Mm+\.?|Ah+\.?|Right\.?|Alright\.?|Uh-?huh\.?|M?hm\.?|Sure\.?|Okay\.?|Yep\.?|Ha+\.?|Hmm+\.?)$",
+    rf"^{_TS} (Yeah\.?|Oh\s+yeah\.?|Mm+\.?|Ah+\.?|Ooh+\.?|Right\.?|Alright\.?|All\s+righty?\.?|"
+    r"Uh-?huh\.?|M?hm\.?|Sure\.?|Okay\.?|Yep\.?|Ha+\.?|Hmm+\.?|Hey\.?|Thank\s+you\.?)$",
     re.IGNORECASE,
 )
 _BUMPER_RE = re.compile(

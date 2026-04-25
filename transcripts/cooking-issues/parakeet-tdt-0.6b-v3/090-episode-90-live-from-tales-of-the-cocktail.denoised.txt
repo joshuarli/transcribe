@@ -36,7 +36,7 @@ The way that these things work is there the pan that you put in the into it with
 
 And in the end so even though it's fairly powerful for what be a home fryer it's a lot bigger than what a home fryer would be and so it's gonna be sucking wind when you throw stuff in it. If you were to heat it up to temperature and only throw a couple little things in you might be able to get good results but I would bet that if you really loaded it down with like a whole fried chic or something like that the temperature would drop drastically and that you'd have some problems. But that's just my guess. If you if you it is powerful enough for you and you just don't think the temperature control is good enough, you could buy a simple PID temperature controller and a thermocouple and bypass the thermostat entirely just plug it, although you don't want PID. You gotta switch it turn it off of P ID, which is going to be a very accurate temperature control. And for deep frying you want on off. But most good PID controllers that you buy you can turn them into on off controllers. So aPID controller, like it's just gonna slowly get up to the temperature and not overshoot. You don't care if you overshoot a little bit you just want it to get up there fast. As soon as the temperature of the oil drops, you want it to go on full blast. But then you can have an external control that can be very accurate and well as accurate as an on off or bang thermostat can be and that wouldn't that much to the cost but you might have a power problem. What do you think, Stuzz? Is that's a good answer?
 
-Good answer? All right.
+Good answer?
 
 From Colin, dearest y'all, could you revive this question are pressure cooked jams a good idea? I had to go back it was in May and found Colin's question on pressure cooked jams.
 
@@ -145,8 +145,6 @@ And i if by chance are you are in the city right now.
 I'm in New Orleans, the tails of the cocktails.
 
 Oh you Oh okay. I was under the impression that you were in Manhattan there in New York City.
-
-All right.
 
 Well would you would you be able to also I mean I know that you say you're gonna be going back on the air with these answers but would there be any way you might be able to contact me directly?
 
