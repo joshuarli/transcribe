@@ -1,0 +1,101 @@
+# Potato Peeling Techniques & Equipment
+*   **Y-Peeler (Recommended):**
+    *   **Function:** Significantly faster than straight peelers for volumes under 20–30 lbs.
+    *   **Mechanism:** Uses a "slap shot" motion; user holds potato in palm, rotates with thumb/index while peeler moves.
+    *   **Trade-offs:** Requires learning curve; users may feel they will nick their thumb initially.
+    *   **Recommendation:** Avoid serrated edge peelers (poor performance).
+    *   **Specific Product:** Coon Recon Corporation Y-peelers (plastic, ~$4, available in colors).
+*   **Blanching Method (Rub-off):**
+    *   **Process:** Blanch 15 minutes, dunk in ice water, rub skin off.
+    *   **Function:** Kills surface enzymes to prevent discoloration if potatoes are not immediately submerged in water.
+    *   **Limitation:** Does not remove black spots inside the potato; a knife or peeler is still required for those spots.
+*   **Industrial Methods:**
+    *   **Abrasive Drum Peeler:** Drum with sandpaper inside spins; potatoes tumble in water to create peel sludge. Common in Europe and factories.
+    *   **High-Pressure Water Jet:** Blasts out dark areas on potatoes.
+
+# Equipment: Cast Iron & Woks
+*   **Seasoning Process:**
+    *   **Mechanism:** Thin layer of oil/fat heated to polymerize, forming a solid network (similar to drying oil in paint) or protective iron oxide (magnetite).
+    *   **Technique:** Apply thin layers (thick gloppy layers flake off). Heat in oven above frying temp (~450°F). Turn upside down to let excess oil drip off before polymerizing.
+    *   **Surface Prep:** Sanded/polished surfaces (bare metal) season better than rough sandpapery surfaces.
+    *   **Scallion/Garlic Chive Method:**
+        *   **Function:** Rubbing chives/scallions on the pan while heating moves oil evenly and removes bad flavors/free iron from the surface.
+        *   **Why Chives:** Do not scorch badly; can be charred to reach the "black" seasoning point.
+        *   **Why Not Garlic:** Creates scorched, awful flavor.
+*   **Wok Types:**
+    *   **Hand-Hammered:** Sheet steel hammered into shape.
+    *   **Spun:** Disc pressed between wooden chucks and spun.
+    *   **Stamped:** Hydraulic press.
+    *   **Note:** No confirmed difference in porosity or cooking capability found.
+*   **Utensils:** Metal spatulas are safe and helpful for knocking stuck bits off well-seasoned woks.
+
+# Equipment: Oven Hacks (Pizza Crust)
+*   **Aluminum Slab Method:**
+    *   **Theory:** Deliver instantaneous heat "wallop" to the crust bottom.
+    *   **Properties:** Aluminum is a super-fast conductor (near copper) but low mass (stores less heat than stone).
+    *   **Advantage:** Heats and cools quickly; oven replenishes heat faster than with a stone, preventing lag during multiple pizzas.
+    *   **Thickness:** ~1/4 inch to 3/4 inch.
+    *   **Cost:** ~1/2 inch starts getting expensive due to weight pricing jumps.
+    *   **Sourcing:** Aluminum supply stores or McMaster-Carr.
+*   **Stainless Steel Slab:**
+    *   **Verdict:** Terrible. Slow heat conductor, heavy, expensive.
+*   **Seasoning Aluminum:**
+    *   **Verdict:** Do not season. Forms its own oxide; cannot build a polymerized oil film.
+
+# Ingredients & Functional Properties
+*   **Heavy Cream (Whipped Cream):**
+    *   **Optimal:** Non-ultra-pasteurized, high fat content.
+    *   **Issue:** Ultra-pasteurized may not whip as well; low-fat creams require heavy stabilizers.
+    *   **Over-whipping:** Emulsion inverts; fat agglomerates; texture becomes grainy/watery; develops buttery taste.
+    *   **Stabilization:** Add gelatin mix for stiff moussses.
+    *   **Flavor Tip:** Add a pinch of salt to round out flavor.
+*   **Onions/Alliums:**
+    *   **Interaction with Iron:** Sulfur compounds interact with iron, inhibiting corrosion but transferring bad flavors to the onion.
+    *   **Knife Care:** Rubbing onions on carbon steel knives develops patina but ruins the onion's taste.
+*   **Fruit Juice Concentration:**
+    *   **Measurement:** Use a Brix refractometer to measure sugar content (% by weight).
+    *   **Target:** Sorbet/Ice cream mix should be ~17–20% sugar.
+    *   **Calculation:** Determine juice percentage in recipe + added sugar to calculate required Brix.
+    *   **Equipment:** 0–32 Brix refractometers are cheap but insufficient for simple syrups (50–66 Brix). Electronic 0–85 Brix models (~$40–50) are recommended for high concentrations.
+
+# Techniques & Anecdotes
+*   **Anesthetizing Crustaceans:**
+    *   **Method:** Use clove oil (available at Whole Foods) to anesthetize lobsters/crabs before cooking.
+    *   **Result:** Meat tastes cleaner, sweeter; animal does not twitch/move when boiled.
+    *   **Bivalve Warning:** Do not use clove oil on oysters/clams/mussels. The oil flavor permeates the juices/fluids inside the shell, ruining the taste test.
+    *   **Alternative:** Stabbing through ganglia loses internal juices/flavor.
+    *   **Historical Note:** Flavored oysters/clams by having them "drink" flavored stock (e.g., carrot juice + cardamom + aquarium salt) before shucking.
+*   **Centrifuging Purees:**
+    *   **Application:** Effective for nut oils (walnut, pistachio, hazelnut, etc.).
+    *   **Inefficiency:** Very inefficient for tomato paste or bean purees.
+    *   **Factors:** Success depends on water binding to puree and physical water vs. solids ratio.
+    *   **Enhancement:** Enzymes can break down pectin to increase yield (may affect texture).
+*   **Clarification:**
+    *   **Centrifuges:** Used for high-density items like nut oils.
+    *   **Tomato Paste:** Spinning yields a tiny amount of delicious juice at the top.
+
+# Caller Q&A
+*   **Caller: William**
+    *   **Question:** Hate peeling potatoes. Is there a shortcut other than blanching/rubbing?
+    *   **Answer:** Use a Y-peeler. Blanching only helps prevent discoloration if not immediately submerged; it doesn't remove internal black spots. Industrial abrasives exist but are niche.
+*   **Caller: Joe**
+    *   **Question:** Is Mirvold's *Modernist Cuisine at Home* (Oct 8 release) an edited version of the original?
+    *   **Answer:** Likely a redux of the larger book. The team was too busy with other projects to create fresh content.
+*   **Caller: Craig**
+    *   **Question:** Can you anesthetize bivalves (clams/mussels) with clove oil to improve flavor?
+    *   **Answer:** No. Clove oil aroma permeates the bivalve's internal fluids, contaminating the taste.
+*   **Caller: Andy Melka**
+    *   **Question:** Why the Y-peeler? It feels like I'll peel my hand.
+    *   **Answer:** It requires a different skill set (slap shot motion). Once learned, it is much faster than a straight peeler.
+*   **Caller: Tom Fisher**
+    *   **Question:** How to determine concentration of clarified fruit juice for ice cream?
+    *   **Answer:** Use a Brix refractometer. Calculate target sugar % (e.g., 20% for sorbet) based on juice ratio and added sugar.
+*   **Caller: Mike**
+    *   **Question:** Is seasoning a wok with heated alliums (garlic chives/scallions) valid?
+    *   **Answer:** Yes. It helps move oil evenly and removes bad flavors/free iron from the pan surface. Chives are preferred over garlic to avoid scorching.
+*   **Caller: Brian (San Francisco)**
+    *   **Question:** Is using an aluminum slab in the oven better than a pizza stone? Should I season it?
+    *   **Answer:** Aluminum is better for instant heat delivery and recovery. Do not season it; it forms its own oxide.
+*   **Caller: Jack**
+    *   **Question:** (Follow-up on onion/iron interaction)
+    *   **Answer:** Confirmed interaction between onions and iron transfers flavor. Scallions act as a scrubby pad to move oil and clean the surface.

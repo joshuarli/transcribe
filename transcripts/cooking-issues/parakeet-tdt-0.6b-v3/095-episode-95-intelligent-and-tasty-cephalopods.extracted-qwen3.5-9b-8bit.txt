@@ -1,0 +1,136 @@
+# Techniques & Parameters
+
+### Leukama Substitution
+*   **Goal:** Replicate the texture of Leukama (Peruvian fruit), described as extremely dense and custardy.
+*   **Key Properties:** High fiber content, low water content, presence of strange polysaccharides.
+*   **Recommended Substitute:** Canistel (egg yolk fruit).
+    *   **Availability:** Ships fresh from Florida (Dec–May) via localharvest.org (search "Fresh Gardens").
+    *   **Note:** Powdered substitutes are unlikely to mimic the fresh texture.
+*   **Hydrocolloid Approach:**
+    *   **Thickeners:** Locust bean gum (preferred over guar due to cost; use flavor-free guar from TIC Gums if using guar).
+    *   **Trade-offs:** High concentrations of hydrocolloids increase "gumminess" and mask flavor.
+    *   **Mitigation:** Increase the flavor profile of the base ingredients to counteract masking.
+
+### Octopus Sous Vide
+*   **Standard Times (Reference):** 77°C for 5 hours (often results in overcooked, delaminated texture).
+*   **Optimized Time:** Reduce to 1.1–1.5 hours (25–30% reduction of standard times).
+*   **Preparation:**
+    *   Blanch legs 45 seconds in boiling water before sealing.
+    *   Seal tentacles point-first to encourage curling.
+    *   Vacuum seal.
+*   **Texture Note:** Sous vide releases juices into the bag (no reduction), resulting in less "honeyed" flavor compared to oven/pot cooking where reduction occurs.
+*   **Anecdotal Data:**
+    *   **Size Impact:** Size (up to 1.8 kg / 5 lbs) seemed to have little impact on cooking time in tests.
+    *   **Part Variation:** Tips are more rubbery (similar to small lobster claw); base is too tough; sweet spot is the first third of the tentacle.
+    *   **Muscle Structure:** Octopus muscle is a hydrostat (articulated like a tongue or elephant trunk); cannot be sectioned into uniform strips for testing as internal and external portions differ structurally.
+
+### Fish Cakes & Sausage Binding (pH Regulation)
+*   **Technique:** Regulate meat pH to improve binding and water holding capacity.
+*   **Method:** Incorporate sodium carbonate (or bicarbonate) into the salt mix.
+    *   **Ratio:** 1–2% by weight of salt.
+*   **Adjustment:** If texture becomes too rubbery, add vinegar and mix well to loosen.
+*   **Alternative Binders:** Phosphates (increase water holding capacity and fat emulsification via ionic balance).
+*   **Equipment:** Sausage stuffer (auger heats meat; inexpensive hand-crank models available for ~$10).
+
+### Ice Cream Custard Base
+*   **Tempering:**
+    *   **Safety:** Primary reason for tempering egg yolks (Salmonella risk).
+    *   **Texture:** Cooked-out custards (thickened) have higher viscosity and slower meltdown than blended raw bases.
+*   **Low-Temperature Pasteurization:**
+    *   **Temp:** 60°C (140°F).
+    *   **Time:** 15 minutes in a thermal circulator.
+    *   **Result:** Eliminates safety risk while avoiding the taste of cooked eggs preferred by some (e.g., Sam Mason).
+
+### Freezing & Shelf Life
+*   **Freezer Settings:**
+    *   **Temp:** -19°C (-4°F).
+    *   **Technique:** Use "turbo" fan setting to increase air circulation and minimize freeze-thaw cycles.
+    *   **Equipment:** Frost-free model (Liebherr) with sealed drawers and dehumidification.
+*   **Shelf Life Guidelines:**
+    *   **Stock:** 1 month.
+    *   **Prepared Meals:** 3 months.
+    *   **Wild Caught Shrimp:** 18+ months.
+*   **Degradation Factors:**
+    *   **Freeze-Thaw Cycles:** Cause ice crystals to grow (small melt, refreeze onto larger crystals), penetrating cell walls and causing drip loss.
+    *   **Freezer Burn:** Sublimation of surface water due to atmospheric exposure; minimized by vacuum sealing or removing air from bags.
+    *   **Oxidation/Enzymatic Changes:** Occur in unfrozen concentrated solutions; minimized by high-level vacuum.
+*   **Safety Note:** Freezing arrests bacterial growth but does not kill bacteria. Safety status upon removal equals safety status upon insertion.
+*   **Deep Freeze:** For near-infinite preservation, require temperatures where all water is frozen (e.g., -9°F / -23°C), typically requiring industrial equipment (e.g., Mark Ladner at Del Posto).
+
+### Pressure Cooker Induction Compatibility
+*   **Problem:** Large capacity (28–30 qt) pressure cookers are typically aluminum; induction stoves require ferrous materials.
+*   **Solution:** Induction interface disc.
+    *   **Product:** Max Burton 8-inch induction interface disc (approx. $100).
+    *   **DIY Alternative:** 8x8 or 12x12 inch stainless steel plate (or any steel slug) placed between burner and pot.
+    *   **Efficiency:** Less efficient/faster than direct pot heating but functional.
+*   **Alternative:** Bain-marie method inside the pressure cooker.
+*   **Industrial Option:** Repurposed autoclaves (e.g., Frankie the Instrument, Market Forge).
+
+### Egg Tempering in Custards
+*   **Process:** Gradually raising egg temperature to coagulate proteins safely.
+*   **Benefits:** Food safety (Salmonella elimination) and texture modification (thickening).
+*   **Alternative:** Use pasteurized eggs (e.g., Davidson's brand) to skip tempering.
+
+# Equipment
+
+### Thermal Circulators
+*   **Usage:** Re-thermalizing (reheating) stocks and meals to high temperatures without destroying flavor/texture.
+*   **Chilling:** Use flat pans for rapid chilling of fats and stocks.
+*   **Freezing:** Use chamber vacuum sealers for portioning before freezing.
+
+### Sausage Stuffers
+*   **Recommendation:** Inexpensive hand-crank models intended for hunters (e.g., Harbor Freight, Northern Tools, Grizzly).
+*   **Cost:** Under $10 for a 5 lb capacity unit.
+*   **Trade-off:** Auger heats meat; less well-built than kitchen-grade units.
+
+### Induction Interface Discs
+*   **Name:** Max Burton Induction Interface Disc.
+*   **Function:** Allows heating of non-ferrous pots (aluminum, ceramic, glass) on induction stoves.
+*   **Trade-off:** Reduced efficiency/speed compared to direct heating.
+
+### Freezers
+*   **Model:** Liebherr (Mila brand).
+*   **Features:** Frost-free, sealed drawers, dehumidification, turbo fan circulation.
+*   **Capacity Rating:** 19 kg freezing per 24 hours.
+
+### Bamic Cleaners
+*   **Maintenance:** Run in hot soapy water, rinse with clean water, wipe housing.
+*   **Specs:** 200–400 watt models recommended for home use.
+*   **Durability:** Units 25+ years old still functional.
+
+# Ingredients & Functional Roles
+
+### Leukama / Canistel
+*   **Leukama:** Peruvian "superfruit"; dense, custardy texture due to high fiber, low water, and unique polysaccharides.
+*   **Canistel:** "Egg yolk fruit"; similar texture profile; superior taste to Leukama according to anecdotal evidence.
+
+### Hydrocolloids
+*   **Locust Bean Gum:** Effective for creating dense, custardy textures; cheaper than guar.
+*   **Guar Gum:** Effective but expensive; requires flavor-free version (TIC Gums) to avoid flavor interference.
+*   **Gum Arabic:** High solubility; minimal taste impact; requires preposterously high amounts; typically requires starch molding/depositing techniques.
+*   **Agar:** Too brittle/short for gummy textures; causes cooling effect at high levels.
+*   **Pectin:** Preferred for gels; excellent flavor release and texture.
+
+### Sodium Carbonate / Bicarbonate
+*   **Role:** Raises meat pH.
+*   **Effect:** Solubilizes myosin, improves binding, increases water holding capacity.
+*   **Risk:** Excessive use creates rubbery texture.
+
+### Phosphates
+*   **Role:** Increase water holding capacity and aid fat emulsification via ionic balance alteration.
+
+### Raw Milk
+*   **Taste:** Subjective; Ann Mendelson argues best milk is from small producers with specific cows/feed, not necessarily raw.
+*   **Safety:** CDC/NHS warnings regarding E. coli and Salmonella, particularly for children and pregnant individuals.
+*   **Pasteurization:** Recommended for safety; low-temp pasteurization (60°C/15 min) preserves flavor better than high-temp cooking.
+
+# Strong Opinions & Recommendations
+
+*   **Leukama:** Do not expect a powder substitute to match fresh Canistel's texture.
+*   **Octopus:** 5 hours at 77°C is excessive and leads to a "papy mess." Reduce time to 1.1–1.5 hours. Texture preference is subjective ("mush" vs. "tooth").
+*   **Freezing:** Shelf life labels often conflate safety with palatability. In freezers, shelf life is almost exclusively about taste degradation (ice crystals, freezer burn, oxidation). Vacuum sealing is critical to prevent sublimation.
+*   **Induction Cooking:** Buying a large stainless steel pressure cooker is difficult; using an induction interface disc (Max Burton or DIY steel plate) is the practical solution.
+*   **Raw Milk:** Taste is the only valid metric; however, safety risks are real. Low-temp pasteurization is a viable middle ground for safety without sacrificing flavor.
+*   **Health News:** Recommend reading "How to Read the Health News" by Dr. Alicia White (NHS) to debunk media misinterpretations of scientific studies.
+*   **Sausage Making:** pH regulation via sodium carbonate is a superior binding method compared to traditional binders if maximizing fish/meat content.
+*   **Ice Cream:** Low-temp pasteurization (60°C) allows for safety without the "cooked egg" taste, though it may result in faster melting compared to fully cooked bases.

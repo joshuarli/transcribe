@@ -1,0 +1,113 @@
+# Maraschino Cherries (Shelf-Stable)
+*   **Goal:** Preserve cherries at cellar temperatures for up to 1 year without refrigeration.
+*   **Cherry Selection:**
+    *   Avoid standard sweet cherries (described as "horrible and insipid").
+    *   Use **sour cherries** (e.g., Morello, Montmorency) or bitter cherries.
+    *   *Reference:* "Cherries of New York" (PDF from Geneva Agricultural Experiment Station, circa 1920s) for historical varieties.
+*   **Preservation Chemistry:**
+    *   **Sugar:** Must exceed the natural sugar content of the cherry to prevent rot.
+        *   Natural cherry sugar content: ~5–16 Brix (up to 22 Brix for sweeter varieties).
+        *   Syrup concentration: Start slightly higher than the cherry's natural sugar content; do not start with 1:1 simple syrup.
+    *   **Acid:** Acts as antifungal/antibacterial.
+        *   Components: **Malic acid** and **Citric acid**.
+        *   Ratio: Use more malic acid than citric acid.
+    *   **Alcohol:** Add high-proof ethanol after initial preservation in syrup.
+    *   **Calcium Chloride:** Used to crosslink pectin, preventing flesh breakdown over time (standard in commercial production).
+*   **Process:**
+    1.  Determine cherry sugar content (Brix).
+    2.  Prepare sugar syrup slightly stronger than the cherry's sugar content.
+    3.  Add malic and citric acid.
+    4.  Gradually increase sugar content of the syrup to ensure osmotic balance (preventing shriveling or rupture).
+    5.  Preserve in syrup.
+    6.  Add high-proof ethanol to reach desired final alcohol level.
+*   **Expert Reference:** Darcy O'Neal (The Art of the Drink).
+
+# Shrimp Paste Binding (Thai Mutton)
+*   **Problem:** Shrimp paste/ground shrimp falls apart when fried; lacks the binding of crab cakes or burgers.
+*   **Cause:** Shrimp proteins are difficult to bind compared to other seafood.
+*   **Solution:** Add **Transglutaminase** (e.g., Activa RM).
+    *   **Dosage:** Maximum 1% by weight; typically much less is needed.
+    *   **Method:** Sprinkle into the mix.
+    *   **Pre-treatment:** Poach shrimp in water/stock first to set the outside before binding.
+*   **Comparison to Crab Cakes:**
+    *   Crab meat is often pre-cooked/coagulated, making it hard to bind via protein extraction.
+    *   Raw fish/scallops/shrimp allow soluble liquid-bound proteins to be extracted by salt, forming a sticky matrix that sets into a solid (like a sausage) upon heating.
+    *   *Note:* Adding uncooked protein (fish) to crab meat can help bind it.
+
+# Sausage Texture Troubleshooting (Mealy Texture)
+*   **Symptom:** Sausage turns "mealy" and fat breaks out during cooking.
+*   **Key Factors:**
+    1.  **Fat Content:** Must be high enough (user had ~35% fat).
+    2.  **Salt Content:** Essential for protein extraction and binding. Low salt = poor bind = mealy texture.
+    3.  **Temperature Control (Manufacturing):**
+        *   Meat and fat must be **cold** during grinding.
+        *   If fat is warm/melted during grinding, it smears rather than grinding cleanly, leading to fat bleeding and dryness.
+        *   *Equipment:* Use a sharp blade; cold grinder (freeze the grinder).
+    4.  **Fat Type:** Must be native fat. Rendered fat cannot be re-emulsified properly and will bleed out.
+*   **Cooking Method:**
+    *   User's method (brown, add water, cover, simmer) is acceptable.
+    *   Alternative: Cook at lower temperature (e.g., 41°C/105°F) to minimize fat liquefaction, then sear.
+*   **Diagnosis:** Likely caused by fat being ground into a paste (due to warm fat or dull blade) rather than clean chunks, causing it to weep during cooking.
+
+# Coffee Flavor in Beer
+*   **Goal:** Infuse coffee flavor without excessive bitterness/acidity; avoid pre-made extracts.
+*   **Methods:**
+    1.  **Alcohol-Based Extraction (Recommended for low-alcohol beers):**
+        *   Use high-proof ethanol (e.g., 20%+ alcohol in extraction medium).
+        *   Infuse coffee in alcohol at room temperature for a short time (2–3 minutes) using an ISI whipper.
+        *   *Reasoning:* Infusion happens quickly in alcohol; avoids long steep times required for water which can lead to bitterness.
+    2.  **Water-Based Cold Extraction:**
+        *   Requires much longer steeping times (hours to overnight) for low-alcohol beers.
+        *   Risk of bitterness if not managed.
+    3.  **Whole Bean Randall Filter:**
+        *   Run beer through a modified water filter (Randall) filled with **whole beans** (ground beans cause excessive foaming).
+        *   *Setup:* Dogfish Head style: Primary infusion chamber + secondary chamber with ice (anti-foam/temperature control).
+        *   *Note:* Effectiveness depends on flow rate and contact time; unproven for exact taste replication.
+    4.  **Freeze-Dried Coffee:**
+        *   Starbucks VIA packets work well (high grade freeze-dried).
+        *   Can be added directly to the beer.
+*   **Avoid:** Tossing whole beans directly into the fermenter.
+
+# Gummy Candies (Vegetarian/Alcohol)
+*   **Alcohol Content:**
+    *   Cannot achieve "gummy candy" texture with appreciable alcohol.
+    *   Limit for gelling hydrocolloids: ~20% alcohol in finished product.
+    *   Agar can handle up to 25–28% alcohol but requires boiling temperatures that will boil off the alcohol before gelling occurs.
+    *   Result: Can make hard gels or jelly with alcohol flavor, but not chewy gummies with high alcohol.
+*   **Hydrocolloids:**
+    *   **Gelatin:** Best texture.
+    *   **Agar:** Does not replicate gelatin stretch/pull in gummy ratios.
+    *   **Gellan Gum:** Low acyl/high acyl mixes do not achieve gummy texture at normal ratios.
+    *   **Pectin:** Requires high heat and high solids (cooking "crap out of it").
+        *   *Technique:* Overcook pectin/sugar mixture, then add super-concentrated fresh flavors (e.g., rotovapped fruit juice) post-cook to preserve delicate flavors.
+        *   *Result:* Often yields toffee-like texture rather than gummy.
+    *   **Mixtures:** Kappa carrageenan + locust bean gum can mimic gelatin softness but may lack the specific gummy stretch.
+
+# Knife Sharpening Stones
+*   **Recommended Product:** **DMT Duo Sharp** (Diamond whetstone).
+    *   **Sizes:** Get the largest possible (10 inch recommended).
+    *   **Grits:**
+        *   Standard: 25 micron (fine) / 9 micron (extra fine).
+        *   Polishing: 3 micron (super extra fine).
+    *   **Features:** Interrupted pattern (prevents gumming), stays flat forever, thin, lightweight, unbreakable, no dressing required.
+*   **Grit Standards:**
+    *   Japanese grit numbers are higher than American grit numbers for equivalent coarseness.
+    *   Grit number indicates particle size, not distribution or binding.
+*   **Resource:** Unified Abrasives Manufacturer Association (UAMA.org) - "Abrasives Grains 101".
+
+# Salumi Curing Chambers (Small Scale)
+*   **Philosophy:** Make "American Salumi," not Italian Salumi. Adapt techniques to local ingredients and climate.
+*   **Chamber Stability:**
+    *   Smaller chambers are less stable; microflora/fauna develop unique flavors in large, established rooms.
+    *   Small systems are prone to rapid deviation (like a small fish tank).
+*   **Equipment Recommendations:**
+    *   **Travellini:** High-end Italian equipment designed to mimic Parma seasonal/day-night cycles (expensive).
+    *   **Auburn Instruments:** Affordable plug-and-play controllers (~$97).
+        *   Can control up to 10 amps.
+        *   Connects to humidifiers/dehumidifiers/heating elements.
+*   **Humidity Control Methods:**
+    1.  **Active Control:** Use controller + humidifier/dehumidifier.
+    2.  **Saturated Salt Solution:** Place saturated NaCl (table salt) solution in chamber to equilibrate to **75% RH**.
+        *   Add dehumidifier to lower to 60–70% RH.
+    3.  **Passive Venting:** Use a fan to move air out (if environment is dry) combined with humidification.
+*   **Airflow:** Avoid excessive airflow to prevent case hardening (drying the outside too fast).

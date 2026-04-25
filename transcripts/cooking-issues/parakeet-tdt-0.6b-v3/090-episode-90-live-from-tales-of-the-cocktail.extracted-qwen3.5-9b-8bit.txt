@@ -1,0 +1,114 @@
+# Cooking Issues: Structured Notes
+
+## Equipment & Technology
+
+### Hamilton Beach Turkey Roaster (Model 32503)
+*   **Type:** 18-quart electric roaster (discontinued model).
+*   **Construction:** Pull-out washable pan; turkey sits on a rack inside the pan.
+*   **Heating Mechanism:** Plate heating (similar to a Dutch oven with its own heat source).
+*   **Wattage:** Approximately 1400 watts (representative model).
+*   **Deep Frying Feasibility:**
+    *   **Verdict:** Technically possible but not recommended.
+    *   **Pros:** Gets hot enough to fry; frees up the main oven.
+    *   **Cons:**
+        *   **Heat Recovery:** Low wattage relative to the large volume (18 quarts) means slow recovery when adding food. A small load might work; a whole chicken or large load will cause drastic temperature drops.
+        *   **Temperature Control:** Likely inaccurate.
+        *   **Scorching Risk:** Heating element is at the bottom. Particles (batter, flour) falling to the bottom will scorch against the heated plate. Good fryers float the element above the oil to prevent this.
+        *   **Safety:** High risk of overflow/ignition; insurance/liability concerns.
+    *   **Modification:** Can bypass the internal thermostat using a PID temperature controller and thermocouple set to "on/off" mode for better accuracy and faster recovery, though power limitations may still exist.
+
+### Sous Vide Circulators & Water Baths
+*   **Power vs. Volume:**
+    *   **750 Watts:** Adequate for small vessels (3 quarts to ~12 liters / half Lexan).
+    *   **1000+ Watts:** Required for full-size Lexan baths to maintain temperature under load.
+    *   **Limitation:** Lower wattage circulators (e.g., 750W) cannot reliably heat or maintain temperature in large baths (full-size Lexan), especially at higher temperatures.
+*   **Temperature & Heat Loss:**
+    *   **55°C:** Easier to maintain due to lower atmospheric vapor loss.
+    *   **85°C+:** Requires significantly more energy due to high vapor loss; 1000W+ circulators often struggle to maintain accuracy or drive temperature in large baths at these levels.
+*   **Recovery Rate:** Critical for maintaining temperature when dropping large food loads into the bath.
+
+### Ziploc Bags for Low-Temp Cooking
+*   **Material:** Polyethylene (food grade).
+*   **Temperature Limits:**
+    *   Safe for low-temperature cooking (up to ~60°C / 140°F).
+    *   **Not Safe for Boiling:** Softens near boiling point (100°C / 212°F) and approaches melting point.
+*   **Usage Context:**
+    *   Suitable for sous vide (low temp) and cooking/chilling.
+    *   **Not Suitable for Long-Term Preservation:** Lack vacuum seal integrity for storage.
+    *   **Manufacturer Stance:** C. Johnson Wax (Ziploc maker) advises against cooking due to liability concerns regarding assumed usage beyond reheating, despite the material's technical suitability for low temps.
+
+## Ingredients & Functional Properties
+
+### Skirt Steak
+*   **Characteristics:** Thin cut; prone to overcooking if seared directly from cold or cooked at low temps for short durations without searing.
+*   **Cooking Strategies:**
+    1.  **Short Duration (1–2 hours):** Requires higher temperature (~57°C / 135°F). Must sear immediately after cooking to prevent overcooking the thin cut.
+    2.  **Long Duration (10+ hours):** Can cook at ribeye temperatures (~55°C / 130°F). Allows for a "double sear" (sear before and after) or a single hard sear after cooling.
+    3.  **Pre-Searing:** Not recommended. Salt draws out moisture; pre-searing can lead to uneven curing or texture issues.
+*   **Marinade:** Lime juice recommended for flavor. Do not salt until right before the final sear.
+
+### Maple Syrup Grading
+*   **Grade C:**
+    *   **Characteristics:** Darker, more intense flavor, "funkier," earthier, mushroomy notes. Occurs later in the season.
+    *   **Flavor Profile:** Can be rough, metallic in certain applications, and less compatible with delicate ingredients compared to Grade B.
+    *   **Acquisition:** Often sold without labels; producers may mark it as "2 B's" to code for Grade C.
+*   **Grade B:**
+    *   **Characteristics:** Balanced flavor, less intense than C.
+    *   **Usage:** Preferred for home cooking (pancakes) and cocktails.
+*   **Grading Systems:** US system (A, B, C) differs from Canadian system.
+
+### Cream Liqueur Emulsification
+*   **Problem:** Phase separation (fat rising to top, watery liquid at bottom) in high-alcohol (22%) dairy mixtures.
+*   **Causes:** Cold dairy, insufficient emulsification, lack of stabilizers.
+*   **Solutions:**
+    *   **Emulsifiers:** Gum Arabic (emulsifier) + Xanthan Gum (stabilizer).
+    *   **Hardcore Emulsifiers:** Glycerol Monostearate (GSM) or Sodium Caseinate (if used incorrectly).
+    *   **Process:** Dairy must be warm during initial mixing to facilitate emulsification.
+    *   **Stability:** Separation can recur after sitting for 30+ minutes; requires robust stabilizers to prevent re-separation.
+
+### Corn (Fresh vs. Frozen)
+*   **Fresh:** Best flavor (July/August).
+*   **Frozen Ear:** Inferior quality. Cooking frozen ears rarely matches fresh corn flavor.
+
+### Soy Whipped Cream
+*   **Base:** Soft tofu + Coconut milk.
+*   **Stabilizers:** Required for siphon use.
+*   **Result:** Works well out of the siphon.
+
+## Techniques & Parameters
+
+### Skirt Steak Low-Temp Protocol
+*   **Option A (Short Cook):**
+    *   Temp: 57°C (135°F).
+    *   Time: ~1–2 hours.
+    *   Post-Cook: Hard sear immediately.
+*   **Option B (Long Cook):**
+    *   Temp: 55°C (130°F).
+    *   Time: 10+ hours.
+    *   Post-Cook: Cool down, then hard sear.
+*   **Marination:** Apply marinade (e.g., lime juice) before bagging. Do not salt until pre-sear (if double sear) or final sear.
+
+### Pressure Cooked Jam/Jelly
+*   **Theory:** Pressure cooking raises boiling point, potentially reducing volatile loss while cooking to required solids level.
+*   **Feasibility:** Theoretically possible but difficult.
+*   **Requirements:**
+    *   Must know exact target solids level (typically 60–70%).
+    *   Must calculate sugar/fruit ratios accurately to hit that solids level at the higher pressure temperature.
+    *   Risk: Thermal breakdown of flavor despite reduced volatile loss.
+    *   Method: Seal ingredients in a jar inside a pressure cooker (non-venting preferred for flavor retention).
+
+### Double Sear Method
+*   **Process:** Sear meat -> Low-temp cook -> Cool -> Sear again.
+*   **Benefit:** Allows for a high-quality crust and perfectly tender interior.
+*   **Risk:** Drying out the exterior if the second sear is not controlled carefully.
+
+## Strong Opinions & Recommendations
+
+*   **Block Parties:** Host expresses strong dislike for street fairs that shut down whole avenues in New York, citing discomfort with large daytime crowds.
+*   **New Orleans/Tales of the Cocktail:** Acknowledges the extreme heat/humidity but notes the advantage of cheap hotel rates ($100/night).
+*   **Turkey Roaster:** While it "should work" as a fryer, the host explicitly states no one should recommend it due to safety and insurance risks.
+*   **Ziploc Bags:** Host finds the argument against using Ziploc bags for sous vide illogical given the material properties (polyethylene), attributing the controversy to manufacturer liability avoidance rather than food safety.
+*   **Skirt Steak:** Strongly advises against pre-salting or pre-searing before low-temp cooking.
+*   **Cocktail Industry:** Notes that cocktail professionals are the only ones foolish enough to attend major events in New Orleans during peak summer heat.
+*   **Indy Jesus:** Described as a highly sought-after frontman for bands in Bushwick.
+*   **Shotgunning:** Host claims to be retired from shotgunning beers, though admits skill remains.

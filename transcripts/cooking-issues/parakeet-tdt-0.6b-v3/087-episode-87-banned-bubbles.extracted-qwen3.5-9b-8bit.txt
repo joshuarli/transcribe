@@ -1,0 +1,89 @@
+# Namiko Immersion Circulator
+*   **Status:** Kickstarter campaign (needs ~$40k more of ~$200k goal in 14 days; not yet in production).
+*   **Design:** Immersion circulator resembling a shower head; single-knob interface.
+*   **Power:** 750 watts.
+*   **Target Audience:** Home cooks.
+*   **Comparison:** Less powerful than the Anova (1000 watts).
+*   **Creator:** Weepop (BAM), former FCI intern; industrial designer based in Bangkok.
+
+# Soda Ban Legislation (NYC)
+*   **Proposal:** Ban on selling sugar sodas larger than 16 oz in NYC.
+*   **Exemptions:** Sugar-free sodas, juices (even high-calorie ones like Starbucks 8-quart milk beverages), non-carbonated sugary drinks.
+*   **Dave Arnold's Opinion:**
+    *   Detests the term "empty calories."
+    *   Believes there are no inherently evil foods, only bad habits.
+    *   Criticizes the approach as treating symptoms rather than root causes (dietary habits).
+    *   Argues bans make forbidden items more enticing.
+    *   Recommends education and shifting the mindset from "healthy vs. junk" foods to "healthy vs. unhealthy habits."
+    *   Opposes government legislation of dietary habits.
+*   **Jack's Opinion:**
+    *   Believes legislation targets lower-income populations rather than wealthy gym-goers.
+    *   Warns against socioeconomic legislation that could be viewed as racist in the future.
+    *   Notes portion sizes have increased because consumers order them, not because the products physically grew.
+    *   Cites Burger King's 32 oz "medium" drink as ridiculous; notes these cups are ~22 oz ice when ordered with ice.
+
+# Vacuum Reduction Rig Troubleshooting
+*   **Problem:** Bumping (violent boiling) during reduction.
+*   **Cause:** Superheating occurs when there are no bubbles to nucleate boiling; magnetic stir rods beat down bubbles but do not prevent superheating.
+*   **Solution:**
+    *   Install a very fine tube (needle valve) extending into the product.
+    *   Introduce the tiniest bleed of air to initiate bubbles.
+    *   **Trade-off:** This raises temperature slightly and strips some volatiles/flavor, but prevents massive bumping.
+    *   **Application:** Essential for the final stages of reducing port wine, Madeira, orange juice, or apple juice in a rotovap.
+    *   **Technique:** Small punches of air can restart violent but non-bumping boiling after it dies out.
+
+# Sausage Making
+*   **Target Fat Content:** 30% to 33% (1/3) of total mixture weight.
+*   **Fat Selection Criteria:** Must be relatively hard to withstand chopping and cooking without rendering into nothingness.
+*   **Recommended Fats:**
+    *   **Pork:** Back fat (hard, few sinews, available in chunks).
+    *   **Beef:** Cap fat trimmed from the outside of a rib roast (hard, good flavor).
+    *   **Alternatives:** Lamb fat (specifically fatty lamb tail, used in Middle Eastern/Muslim applications), Duck fat (if obtained from the hard part).
+    *   **Avoid:** Suet (kidney fat); described as weird, dry, and renders too well.
+*   **Meat Fat Content Estimation:**
+    *   Pork shoulder: ~75% lean / 25% fat.
+    *   Chuck roast: Roughly similar to pork shoulder.
+    *   **Testing:** No reliable home test exists; consult internet data for specific cuts and marbling.
+    *   **Adjustment:** If using fatty untrimmed chuck (~25% fat), add more fat to reach the 33% target.
+
+# Spice Storage
+*   **Whole Spices:** Best longevity; grind to order.
+*   **Leaf Spices (e.g., Curry leaf, Kaffir lime leaf):**
+    *   **Freezing:** Recommended for long-term storage.
+    *   **Preparation:** Lightly dry first to deactivate enzymes that cause browning upon thawing.
+    *   **Packaging:** Vacuum pack to prevent oxidation and moisture damage.
+*   **Dry Goods (e.g., Coffee, Ground Spices):**
+    *   **Freezing:** Avoid unless vacuum sealed.
+    *   **Risk:** Condensation forms during freeze-thaw cycles, ruining quality.
+    *   **Refrigeration:** Generally not recommended due to potential mold growth if moisture is present.
+*   **Recommendation:** Vacuum pack spices for long-term shelf storage to remove oxygen and external moisture.
+
+# Cultured Butter Safety
+*   **Process:**
+    *   Ingredients: 1 pint (467g) organic cream + 25g rind from washed-rind cheese (e.g., Cow Creamery Red Hawk).
+    *   Culture Time: 11–14 hours at room temperature until thick/funky.
+    *   Churning: Refrigerate overnight before churning (warm cream makes churning difficult).
+    *   Post-Churn: Drain, knead, rinse (optional).
+*   **Safety Standard:**
+    *   Primary safety mechanism: Acidity from lactic acid bacteria.
+    *   **Critical Metric:** pH must drop below 4.6 within approximately 6 hours to prevent toxin growth from *Staphylococcus*.
+    *   **Bacteria Note:** Washed-rind cheeses often use *Brevibacterium linens*, which has a higher pH than typical cheese cultures. Cultured cream relies on *Lactobacillus*.
+    *   **Conclusion:** If pH drops below 4.6 within 6 hours, the product is considered safe despite the specific bacteria used.
+
+# Temperature Scales (Celsius vs. Fahrenheit)
+*   **Dave Arnold's Stance:**
+    *   **Fahrenheit:** Preferred for climate (0° to 100° covers a wide range), deep frying, and baking (350° is standard). Offers finer gradations (1,800 steps from 32° to 212° vs. 1,000 steps for Celsius 0° to 100°).
+    *   **Celsius:** Used for sous vide work.
+    *   **Scientific Context:** Celsius is advantageous only when converting to Kelvin for gas laws/ideal gas computations.
+    *   **General Cooking:** No inherent advantage to Celsius for scaling or accuracy in standard cooking; choice is personal.
+
+# Equipment & Techniques Mentioned
+*   **Fixed Gear Bicycles:**
+    *   **Risk:** Throwing the chain can lock the back wheel and cause the rider to fly off.
+    *   **Incident:** Dave threw his chain on the Williamsburg Bridge; arrived late but unharmed.
+*   **Seltzer Song:** "Hey Seltzer" by Dave's college band Bluto (1991). Concept: Flat seltzer tastes worse with lemon added.
+*   **Knife & Sharpening:**
+    *   **Knife:** Corinour Knife Company, carbon steel.
+    *   **Stone:** DMT 2-sided diamond sharpening stone.
+    *   **Bevel:** 70° bevel.
+    *   **Observation:** Easier to sharpen accurately than traditional Western or Japanese knives; allows for daily razor-sharp edges.

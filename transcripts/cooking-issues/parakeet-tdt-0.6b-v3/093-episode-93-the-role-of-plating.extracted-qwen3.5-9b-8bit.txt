@@ -1,0 +1,97 @@
+# Techniques & Parameters
+
+*   **Shrimp Boil (Correction):** Do not cook shrimp, sausage, corn, onion, potato, garlic, and zatarain's spice mix together sous vide. Cook all components separately to perfection, then recombine at the end.
+*   **Lobster Steaming (High Volume):** Can be achieved using a "steam giant" (industrial steam cleaner) capable of processing 25,000 lobsters in 5 days.
+*   **Juice Clarification (Centrifuge):**
+    *   **Enzyme:** Use Pectanex Ultra SPL (available at modernistPantry.com).
+    *   **Speed:** High-speed centrifuges (e.g., Modest Cuisine) can reach 48,000g. Lower speed units (e.g., 1,300g) work but are slower and less effective.
+    *   **Volume:** Small portable units process ~120ml (4oz) per spin.
+*   **Vermouth Preservation (Oxidation Prevention):**
+    *   **Storage Temp:** Store below freezing but above the liquid's freezing point.
+    *   **Purging Method:** Drop liquid nitrogen into the bottle, cap immediately while vapor is actively pushing air out.
+    *   **Alternative Gases:** Use Argon (molecular weight ~39.9, heavier than air) or Carbon Dioxide (molecular weight ~44, heavier than air) to purge headspace. Nitrogen (molecular weight ~28) is slightly lighter than air and may float out.
+    *   **Stability:** Diluted vermouth in bottles purged with Argon or CO2 and capped is "dead stable" under refrigeration.
+*   **Cherry Preservation (Shelf-Stable Maraschino/Bourbon Style):**
+    *   **Liquor:** Must use high-proof ethanol.
+    *   **Cherry Type:** Sour cherries (e.g., Morello) are preferred; sweet cherries result in insipid flavor.
+    *   **Stem:** Do not remove the stem; removing it causes the fruit to turn mushy.
+    *   **Enzymatic Treatment (Optional):** Soak in Pectin Methyl Esterase (brand: NovoShape from Novozymes) and a small amount of calcium to firm up cell walls.
+    *   **Calcium Addition:** Adding a tiny bit of calcium to the high-proof ethanol helps crosslink pectin to prevent breakdown.
+*   **Soba Noodle Making:** Ongoing work to solve issues with soba preparation (mentioned as a current project).
+
+# Equipment: Names, Models, Tradeoffs, Recommendations
+
+*   **Centrifuges:**
+    *   **Booker & Dax / FCI Unit:** 3L benchtop, ~4,000g force. Described as the "sweet spot" for professional use.
+    *   **Modest Cuisine Unit:** Capable of 48,000g. Too large and expensive for home use.
+    *   **Portable Unit (Dave's Columbia Test):** ~$200, 1,300g force, 120ml capacity. Good for home testing/drinks, insufficient for bars.
+    *   **Safety:** Never use Mason jars. Use specific centrifuge bottles or tough plastic bottles designed for rotors. Must balance perfectly before spinning.
+    *   **Maintenance:** Bleach thoroughly, pressure cook rotors to kill biological contaminants, avoid detergents on aluminum buckets.
+*   **Grills:**
+    *   **Weber Kettle:** Inexpensive, good for radiating heat, but lacks effective coal height adjustment.
+    *   **Egg Grill:** Expensive (~$560), fuel-efficient, but Dave prefers larger grills for versatility.
+    *   **Ideal Features:** Heavy cast iron grates (absorb energy better than thin wire), large surface area for high/low zoning, adjustable grate height.
+    *   **Gas Assist:** Recommended for convenience. Use lava rocks on gas burners to simulate charcoal flavor (fat dripping/vaporizing) if burners lack sufficient "oomph."
+*   **Immersion Blenders:**
+    *   **BAMIX:** Recommended for $99. Features a 4-prong open blade guard reducing cavitation in thick products (e.g., pancake batter). Shaft does not pop off for cleaning (downside).
+    *   **KitchenAid:** More expensive, comes with useless attachments (whisk/chopper).
+    *   **Commercial Option:** RoboKou (bell pops off to clean, but cleaning underneath the blade is still a hassle).
+    *   **General Issues:** Splashing in improperly sized cups; cavitation around stamped steel bells in thick products.
+*   **Tablet Press:**
+    *   **Riva Mini Press:** Benchtop unit, size of a floor-standing Apple Mac. ~$10,000 new, cheaper via pharmaceutical auctions. Single station, versatile, requires only one set of tooling.
+*   **Vermouth Storage:**
+    *   **VacuVin Stopper:** Ineffective for long-term oxidation prevention in vermouth.
+    *   **Bottle Capper:** Essential for sealing after gas purging. Note: Carpano Antica bottles may not accept standard champagne-style bottle caps.
+*   **Moving Equipment:**
+    *   **Shrink Wrap:** Recommended for protecting equipment during moves to prevent truck scratches.
+
+# Ingredients & Functional Roles
+
+*   **Pectanex Ultra SPL:** Enzyme used for juice clarification in centrifuge processes.
+*   **Pectin Methyl Esterase (NovoShape):** Enzyme that firms up fruit cell walls, allowing boiling without breaking (used for raspberries).
+*   **Calcium:** Crosslinks pectin to firm up fruit; added to high-proof ethanol for cherry preservation.
+*   **Argon:** Inert gas (MW ~39.9), heavier than air, used to purge oxygen from vermouth bottles.
+*   **Carbon Dioxide:** Gas (MW ~44), heavier than air, can purge oxygen but may leave a "pringly" sensation.
+*   **Nitrogen:** Gas (MW ~28), slightly lighter than air, floats out of bottles; not ideal for long-term storage purging.
+*   **Surimi:** Imitation crab product made from bleached fish paste. Texture can be a barrier for picky eaters.
+*   **Corn-Based Pasta:** Acceptable alternative to traditional wheat pasta; better than rice pasta but lacks the "pasta" texture.
+*   **Kangaroo Meat:** Suggested as a novel protein source to encourage picky eaters (leveraging the "cute animal" connection).
+
+# Personal Anecdotes & Demonstrations
+
+*   **Moving Studio:** Dave and Nastasha moved equipment from Milk Bar Commissary to 54 Eldridge Street. Professional movers required shrink-wrapping equipment to protect truck interiors.
+*   **Lobster Eating:** Dave ate 10 lobsters in one day at a Maine festival (cooked by Pavlov). He discovered a cherry allergy shortly after, which was initially misdiagnosed as a lobster allergy.
+*   **Oshkosh Fly-In:** Dave's father flew planes; Dave grew up eating corn cooked in giant steam cleaners at the Oshkosh air show, influencing his use of "dumb" equipment.
+*   **Juan Roca Story:** At a French Culinary Institute event, famous Spanish chef Juan Roca stated: "It is not only important for the food to look good, it must taste good also." Dave notes this is often misinterpreted; the correct sentiment is that food *must* taste good, but presentation is also important.
+*   **Cherry Preservation History:** Dave tasted cherries stored in super-high-proof alcohol by his stepfather's grandfather, put up in the 1920s, which were still edible in the 1980s/90s.
+*   **Picky Eater Strategy:** Dave's kids will eat almost nothing but refuse "dead animals." He tries to reinforce the concept that animals die for food (e.g., hamburgers) but struggles to apply this to pasta.
+
+# Caller Q&A
+
+**Caller: Eddie Shepard**
+*   **Question:** To what extent does food presentation affect the eating experience? Are there examples of ugly food tasting amazing or beautiful food tasting bad?
+*   **Answer:** Presentation affects enjoyment, especially in demos or cocktails where visual appeal "wets the appetite." However, flavor must come first. Dave serves delicious but "hideously ugly" drinks at home because they taste good, though he admits he won't serve a drink that looks like a "murky brown mass" to guests. He advocates focusing on flavor first, then achieving the best possible presentation.
+
+**Caller: Matt**
+*   **Question:** Bought a centrifuge on eBay. Can I use Mason jars? What resources exist for using it?
+*   **Answer:** Do not use Mason jars; they can break and cause imbalance/danger. Use specific centrifuge bottles or tough plastic bottles. Must buy Pectanex Ultra SPL enzyme for clarification. Clean the unit thoroughly with bleach and pressure cook rotors. Ensure the rotor/buckets are not dented. Balance the load perfectly before spinning.
+
+**Caller: Rob Trepaz**
+*   **Question:** Carpano Antica Formula vermouth oxidizes quickly. How to rebottle/preserve it? Should other low-proof liquors (Lillet, Cointreau, Dubonnet, Aperol) be stored similarly?
+*   **Answer:** Vermouth oxidizes easily. Do not use CO2 alone (may cause tingling). Best method: Purge headspace with Argon or CO2, then cap immediately. Store below freezing (but above liquid freezing point). Other low-proof spirits (Lillet, Cointreau, Dubonnet) should be treated similarly; Carpano is the most critical. Aperol is less concerning.
+
+**Caller: Marvin Woodhouse (Germany)**
+*   **Question:** Equipment recommendations for a UK barbecue (US grill)?
+*   **Answer:** Prefer a large grill with a heavy cast iron grate and adjustable height for coal management. Gas grills are convenient; use lava rocks on high-power gas burners to simulate charcoal flavor.
+*   **Question:** Immersion blender recommendation?
+*   **Answer:** Recommend the BAMIX for its open blade guard (reduces cavitation). Note the downside of the non-removable shaft. KitchenAid attachments are often useless.
+*   **Question:** Small scale tablet press recommendation?
+*   **Answer:** Riva Mini Press. Expensive new (~$10k), cheaper via pharmaceutical auctions. Benchtop size, single station, versatile.
+
+**Caller: Marvin Woodhouse (Follow-up)**
+*   **Question:** How to make shelf-stable maraschino/bourbon cherries (1 year storage)?
+*   **Answer:** Use high-proof liquor and sour cherries (Morello). Do not remove stems. Optional: Soak in Pectin Methyl Esterase (NovoShape) and calcium to firm cell walls. Add calcium to the alcohol. Dave plans to test this at the bar.
+
+**Caller: Joe (Big Ups)**
+*   **Question:** How to get kids to eat strange foods (Surimi, Quinoa, Kangaroo)?
+*   **Answer:** Dave suggests trying Surimi (texture might be the issue). Quinoa taste is a barrier. Corn pasta is an option. Kangaroo is a "cute animal" hook. Dave admits his own kids refuse "dead animals" despite his explanations about cows dying for hamburgers.

@@ -1,0 +1,116 @@
+# Cooking Issues: Structured Culinary Notes
+
+## Techniques & Parameters
+
+### Pressure Cooker Stock (Chicken)
+*   **Bone Prep:** Do not roast bones at home; brown them in a pan instead. Chop bones fairly fine to increase surface area.
+*   **Vegetable Ratios:** Use twice the amount of onion compared to traditional stock methods. Onion flavor will be muted under pressure; compensate by sweating fresh onions and simmering them for 10–15 minutes before adding to the final dish.
+*   **Water Level:** Add water just to cover the bones; do not add excess water.
+*   **Cooking Time:** Cook for 30–45 minutes at 15 psi. (Note: Heston Blumenthal uses 1 hour; French Culinary Institute tests used 1+ hour).
+*   **Cooling:** Allow the pressure cooker to come down naturally after cooking to prevent boiling out flavors and causing emulsification problems.
+*   **Salting:** Do not salt the stock during the cooking process.
+*   **Aromatics:** Add peppercorns and bay leaves beforehand. (Note: Jeffrey Steingarten advises against this as it imparts bitterness rather than aroma, but the host prefers the bitterness).
+*   **Method:** "Triple stock" approach: Cook vegetables, then cook bones twice with fresh water batches.
+*   **Clarification:** Do not skim scum during the pressure cook. Skim only after bringing to a boil in open pots (for non-pressure methods).
+
+### Stirred Cocktails (Temperature Control)
+*   **Ice Preparation:** Use 2-inch ice cubes.
+*   **Freezing Strategy:**
+    *   Freeze the ice cubes.
+    *   Freeze the liquor base.
+    *   Keep fruit juices and water in the refrigerator.
+*   **Mixing:** Combine frozen liquor and frozen ice with fridge-cold juice/water to achieve the exact target temperature without over-stirring or dilution issues.
+*   **Dilution:** Pre-figure dilution needs before mixing.
+
+### Cream Liqueur Formulation
+*   **Fat Content:** 12–16% milk fat.
+*   **Sugar:** 15–20%.
+*   **Sodium Caseinate (Milk Protein):** 2.25–3.5% (acts as emulsifier).
+*   **Nonfat Milk Solids:** 1–3.5%.
+*   **Alcohol:** 14% (Higher alcohol destabilizes the emulsion).
+*   **Water:** 46–50%.
+*   **Emulsifiers:** Use "alpha-tending" film-forming emulsifiers (e.g., Propylene Glycol Monostearate or PGMS) to stabilize the interface between water and oil phases.
+
+### Clarifying Stock
+*   **Order of Operations:** Chill the stock thoroughly *before* reducing.
+*   **Separation:** Upon chilling, fat and solids separate into layers. Scoop out the gelatinous layer (gelee) and reduce that.
+*   **Straining:** Ladle gently through a chinois and cloth; do not stir or upset the liquid to avoid re-emulsifying suspended particulates.
+*   **Boiling Intensity:** Do not boil too hard, which churns proteins and emulsifies fat, causing cloudiness.
+*   **Starting Temp:** Hot water start (99°C) yields more dissolved protein than cold start (85°C), though cold start may extract slightly more protein overall depending on duration.
+
+### Tofu Setting
+*   **Seawater:** Can be used to set tofu.
+*   **Flavor Profile:** Seawater is more bitter than salt water due to non-sodium chloride salts.
+*   **Alternative:** Use *Nigari* (Japanese salt used for tofu) to understand the specific bitterness profile of seawater salts.
+
+### Carbonated Coffee
+*   **Foaming Issue:** Espresso has foaming properties; carbonation causes extreme foaming.
+*   **Solution:** Make small batches and let foam settle before serving.
+*   **Alternative Texture:** Use Nitrous Oxide (N2O) for a creamy, cold coffee texture instead of CO2.
+*   **Commercial Reference:** Manhattan Special Coffee Soda (Brooklyn-based).
+
+## Equipment
+
+### Paco Jet
+*   **Function:** Continuous ice cream processor.
+*   **Advantages:**
+    *   Maintains perfect texture by reprocessing small amounts (prevents crystallization/recrystallization found in batch freezing).
+    *   Ideal for small quantities (e.g., single scoops) without waste.
+    *   Fast processing time (approx. 2–3 minutes for a container).
+*   **Disadvantages:**
+    *   Loud operation (not suitable for front-of-house service).
+    *   Critical temperature maintenance required (too cold = powdery; too warm = soupy).
+    *   Proprietary parts (belts/cogwheels not easily sourced from industrial suppliers).
+    *   High cost (approx. $12,000).
+    *   Risk of blade shattering if stainless steel containers are jammed crookedly into the bucket.
+*   **Usage Tip:** Pre-spin a few scoops, firm them up, and store in a dipping well to maintain temperature stability during service.
+
+### Pressure Cooker
+*   **Usage:** Preferred for home stock making to maximize flavor extraction from bones without long reduction times.
+
+### Clarification Tools
+*   **Chinois:** For initial straining.
+*   **Cheesecloth:** For fine filtration.
+*   **Freezer:** Essential for the "frozen mix" cocktail technique.
+
+## Ingredients & Functional Roles
+
+### Mezcal
+*   **Role:** Primary spirit for "Mexican-themed" cocktails to differentiate from standard tequila.
+*   **Selection:** Rare, hard-to-source varieties (e.g., from small distilleries like Dalmas) create a stronger impression than common brands (e.g., Magway).
+*   **Pairing:** Complements clarified peach juice (reminiscent of grilled/smoky peach).
+*   **Balancing:** Can be overpowering; balance with tequila, lime juice, and water.
+
+### Birch Syrup
+*   **Production:** Requires boiling down significantly more sap than maple due to lower sugar content.
+*   **Flavor Profile:** Often described as sour or burnt if reduced improperly; production volume is incredibly small.
+*   **Status:** Host has not confirmed a "correct" taste profile after multiple flawed samples.
+
+### Leucima (Leucima)
+*   **Status:** Rare Peruvian superfruit.
+*   **Substitution:** No confirmed substitute currently known by the host. Powders impart a gritty texture.
+*   **Research:** Host plans to research fresh fruit in Colombia in August.
+
+### Seawater
+*   **Function:** Salt source for seasoning or tofu setting.
+*   **Flavor:** Distinctive bitterness from magnesium and other salts.
+
+### Venison
+*   **Safety:** Edible even if the deer has Lyme disease (not transmitted via meat consumption).
+*   **Risk:** Chronic Wasting Disease (CWD) is a transmissible spongiform encephalopathy (prion-related) with a 10–15 year incubation period.
+*   **Recommendation:** Avoid eating brain matter or nerve tissue due to unknown transmission risks to humans.
+
+### Garnishes
+*   **Marinated Fruit:** Marinate fruit in a different spirit for a couple of hours, then skewer.
+*   **Coconut:** Freeze whole coconuts to use as drinking vessels; serve mezcal/tequila drinks with coconut water inside.
+*   **Umbrella/Cocktail Monkey:** Visually effective for "food snob" contexts despite being kitsch.
+
+## Strong Opinions & Recommendations
+
+*   **Cocktail Competition Strategy:** Do not use tequila. Use a rare, obscure spirit (mezcal, sotol, or corn-based) to act as an outlier. Focus on a "stirred" drink presentation over a shaken one to project sophistication.
+*   **Storytelling:** Half the success of a dish/drink in a competition is the story told beforehand.
+*   **Stock Reduction:** Professional kitchens often use excess water and reduce later for economic reasons (less protein/flavor loss in the liquid waste), but home cooks should aim for maximum initial flavor intensity.
+*   **Emulsifiers:** Adding an emulsifier to cream liqueurs reduces phase separation but also reduces the amount of creaming (fat separation) that occurs naturally.
+*   **Paco Jet Viability:** Viable for small-scale or flexible service where volume isn't massive, provided temperature control is managed.
+*   **Lyme Disease:** Eating venison from a Lyme-infected deer is safe, but hunting requires tick checks and repellent use.
+*   **Coffee Carbonation:** Nitrous oxide is superior to CO2 for creamy coffee cocktails; CO2 creates excessive foam and sharp acidity.
