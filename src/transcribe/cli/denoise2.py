@@ -39,30 +39,29 @@ def run(args: argparse.Namespace, podcast: Podcast, episodes: list[Episode], bac
     from sentence_transformers import SentenceTransformer
 
     from transcribe.denoise2 import denoise2, make_asr_corrector
-    from transcribe.extract import llama_server
     from transcribe.models import PHI_4_MINI_INSTRUCT
 
     print("Loading spaCy...")
     nlp = spacy.load("en_core_web_trf")
     print("Loading embedder...")
     embedder = SentenceTransformer("all-mpnet-base-v2")
-    print(f"Starting ASR corrector ({PHI_4_MINI_INSTRUCT.id})...")
-    with llama_server(PHI_4_MINI_INSTRUCT) as base_url:
-        corrector = make_asr_corrector(base_url)
-        for ep in targets:
-            if not ep["text"].exists():
-                print(f"{ep['slug']}: no transcript, skipping")
-                continue
-            raw = ep["text"].read_text(encoding="utf-8")
-            result = denoise2(
-                raw,
-                similarity_threshold=args.similarity_threshold,
-                nlp=nlp,
-                embedder=embedder,
-                corrector=corrector,
-                show_progress=True,
-            )
-            out = ep["text"].with_name(ep["text"].stem + ".denoised2.txt")
-            out.write_text(result, encoding="utf-8")
-            saved = len(raw) - len(result)
-            print(f"{ep['slug']}: {len(raw)} → {len(result)} chars ({saved / len(raw):.0%} removed), written to {out}")
+    print(f"Loading ASR corrector ({PHI_4_MINI_INSTRUCT.id})...")
+    corrector = make_asr_corrector(PHI_4_MINI_INSTRUCT)
+
+    for ep in targets:
+        if not ep["text"].exists():
+            print(f"{ep['slug']}: no transcript, skipping")
+            continue
+        raw = ep["text"].read_text(encoding="utf-8")
+        result = denoise2(
+            raw,
+            similarity_threshold=args.similarity_threshold,
+            nlp=nlp,
+            embedder=embedder,
+            corrector=corrector,
+            show_progress=True,
+        )
+        out = ep["text"].with_name(ep["text"].stem + ".denoised2.txt")
+        out.write_text(result, encoding="utf-8")
+        saved = len(raw) - len(result)
+        print(f"{ep['slug']}: {len(raw)} → {len(result)} chars ({saved / len(raw):.0%} removed), written to {out}")

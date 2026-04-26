@@ -14,10 +14,16 @@ class MLXModel:
 
 
 @dataclass(frozen=True)
+class TorchModel:
+    id: str
+    repo_id: str
+
+
+@dataclass(frozen=True)
 class LlamaModel:
     id: str
     repo_id: str
-    quant: str | None = None
+    quant: str
     flash_attn: bool = True
 
 
@@ -27,10 +33,9 @@ class LlamaModel:
 #     repo_id="google/flan-t5-base",
 # large is too slow for very little gain
 # )
-PHI_4_MINI_INSTRUCT = LlamaModel(
+PHI_4_MINI_INSTRUCT = TorchModel(
     id="phi-4-mini-instruct",
-    repo_id="unsloth/Phi-4-mini-instruct-GGUF",
-    quant="Q8_0",
+    repo_id="microsoft/Phi-4-mini-instruct",
 )
 
 QWEN3_9B = MLXModel(

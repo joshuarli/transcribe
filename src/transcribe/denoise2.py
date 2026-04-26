@@ -14,6 +14,8 @@ from typing import TYPE_CHECKING
 
 import numpy as np
 
+from transcribe.models import TorchModel
+
 if TYPE_CHECKING:
     import spacy
     from sentence_transformers import SentenceTransformer
@@ -89,24 +91,27 @@ _SEMANTIC_FOLLOWS = frozenset({"it", "it's", "this", "that", "him", "her", "them
 _SEMANTIC_PRECEDES = frozenset({"do", "did", "does", "if", "whether"})
 
 
-def make_asr_corrector(base_url: str) -> Callable[[list[str]], list[str]]:
-    """Return a corrector that calls a running llama-server at base_url."""
-    from transcribe.http import post_json
+def make_asr_corrector(model: TorchModel) -> Callable[[list[str]], list[str]]:
+    from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, pipeline
+
+    mdl = AutoModelForCausalLM.from_pretrained(
+        model.repo_id,
+        device_map="auto",
+        torch_dtype="auto",
+    )
+    tok = AutoTokenizer.from_pretrained(model.repo_id)
+    pipe = pipeline("text-generation", model=mdl, tokenizer=tok)
+    gen_config = GenerationConfig(max_new_tokens=1024, do_sample=False)
 
     def _correct(texts: list[str]) -> list[str]:
         results = []
         for text in texts:
-            resp = post_json(
-                f"{base_url}/v1/chat/completions",
-                {
-                    "messages": [
-                        {"role": "system", "content": _ASR_SYSTEM},
-                        {"role": "user", "content": text},
-                    ],
-                    "temperature": 0.0,
-                },
+            out = pipe(
+                [{"role": "system", "content": _ASR_SYSTEM}, {"role": "user", "content": text}],
+                generation_config=gen_config,
+                return_full_text=False,
             )
-            results.append(resp["choices"][0]["message"]["content"])
+            results.append(out[0]["generated_text"])
         return results
 
     return _correct
@@ -389,15 +394,9 @@ def denoise2(
 
         embedder = _ST("all-mpnet-base-v2")
     if corrector is None:
-        import atexit
-
-        from transcribe.extract import llama_server
         from transcribe.models import PHI_4_MINI_INSTRUCT
 
-        _ctx = llama_server(PHI_4_MINI_INSTRUCT)
-        base_url = _ctx.__enter__()
-        atexit.register(_ctx.__exit__, None, None, None)
-        corrector = make_asr_corrector(base_url)
+        corrector = make_asr_corrector(PHI_4_MINI_INSTRUCT)
 
     paras = _prepass(text)
 
